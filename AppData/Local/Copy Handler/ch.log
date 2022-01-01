@@ -1,0 +1,206 @@
+2021-06-06 21:35:29.940879 [error] Filesystem[10672]: Failed to retrieve free space for path S:\. Error: 53
+2021-06-06 21:35:31.621354 [error] Filesystem[10672]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-06 21:35:31.652324 [error] Filesystem[10672]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-06 21:35:33.658823 [error] Filesystem[10672]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-06-06 21:35:33.682795 [error] Filesystem[10672]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-06-06 21:35:34.224238 [error] Filesystem[10672]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-06 21:35:34.253752 [error] Filesystem[10672]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-06 21:35:36.188233 [error] Filesystem[10672]: Failed to retrieve free space for path E:\Config.Msi. Error: 5
+2021-06-06 21:35:38.467420 [error] Filesystem[10672]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-06 21:35:38.560840 [error] Filesystem[10672]: Failed to retrieve free space for path Q:\. Error: 53
+2021-06-06 21:35:38.603795 [error] Filesystem[10672]: Failed to retrieve free space for path R:\. Error: 53
+2021-06-06 21:35:38.641761 [error] Filesystem[10672]: Failed to retrieve free space for path S:\. Error: 53
+2021-06-06 21:35:38.675720 [error] Filesystem[10672]: Failed to retrieve free space for path S:\. Error: 53
+2021-06-06 21:35:38.686711 [error] Filesystem[10672]: Failed to retrieve free space for path T:\. Error: 53
+2021-06-06 21:35:38.712681 [error] Filesystem[10672]: Failed to retrieve free space for path T:\. Error: 53
+2021-06-06 21:35:38.923995 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:38.963957 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:39.242674 [error] Filesystem[10672]: Failed to retrieve free space for path Y:\. Error: 53
+2021-06-06 21:35:39.267649 [error] Filesystem[10672]: Failed to retrieve free space for path Y:\. Error: 53
+2021-06-06 21:35:39.468444 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:39.493416 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:39.571847 [error] Filesystem[10672]: Failed to retrieve free space for path T:\. Error: 53
+2021-06-06 21:35:39.596824 [error] Filesystem[10672]: Failed to retrieve free space for path T:\. Error: 53
+2021-06-06 21:35:39.813607 [error] Filesystem[10672]: Failed to retrieve free space for path S:\. Error: 53
+2021-06-06 21:35:39.840578 [error] Filesystem[10672]: Failed to retrieve free space for path S:\. Error: 53
+2021-06-06 21:35:41.564831 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:41.592803 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:42.359563 [error] Filesystem[10672]: Failed to retrieve free space for path T:\. Error: 53
+2021-06-06 21:35:42.377544 [error] Filesystem[10672]: Failed to retrieve free space for path T:\. Error: 53
+2021-06-06 21:35:43.239217 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:43.274182 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:46.058831 [error] Filesystem[10672]: Failed to retrieve free space for path Z:\. Error: 53
+2021-06-06 21:35:46.091801 [error] Filesystem[10672]: Failed to retrieve free space for path Z:\. Error: 53
+2021-06-06 21:35:46.420971 [error] Filesystem[10672]: Failed to retrieve free space for path Y:\. Error: 53
+2021-06-06 21:35:46.456933 [error] Filesystem[10672]: Failed to retrieve free space for path Y:\. Error: 53
+2021-06-06 21:35:47.008006 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:47.039971 [error] Filesystem[10672]: Failed to retrieve free space for path V:\. Error: 53
+2021-06-06 21:35:47.985323 [error] Filesystem[10672]: Failed to retrieve free space for path R:\. Error: 53
+2021-06-06 21:35:48.013292 [error] Filesystem[10672]: Failed to retrieve free space for path R:\. Error: 53
+2021-06-06 21:35:48.575255 [error] Filesystem[10672]: Failed to retrieve free space for path Q:\. Error: 53
+2021-06-06 21:35:48.598232 [error] Filesystem[10672]: Failed to retrieve free space for path Q:\. Error: 53
+2021-06-06 21:35:48.650176 [error] Filesystem[10672]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-06 21:35:48.673075 [error] Filesystem[10672]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-06 22:43:30.560915 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\jsonlint-master.zip. Error: 3
+2021-06-06 22:53:11.440678 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\jsonlint-master.zip. Error: 3
+2021-06-06 23:00:35.600672 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Root Builder-43814-0-0-2-1615344562.zip. Error: 3
+2021-06-06 23:00:35.616690 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Root Builder-43814-0-0-2-1615344562.zip. Error: 3
+2021-06-06 23:00:48.994539 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Debloat_Windows_10.zip. Error: 3
+2021-06-06 23:01:46.437278 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\jsonlint-master.zip. Error: 3
+2021-06-06 23:01:46.453261 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\DropIt_v8.5.1_Portable.zip. Error: 3
+2021-06-06 23:01:46.472241 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\DirectorySize.2009-09-03.zip. Error: 3
+2021-06-06 23:01:46.484229 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\DirectoryListPrintEN.zip. Error: 3
+2021-06-06 23:01:46.503211 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Debloat_Windows_10.zip. Error: 3
+2021-06-06 23:01:46.516196 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Debloat_Windows_10.zip. Error: 3
+2021-06-06 23:01:46.522189 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\cavajdemo.zip. Error: 3
+2021-06-06 23:01:46.533177 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\cavajdemo.zip. Error: 3
+2021-06-06 23:01:56.826006 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\ReCsvEdit_Installer_0.97.exe.zip. Error: 3
+2021-06-06 23:01:57.001823 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\jsonlint-master.zip. Error: 3
+2021-06-06 23:04:11.930897 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\DropIt_v8.5.1_Portable.zip. Error: 3
+2021-06-06 23:04:11.944883 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\jsonlint-master.zip. Error: 3
+2021-06-06 23:04:11.953874 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\MTracer.zip. Error: 3
+2021-06-06 23:04:11.967858 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\QTTabBar_1043.zip. Error: 3
+2021-06-06 23:04:11.972854 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\ReCsvEdit_Installer_0.97.exe.zip. Error: 3
+2021-06-06 23:05:31.759729 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\ReCsvEdit_Installer_0.97.exe.zip. Error: 3
+2021-06-06 23:05:31.788430 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\MTracer.zip. Error: 3
+2021-06-06 23:05:31.801415 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\jsonlint-master.zip. Error: 3
+2021-06-06 23:05:31.807409 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\DropIt_v8.5.1_Portable.zip. Error: 3
+2021-06-06 23:06:07.872467 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\ReCsvEdit_Installer_0.97.exe.zip. Error: 3
+2021-06-06 23:06:07.885455 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\QTTabBar_1043.zip. Error: 3
+2021-06-06 23:06:07.894446 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\MTracer.zip. Error: 3
+2021-06-06 23:07:15.079040 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Debloat_Windows_10.zip. Error: 3
+2021-06-06 23:07:16.106701 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Root Builder-43814-0-0-2-1615344562.zip. Error: 3
+2021-06-06 23:09:24.713004 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\cavajdemo.zip. Error: 3
+2021-06-06 23:09:30.282559 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Root Builder-43814-0-0-2-1615344562.zip. Error: 3
+2021-06-06 23:09:30.295542 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Root Builder-43814-0-0-2-1615344562.zip. Error: 3
+2021-06-06 23:11:15.677914 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\MTracer.zip. Error: 3
+2021-06-06 23:11:15.692897 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\MTracer.zip. Error: 3
+2021-06-06 23:11:23.479816 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Root Builder-43814-0-0-2-1615344562.zip. Error: 3
+2021-06-06 23:11:24.177503 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\jsonlint-master.zip. Error: 3
+2021-06-06 23:11:24.189487 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\jsonlint-master.zip. Error: 3
+2021-06-06 23:13:59.571261 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\ReCsvEdit_Installer_0.97.exe.zip. Error: 3
+2021-06-06 23:13:59.584248 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\QTTabBar_1043.zip. Error: 3
+2021-06-06 23:13:59.591240 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\MTracer.zip. Error: 3
+2021-06-06 23:13:59.603697 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\DropIt_v8.5.1_Portable.zip. Error: 3
+2021-06-06 23:13:59.613557 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\DirectorySize.2009-09-03.zip. Error: 3
+2021-06-06 23:13:59.627238 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\Debloat_Windows_10.zip. Error: 3
+2021-06-06 23:13:59.634233 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\cavajdemo.zip. Error: 3
+2021-06-06 23:14:23.177735 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\ReCsvEdit_Installer_0.97.exe.zip. Error: 3
+2021-06-06 23:14:23.190721 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\ReCsvEdit_Installer_0.97.exe.zip. Error: 3
+2021-06-07 02:21:00.201908 [error] Filesystem[10672]: Failed to retrieve free space for path X:\Downloads\DirectoryListPrintEN.zip. Error: 3
+2021-06-07 09:59:00.828043 [warning] App[15200]: Other instance of Copy Handler is already running. Exiting.
+2021-06-07 10:03:48.378163 [error] Filesystem[34268]: Failed to retrieve free space for path X:\Downloads. Error: 3
+2021-06-07 10:04:55.994250 [error] Filesystem[34268]: Failed to retrieve free space for path X:\Downloads. Error: 3
+2021-06-07 10:05:37.414095 [error] Filesystem[34268]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-06-07 10:05:37.905604 [error] Filesystem[34268]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-06-07 10:05:38.358138 [error] Filesystem[34268]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-06-07 10:05:38.389104 [error] Filesystem[34268]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-06-07 10:06:02.143924 [error] Filesystem[34268]: Failed to retrieve free space for path X:\Downloads. Error: 3
+2021-06-09 02:52:29.443112 [warning] App[10024]: Other instance of Copy Handler is already running. Exiting.
+2021-06-16 08:33:01.989974 [error] Filesystem[4824]: Failed to retrieve free space for path Q:\. Error: 53
+2021-06-16 08:33:02.333094 [error] Filesystem[4824]: Failed to retrieve free space for path Q:\. Error: 53
+2021-06-16 14:05:27.479488 [error] Filesystem[4824]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-16 14:06:34.272066 [error] Filesystem[4824]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-06-16 14:06:34.284052 [error] Filesystem[4824]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-06-16 14:06:41.633939 [error] Filesystem[4824]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.2021-06-22 08:18:32.884834 [error] Filesystem[4456]: Failed to retrieve free space for path S:\. Error: 53
+2021-06-22 08:18:32.900366 [error] Filesystem[4456]: Failed to retrieve free space for path S:\. Error: 53
+2021-06-22 08:18:32.917348 [error] Filesystem[4456]: Failed to retrieve free space for path R:\. Error: 53
+2021-06-22 08:18:32.929334 [error] Filesystem[4456]: Failed to retrieve free space for path R:\. Error: 53
+2021-06-22 08:18:32.962301 [error] Filesystem[4456]: Failed to retrieve free space for path Q:\. Error: 53
+2021-06-22 08:18:32.970293 [error] Filesystem[4456]: Failed to retrieve free space for path Q:\. Error: 53
+2021-06-22 08:18:33.165092 [error] Filesystem[4456]: Failed to retrieve free space for path P:\. Error: 3
+2021-06-22 08:18:33.179078 [error] Filesystem[4456]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-02 19:54:48.553828 [error] Filesystem[41284]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-02 19:55:00.419990 [error] Filesystem[41284]: Failed to retrieve free space for path S:\. Error: 53
+2021-07-02 19:55:28.653657 [error] Filesystem[41284]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-02 19:55:28.661350 [error] Filesystem[41284]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-02 19:55:31.172505 [error] Filesystem[41284]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-02 19:55:31.194183 [error] Filesystem[41284]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-02 19:55:51.526200 [error] Filesystem[41284]: Failed to retrieve free space for path V:\. Error: 53
+2021-07-02 19:56:50.614438 [error] Filesystem[41284]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-02 19:56:50.644167 [error] Filesystem[41284]: Failed to retrieve free space for path S:\. Error: 53
+2021-07-02 19:56:50.653430 [error] Filesystem[41284]: Failed to retrieve free space for path T:\. Error: 53
+2021-07-03 00:25:44.860978 [error] Filesystem[41284]: Failed to retrieve free space for path S:\. Error: 53
+2021-07-04 16:33:06.260241 [error] Filesystem[41284]: Failed to retrieve free space for path S:\. Error: 53
+2021-07-04 16:33:19.588434 [error] Filesystem[41284]: Failed to retrieve free space for path V:\. Error: 53
+2021-07-04 16:33:19.594428 [error] Filesystem[41284]: Failed to retrieve free space for path V:\. Error: 53
+2021-07-04 16:33:19.902323 [error] Filesystem[41284]: Failed to retrieve free space for path Y:\. Error: 53
+2021-07-04 16:33:19.908317 [error] Filesystem[41284]: Failed to retrieve free space for path Y:\. Error: 53
+2021-07-20 07:38:02.096662 [error] Filesystem[3788]: Failed to retrieve free space for path Q:\. Error: 53
+2021-07-20 07:38:02.196998 [error] Filesystem[3788]: Failed to retrieve free space for path Q:\. Error: 53
+2021-07-20 07:38:08.321291 [error] Filesystem[3788]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-20 07:38:08.329282 [error] Filesystem[3788]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-20 07:38:08.607995 [error] Filesystem[3788]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-20 07:38:08.616986 [error] Filesystem[3788]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-20 07:38:08.939653 [error] Filesystem[3788]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-20 07:38:08.947646 [error] Filesystem[3788]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-20 07:38:10.033335 [error] Filesystem[3788]: Failed to retrieve free space for path C:\VC_RED.cab. Error: 267
+2021-07-20 07:38:10.039330 [error] Filesystem[3788]: Failed to retrieve free space for path C:\VC_RED.cab. Error: 267
+2021-07-20 07:38:10.352195 [error] Filesystem[3788]: Failed to retrieve free space for path C:\VC_RED.cab. Error: 267
+2021-07-20 07:38:10.359188 [error] Filesystem[3788]: Failed to retrieve free space for path C:\VC_RED.cab. Error: 267
+2021-07-20 07:38:19.544205 [error] Filesystem[3788]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-20 07:38:19.555193 [error] Filesystem[3788]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-20 07:38:19.560188 [error] Filesystem[3788]: Failed to retrieve free space for path Q:\. Error: 53
+2021-07-20 07:38:19.572175 [error] Filesystem[3788]: Failed to retrieve free space for path Q:\. Error: 53
+2021-07-20 07:38:19.804937 [error] Filesystem[3788]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-20 07:38:19.812928 [error] Filesystem[3788]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-20 07:38:22.105847 [error] Filesystem[3788]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-07-20 07:38:22.114838 [error] Filesystem[3788]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-07-20 07:38:33.586187 [error] Filesystem[3788]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-20 07:38:33.593181 [error] Filesystem[3788]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-20 07:38:54.640084 [error] Filesystem[3788]: Failed to retrieve free space for path Q:\. Error: 53
+2021-07-28 13:52:50.896043 [error] Filesystem[6728]: Failed to retrieve free space for path C:\LinksToNas\Downloads\modmeta-relay-win-x64.zip. Error: 267
+2021-07-28 13:52:51.001800 [error] Filesystem[6728]: Failed to retrieve free space for path C:\LinksToNas\Downloads\modmeta-relay-win-x64.zip. Error: 267
+2021-07-28 13:52:51.272266 [error] Filesystem[6728]: Failed to retrieve free space for path C:\LinksToNas\Downloads\modmeta-relay-plugins.zip. Error: 267
+2021-07-28 13:52:51.282255 [error] Filesystem[6728]: Failed to retrieve free space for path C:\LinksToNas\Downloads\modmeta-relay-plugins.zip. Error: 267
+2021-07-28 13:52:51.475467 [error] Filesystem[6728]: Failed to retrieve free space for path C:\LinksToNas\Downloads\modmeta-relay-plugins.zip. Error: 267
+2021-07-28 13:52:51.485457 [error] Filesystem[6728]: Failed to retrieve free space for path C:\LinksToNas\Downloads\modmeta-relay-plugins.zip. Error: 267
+2021-07-28 13:52:51.498445 [error] Filesystem[6728]: Failed to retrieve free space for path C:\LinksToNas\Downloads\modmeta-relay-win-x64.zip. Error: 267
+2021-07-28 13:52:51.511432 [error] Filesystem[6728]: Failed to retrieve free space for path C:\LinksToNas\Downloads\modmeta-relay-win-x64.zip. Error: 267
+2021-07-28 13:52:52.947653 [error] Filesystem[6728]: Failed to retrieve free space for path Y:\. Error: 53
+2021-07-28 13:52:52.957645 [error] Filesystem[6728]: Failed to retrieve free space for path Y:\. Error: 53
+2021-07-28 13:52:53.293473 [error] Filesystem[6728]: Failed to retrieve free space for path V:\. Error: 53
+2021-07-28 13:52:53.459938 [error] Filesystem[6728]: Failed to retrieve free space for path Y:\. Error: 53
+2021-07-28 13:52:53.468927 [error] Filesystem[6728]: Failed to retrieve free space for path Y:\. Error: 53
+2021-07-28 13:52:53.689701 [error] Filesystem[6728]: Failed to retrieve free space for path V:\. Error: 53
+2021-07-28 13:52:53.718671 [error] Filesystem[6728]: Failed to retrieve free space for path T:\. Error: 53
+2021-07-28 13:52:53.733654 [error] Filesystem[6728]: Failed to retrieve free space for path T:\. Error: 53
+2021-07-28 13:52:53.744643 [error] Filesystem[6728]: Failed to retrieve free space for path S:\. Error: 53
+2021-07-28 13:52:53.752634 [error] Filesystem[6728]: Failed to retrieve free space for path S:\. Error: 53
+2021-07-28 13:52:53.784602 [error] Filesystem[6728]: Failed to retrieve free space for path R:\. Error: 53
+2021-07-28 13:52:53.794592 [error] Filesystem[6728]: Failed to retrieve free space for path R:\. Error: 53
+2021-07-28 13:52:53.956279 [error] Filesystem[6728]: Failed to retrieve free space for path Q:\. Error: 53
+2021-07-28 13:52:53.969264 [error] Filesystem[6728]: Failed to retrieve free space for path Q:\. Error: 53
+2021-07-28 13:52:54.033785 [error] Filesystem[6728]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-28 13:52:54.045774 [error] Filesystem[6728]: Failed to retrieve free space for path P:\. Error: 3
+2021-07-28 13:52:57.230184 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:52:57.240427 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:52:58.210522 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:52:58.218514 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:52:58.982873 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:52:58.993862 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:53:00.381239 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:53:00.391227 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:53:19.664243 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:53:19.679229 [error] Filesystem[6728]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-07-28 13:54:08.999766 [error] Filesystem[6728]: Failed to retrieve free space for path C:\Modding\Mods\ENBoost 0.281-332-281.zip. Error: 267
+2021-07-28 13:54:09.009756 [error] Filesystem[6728]: Failed to retrieve free space for path C:\Modding\Mods\ENBoost 0.281-332-281.zip. Error: 267
+2021-07-28 13:54:09.267345 [error] Filesystem[6728]: Failed to retrieve free space for path C:\Modding\Mods\ENBoost 0.281-332-281.zip. Error: 267
+2021-07-28 13:54:09.276337 [error] Filesystem[6728]: Failed to retrieve free space for path C:\Modding\Mods\ENBoost 0.281-332-281.zip. Error: 267
+Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.2021-08-09 19:54:08.231347 [error] Filesystem[41960]: Failed to retrieve free space for path C:\System Volume Information. Error: 5
+2021-08-09 19:54:08.464199 [error] Filesystem[41960]: Failed to retrieve free space for path C:\VC_RED.cab. Error: 267
+2021-08-09 20:05:50.006456 [error] Filesystem[21784]: Failed to retrieve free space for path C:\Modding\Mods\ENBoost 0.281-332-281.zip. Error: 267
+2021-08-09 20:05:50.013954 [error] Filesystem[21784]: Failed to retrieve free space for path C:\Modding\Mods\ENBoost 0.281-332-281.zip. Error: 267
+2021-08-15 14:05:14.433261 [error] Filesystem[21784]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-15 14:05:15.216172 [error] Filesystem[21784]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-15 14:05:15.225163 [error] Filesystem[21784]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-15 14:05:15.687051 [error] Filesystem[21784]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-15 14:05:16.097439 [error] Filesystem[21784]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-15 14:05:16.105430 [error] Filesystem[21784]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-15 14:05:16.275256 [error] Filesystem[21784]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-15 14:05:16.285246 [error] Filesystem[21784]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-20 22:18:44.416860 [error] Filesystem[11160]: Failed to retrieve free space for path E:\Config.Msi. Error: 5
+2021-08-20 22:18:52.994667 [error] Filesystem[11160]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+2021-08-20 22:18:53.000929 [error] Filesystem[11160]: Failed to retrieve free space for path E:\System Volume Information. Error: 5
+Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.
