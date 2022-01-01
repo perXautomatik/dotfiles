@@ -1,0 +1,5 @@
+download_dir: E:\Windows\Temp
+max_key_fee:
+  amount: 0.0
+  currency: USD
+share_usage_data: true
