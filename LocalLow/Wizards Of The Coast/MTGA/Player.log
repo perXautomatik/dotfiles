@@ -1,38 +1,36 @@
-Mono path[0] = 'C:/Program Files/Wizards of the Coast/MTGA/MTGA_Data/Managed'
-Mono config path = 'C:/Program Files/Wizards of the Coast/MTGA/MonoBleedingEdge/etc'
+Mono path[0] = 'D:/Program Files/Wizards of the Coast/MTGA2/MTGA_Data/Managed'
+Mono config path = 'D:/Program Files/Wizards of the Coast/MTGA2/MonoBleedingEdge/etc'
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
-[Subsystems] Discovering subsystems at path C:/Program Files/Wizards of the Coast/MTGA/MTGA_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Program Files/Wizards of the Coast/MTGA2/MTGA_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
     Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
     Vendor:   
     VRAM:     128 MB
-    Driver:   9.17.10.4229
+    Driver:   10.18.10.4425
 Begin MonoManager ReloadAssembly
-- Completed reload, in 12.434 seconds
+- Completed reload, in  5.890 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.537200 ms
+UnloadTime: 1.231500 ms
 Loaded embedded metadata
 
 DETAILED LOGS: DISABLED
 
 [EOSClient] no Epic Games launcher args found, skipping EOS startup
 
-Version: 2021.12.10.3971 / 2021.12.10.3971.904583 / 
+Version: 2022.18.60.4240 / 2022.18.60.4240.950016 / 
 
 WwiseUnity: Initialize sound engine ...
 
 WwiseUnity: Sound engine initialized.
 
-Setting up 1 worker threads for Enlighten.
 Setting environment to Prod, AWS
 
-  Thread -> id: 1b3c -> priority: 1 
-Connecting to Front Door: frontdoor-mtga-production-2021-12-11-32.w2.mtgarena.com:30010
+Connecting to Front Door: frontdoor-mtga-production-2022-18-60-35.w2.mtgarena.com:30010
 
 [UnityCrossThreadLogger]FrontDoorConnectionAWS.Open {"creator":"ArenaGlobals.Constructor"}
 
@@ -47,103 +45,111 @@ Connecting to Front Door: frontdoor-mtga-production-2021-12-11-32.w2.mtgarena.co
 [NPE] Initialized, state = Complete
 
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.948500 ms
+UnloadTime: 2.124400 ms
+[AssetBundles] GET manifest pointer from https://assets.mtgarena.wizards.com/External_2022.18.60.4240.950016-windows.mtga ...
 
-Unloading 224 unused Assets to reduce memory usage. Loaded Objects now: 5997.
-Total: 14.434500 ms (FindLiveObjects: 0.510500 ms CreateObjectMapping: 0.336800 ms MarkObjects: 13.399300 ms  DeleteObjects: 0.187200 ms)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 34e0 -> priority: 1 
 
-12/25/2021 10:36:30 PM LoadWrapperScene
+Unloading 230 unused Assets to reduce memory usage. Loaded Objects now: 6125.
+Total: 13.444100 ms (FindLiveObjects: 0.458900 ms CreateObjectMapping: 0.338500 ms MarkObjects: 12.484500 ms  DeleteObjects: 0.161800 ms)
 
-Caches cleared
+[UnityCrossThreadLogger]Loading SqlLocalizationManager from file: D:/Program Files/Wizards of the Coast/MTGA2/MTGA_Data\Downloads\Raw\Raw_ClientLocalization_6bf250da0f16cd951c6d3292eb242eea.mtga {}
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 11: 'database disk image is malformed'.
+  at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC (System.Int32 rc, SQLitePCL.sqlite3 db) [0x0006d] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand+<PrepareAndEnumerateStatements>d__64.MoveNext () [0x00116] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand+<GetStatements>d__54.MoveNext () [0x00145] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteDataReader.NextResult () [0x0017d] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x000b7] in <20745a689b9c466184d9e839084db292>:0 
+  at Wotc.Mtga.Cards.Database.SqlGreLocalizationManager.GetLocalizedText (System.UInt32 locId, System.String overrideLangCode, System.Boolean formatted) [0x000e5] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at GreClient.CardData.CardDatabase.GetTextForLocId (System.UInt32 locId, System.Boolean formatted, System.String overrideLanguage) [0x00006] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at CardSorter+<>c__DisplayClass5_0`1[T].<SortInternal>b__1 (T c) [0x00017] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x00010] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`1[TElement].Sort (TElement[] elements, System.Int32 count) [0x00000] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.OrderedEnumerable`1+<GetEnumerator>d__1[TElement].MoveNext () [0x0004b] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <a1e9f114a6e64f4eacb529fc802ec93d>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0000e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at BaseSortedCardCache.SortAndCacheList (GreClient.CardData.ICardDataProvider cardDataProvider, System.Boolean ignoreIsCollectible, System.Boolean allowSpecializeFacets, CardSorter+SortType[] sortCriteria) [0x0001c] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Shared.Code.ServiceFactories.LoadCardDatabaseFiber+<>c__DisplayClass1_0+<<YieldCacheCommonBaseLists>g__cacheList|0>d.MoveNext () [0x0001e] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x00063] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 11: 'database disk image is malformed'.
+  at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC (System.Int32 rc, SQLitePCL.sqlite3 db) [0x0006d] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand+<PrepareAndEnumerateStatements>d__64.MoveNext () [0x00116] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand+<GetStatements>d__54.MoveNext () [0x00145] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteDataReader.NextResult () [0x0017d] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x000b7] in <20745a689b9c466184d9e839084db292>:0 
+  at Wotc.Mtga.Cards.Database.SqlGreLocalizationManager.GetLocalizedText (System.UInt32 locId, System.String overrideLangCode, System.Boolean formatted) [0x000e5] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at GreClient.CardData.CardDatabase.GetTextForLocId (System.UInt32 locId, System.Boolean formatted, System.String overrideLanguage) [0x00006] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at CardSorter+<>c__DisplayClass5_0`1[T].<SortInternal>b__1 (T c) [0x00017] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x00010] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`1[TElement].Sort (TElement[] elements, System.Int32 count) [0x00000] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.OrderedEnumerable`1+<GetEnumerator>d__1[TElement].MoveNext () [0x0004b] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <a1e9f114a6e64f4eacb529fc802ec93d>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0000e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at BaseSortedCardCache.SortAndCacheList (GreClient.CardData.ICardDataProvider cardDataProvider, System.Boolean ignoreIsCollectible, System.Boolean allowSpecializeFacets, CardSorter+SortType[] sortCriteria) [0x0001c] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Shared.Code.ServiceFactories.LoadCardDatabaseFiber+<>c__DisplayClass1_0+<<YieldCacheCommonBaseLists>g__cacheList|0>d.MoveNext () [0x0001e] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x00039] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 11: 'database disk image is malformed'.
+  at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC (System.Int32 rc, SQLitePCL.sqlite3 db) [0x0006d] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand+<PrepareAndEnumerateStatements>d__64.MoveNext () [0x00116] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand+<GetStatements>d__54.MoveNext () [0x00145] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteDataReader.NextResult () [0x0017d] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x000b7] in <20745a689b9c466184d9e839084db292>:0 
+  at Wotc.Mtga.Cards.Database.SqlGreLocalizationManager.GetLocalizedText (System.UInt32 locId, System.String overrideLangCode, System.Boolean formatted) [0x000e5] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at GreClient.CardData.CardDatabase.GetTextForLocId (System.UInt32 locId, System.Boolean formatted, System.String overrideLanguage) [0x00006] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at CardSorter+<>c__DisplayClass5_0`1[T].<SortInternal>b__1 (T c) [0x00017] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x00010] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`1[TElement].Sort (TElement[] elements, System.Int32 count) [0x00000] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.OrderedEnumerable`1+<GetEnumerator>d__1[TElement].MoveNext () [0x0004b] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <a1e9f114a6e64f4eacb529fc802ec93d>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0000e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at BaseSortedCardCache.SortAndCacheList (GreClient.CardData.ICardDataProvider cardDataProvider, System.Boolean ignoreIsCollectible, System.Boolean allowSpecializeFacets, CardSorter+SortType[] sortCriteria) [0x0001c] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Shared.Code.ServiceFactories.LoadCardDatabaseFiber+<>c__DisplayClass1_0+<<YieldCacheCommonBaseLists>g__cacheList|0>d.MoveNext () [0x0001e] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x00039] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+Uploading Crash Report
+SqliteException: SQLite Error 11: 'database disk image is malformed'.
+  at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC (System.Int32 rc, SQLitePCL.sqlite3 db) [0x0006d] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand+<PrepareAndEnumerateStatements>d__64.MoveNext () [0x00116] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand+<GetStatements>d__54.MoveNext () [0x00145] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteDataReader.NextResult () [0x0017d] in <20745a689b9c466184d9e839084db292>:0 
+  at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x000b7] in <20745a689b9c466184d9e839084db292>:0 
+  at Wotc.Mtga.Cards.Database.SqlGreLocalizationManager.GetLocalizedText (System.UInt32 locId, System.String overrideLangCode, System.Boolean formatted) [0x000e5] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at GreClient.CardData.CardDatabase.GetTextForLocId (System.UInt32 locId, System.Boolean formatted, System.String overrideLanguage) [0x00006] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at CardSorter+<>c__DisplayClass5_0`1[T].<SortInternal>b__1 (T c) [0x00017] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x00010] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.EnumerableSorter`1[TElement].Sort (TElement[] elements, System.Int32 count) [0x00000] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Linq.OrderedEnumerable`1+<GetEnumerator>d__1[TElement].MoveNext () [0x0004b] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <a1e9f114a6e64f4eacb529fc802ec93d>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0000e] in <55b3683038794c198a24e8a1362bfc61>:0 
+  at BaseSortedCardCache.SortAndCacheList (GreClient.CardData.ICardDataProvider cardDataProvider, System.Boolean ignoreIsCollectible, System.Boolean allowSpecializeFacets, CardSorter+SortType[] sortCriteria) [0x0001c] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Shared.Code.ServiceFactories.LoadCardDatabaseFiber+<>c__DisplayClass1_0+<<YieldCacheCommonBaseLists>g__cacheList|0>d.MoveNext () [0x0001e] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <6796487824e04a109918095ac6bddc3a>:0 
 
-Unloading 195 unused Assets to reduce memory usage. Loaded Objects now: 16157.
-Total: 276.668700 ms (FindLiveObjects: 1.994500 ms CreateObjectMapping: 1.954800 ms MarkObjects: 272.436300 ms  DeleteObjects: 0.282300 ms)
+[UnityCrossThreadLogger]FrontDoorConnection.Close(reason = "OnDestroy")
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 16157.
-Total: 284.260300 ms (FindLiveObjects: 1.577200 ms CreateObjectMapping: 1.559400 ms MarkObjects: 281.086200 ms  DeleteObjects: 0.036900 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.546700 ms
-MainNav load in 182ms
-
-The referenced script on this Behaviour (Game Object '') is missing!
-
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-
-The referenced script on this Behaviour (Game Object 'MainButton') is missing!
-
-The referenced script on this Behaviour (Game Object 'MainButton') is missing!
-
-12/25/2021 10:36:47 PM Coroutine_StartupSequence
-
-
-Unloading 362 unused Assets to reduce memory usage. Loaded Objects now: 22787.
-Total: 474.586200 ms (FindLiveObjects: 2.287200 ms CreateObjectMapping: 6.718000 ms MarkObjects: 463.106500 ms  DeleteObjects: 2.473800 ms)
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-001 price=4.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-002 price=9.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-003 price=19.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-004 price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-005 price=99.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_pack price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_play price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pack price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pet price=0.01 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Play price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_pack price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_play price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_pack price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_play price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_pack price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_play price=49.99 maxPurchases=0 remainingPurchases=-1
-
-[UnityCrossThreadLogger]SKU recieved: id=Bundle_Adventurer price=14.99 maxPurchases=1 remainingPurchases=0
-
-[UnityCrossThreadLogger]SKU recieved: id=MTGA-StarterBundle price=4.99 maxPurchases=1 remainingPurchases=0
-
-12/25/2021 10:36:59 PM Coroutine_StartupSequence - Data retrieved
-
-[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"None","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
-
-BEGIN home page notification flow
-
-END home page notification flow
-
-BEGIN home page notification flow
-
-END home page notification flow
+[UnityCrossThreadLogger]Client.TcpConnection.Close {"status":2,"reason":"OnDestroy","host":"frontdoor-mtga-production-2022-18-60-35.w2.mtgarena.com","port":30010,"rtTicksRollingAvg":337.4,"rtTicksSamples":[172.0,984.0,172.0,187.0,172.0],"lastLocalActivity":[{"type":"Send","time":"2022-08-31T21:59:58.0500103Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:12.8934697Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:13.051374Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:27.8973617Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:28.8944895Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:42.8981602Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:43.0470784Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:57.8985813Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:58.0464961Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:01:12.8994243Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:01:13.0463366Z","msgType":"Pong","msgVersion":3},{"type":"Close","time":"2022-08-31T22:01:26.8410822Z","status":2,"reason":"OnDestroy"}],"lastRemoteActivity":[{"type":"Ping","time":"2022-08-31T21:59:58.0490033Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T21:59:58.0729925Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:00:13.0503684Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:00:13.0753534Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:00:28.8904938Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:00:28.8914938Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:00:43.0460668Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:00:43.0800441Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:00:58.0454868Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:00:58.0804645Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:01:13.0443354Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:01:13.0801802Z","msgVersion":3}],"lastRemotePing":"2022-09-01T00:01:13.0443354+02:00","inactivityTimeoutMs":60000}
 
 Curl error 42: Callback aborted
-[Accounts - SharedContextView] Refreshing access token.
-
-[Accounts - SharedContextView] Access token refreshed.
-
-[UnityCrossThreadLogger]FrontDoorConnection.Close(reason = "User Idle")
-
-[UnityCrossThreadLogger]Client.TcpConnection.Close
-
-[UnityCrossThreadLogger]Got non-message event: TcpClosedEvent
-
-[UnityCrossThreadLogger]FrontDoorConnection.Close(reason = "From Server: User Idle")
-
-[UnityCrossThreadLogger]Client.TcpConnection.Close
-
