@@ -1,0 +1,10 @@
+{
+  "name": "Game: Halo: The Master Chief Collection",
+  "author": "Black Tree Gaming Ltd.",
+  "version": "0.1.1",
+  "description": "Support for Halo: The Master Chief Collection",
+  "type": "game",
+  "path": "C:\\Users\\dator\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Halo_ The Master Chief Collection v0.1.1.7z",
+  "bundled": false,
+  "id": "game-masterchiefcollection"
+}

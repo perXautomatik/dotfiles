@@ -1,0 +1,10 @@
+{
+  "name": "Game: Blade & Sorcery",
+  "author": "Black Tree Gaming Ltd.",
+  "version": "0.2.8",
+  "description": "Support for Blade & Sorcery",
+  "type": "game",
+  "path": "C:\\Users\\dator\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Blade & Sorcery v0.2.8.7z",
+  "bundled": false,
+  "id": "game-bladeandsorcery"
+}

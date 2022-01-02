@@ -1,0 +1,10 @@
+{
+  "name": "Game: Torchlight II",
+  "author": "Black Tree Gaming Ltd.",
+  "version": "1.0.1",
+  "description": "Support for Torchlight II",
+  "type": "game",
+  "path": "C:\\Users\\dator\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Torchlight II v1.0.1.7z",
+  "bundled": false,
+  "id": "game-torchlight2"
+}

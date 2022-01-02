@@ -1,0 +1,6 @@
+[2022-01-02 15:09:36.425] [main] [info] window: using vscode-file:// protocol and V8 cache options: bypassHeatCheck
+[2022-01-02 15:09:36.638] [main] [info] update#setState idle
+[2022-01-02 15:10:06.645] [main] [info] update#setState checking for updates
+[2022-01-02 15:10:06.917] [main] [info] update#setState downloading
+[2022-01-02 15:10:17.210] [main] [info] update#setState updating
+[2022-01-02 15:10:49.899] [main] [info] update#setState ready

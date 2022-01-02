@@ -1,0 +1,126 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="FirstDb@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="FirstDb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="dcf0d525:DatabaseStructure$RegularFamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AppData/Roaming/JetBrains/DataGrip2021.1/consoles/db/76b37c65-c5bb-49d2-b08d-06470f515462/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dator" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="dator" type="aa42bf16:AttachableProjectViewPane$1$1$1" />
+            </path>
+            <path>
+              <item name="dator" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="dator" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Database Consoles" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+            <path>
+              <item name="dator" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Database Consoles" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+              <item name="76b37c65-c5bb-49d2-b08d-06470f515462" type="18b656a9:ScratchTreeStructureProvider$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="dator" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Extensions" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+            <path>
+              <item name="dator" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Extensions" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+              <item name="com.intellij.database" type="18b656a9:ScratchTreeStructureProvider$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Database" order="0" visible="true" weight="0.19617051" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" weight="0.32984102" />
+      <window_info id="Pull Requests" order="3" weight="0.32984102" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.33014113" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" visible="true" weight="0.1174133" />
+      <window_info anchor="right" id="Structure" order="1" side_tool="true" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+      <value>Event Log</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="405" y="195" width="762" height="570" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639400918254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="405" y="195" width="762" height="570" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639400918254" />
+    <state x="740" y="275" width="622" height="490" key="FileChooserDialogImpl" timestamp="1639224858773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" width="622" height="490" key="FileChooserDialogImpl/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639224858773" />
+    <state width="248" height="439" key="HiddenNamespacesPopup" timestamp="1639400463354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="248" height="439" key="HiddenNamespacesPopup/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639400463354" />
+    <state x="246" y="66" key="SettingsEditor" timestamp="1639224802723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="246" y="66" key="SettingsEditor/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639224802723" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AppData/Roaming/JetBrains/DataGrip2021.1/consoles/db/76b37c65-c5bb-49d2-b08d-06470f515462/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

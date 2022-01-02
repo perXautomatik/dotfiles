@@ -1,0 +1,329 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="todosqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="todosqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="todosqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="tables" type="dcf0d525:DatabaseStructure$RegularFamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/46f0d266-a303-46c1-8f11-eebf52313160/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://46f0d266-a303-46c1-8f11-eebf52313160/schema/main/table/tasks">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1639401022301" presentationMode="TABLE" projectRestartId="88c1564c-8d76-439a-82bf-e82315181371" pageSize="500">
+              <filtering>
+                <filter text="created_datetime &gt; datetime()" />
+                <filter text="created_datetime = datetime()" />
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="task_folder_local_id DESC" />
+                <sort text="task_folder_local_id" />
+                <sort text="subject" />
+                <sort text="created_datetime DESC" />
+                <sort text="created_datetime" />
+                <sort text="subject DESC" />
+                <sort text="" />
+                <sort text="status DESC" />
+                <sort text="status" />
+                <sort text="due_date DESC" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://46f0d266-a303-46c1-8f11-eebf52313160/schema/main/table/groups">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1639404920426" presentationMode="TABLE" projectRestartId="88c1564c-8d76-439a-82bf-e82315181371" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://46f0d266-a303-46c1-8f11-eebf52313160/schema/main/table/task_folders">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1639404951244" presentationMode="TABLE" projectRestartId="88c1564c-8d76-439a-82bf-e82315181371" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/46f0d266-a303-46c1-8f11-eebf52313160/console_1.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/46f0d266-a303-46c1-8f11-eebf52313160/console_2.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="72" selection-end-line="3" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/46f0d266-a303-46c1-8f11-eebf52313160/console_1.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/46f0d266-a303-46c1-8f11-eebf52313160/console_2.sql" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Win-Todo-CBGmail" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="e5dc70bcd9464d728416d0b6b29a7a6f" type="aa42bf16:AttachableProjectViewPane$1$1$1" />
+            </path>
+            <path>
+              <item name="Win-Todo-CBGmail" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Win-Todo-CBGmail" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Extensions" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+            <path>
+              <item name="Win-Todo-CBGmail" type="a8c37be4:AttachableProjectViewPane$1$1" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Extensions" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+              <item name="com.intellij.database" type="18b656a9:ScratchTreeStructureProvider$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.055194806" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="todosqlite: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="todosqlite: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="todosqlite: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="todosqlite: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="todosqlite: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="todosqlite: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Database" order="0" visible="true" weight="0.2893786" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" />
+      <window_info id="Pull Requests" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" visible="true" weight="0.34627014" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" visible="true" weight="0.022037573" />
+      <window_info anchor="right" id="Structure" order="1" side_tool="true" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="1008" y="245" width="650" height="554" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639401002454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1008" y="245" width="650" height="554" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639401002454" />
+    <state x="1113" y="277" key="FileChooserDialogImpl" timestamp="1639400979006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1113" y="277" key="FileChooserDialogImpl/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639400979006" />
+    <state width="1745" height="315" key="GridCell.Tab.0.bottom" timestamp="1639405228050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1745" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639405228050" />
+    <state width="1745" height="315" key="GridCell.Tab.0.center" timestamp="1639405228050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1745" height="315" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639405228050" />
+    <state width="1745" height="315" key="GridCell.Tab.0.left" timestamp="1639405228050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1745" height="315" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639405228050" />
+    <state width="1745" height="315" key="GridCell.Tab.0.right" timestamp="1639405228050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1745" height="315" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639405228050" />
+    <state width="248" height="439" key="HiddenNamespacesPopup" timestamp="1639401019254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="248" height="439" key="HiddenNamespacesPopup/0.0.1920.1040/1920.-717.1200.1880@0.0.1920.1040" timestamp="1639401019254" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/46f0d266-a303-46c1-8f11-eebf52313160/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://46f0d266-a303-46c1-8f11-eebf52313160/schema/main/table/tasks.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1054" />
+      </provider>
+    </entry>
+    <entry file="das://46f0d266-a303-46c1-8f11-eebf52313160/schema/main/table/linked_entities">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1639401033332" presentationMode="TABLE" projectRestartId="88c1564c-8d76-439a-82bf-e82315181371" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://46f0d266-a303-46c1-8f11-eebf52313160/schema/main/table/tasks">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1639401022301" presentationMode="TABLE" projectRestartId="88c1564c-8d76-439a-82bf-e82315181371" pageSize="500">
+          <filtering>
+            <filter text="created_datetime &gt; datetime()" />
+            <filter text="created_datetime = datetime()" />
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="task_folder_local_id DESC" />
+            <sort text="task_folder_local_id" />
+            <sort text="subject" />
+            <sort text="created_datetime DESC" />
+            <sort text="created_datetime" />
+            <sort text="subject DESC" />
+            <sort text="" />
+            <sort text="status DESC" />
+            <sort text="status" />
+            <sort text="due_date DESC" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://46f0d266-a303-46c1-8f11-eebf52313160/schema/main/table/groups">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1639404920426" presentationMode="TABLE" projectRestartId="88c1564c-8d76-439a-82bf-e82315181371" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://46f0d266-a303-46c1-8f11-eebf52313160/schema/main/table/task_folders">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1639404951244" presentationMode="TABLE" projectRestartId="88c1564c-8d76-439a-82bf-e82315181371" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/46f0d266-a303-46c1-8f11-eebf52313160/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/46f0d266-a303-46c1-8f11-eebf52313160/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="72" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

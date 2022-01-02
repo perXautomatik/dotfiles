@@ -1,0 +1,28 @@
+[2021-12-13 14:20:35.045] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-12-13 14:20:36.003] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-12-13 14:20:44.462] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-12-13 14:21:04.458] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-12-13 14:21:04.458] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-12-13 14:21:14.460] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-12-13 14:24:12.457] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-12-13 14:24:14.390] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-12-13 14:24:42.011] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-12-13 14:24:43.904] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-12-13 14:31:22.660] [sharedprocess] [info] Installing extension: aboqasem.mergeconf
+[2021-12-13 14:31:24.794] [sharedprocess] [info] Downloaded extension: aboqasem.mergeconf c:\Users\dator\AppData\Roaming\Code\CachedExtensionVSIXs\aboqasem.mergeconf-0.2.0
+[2021-12-13 14:31:24.875] [sharedprocess] [info] Extracted extension to c:\Users\dator\.vscode\extensions\.72904e85-e50f-47f7-9cd8-940a21cb53dd: aboqasem.mergeconf
+[2021-12-13 14:31:24.905] [sharedprocess] [info] Renamed to c:\Users\dator\.vscode\extensions\aboqasem.mergeconf-0.2.0
+[2021-12-13 14:31:24.921] [sharedprocess] [info] Extracting completed. aboqasem.mergeconf
+[2021-12-13 14:31:24.925] [sharedprocess] [info] Extension installed successfully: aboqasem.mergeconf
+[2021-12-13 14:32:35.469] [sharedprocess] [info] Installing extension: amon.json-merger
+[2021-12-13 14:32:36.770] [sharedprocess] [info] Downloaded extension: amon.json-merger c:\Users\dator\AppData\Roaming\Code\CachedExtensionVSIXs\amon.json-merger-0.0.1
+[2021-12-13 14:32:36.807] [sharedprocess] [info] Extracted extension to c:\Users\dator\.vscode\extensions\.d46b0a21-0add-4a0f-96a1-2fc1b8a912ef: amon.json-merger
+[2021-12-13 14:32:36.820] [sharedprocess] [info] Renamed to c:\Users\dator\.vscode\extensions\amon.json-merger-0.0.1
+[2021-12-13 14:32:36.826] [sharedprocess] [info] Extracting completed. amon.json-merger
+[2021-12-13 14:32:36.829] [sharedprocess] [info] Extension installed successfully: amon.json-merger
+[2021-12-13 14:33:56.763] [sharedprocess] [info] Installing extension: lucidocean.lucidocean-plurge
+[2021-12-13 14:33:58.465] [sharedprocess] [info] Downloaded extension: lucidocean.lucidocean-plurge c:\Users\dator\AppData\Roaming\Code\CachedExtensionVSIXs\lucidocean.lucidocean-plurge-0.0.5
+[2021-12-13 14:33:58.529] [sharedprocess] [info] Extracted extension to c:\Users\dator\.vscode\extensions\.a8f9e201-b2ea-47cd-875d-51726c0c4c01: lucidocean.lucidocean-plurge
+[2021-12-13 14:33:58.541] [sharedprocess] [info] Renamed to c:\Users\dator\.vscode\extensions\lucidocean.lucidocean-plurge-0.0.5
+[2021-12-13 14:33:58.547] [sharedprocess] [info] Extracting completed. lucidocean.lucidocean-plurge
+[2021-12-13 14:33:58.551] [sharedprocess] [info] Extension installed successfully: lucidocean.lucidocean-plurge

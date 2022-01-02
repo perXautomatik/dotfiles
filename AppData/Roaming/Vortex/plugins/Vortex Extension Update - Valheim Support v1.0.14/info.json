@@ -1,0 +1,10 @@
+{
+  "name": "Valheim Support",
+  "author": "Nagev",
+  "version": "1.0.14",
+  "description": "Adds support for Valheim.",
+  "type": "game",
+  "path": "C:\\Users\\dator\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Valheim Support v1.0.14.7z",
+  "bundled": false,
+  "modId": 210
+}

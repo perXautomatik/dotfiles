@@ -1,0 +1,146 @@
+// reduce paddings
+.nav-tabs > li > a {
+    padding: 2px 16px;
+}
+
+.xtable > .xtbody > .xtr > .xtd {
+    padding: 0.25rem 0.75rem;
+}
+
+// if the sidebar is collapsed, show the tab name when hovering
+// (this conflicts a bit with the tooltip which we can't disable from css)
+#main-nav-sidebar.sidebar-compact #main-nav-container {
+    overflow: visible;
+    z-index: 3;
+    max-width: 100% !important;
+}
+
+.sidebar-compact .nav-pills > li > a {
+    overflow: visible;
+}
+
+.sidebar-compact .main-nav-group > li:hover a::after {
+    content: attr(title);
+    background-color: $brand-bg;
+    margin-left: 8px;
+    padding: 8px 8px;
+    border: $border-width solid $border-color;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 100%;
+    display: flex;
+    align-items: center;
+}
+
+// category names can be very long and force a line break.
+// instead, limit the width and display ellipsis as necessary
+.xtd.table-mods.cell-category {
+    white-space: nowrap;
+    max-width: 20em;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+}
+
+.toolbar-app-region .container-quicklaunch .tool-icon-container {
+    width: 200px;
+    height: 52px;
+}
+
+.container-quicklaunch .tool-icon-container {
+    height: 52px;
+}
+
+#main-toolbar.toolbar-app-region {
+    height: unset;
+}
+
+#main-toolbar.toolbar-app-region .main-toolbar-right {
+    margin-bottom: auto;
+    margin-right: 146px;
+    border-right: $border-width solid $border-color;
+}
+
+#main-toolbar .nexus-main-banner div {
+    font-size: xx-small;
+}
+
+#main-toolbar .nexus-main-banner div:first-child {
+    font-size: 1.4em;
+    margin-bottom: 0;
+}
+
+#main-toolbar .nexus-main-banner .right-center {
+    font-size: inherit;
+}
+
+div.layout-flex-fill > div {
+    flex-direction: row !important;
+}
+
+ul.main-nav-group {
+    float: left;
+}
+
+ul.main-nav-group > li {
+    float: left;
+}
+div.content>div>div>div>div>div{
+    flex-direction: column !important;
+}
+/*
+div.layout-container.layout-container-row.layout-fill{
+    flex-direction: column !important;
+}*/
+
+div.layout-container.layout-container-column.layout-fill>div.layout-flex>div.layout-flex-inner>div.layout-container.layout-container-row.layout-fill{
+    flex-direction: column !important;
+}
+
+div.sidebar-expanded.layout-fixed {
+    height: 55px !important;
+    flex-direction: column !important;
+}
+
+div.sidebar-expanded.layout-fixed > div {
+    height: auto;
+    flex-direction: row !important;
+}
+
+div.sidebar-expanded.layout-fixed > div > div {
+    height: auto;
+}
+
+div.sidebar-expanded.layout-fixed > div > div > ul {
+    height: auto;
+}
+
+div.sidebar-expanded.layout-fixed > div > div > ul > li {
+    height: fixed;
+    float: left;
+}
+
+ul.main-nav-group.nav.nav-pills.nav-stacked {
+    float: left;
+}
+
+#main-nav-container {
+    flex-direction: row !important;
+}
+
+ul.main-nav-group.nav.nav-pills.nav-stacked > li > a::after {
+    display: none;
+}
+
+div#main-nav-container {
+    max-width: 100% !important;
+}
+div#main-nav-container > div > div.main-nav-group-title{
+    max-width: 40%;
+}
+div#main-nav-container > div > p {
+    display: none;
+}
+div#main-footer{
+    display:none !important;
+}

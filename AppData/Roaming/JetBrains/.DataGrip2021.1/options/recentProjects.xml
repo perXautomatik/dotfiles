@@ -1,0 +1,32 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/projects/Win-Todo-CBGmail">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Win-Todo-CBGmail – console" projectWorkspaceId="22ERrsKUcqZdX0ICGQgVs77RcZu">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-211.7142.37" />
+              <option name="buildTimestamp" value="1619559399213" />
+              <frame x="183" y="296" width="1400" height="1000" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1639400962101" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dator – console" opened="true" projectWorkspaceId="228gENRlmXotSi0BluvCNdTgsK8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-211.7142.37" />
+              <option name="buildTimestamp" value="1619559363174" />
+              <frame x="152" y="35" width="1400" height="1000" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1641049580222" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
