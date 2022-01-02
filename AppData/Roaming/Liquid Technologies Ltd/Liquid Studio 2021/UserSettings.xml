@@ -1,0 +1,210 @@
+﻿<Settings>
+  <Property name="cfg://Liquid/AppVersionLastUsed" type="System.String">19.0.9.10834</Property>
+  <Property name="cfg://liquid/CssEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Database/DatabaseConnections" type="System.String">&lt;DatabaseDataAccess&gt;&lt;Connection&gt;&lt;Name&gt;Local%20State (SQLiteClient)&lt;/Name&gt;&lt;ProviderName&gt;System.Data.SQLite&lt;/ProviderName&gt;&lt;EncryptedConnectionString&gt;AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqGBhVnmzmEaQb8w6+SRg5wAAAAACAAAAAAAQZgAAAAEAACAAAAChdETimU4x5xBwIInG3hpjYuBshpGztkQFEFUJ0rtFsAAAAAAOgAAAAAIAACAAAABo7uooARPzP2mBpQBfZ1RgTPDA1Hx9sFiyobH1AT3GdoAAAAAXxgkY4mv4isZ7ABBuWXkCyTpR12LzrxGjERK9LJxIAaE/rELclS8qyyXg/c4+oQNkQ0rtmxP9iLLNVcWPiDSIvB4o466jZibYiay7ou7Y6BQ7E3XExyhC95MGC7+uEXx2ZIWhXAe4w86AK1hl0e5JroHSxEkKG0PdZ4z7INrSikAAAABfX1DkhTuO6J0mqR8v1VO0paGMaw/mVt3dAvHqfkO8ujPYaizbywe9xgyDHwBihK/+3w+HJD+WVXonlWs0bV/S&lt;/EncryptedConnectionString&gt;&lt;/Connection&gt;&lt;Connection&gt;&lt;Name&gt;Safe%20Browsing%20Cookies (SQLiteClient)&lt;/Name&gt;&lt;ProviderName&gt;System.Data.SQLite&lt;/ProviderName&gt;&lt;EncryptedConnectionString&gt;AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqGBhVnmzmEaQb8w6+SRg5wAAAAACAAAAAAAQZgAAAAEAACAAAABWFNovsycXeuczZxqdSmiElUWb0reBmHcWK4ZP8QTjkAAAAAAOgAAAAAIAACAAAACVITS0ZtokCbb+8EvjakcekFsE83judVIFIWf7soixWIAAAADZsFg+ha7Ap8fMkbfOhU7iyPvYeM+7Yru0cjLBg3b2ckJLUhz1dBiwM5hdlcDVQN10DX3rN+GctfG/prqt2H5YneHVSH/QA4Dea6njUdRfiHNZ7rkmZUBLU4dluG5XMYyO+UqSb6h3N4pbQ93UAzVUVWBRSlaN3tIpeSJ7Y9XCfkAAAAAuU9C6Y9GvKSO2aKwPQYACmOUDD/b5UMOweAzbX5oFlrUbdJaLxSF2hwEoK6/RogQCaLpCZva3B+hAcawC56Bv&lt;/EncryptedConnectionString&gt;&lt;/Connection&gt;&lt;/DatabaseDataAccess&gt;</Property>
+  <Property name="cfg://liquid/Database/DefaultDataProvider" type="System.String">System.Data.SQLite</Property>
+  <Property name="cfg://liquid/Database/DefaultDataSource" type="System.String">SqliteClient</Property>
+  <Property name="cfg://liquid/DataMapperEditor/DescriptionVisible" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/DataMapperEditor/SearchTitleAndDescription" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/DataMapperEditor/ShowPalette" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/DataMapperEditor/SmallPalette" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/Debugger/BreakPointLocations" type="System.String">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;Breakpoints /&gt;</Property>
+  <Property name="cfg://liquid/Debugger/DebuggerMaxOutputFilesToOpen" type="System.Int32">10</Property>
+  <Property name="cfg://liquid/Debugger/WatchExpressions" type="System.String">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;WatchExpressions /&gt;</Property>
+  <Property name="cfg://liquid/DefaultEditor/DiscardSignificantWhitespace" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/DefaultEditor/EnableMacros" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/DefaultEditor/Font" type="System.Drawing.Font">Courier New, 9.75pt</Property>
+  <Property name="cfg://liquid/DefaultEditor/IndentAttributes" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/DefaultEditor/ShowLineNo" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/DefaultEditor/ShowWhitespace" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/DefaultEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/DefaultEditor/WordWrap" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/DefaultEditor/XmlToolTipsEnabled" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/DocumentationEditor/Font" type="System.Drawing.Font">Courier New, 9.75pt</Property>
+  <Property name="cfg://liquid/DocumentationEditor/StripIndent" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/DocumentationEditor/WordWrap" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/DtdEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/ApplicationDocumentsFolder" type="System.String">C:\Users\chris\AppData\Local\Microsoft\Edge\User Data\Profile 2</Property>
+  <Property name="cfg://liquid/Framework/CheckForUpdates" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/DefaultCodePage" type="System.Int32">65001</Property>
+  <Property name="cfg://liquid/Framework/DefaultEOL" type="LiquidTechnologies.Common.EOLType">CRLF</Property>
+  <Property name="cfg://liquid/Framework/DefaultExtension" type="System.String">.xsd</Property>
+  <Property name="cfg://liquid/Framework/DefaultSplitterOrientation" type="System.String">Horizontal</Property>
+  <Property name="cfg://liquid/Framework/DontShowAgainDialogSettings" type="System.String" />
+  <Property name="cfg://liquid/Framework/EnableAsyncValidation" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/EnableXercesCTAFullXPathChecking" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/ExternalToolsConfig" type="System.String">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;Tools&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="0" menuText="Unassigned External Tool" commandTitle="ExternalTool0" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="1" menuText="Unassigned External Tool" commandTitle="ExternalTool1" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="2" menuText="Unassigned External Tool" commandTitle="ExternalTool2" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="3" menuText="Unassigned External Tool" commandTitle="ExternalTool3" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="4" menuText="Unassigned External Tool" commandTitle="ExternalTool4" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="5" menuText="Unassigned External Tool" commandTitle="ExternalTool5" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="6" menuText="Unassigned External Tool" commandTitle="ExternalTool6" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="7" menuText="Unassigned External Tool" commandTitle="ExternalTool7" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="8" menuText="Unassigned External Tool" commandTitle="ExternalTool8" /&gt;&lt;Tool executable="%windir%\Notepad.exe" workingDirectory="" arguments="&amp;quot;%FILE_FULLNAME%&amp;quot;" shortcutKey="0" uniqueID="9" menuText="Unassigned External Tool" commandTitle="ExternalTool9" /&gt;&lt;/Tools&gt;</Property>
+  <Property name="cfg://liquid/Framework/FileExtensionMappings" type="System.String">&lt;FileMappings /&gt;</Property>
+  <Property name="cfg://liquid/Framework/FormPostion" type="System.String">&lt;WindowPosition state="Minimized"&gt;
+  &lt;RestoreBounds x="234" y="189" width="1396" height="891" /&gt;
+&lt;/WindowPosition&gt;</Property>
+  <Property name="cfg://liquid/Framework/LargeFileEditorDefaultCodePage" type="System.Int32">65001</Property>
+  <Property name="cfg://liquid/Framework/LargeFileEditorFileSize" type="System.Int32">75</Property>
+  <Property name="cfg://liquid/Framework/LargeFileEditorFontSize" type="System.Double">10</Property>
+  <Property name="cfg://liquid/Framework/LargeFileEditorLineLength" type="System.Int32">256</Property>
+  <Property name="cfg://liquid/Framework/LargeFileEditorLineWrapLength" type="System.Int32">1024</Property>
+  <Property name="cfg://liquid/Framework/LargeFileEditorMaxClipboardData" type="System.Int32">4</Property>
+  <Property name="cfg://liquid/Framework/LargeFileEditorShowNonPrintableChars" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/Framework/LargeFileEditorUseFallbackFont" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/LargeFileLockTypeFileShare" type="System.IO.FileShare">None</Property>
+  <Property name="cfg://liquid/Framework/MaxErrors" type="System.Int32">50</Property>
+  <Property name="cfg://liquid/Framework/NewsReadDate" type="System.DateTime" />
+  <Property name="cfg://liquid/Framework/SelectVisualTheme" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/Framework/ShowStartPage" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/ShowStatusBar" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/ShowWelcomeScreen" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellChecker" type="System.String">&lt;HunSpell&gt;&lt;Dictionary&gt;en_US&lt;/Dictionary&gt;&lt;/HunSpell&gt;</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckAttributeName" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckAttributeText" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckCDATA" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckComments" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckElementName" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckElementText" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckLiteralValue" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckPropertyName" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckUpperCaseOnly" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerCheckWordsWithNumbers" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerEnabled" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerMaxWordLength" type="System.Int32">30</Property>
+  <Property name="cfg://liquid/Framework/SpellCheckerMinWordLength" type="System.Int32">2</Property>
+  <Property name="cfg://liquid/Framework/TurnOffDocumentOutliningFileSize" type="System.Int32">10</Property>
+  <Property name="cfg://liquid/Framework/TurnOffSyntaxHighlightingFileSize" type="System.Int32">10</Property>
+  <Property name="cfg://liquid/Framework/UseXmlDataBinderProjects" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/ValidateEditorOnOpen" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/ValidateEditorOnSelectionChange" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/VisualTheme" type="System.String">MetroLight</Property>
+  <Property name="cfg://liquid/Framework/WriteBannerComment" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/WriteBOM" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Framework/XmlCatalogUrls" type="System.Collections.Specialized.StringCollection">&lt;entries /&gt;</Property>
+  <Property name="cfg://liquid/Framework/XPathAutoExecuteLimit" type="System.Int32">100</Property>
+  <Property name="cfg://liquid/JsonEditor/AddClosingTagToSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/AllowComments" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/AutoCompleteArrayValues" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/AutoCompletePropertyNames" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/AutoCompletePropertyValues" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/AutoFormatOnArrayClose" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/AutoFormatOnObjectClose" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/AutoFormatOnPaste" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/DefaultJsonValidator" type="System.String">Json:Liquid:1.0:</Property>
+  <Property name="cfg://liquid/JsonEditor/IntellisenseEnabled" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/MaxSuggestions" type="System.Int32">200</Property>
+  <Property name="cfg://liquid/JsonEditor/ToolTipsEnabled" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AddClosingTagToSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AllowComments" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AlwaysShowCardinality" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AutoCompleteArrayValues" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AutoCompletePropertyNames" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AutoCompletePropertyValues" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AutoFormatOnArrayClose" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AutoFormatOnObjectClose" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/AutoFormatOnPaste" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/DefaultJsonSchemaValidator" type="System.String">JsonSchema:NewtonSoft:1.1:Validating</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/DefaultJsonSchemaVersion" type="LiquidTechnologies.Json.Schema.JsonSchemaVersion">Draft04</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/DefaultJsonValidator" type="System.String">Json:Liquid:1.0:</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/DiagramDefaultZoom" type="System.Double">1</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/DiagramFillColors" type="System.Collections.Specialized.StringDictionary">&lt;entries /&gt;</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/DiagramFont" type="System.Drawing.Font">Arial, 8.25pt, style=Bold</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/DiagramSpacing" type="System.Int32">2</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/IntellisenseEnabled" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/MaxSuggestions" type="System.Int32">200</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/MaxTextWidth" type="System.Double">200</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/ShowBoxShadow" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/ShowDefaultCardinalityInBraces" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/ShowInlineAnnotations" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/ShowInlineProperties" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/ShowToolTipNotes" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/ShowToolTipRelations" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/ShowToolTips" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/ToolTipsEnabled" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/JsonSchemaEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/MRU/Files" type="System.Collections.Specialized.StringCollection">&lt;entries&gt;&lt;entry&gt;C:\Users\chris\AppData\Local\Microsoft\Edge\User Data\Profile 2\DataMapperFile2.dm&lt;/entry&gt;&lt;entry&gt;C:\Users\chris\OneDrive\Dokument\schema.xsd&lt;/entry&gt;&lt;entry&gt;C:\Users\chris\AppData\Local\Microsoft\Edge\User Data\Profile 2\schema.xsd&lt;/entry&gt;&lt;entry&gt;C:\Users\chris\OneDrive\Dokument\SampleFile.xslt&lt;/entry&gt;&lt;entry&gt;C:\Users\chris\OneDrive\Dokument\NewProject\SubFunction.dmf&lt;/entry&gt;&lt;entry&gt;C:\Users\chris\AppData\Local\Microsoft\Edge\User Data\Profile 2\Bookmarks.xml&lt;/entry&gt;&lt;/entries&gt;</Property>
+  <Property name="cfg://liquid/MRU/MaxFiles" type="System.Int32">6</Property>
+  <Property name="cfg://liquid/MRU/MaxProjects" type="System.Int32">6</Property>
+  <Property name="cfg://liquid/MRU/Projects" type="System.Collections.Specialized.StringCollection">&lt;entries&gt;&lt;entry&gt;C:\Users\chris\OneDrive\Dokument\NewProject\NewProject.lxsproj&lt;/entry&gt;&lt;entry&gt;C:\Users\Public\Documents\Liquid Technologies\Liquid Studio 2021\Getting Started Guide\Getting Started Guide.lxsproj&lt;/entry&gt;&lt;/entries&gt;</Property>
+  <Property name="cfg://liquid/SourceControl/Git/GitExePath" type="System.String">C:\Program Files\Git\bin\Git.exe</Property>
+  <Property name="cfg://liquid/SourceControl/Git/TortoiseGitExePath" type="System.String">C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe</Property>
+  <Property name="cfg://liquid/SourceControl/SourceControlProviderName" type="System.String" />
+  <Property name="cfg://liquid/SourceControl/SVN/SvnExePath" type="System.String" />
+  <Property name="cfg://liquid/SourceControl/SVN/TortoiseSvnExePath" type="System.String" />
+  <Property name="cfg://liquid/TextEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Tips/ItemsToShow" type="System.String">&lt;TipManager&gt;&lt;Tip DisplayName="Tip of the Day" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Application Startup Tip" ShowNextTime="True" /&gt;&lt;Tip DisplayName="XML Code Generator (C++, C#, VB.Net, Java &amp;amp; Visual Basic)" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Formatting Options" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Large File Editor" ShowNextTime="False" /&gt;&lt;Tip DisplayName="XML Intellisense" ShowNextTime="False" /&gt;&lt;Tip DisplayName="XML Validation" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Working with large files" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Infer an XSD from XML Files" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Caching remote files" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Data Mapper Component Palette" ShowNextTime="False" /&gt;&lt;Tip DisplayName="JSON Intellisense" ShowNextTime="True" /&gt;&lt;Tip DisplayName="JSON Validation" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Working with large files" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Infer an JSON Schema from JSON Files" ShowNextTime="True" /&gt;&lt;Tip DisplayName="JSON Schema Documentation" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Create a JSON document from a JSON Schema" ShowNextTime="True" /&gt;&lt;Tip DisplayName="JSON Schema Editor Drag And Drop" ShowNextTime="True" /&gt;&lt;Tip DisplayName="JSON Schema Editor Select Multiple Items" ShowNextTime="True" /&gt;&lt;Tip DisplayName="JSON Schema Editor Undo Redo" ShowNextTime="True" /&gt;&lt;Tip DisplayName="JSON Schema Editor ToolTips" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Web Service Test Client" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Web Service Test Client." ShowNextTime="True" /&gt;&lt;Tip DisplayName="XPath Window" ShowNextTime="True" /&gt;&lt;Tip DisplayName="XML Schema Code Generation" ShowNextTime="True" /&gt;&lt;Tip DisplayName="XML Schema Documentation" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Create an XML file from an XSD" ShowNextTime="True" /&gt;&lt;Tip DisplayName="Create Sample XML from your XSD" ShowNextTime="True" /&gt;&lt;Tip DisplayName="XSD Editor Drag And Drop" ShowNextTime="True" /&gt;&lt;Tip DisplayName="XSD Editor Select Multiple Items" ShowNextTime="True" /&gt;&lt;Tip DisplayName="XSD Editor Undo Redo" ShowNextTime="True" /&gt;&lt;Tip DisplayName="XSD Editor ToolTips" ShowNextTime="True" /&gt;&lt;Tip DisplayName="XSD Annotations" ShowNextTime="True" /&gt;&lt;Tip DisplayName="View XML Schema Dependency Graph" ShowNextTime="True" /&gt;&lt;TipSet Name="Large File Editor Tips" NextIndex="0" /&gt;&lt;TipSet Name="Xml Editor Tips" NextIndex="0" /&gt;&lt;/TipManager&gt;</Property>
+  <Property name="cfg://liquid/Tips/LastTipIndex" type="System.Int32">1</Property>
+  <Property name="cfg://liquid/WebProxy/IgnoreInvalidSslCerts" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/WebProxy/ProxyType" type="LiquidTechnologies.Common.ProxyConfiguration+ProxyTypeOption">NoProxy</Property>
+  <Property name="cfg://liquid/WebProxy/UserDefinedProxyPassword" type="System.String" />
+  <Property name="cfg://liquid/WebProxy/UserDefinedProxyPort" type="System.Int32">0</Property>
+  <Property name="cfg://liquid/WebProxy/UserDefinedProxyUrl" type="System.String" />
+  <Property name="cfg://liquid/WebProxy/UserDefinedProxyUsername" type="System.String" />
+  <Property name="cfg://liquid/Wsdl2Editor/DiagramDefaultZoom" type="System.Double">1</Property>
+  <Property name="cfg://liquid/Wsdl2Editor/DiagramFont" type="System.Drawing.Font">Tahoma, 8.25pt, style=Bold</Property>
+  <Property name="cfg://liquid/Wsdl2Editor/DiagramSpacing" type="System.Int32">3</Property>
+  <Property name="cfg://liquid/Wsdl2Editor/IncludeSoap11Encoding" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/Wsdl2Editor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/WsdlEditor/DiagramDefaultZoom" type="System.Double">1</Property>
+  <Property name="cfg://liquid/WsdlEditor/DiagramFont" type="System.Drawing.Font">Tahoma, 8.25pt, style=Bold</Property>
+  <Property name="cfg://liquid/WsdlEditor/DiagramSpacing" type="System.Int32">3</Property>
+  <Property name="cfg://liquid/WsdlEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/xHtmlEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AddClosingTagToElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AddComplexTypesToElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AutoAddAttributesToElements" type="LiquidTechnologies.Xml.Editor.AutoCreateAttributes">Required</Property>
+  <Property name="cfg://liquid/XmlEditor/AutoCompleteAttributes" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AutoCompleteClosingElementTags" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AutoCompleteElements" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AutoFormatOnElementClose" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AutoFormatOnPaste" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AutoSuggestAttributeValues" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/AutoSuggestElementValues" type="LiquidTechnologies.Xml.Editor.ElementAutoSuggest">OnOpeningTag</Property>
+  <Property name="cfg://liquid/XmlEditor/DefaultXmlValidator" type="System.String">XML:.Net:1.0:Validating</Property>
+  <Property name="cfg://liquid/XmlEditor/ExpandAnyIntoElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/IntellisenseEnabled" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XmlEditor/MaxSuggestions" type="System.Int32">200</Property>
+  <Property name="cfg://liquid/XmlEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XQueryEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AddClosingTagToElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AddComplexTypesToElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AlwaysShowCardinality" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/XsdEditor/AutoAddAttributesToElements" type="LiquidTechnologies.Xml.Editor.AutoCreateAttributes">Required</Property>
+  <Property name="cfg://liquid/XsdEditor/AutoCompleteAttributes" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AutoCompleteClosingElementTags" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AutoCompleteElements" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AutoFormatOnElementClose" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AutoFormatOnPaste" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AutoSuggestAttributeValues" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/AutoSuggestElementValues" type="LiquidTechnologies.Xml.Editor.ElementAutoSuggest">OnOpeningTag</Property>
+  <Property name="cfg://liquid/XsdEditor/DefaultXsdValidator" type="System.String">XSD:.Net:1.0:Validating</Property>
+  <Property name="cfg://liquid/XsdEditor/DiagramDefaultZoom" type="System.Double">1</Property>
+  <Property name="cfg://liquid/XsdEditor/DiagramFillColors" type="System.Collections.Specialized.StringDictionary">&lt;entries /&gt;</Property>
+  <Property name="cfg://liquid/XsdEditor/DiagramFont" type="System.Drawing.Font">Arial, 8.25pt, style=Bold</Property>
+  <Property name="cfg://liquid/XsdEditor/DiagramSpacing" type="System.Int32">2</Property>
+  <Property name="cfg://liquid/XsdEditor/ExpandAnyIntoElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/IntellisenseEnabled" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/MaxSuggestions" type="System.Int32">200</Property>
+  <Property name="cfg://liquid/XsdEditor/MaxTextWidth" type="System.Double">200</Property>
+  <Property name="cfg://liquid/XsdEditor/MinTextWidth" type="System.Double">50</Property>
+  <Property name="cfg://liquid/XsdEditor/OpenImportedSchema" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/ShowBoxShadow" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/ShowDefaultCardinalityInBraces" type="System.Boolean">False</Property>
+  <Property name="cfg://liquid/XsdEditor/ShowInlineAnnotations" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/ShowInlineProperties" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/ShowOptionsWhenGeneratingXmlFromElement" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/ShowToolTipNotes" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/ShowToolTipRelations" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/ShowToolTips" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsdEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AddClosingTagToElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AddComplexTypesToElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AutoAddAttributesToElements" type="LiquidTechnologies.Xml.Editor.AutoCreateAttributes">Required</Property>
+  <Property name="cfg://liquid/XsltEditor/AutoCompleteAttributes" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AutoCompleteClosingElementTags" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AutoCompleteElements" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AutoFormatOnElementClose" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AutoFormatOnPaste" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AutoSuggestAttributeValues" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/AutoSuggestElementValues" type="LiquidTechnologies.Xml.Editor.ElementAutoSuggest">OnOpeningTag</Property>
+  <Property name="cfg://liquid/XsltEditor/ExpandAnyIntoElementSuggestions" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/IntellisenseEnabled" type="System.Boolean">True</Property>
+  <Property name="cfg://liquid/XsltEditor/MaxSuggestions" type="System.Int32">200</Property>
+  <Property name="cfg://liquid/XsltEditor/UseDefaultSettings" type="System.Boolean">True</Property>
+</Settings>

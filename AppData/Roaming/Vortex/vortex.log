@@ -3692,3 +3692,8 @@ Sun, 02 Jan 2022 12:25:45 GMT - info: state backup created ms=295, size=12124960
 Sun, 02 Jan 2022 13:25:45 GMT - info: state backup created ms=301, size=12124960
 Sun, 02 Jan 2022 14:25:45 GMT - info: state backup created ms=347, size=12124960
 Sun, 02 Jan 2022 15:25:45 GMT - info: state backup created ms=262, size=12124960
+Sun, 02 Jan 2022 15:46:28 GMT - debug: running checks event=plugins-changed, count=3
+Sun, 02 Jan 2022 15:46:28 GMT - warn: warning notification message=Missing Masters
+Sun, 02 Jan 2022 15:46:29 GMT - debug: all checks completed event=plugins-changed
+Sun, 02 Jan 2022 15:52:54 GMT - debug: running checks event=plugins-changed, count=3
+Sun, 02 Jan 2022 15:52:54 GMT - debug: all checks completed event=plugins-changed

@@ -1,0 +1,299 @@
+{
+    "accounts": [
+        {
+            "address_generator": {
+                "change": {
+                    "gap": 6,
+                    "maximum_uses_per_address": 1
+                },
+                "name": "deterministic-chain",
+                "receiving": {
+                    "gap": 20,
+                    "maximum_uses_per_address": 1
+                }
+            },
+            "certificates": {},
+            "encrypted": false,
+            "ledger": "lbc_mainnet",
+            "modified_on": 1612346754,
+            "name": "Account #bTK4Y7B2r66mzBRzaMpon1LUQKZK6Ra345",
+            "private_key": "xprv9s21ZrQH143K2napeWy8hdgZA1bygHFjzRfdgLM9UJEXKyBBVcxYLMrsCuMyTjaQDXZQcYd4evKGYyM9UNBHNduLJm9Cy1AxhCQiuSrMG4c",
+            "public_key": "xpub661MyMwAqRbcFGfHkYW94mdHi3SU5jybMebEUikm2dmWCmWL3AGntABM4CBKrb3AWiRC8fjfMca5JfjLHMV2ZL9LLyJfUediisPLqiE8trw",
+            "seed": "few lounge material shy item pigeon hello repair ginger bundle dumb inject"
+        },
+        {
+            "address_generator": {
+                "name": "single-address"
+            },
+            "certificates": {
+                "bGKeeRYFEeJ5XRp7ALRMYasyCSrsJbJHSp": "-----BEGIN EC PRIVATE KEY-----\nMHQCAQEEILrO3O6ow552KI5H75nAKLpOh3n660HRKez/l7lGFn06oAcGBSuBBAAK\noUQDQgAElHkeFIpQuox2DRsCNISYgDTpOkwD16lurqz2Cj6sCbAfEiKovw9XtI2Z\nXv/IYdiRfzweYnyIL+OMU32AjNlD6g==\n-----END EC PRIVATE KEY-----\n"
+            },
+            "encrypted": false,
+            "ledger": "lbc_mainnet",
+            "modified_on": 1610760494,
+            "name": "Account #bQ9SmF7o2ag6UddrpGRLSnLEShoUnp3oqK",
+            "private_key": "xprv9s21ZrQH143K2MJBLxyTgoYxewUHWoSbXx1guPs39iFumCknA6ebTZqfbevn9Gt2hSnKHC6bz3dR8mX4Ft5wQSh7hp2zEr8TBDMngArZwJL",
+            "public_key": "xpub661MyMwAqRbcEqNeSzWU3wVhCyJmvGASuAwHhnGei3nte15vhdxr1NA9Sx9KbnTCR6bfZDqbjDdKqddoodKfoyVLGsLL97hKyo2YsYrXoNz",
+            "seed": "clean unhappy bulb first expose mammal force reunion machine recipe like soon"
+        }
+    ],
+    "name": "My Wallet",
+    "preferences": {
+        "enable-sync": {
+            "ts": 1612346810,
+            "value": true
+        },
+        "local": {
+            "ts": 1612346787,
+            "value": {
+                "type": "object",
+                "value": {
+                    "app_welcome_version": "1",
+                    "blocked": [],
+                    "following": [],
+                    "settings": {
+                        "share_usage_data": true
+                    },
+                    "sharing_3P": true,
+                    "subscriptions": [],
+                    "tags": []
+                },
+                "version": "0.1"
+            }
+        },
+        "shared": {
+            "ts": 1612550070,
+            "value": {
+                "type": "object",
+                "value": {
+                    "app_welcome_version": "1",
+                    "blocked": [
+                        "lbry://@ElectroBOOM#9d40b87a50b576183d95ee2642faa4993a2748d6",
+                        "lbry://@SpiritScience#1dd1f89c9fec0450b8f446d88c8ca7eae806c54e",
+                        "lbry://@veritasium#fb364ef587872515f545a5b4b3182b58073f230f",
+                        "lbry://@UniverseInsideYou#8d935c6c30510e1dfc10f803a9646fa8aa128b07"
+                    ],
+                    "following": [
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@timcast#c9da929d12afe6066acc89eb044b552f0d63782a"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@LBRYnomics#2d09719c8e06ab54ca5c1b4e44ddf3ee9d30241f"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@AngryForeigner#f67929e214b9d2e6a317f96750093d00c757515a"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@AlphaNerd#8d497e7e96c789364c56aea7a35827d2dc1eea65"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@danwood#0e2b5b4cf59e859860000ff123dc12a317ad416b"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@undecidedmf#a87ee0c50662b13f11b6fdd3eefd4cee17930599"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@TimcastNews#0475ed551e9513cbf81d2bec27488b9f5ea78d9a"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@Thoughty2#b6e207c5f8c58e7c8362cd05a1501bf2f5b694f2"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@TheQuartering#113515e893b8186595595e594ecc410bae50c026"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@TimcastIRL#8954add966e59c9cba98a143a3387f788a36d7be"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@NextNewsNetwork#84edf7e474aba8a285d42a2ac1792801c5a2ca40"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@AdamcastIRL#7e3794fd44e6e696a12782b0326970bb4359d4f8"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@JordanBPeterson#c5724e280283cd985186af9a62494aae377daabd"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@CNCKitchen#8539673ff55e10a7ef2859d16194ad92c4d3a412"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@beneater#6c412e4afc8258ab65d83900b46289d68abc3872"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@eevblog2#4967034d0978c239b6e0bd4b1fea04d918c13a10"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@VWestlife#3e465c0163d8ab5635edb49e6f8f3933fa9cf42a"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@adriansdigitalbasement#fdc3b71d6e99fe305863ac72721637d2ce49d1ad"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@TheLinuxGamer#feb61536c007cdf4faeeaab4876cb397feaf6b51"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@NurdRage#5fbfcf517d3df749bd032a44c1946b2baa738ecb"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@3Blue1Brown#ba79c80788a9e1751e49ad401f5692d86f73a2db"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@NileRed#c5cd9b63e2ba0abc191feae48238f464baecb147"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@ElementalMaker#87b2669c65c60a36aa408f0177517a192db194a7"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@GreatScott#a52425228572850f40651d2f8fe965a7d1f7d003"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@EETechStuff#fe938863cb867c4e369d270bcfb062bb8281db2d"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@MinutePhysics#589276465a23c589801d874f484cc39f307d7ec7"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@bigclivedotcom#0d4e104ffc0ff0a6c8701e67cf13760f4e0335a8"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@WhatDaMath#b79c5dee207f6429d677d65999aed96449e02092"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@eevblog#74333143a3dcc001a5602aa524583fc75a013d75"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@AndreasSpiess#214e9c52c7b8e871f4f3d490791f524b09e4c564"
+                        },
+                        {
+                            "notificationsDisabled": true,
+                            "uri": "lbry://@Maddox#06f6e7b9a05f12823c7d93dc04826636ae99c938"
+                        }
+                    ],
+                    "settings": {
+                        "automatic_dark_mode_enabled": false,
+                        "autoplay": true,
+                        "dark_mode_times": {
+                            "from": {
+                                "formattedTime": "21:00",
+                                "hour": "21",
+                                "min": "00"
+                            },
+                            "to": {
+                                "formattedTime": "8:00",
+                                "hour": "8",
+                                "min": "00"
+                            }
+                        },
+                        "floating_player": true,
+                        "hide_balance": false,
+                        "hide_reposts": true,
+                        "hide_splash_animation": false,
+                        "instant_purchase_enabled": false,
+                        "instant_purchase_max": {
+                            "amount": 0.1,
+                            "currency": "LBC"
+                        },
+                        "show_mature": true,
+                        "theme": "dark"
+                    },
+                    "sharing_3P": true,
+                    "subscriptions": [
+                        "lbry://@3Blue1Brown#ba79c80788a9e1751e49ad401f5692d86f73a2db",
+                        "lbry://@AdamcastIRL#7e3794fd44e6e696a12782b0326970bb4359d4f8",
+                        "lbry://@adriansdigitalbasement#fdc3b71d6e99fe305863ac72721637d2ce49d1ad",
+                        "lbry://@AlphaNerd#8d497e7e96c789364c56aea7a35827d2dc1eea65",
+                        "lbry://@AndreasSpiess#214e9c52c7b8e871f4f3d490791f524b09e4c564",
+                        "lbry://@AngryForeigner#f67929e214b9d2e6a317f96750093d00c757515a",
+                        "lbry://@beneater#6c412e4afc8258ab65d83900b46289d68abc3872",
+                        "lbry://@bigclivedotcom#0d4e104ffc0ff0a6c8701e67cf13760f4e0335a8",
+                        "lbry://@CNCKitchen#8539673ff55e10a7ef2859d16194ad92c4d3a412",
+                        "lbry://@danwood#0e2b5b4cf59e859860000ff123dc12a317ad416b",
+                        "lbry://@EETechStuff#fe938863cb867c4e369d270bcfb062bb8281db2d",
+                        "lbry://@eevblog#74333143a3dcc001a5602aa524583fc75a013d75",
+                        "lbry://@eevblog2#4967034d0978c239b6e0bd4b1fea04d918c13a10",
+                        "lbry://@ElementalMaker#87b2669c65c60a36aa408f0177517a192db194a7",
+                        "lbry://@GreatScott#a52425228572850f40651d2f8fe965a7d1f7d003",
+                        "lbry://@JordanBPeterson#c5724e280283cd985186af9a62494aae377daabd",
+                        "lbry://@LBRYnomics#2d09719c8e06ab54ca5c1b4e44ddf3ee9d30241f",
+                        "lbry://@Maddox#06f6e7b9a05f12823c7d93dc04826636ae99c938",
+                        "lbry://@MinutePhysics#589276465a23c589801d874f484cc39f307d7ec7",
+                        "lbry://@NextNewsNetwork#84edf7e474aba8a285d42a2ac1792801c5a2ca40",
+                        "lbry://@NileRed#c5cd9b63e2ba0abc191feae48238f464baecb147",
+                        "lbry://@NurdRage#5fbfcf517d3df749bd032a44c1946b2baa738ecb",
+                        "lbry://@TheLinuxGamer#feb61536c007cdf4faeeaab4876cb397feaf6b51",
+                        "lbry://@TheQuartering#113515e893b8186595595e594ecc410bae50c026",
+                        "lbry://@Thoughty2#b6e207c5f8c58e7c8362cd05a1501bf2f5b694f2",
+                        "lbry://@timcast#c9da929d12afe6066acc89eb044b552f0d63782a",
+                        "lbry://@TimcastIRL#8954add966e59c9cba98a143a3387f788a36d7be",
+                        "lbry://@TimcastNews#0475ed551e9513cbf81d2bec27488b9f5ea78d9a",
+                        "lbry://@undecidedmf#a87ee0c50662b13f11b6fdd3eefd4cee17930599",
+                        "lbry://@VWestlife#3e465c0163d8ab5635edb49e6f8f3933fa9cf42a",
+                        "lbry://@WhatDaMath#b79c5dee207f6429d677d65999aed96449e02092"
+                    ],
+                    "tags": [
+                        "art",
+                        "comedy",
+                        "education",
+                        "science",
+                        "technology",
+                        "free speech",
+                        "learning",
+                        "pc",
+                        "how to",
+                        "conservative",
+                        "donald trump",
+                        "android",
+                        "mods",
+                        "hack",
+                        "diy",
+                        "satire",
+                        "react",
+                        "linux",
+                        "industry",
+                        "memes",
+                        "parody",
+                        "online learning",
+                        "software",
+                        "microsoft",
+                        "progressive talk",
+                        "retro",
+                        "modded",
+                        "howto"
+                    ]
+                },
+                "version": "0.1"
+            }
+        }
+    },
+    "version": 1
+}

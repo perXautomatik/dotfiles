@@ -6,40 +6,37 @@ BrokenSteel.esm
 PointLookout.esm
 Zeta.esm
 Unofficial Fallout 3 Patch.esm
-MultiIncrementTest.esp
-Unofficial Fallout 3 Patch - Broken Steel.esp
-Unofficial Fallout 3 Patch - Mothership Zeta.esp
+Project Beauty.esm
+SeducingWomen.esm
+Nasty Overhaul.esp
+sc_lovers_resource.esm
+sc_wasteland_pimp.esm
+K2_RaiderDolls.esm
 Unofficial Fallout 3 Patch - Operation Anchorage.esp
-Unofficial Fallout 3 Patch - Point Lookout.esp
+Unofficial Fallout 3 Patch - Broken Steel.esp
 Unofficial Fallout 3 Patch - The Pitt.esp
+Unofficial Fallout 3 Patch - Point Lookout.esp
+Unofficial Fallout 3 Patch - Mothership Zeta.esp
+Project Beauty- Broken Steel.esp
+Project Beauty- Point Lookout.esp
+GFRaiderDollsList.esp
+vanilla BnB clothes.esp
+SeducedDLC03.esp
+Action for men v3.0.esp
+Growlfs Hot FO3 Clothes.esp
+bittercup_comp.esp
+seducingmoira.esp
+Wasteland Gigolo.esp
+No sleeves no shirts.esp
+NPCs wear NSNS adult v2.esp
+skimpystockarmorDLC.esp
+Arcade'sNightwear.esp
+Lookout Outfits.esp
+Amy_Armor_and_co.esp
+Amy_Armor_and_co_ver2.esp
+rmQuantity.esp
+WorkbenchRepairsv2.esp
+AnimCoffeeMaker.esp
 Fo3ExportAtempt.esp
+YearlingsGlasses.esp
 SeducingWomen.esp
-rmExtendedHotkeys.esp
-EmptyPlugin.esp
-!Fix_Cages.esp
-!Fix_Decor.esp
-!Fix_Decor_DisplayCases.esp
-!Fix_Decor_Floors.esp
-!Fix_Decor_Nukaworld.esp
-!Fix_Decor_Vault.esp
-!Fix_Decor_WallDecor.esp
-!Fix_Furniture.esp
-!Fix_MainMenu_im_not_sure_why_u_need_that_one.esp
-!Fix_Power.esp
-!Fix_Power_Manufacturing.esp
-!Fix_Power_Neon.esp
-!Fix_Raider.esp
-!Fix_Resource.esp
-!Fix_Resource_Defence_emmm.esp
-!Fix_Structures.esp
-!Fix_Structures_BallTrack.esp
-!Fix_Structures_Barn.esp
-!Fix_Structures_BoxCars.esp
-!Fix_Structures_Concrete.esp
-!Fix_Structures_Fences.esp
-!Fix_Structures_Metal.esp
-!Fix_Structures_Scaffolding.esp
-!Fix_Structures_Vault.esp
-!Fix_Structures_Warehouse.esp
-!Fix_Structures_Wood.esp
-!Fix_Vendors.esp
