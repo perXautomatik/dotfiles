@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<CloudAccounts version="1.0">
+  <accounts>
+    <account Name="Christoffer Brobäck" Provider="OneDrive" DisplayName="Christoffer Brobäck" Description="" Id="1422113825" Password="">
+      <property key="OneDriveV2.AccessToken" value="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqGBhVnmzmEaQb8w6+SRg5wAAAAACAAAAAAAQZgAAAAEAACAAAAA4/puJZhqWfk5XK+DpkF1OrQzhRAH1vyXDixGMak/uSAAAAAAOgAAAAAIAACAAAACWTG+S7qF1YeYo2EszKmV5u+LjSeZCCc2L4qi7GZHSDLAEAAD9hnTr3NfVszMIIakl5zrHD38tXKUW4GF8Kt/txVabsfcs7CX2Y5punUB52C6j2ApRkMNB2Oj6EpBm9EaQQo3CsAOptaXrXUZCpni0kdligMMKtM2dcd6LLDiGnocLXOGn0Dvc9u9JP55ynj8syl3fdIx7jf1FCIElwnk9XsqjomAzFFATLdSlIH4NDy88DVTWl8ugqe5AdMak8taCbUC5CrhJ1+VdUAbZ4ENL5YkPVnenCnq9CVgr8Imgq/0ZLNGoF71UNFL4ptU6JdXFtJHk1SieR93mmjYYiqeAyvQJAIb2mj1hkvWvn3SxWA4Q5b3ak0pNIJ25CT41TXROCwq1CCzD699Zt+TQZ7jMiloi6dD5RgjZU/ouP6dpVNdI+9zNUY9I+8d0fLffDe+c0JrEkNi0f0IuMFt6qlQZMGBwScjlVXyu8AxhAEbox2+VEeMqIPdKUqYj22F7q2wBscyeyGrO5U4wK67AR6XgnVrs4MES5mxZ6ZQ32WSX8Wrbv/rTW3Rb+VkcCwsPBNV96QuYvjMfxmnNMbVhqVYNfDPHDwg6Dz8e9J2kWKK3JujDDxPqkgRyvqaGUg6GgXasSAp9QATxRg6U95PB4Ij9/0rhzfETzJn+C1Cj+6ezYb9TIBljSMefMQYkpuCpHLA/TuJduGuyOdHgREFjt1b9/wE+IY6hXsRXMaZw+UtBYiAYD998WijjLWqXLtVZaq4bVc8jvmpV8rHc80sahESqYfboP+Fv/xYmLR8R4q+FVKBQLxzjQuVjqnZrFv70dByfvv/7wq8dHA8vYDDpENW5acz3S87mgnDVRFFZpuOSF5iZG6LZxxjY2L8sPD53GsXGBVnbaHPqsvm5veUxa1L2AB8qREsnvxQDr90XGVRZ/21bytKmDwun58OGeJDKfw232oGsQipLLMQSd3bpr7EZuD25gM8oqaDAgr9ZzzqsupkC+KPbBsgp9nvH1ISNnIYFErJJ8G5aA/CkwDsTPfdfzgT4WbaDMNaXMTLg9VbBmg65WXpdtpB6fwQ3qDVV7hulMdyllYO5Q1LIS2Zz/Tv4YCUaUuOo8wrQWeJSUHZyYtKQSLnGSIzynz5298DOEuqRJfyJ01Fpc24KeDJP9sW6P6OYbu0hPpoHeZS94PHPRwBZvO/Ezh/a+dez5b6yDz8QtZqndI1Wzzr2VzAR60iRkThDODYI7LKqCpvx+vuY1wB712H8WPQFQNmWqXcGd7fusbow9B0qmmBYRkWftPYhh73kYxl3J7Q0pBO72ZU+0mbfZ48BfjDBLcRMf9+opEg59nzJhMuAe7YDGiCYUFVuE0mhrEvNfSgZ8ZXtzoyNg7ijYAon1NNGJrUPQW7nFfg6EqlnoSimIerl4pc6ItJDYzJxoTNg7R8AV3e+bZa6JOg0E8rWirBf9KtxIY18YX+XFNo/1Bf3oLnvvZ2+TS6RbXS5Em76yN55A/ihEEnk6/fY/0gHvJdm+d8oRPAQIdBIJI+J6dGH6pyBinuaAr5HtXPlX+Db0j9yD7Fs5oeXVqFTsh7Gy0w+hRmWdEpgOHphwNPpTKXWkS6cBL0RqjTDDUDC6T5pyhnr6uWDOsAWM7ep+dlAAAAAwEgdmgcHDg5RyDH8NrBD9ECMKAqhapvT4aFHurdsXeEytDmjKp/nv2XQUVzkWOQ5UqjLTcINzhGuEhUPCKaffA==" type="string" />
+      <property key="OneDriveV2.ExpireTime" value="2021-06-07 21:50:13" type="DateTime" />
+      <property key="OneDriveV2.RefreshToken" value="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqGBhVnmzmEaQb8w6+SRg5wAAAAACAAAAAAAQZgAAAAEAACAAAABQYfTGsGi3NfkD9iCbu9bQYEk58DSyQ6HTzPl0I8aqPwAAAAAOgAAAAAIAACAAAACiyjDq0RoOLsNUI7I8lEBCeBRfBu1gLGRT0gkJaOTd+7ABAAD+yEhj5zImDKZ7jMHOhsxZtqeyBLQ9uhESwHC5kbEonG1p+immzRV1R73E8DFtGsXaJokaS8FOEps5+DyehQd9LXdWgCCltrxVCl85oEwsC6ut+hSoPU+jATJQSQm3YgzocvvijuolcF9/l3HZOs4Fhld3XgIhvUPNeyT9XHQ1QEew/uHA0Sd+snx2Z3IpHM250uOxbRit/6GF5nLwPhb5OxZe3C9yOb9mlz0CuiKublQ96tuFeuYkg70WcOfUAAZSzbz2gAU9NcBKFK7NFO9DjswzLKZa5U+etydH7dT5ztULKFFD3zWj1oHfAz4tXNhUzgI3BD1mAdP9ZCgM5BlsiAcJ9gKUdBVe+n6FHWmK3GG6Yj0fcMIVb5XBSR2uCQvxLWs0d2FymcAQjmYEenGsJ6bhUMQOjIEfo2YJQplgmj+u/uFpy8cbO2/9X92K+uzTHGHMKPEYkqC0rGZ7XENVBVwmvbAF63mscyEK03s1ufeLhvieBLi1Apx888elTymbV8fKDE5YzeRVvW9Nl48GjqsG1k1n43dQIZg6wuJDDXYErS1oMqabMw2NCIxMTQ9AAAAAuChRaa+t9c4e5oSOLgaAbpgWraybDgXI5nRMFhLC7kD+TVCYRcmMvf5cqXkQV9u+jz6oYdXp03rT8A12l8dtuA==" type="string" />
+      <property key="OneDrive.AccessToken" value="" type="string" />
+      <property key="OneDrive.ExpireTime" value="0001-01-01 00:00:00" type="DateTime" />
+      <property key="OneDrive.RefreshToken" value="" type="string" />
+      <property key="TreeVisible" value="True" type="bool" />
+      <property key="listview" value="details" type="string" />
+    </account>
+    <account Name="Christoffer Brobäck" Provider="GoogleDrive" DisplayName="Christoffer Brobäck" Description="" Id="678119809" Password="">
+      <property key="GoogleDrive.AccessToken" value="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqGBhVnmzmEaQb8w6+SRg5wAAAAACAAAAAAAQZgAAAAEAACAAAABD2JG9S5jjldhL+OaXKalr8bAe1JZr3XVSctSvwd5J1wAAAAAOgAAAAAIAACAAAAAly/2EOyz+JWYO2W2K5fKgyvsVTCd71CiIQ3DyC5aZcbAAAABLVCYTx3aDd1EhQkXTxLTmKi2q/l3M8ch//p4Izok/dtER7Er1byVgQVhefZg0dGLqRdEtTLBhKmBLryuKkQjxtlKHbla1wQGOunwZOfFWewh9AUDinKLxigfqRj1GXkX0pOVBbELdN/xh7o2C179GfIaYfu2Is/R3m7ZE43mxz1El1pDcBJxcl/NiRVL42juQXF2zFf3sie6vY9LVgg8ir+kFUFLXlv/mnY+5EG0T1EAAAACX4/XN645GCCMD7OOTbf2HUtZL2kD3PPQ3Q5WdjEvFmIht3CSIUZeiAy36VUcaxTvYDhFeewTh+zVSuogiObb5" type="string" />
+      <property key="GoogleDrive.ExpireTime" value="2021-06-06 22:39:30" type="DateTime" />
+      <property key="GoogleDrive.RefreshToken" value="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqGBhVnmzmEaQb8w6+SRg5wAAAAACAAAAAAAQZgAAAAEAACAAAADWkeJmqRB1ZRykMuCgkI0f1HYPSW3tRVgjvHr4/9fHNgAAAAAOgAAAAAIAACAAAADA3nHYSZpKAR7k6tcWEoQ1DXWcmkpLdgSL7E8HDlUqHXAAAAB7FHFyLLgKZq6kJHApa2AcP4M9VF2qgJWyt3GHoXXBZhjTFzXghkf7gT5vFKTlWADRGo2M7bChxFbJJk8cFn0Ci4I/yggiaIlJDtJUZwBGWQjk205tlE2N12NwPDG6ASUTeV2TCt7ahO2wRdCOW0a9QAAAAPM9dvpuS4rzXEWGXB0zrGRTak/TOBiN/ttkQ0aRI+rPu9zLxTfz391dF3D0sJ+vRqisniY/hk49VvpKG5iOlyw=" type="string" />
+      <property key="TreeVisible" value="True" type="bool" />
+      <property key="GoogleDrive.ShowOthersDrives" value="True" type="string" />
+      <property key="listview" value="details" type="string" />
+      <property key="GoogleDrive.DeleteToThrash" value="True" type="string" />
+    </account>
+    <account Name="christoffer broback" Provider="DropBox" DisplayName="christoffer broback" Description="" Id="1027829942" Password="">
+      <property key="DropBox.AccessTokenEnc" value="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqGBhVnmzmEaQb8w6+SRg5wAAAAACAAAAAAAQZgAAAAEAACAAAABKIBlVo+47An14Z7LDDBqBVu3Q9MUuE13Hzl5RGOnEogAAAAAOgAAAAAIAACAAAADAFvz8u0meUfx/GxwFLui2kwSaqzvaFphkT+n9UlPHOVAAAABi34hn6qOAFvUEv6/OEzBAfoO44lfPexs6BIXYv27GazybfnxWNGk7Dy+9fC+4QCanNWW9tFwKLpAlDeXHu/kZLLUusV9xzR18wCOA2Z8HrEAAAAC9B89PdUOvBEEqU4AWnV2JFHfNYtupBTdO4nBTKh4T3BITOKH1MCAxD/ffNKJerL77qXtk/nRp84v6hD8EP6w6" type="string" />
+      <property key="TreeVisible" value="True" type="bool" />
+      <property key="listview" value="details" type="string" />
+      <property key="DropBox.EnableBatchUploads" value="True" type="string" />
+    </account>
+  </accounts>
+</CloudAccounts>
