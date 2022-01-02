@@ -7,6 +7,9 @@
             },
             {
                 "folderUri": "file:///c%3A/Users/dator"
+            },
+            {
+                "fileUri": "file:///c%3A/Users/dator/AppData/Local/Microsoft_Corporation/PowerShell_ISE.exe_StrongName_lw2v2vm3wmtzzpebq33gybmeoxukb04w/3.0.0.0/user.config"
             }
         ]
     },
@@ -29,15 +32,14 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 30,
             "activityBarWidth": 48,
-            "sideBarWidth": 372,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///d%3A/ToGit/Notebook-Foam",
-            "backupPath": "C:\\Users\\dator\\AppData\\Roaming\\Code\\Backups\\ff90fa90e6efe9a8126d42ac6bdc8527",
+            "backupPath": "C:\\Users\\dator\\AppData\\Roaming\\Code\\Backups\\1641137526699",
             "uiState": {
                 "mode": 1,
                 "x": 316,
