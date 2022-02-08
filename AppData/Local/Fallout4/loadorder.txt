@@ -10,83 +10,128 @@ Unofficial Fallout 4 Patch.esp
 XDI.esm
 HUDFramework.esm
 WorkshopFramework.esm
+ArmorKeywords.esm
 CWRaiders.esl
 DDLL.esl
+FO76AmmoCrafting.esl
 MODFoodScraps.esm
 LupineRace.esm
 PANPC.esm
 VulpineRace.esm
+Corpse Collision.esl
+FlirtyCommonwealth.esp
+CAMP.esp
+WOTC.esp
+BreakTheWallsDownFarHarbor.esp
+BreakTheWallsDownVault88.esp
+BetterModDescriptions.esp
+AllowWorkbenchDuringCombat.esp
 M8r_Item_Tags_Vanilla_EN.esp
+GKX Realistic Adhesive Deluxe DLC.esp
 free_downgrades_stubs.esp
 Better Manufacturing.esp
 Better Power Armor - Extended.esp
-KSHairdos.esp
-EarlierPipeWeaponMods.esp
-Kermie's Misc Components.esp
-LooksMenu.esp
-GZ_MiscItemOverhaul.esp
-WOTC.esp
-VulpineRace-NPCReplacer-DLC.esp
-CBBE.esp
-FusionGirl.esp
-Chainsaw.esp
-AllowWorkbenchDuringCombat.esp
-BetterModDescriptions.esp
-ECO.esp
 CommChemExpanded.esp
-free_downgrades_DLCCoast.esp
-free_downgrades_DLCNuka.esp
-CraftPatch2.esp
+EarlierPipeWeaponMods.esp
 Simple Inventory Improvements.esp
 More Armor Slots - All Dlc.esp
-CCOFoxyFactionsReplacer.esp
-CCOVulgarVillainsReplacer.esp
+WolfRaceReplacer3.esp
+PiperCaitCurieDialogueOverhaul.esp
+subwayrunnerwip.esp
+ECO.esp
+free_downgrades_DLCCoast.esp
+free_downgrades_DLCNuka.esp
+Kermie's Misc Components.esp
+GZ_MiscItemOverhaul.esp
+Kor_Scavenger.esp
+MoreVariedBodyShapesAndSkins.esp
+Chainsaw.esp
+CraftPatch2.esp
 spacefiddle_Scarcity_Full.esp
 Weapon Mods Mod.esp
 Extended weapon mods.esp
 MoreWeapMods.esp
 Unlevelled Everything - Mods.esp
+VulpineRace-NPCReplacer-DLC.esp
 RaiderOverhaul.esp
 Raider Overhaul - AE Patch-Restored Content-VIS.esp
 FurryFallout.esp
-CustomRaceHeadgear.esp
 FurryFalloutNPCs.esp
-CustomRaceHeadgear_FFO.esp
-CustomRaceHeadgear_Vulpine.esp
-FFO_NPC_DLC.esp
+MoreSpawns_High.esp
 MostlyFemale.esp
 RaidersReloaded.esp
+BreakheartBanksSettlementSPE.esp
+CustomRaceHeadgear.esp
+FFO_NPC_DLC.esp
 NamedNPCProtect+UFOpatch.esp
-Random_Enemy_Weapons_DLC.esp
+strongerRobotsSynthsTurrets.esp
 Important NPCs essential edition 1.1.esp
 NPCs Protected Not Essential.esp
+GR001-AutomatronRebooted.esp
+CcoVulagarVilliansR.esp
+CCOFoxyFactionsReplacer.esp
+CCOVulgarVillainsReplacer.esp
+CBBE.esp
+KSHairdos.esp
+CustomRaceHeadgear_FFO.esp
+CustomRaceHeadgear_Vulpine.esp
+Random_Enemy_Weapons_DLC.esp
 FFO-Player-OTTER.esp
-MoreSpawns_High.esp
-DT_GunnerOutfitPack.esp
+FusionGirl.esp
+LynnWoodsSettlement.esp
+ImmersiveScrapping_TidyUp.esp
 Power Armor to the People.esp
-VulpinePowerArmor.esp
+MikeMooresMCAM.esp
+DT_GunnerOutfitPack.esp
 Gunner Outfit Extreme Overhaul.esp
+LooksMenu.esp
+VulpinePowerArmor.esp
 FurryPatch.esp
 Power Armor to the People - Nuka-World.esp
+BreakTheWallsDownNukaWorld.esp
 Power Armor to the People - AWKCR-SAR.esp
 4estGimp - RO.FallUI.PA_INNR.esp
+WeaponModsPatch.esp
+Desperate Raiders.esp
+Ferals After Dark.esp
+More Human Raider Loot.esp
+Power Armor to the People - Raider Overhaul.esp
+Leveled Raiders.esp
+Power Armor to the People - Far Harbor.esp
+SalvageRobotParts.esp
+RaidersPatch.esp
+SettlementAttacksBeyond.esp
+ATreeGrowsInBoston.esp
 advancedAITweaks.esp
+AdvancedWorkshopFoodHarvesting-AllDLC.esp
+BetterModDescriptionsAE.esp
+BetterModDescriptionsROWIP.esp
+FO76AmmoDeconstruction.esp
+AnatomicallyCorrectFerals.esp
+AnatomicallyCorrectFerals_FH.esp
+AnatomicallyCorrectFerals_NW.esp
 AutomaticSave.esp
+BetterBloatflies.esp
 Better Manufacturing - Crafting Framework Additions.esp
 ManufacturingExtended.esp
 Better Manufacturing - Manufacturing Extended Additions.esp
 DLC items to manufacturing.esp
 Better Manufacturing - Manufacturing Extended Expanded Patch.esp
+cartman1975_soylent.esp
 Better Manufacturing - Soylent Green Patch.esp
-CompanionWhistle.esp
-Desperate Raiders.esp
+Vanguard VIS-G Item Tweaks - Weightless.esp
+WeaponDrops.esp
+Better Weapon Scrap - Ultimate Edition_ESL.esp
+raidercorpseworkplease.esp
+CartographersMapMarkers Commonwealth.esp
+CartographersMapMarkers FarHarbor.esp
+CartographersMapMarkers NukaWorld.esp
+CK-ChemCraftingExpanded.esp
 DisableAutoAimF4.esp
+FCEjectNoMore.esp
 M8rDisablePipboyEffects.esp
 MaterialModSlot-FallUIWorkbenchPatch.esp
-CAMP.esp
 fastcorpseclear.esp
-Ferals After Dark.esp
-Fire Behavior Crippling v1 DLC.esp
 FFO-Player-SNEKDOG.esp
 FFO-Player-CHEETAH.esp
 FFO-Player-DEER.esp
@@ -97,39 +142,56 @@ FFO-Player-LYKAIOS.esp
 FFO-Player-TIGER.esp
 VulpinePlayer.esp
 FFO-Player-HYENA.esp
-GR001-AutomatronRebooted.esp
-More Human Raider Loot.esp
-Power Armor to the People - Raider Overhaul.esp
-Leveled Raiders.esp
+GCM.esp
+Kor_Scavenger_RA.esp
+Live Dismemberment - Brutal.esp
+Live Dismemberment - Insane-o.esp
+Live Dismemberment - Liebermode.esp
+Live Dismemberment - Mental.esp
+Live Dismemberment - Mind-Blowing.esp
+Live Dismemberment - POSTAL.esp
+Live Dismemberment - Regular.esp
 Loot Detector.esp
 LostWorld.esp
 Lucky's Intresting Tips 1.4.esp
 LupinePlayer.esp
-Power Armor to the People - Far Harbor.esp
+MamaMutie.esp
+molotovcraftingredone.esp
+More Weapon Scrap.esp
+PeopleAreStrangers.esp
 SKKGlobalStashScrapping.esp
 SKKOmodStripper.esp
 SKKRESystemManager.esp
-SalvageRobotParts.esp
+SKKSettlementAttackSystem.esp
 spacefiddle_Scarcity_OverbossPatch.esp
 SleeplessNights.esp
-RaidersPatch.esp
 UncommonCrafting.esp
 WorkshopPlus.esp
-raidercorpseworkplease.esp
 ConstructionPatch.esp
 dcc-palock.esp
 UNnaked Power Armor.esp
+EFF.esp
 UnrestrictivePowerArmor.esp
+Vivid Fallout - All in One - Best Choice.esp
+WheelMenu.esp
+BetterNightVision.esp
+DarkerNights.esp
+DarkerNightsDetection.esp
+Running with Corpses.esp
+ScrapThrowables.esp
+Better Locational Damage - Robot Edition.esp
 WeaponDisarm.esp
-FCEjectNoMore.esp
-More Weapon Scrap.esp
-BetterModDescriptionsAE.esp
-BetterModDescriptionsROWIP.esp
-PeopleAreStrangers.esp
-ATreeGrowsInBoston.esp
 SuperPatch.esp
-spacefiddle_HomeDespot.esp
-IcebreakerCDO-Settlements.esp
-MamaMutie.esp
+BreakTheWallsDown.esp
+StoreAllJunk_SeasonPassEdition.esp
+FurryManualPatch.esp
+StandaloneCustomizableFEnemyBodiesStandard.esp
+Synth Overhaul.esp
+Synth Overhaul - No level requirements Patch.esp
+CrazyEarlsScrapyard.esp
+CrazyEarlsScrapyard_Lore.esp
+sad.esp
+ToBeLupinized.esp
+CF_AtomicWarlord.esp
 Bashed Patch, 0.esp
 Smashed Patch.esp
