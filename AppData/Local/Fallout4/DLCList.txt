@@ -32,7 +32,6 @@ FurryFallout.esp
 FurryFalloutNPCs.esp
 FurryPatch.esp
 FusionGirl.esp
-JBR_NPC.esp
 KSHairdos.esp
 LooksMenu.esp
 raidercorpseworkplease.esp
@@ -40,3 +39,119 @@ VulpinePlayer.esp
 VulpinePowerArmor.esp
 VulpineRace-NPCReplacer-DLC.esp
 VulpineRace.esm
+4estGimp - RO.FallUI.PA_INNR.esp
+advancedAITweaks.esp
+AllowWorkbenchDuringCombat.esp
+ArmorKeywords.esm
+ATreeGrowsInBoston.esp
+Bashed Patch, 0.esp
+Better Manufacturing - Crafting Framework Additions.esp
+Better Manufacturing - Manufacturing Extended Additions.esp
+Better Manufacturing - Manufacturing Extended Expanded Patch.esp
+Better Manufacturing - Soylent Green Patch.esp
+Better Manufacturing.esp
+Better Power Armor - Extended.esp
+Better Weapon Scrap - Ultimate Edition_ESL.esp
+BetterBloatflies.esp
+BetterModDescriptions.esp
+BetterModDescriptionsAE.esp
+BetterModDescriptionsROWIP.esp
+CAMP.esp
+CartographersMapMarkers Commonwealth.esp
+CartographersMapMarkers FarHarbor.esp
+CartographersMapMarkers NukaWorld.esp
+Chainsaw.esp
+CK-ChemCraftingExpanded.esp
+CommChemExpanded.esp
+ConstructionPatch.esp
+CraftPatch2.esp
+dcc-palock.esp
+Desperate Raiders.esp
+DisableAutoAimF4.esp
+DLC items to manufacturing.esp
+DT_GunnerOutfitPack.esp
+EarlierPipeWeaponMods.esp
+ECO.esp
+EFF.esp
+Extended weapon mods.esp
+fastcorpseclear.esp
+FCEjectNoMore.esp
+Ferals After Dark.esp
+FlirtyCommonwealth.esp
+FO76AmmoDeconstruction.esp
+free_downgrades_DLCCoast.esp
+free_downgrades_DLCNuka.esp
+free_downgrades_stubs.esp
+GR001-AutomatronRebooted.esp
+Gunner Outfit Extreme Overhaul.esp
+GZ_MiscItemOverhaul.esp
+HUDFramework.esm
+IcebreakerCDO-Settlements.esp
+Important NPCs essential edition 1.1.esp
+Kermie's Misc Components.esp
+Kor_Scavenger.esp
+Kor_Scavenger_RA.esp
+Leveled Raiders.esp
+Live Dismemberment - Brutal.esp
+Live Dismemberment - Insane-o.esp
+Live Dismemberment - Liebermode.esp
+Live Dismemberment - Mental.esp
+Live Dismemberment - Mind-Blowing.esp
+Live Dismemberment - POSTAL.esp
+Live Dismemberment - Regular.esp
+Loot Detector.esp
+LostWorld.esp
+Lucky's Intresting Tips 1.4.esp
+LupinePlayer.esp
+LupineRace.esm
+MamaMutie.esp
+ManufacturingExtended.esp
+MikeMooresMCAM.esp
+MODFoodScraps.esm
+molotovcraftingredone.esp
+More Armor Slots - All Dlc.esp
+More Human Raider Loot.esp
+More Weapon Scrap.esp
+MoreSpawns_High.esp
+MoreVariedBodyShapesAndSkins.esp
+MoreWeapMods.esp
+MostlyFemale.esp
+NamedNPCProtect+UFOpatch.esp
+NPCs Protected Not Essential.esp
+PANPC.esm
+PeopleAreStrangers.esp
+Power Armor to the People - AWKCR-SAR.esp
+Power Armor to the People - Far Harbor.esp
+Power Armor to the People - Nuka-World.esp
+Power Armor to the People - Raider Overhaul.esp
+Power Armor to the People.esp
+Raider Overhaul - AE Patch-Restored Content-VIS.esp
+RaiderOverhaul.esp
+RaidersPatch.esp
+RaidersReloaded.esp
+Random_Enemy_Weapons_DLC.esp
+SalvageRobotParts.esp
+SettlementAttacksBeyond.esp
+Simple Inventory Improvements.esp
+SKKGlobalStashScrapping.esp
+SKKOmodStripper.esp
+SKKRESystemManager.esp
+SleeplessNights.esp
+spacefiddle_HomeDespot.esp
+spacefiddle_Scarcity_Full.esp
+spacefiddle_Scarcity_OverbossPatch.esp
+SuperPatch.esp
+UncommonCrafting.esp
+Unlevelled Everything - Mods.esp
+UNnaked Power Armor.esp
+Unofficial Fallout 4 Patch.esp
+UnrestrictivePowerArmor.esp
+Vivid Fallout - All in One - Best Choice.esp
+Weapon Mods Mod.esp
+WeaponDisarm.esp
+WheelMenu.esp
+WorkshopPlus.esp
+WOTC.esp
+AdvancedWorkshopFoodHarvesting-AllDLC.esp
+GCM.esp
+SKKSettlementAttackSystem.esp

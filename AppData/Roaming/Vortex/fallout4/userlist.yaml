@@ -2,13 +2,15 @@ globals: []
 plugins:
   - name: eco.esp
     inc: []
+    after:
+      - more armor slots - all dlc.esp
   - name: armorsmith extended.esp
     inc: []
   - name: furryfalloutnpcs.esp
     after:
       - jbr_npc.esp
       - vulpinerace-npcreplacer-dlc.esp
-      - ccofoxyfactionsreplacer.esp
+      - furryfallout.esp
   - name: ffo-player-hyena.esp
     after:
       - vulpineplayer.esp
@@ -60,6 +62,31 @@ plugins:
   - name: raidersreloaded.esp
     after:
       - mostlyfemale.esp
+      - morespawns_high.esp
   - name: dlc items to manufacturing.esp
     after: []
+  - name: vulpinerace-npcreplacer-dlc.esp
+    after:
+      - morevariedbodyshapesandskins.esp
+  - name: unofficial fallout 4 patch.esp
+    after: []
+  - name: furrymanualpatch.esl
+    after:
+      - furryfallout.esp
+  - name: kor_scavenger.esp
+    after:
+      - gz_miscitemoverhaul.esp
+  - name: furryfallout.esp
+    after:
+      - morevariedbodyshapesandskins.esp
+  - name: furrymanualpatch.esp
+    after:
+      - raiderspatch.esp
+      - superpatch.esp
+  - name: ffo_npc_dlc.esp
+    after:
+      - wolfracereplacer3.esp
+  - name: tobelupinized.esp
+    after:
+      - sad.esp
 groups: []

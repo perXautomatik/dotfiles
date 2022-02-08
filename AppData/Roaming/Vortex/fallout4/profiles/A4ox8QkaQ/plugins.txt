@@ -3,126 +3,145 @@
 *XDI.esm
 *HUDFramework.esm
 *WorkshopFramework.esm
-*CWRaiders.esl
-*DDLL.esl
 *MODFoodScraps.esm
 *LupineRace.esm
 *PANPC.esm
 *VulpineRace.esm
-*M8r_Item_Tags_Vanilla_EN.esp
-*free_downgrades_stubs.esp
+*FlirtyCommonwealth.esp
 *Better Manufacturing.esp
-*Better Power Armor - Extended.esp
-*KSHairdos.esp
-*EarlierPipeWeaponMods.esp
-*Kermie's Misc Components.esp
-*LooksMenu.esp
-*GZ_MiscItemOverhaul.esp
 *WOTC.esp
-*VulpineRace-NPCReplacer-DLC.esp
-*CBBE.esp
-*FusionGirl.esp
-*Chainsaw.esp
-*AllowWorkbenchDuringCombat.esp
-*BetterModDescriptions.esp
 *ECO.esp
-*CommChemExpanded.esp
-*free_downgrades_DLCCoast.esp
-*free_downgrades_DLCNuka.esp
+*Kor_Scavenger.esp
 *CraftPatch2.esp
 *Simple Inventory Improvements.esp
-*More Armor Slots - All Dlc.esp
-*CCOFoxyFactionsReplacer.esp
-*CCOVulgarVillainsReplacer.esp
+*KSHairdos.esp
 *spacefiddle_Scarcity_Full.esp
-*Weapon Mods Mod.esp
 *Extended weapon mods.esp
 *MoreWeapMods.esp
-*Unlevelled Everything - Mods.esp
+*FusionGirl.esp
+*Chainsaw.esp
 *RaiderOverhaul.esp
-Raider Overhaul - AE Patch-Restored Content-VIS.esp
 *FurryFallout.esp
-*CustomRaceHeadgear.esp
+*MoreVariedBodyShapesAndSkins.esp
 *FurryFalloutNPCs.esp
-*CustomRaceHeadgear_FFO.esp
-*CustomRaceHeadgear_Vulpine.esp
-*FFO_NPC_DLC.esp
-*MostlyFemale.esp
 *RaidersReloaded.esp
-NamedNPCProtect+UFOpatch.esp
 *Random_Enemy_Weapons_DLC.esp
-*Important NPCs essential edition 1.1.esp
-*NPCs Protected Not Essential.esp
 *FFO-Player-OTTER.esp
 *MoreSpawns_High.esp
 *DT_GunnerOutfitPack.esp
-*Power Armor to the People.esp
-*VulpinePowerArmor.esp
-*Gunner Outfit Extreme Overhaul.esp
 *FurryPatch.esp
-*Power Armor to the People - Nuka-World.esp
-Power Armor to the People - AWKCR-SAR.esp
-*4estGimp - RO.FallUI.PA_INNR.esp
 *advancedAITweaks.esp
-*AutomaticSave.esp
-Better Manufacturing - Crafting Framework Additions.esp
 *ManufacturingExtended.esp
 *Better Manufacturing - Manufacturing Extended Additions.esp
 *DLC items to manufacturing.esp
 *Better Manufacturing - Manufacturing Extended Expanded Patch.esp
-Better Manufacturing - Soylent Green Patch.esp
-CompanionWhistle.esp
 *Desperate Raiders.esp
+*RaidersPatch.esp
+*SettlementAttacksBeyond.esp
+*CartographersMapMarkers Commonwealth.esp
+*CartographersMapMarkers FarHarbor.esp
+*CartographersMapMarkers NukaWorld.esp
 *DisableAutoAimF4.esp
+*GR001-AutomatronRebooted.esp
+*Live Dismemberment - POSTAL.esp
+*molotovcraftingredone.esp
+*SKKGlobalStashScrapping.esp
+*SleeplessNights.esp
+*WorkshopPlus.esp
+*dcc-palock.esp
+*UNnaked Power Armor.esp
+*WeaponDisarm.esp
+*SuperPatch.esp
+*EFF.esp
+*CWRaiders.esl
+*DDLL.esl
+*BetterModDescriptions.esp
+*AllowWorkbenchDuringCombat.esp
+*M8r_Item_Tags_Vanilla_EN.esp
+*free_downgrades_stubs.esp
+*Better Power Armor - Extended.esp
+*CommChemExpanded.esp
+*EarlierPipeWeaponMods.esp
+*free_downgrades_DLCCoast.esp
+*free_downgrades_DLCNuka.esp
+*Kermie's Misc Components.esp
+*GZ_MiscItemOverhaul.esp
+*More Armor Slots - All Dlc.esp
+*CCOFoxyFactionsReplacer.esp
+*CCOVulgarVillainsReplacer.esp
+*CBBE.esp
+*Weapon Mods Mod.esp
+*LooksMenu.esp
+*Unlevelled Everything - Mods.esp
+*CustomRaceHeadgear.esp
+*VulpineRace-NPCReplacer-DLC.esp
+*CustomRaceHeadgear_FFO.esp
+*CustomRaceHeadgear_Vulpine.esp
+*FFO_NPC_DLC.esp
+*MostlyFemale.esp
+*Important NPCs essential edition 1.1.esp
+*NPCs Protected Not Essential.esp
+*Gunner Outfit Extreme Overhaul.esp
+*Power Armor to the People.esp
+*VulpinePowerArmor.esp
+*Power Armor to the People - Nuka-World.esp
+*4estGimp - RO.FallUI.PA_INNR.esp
+*ATreeGrowsInBoston.esp
+*BetterModDescriptionsROWIP.esp
+*AutomaticSave.esp
+*Better Weapon Scrap - Ultimate Edition_ESL.esp
+*Ferals After Dark.esp
+*More Human Raider Loot.esp
+*Power Armor to the People - Raider Overhaul.esp
+*Leveled Raiders.esp
+*Power Armor to the People - Far Harbor.esp
+*SalvageRobotParts.esp
+*raidercorpseworkplease.esp
+*FCEjectNoMore.esp
 *M8rDisablePipboyEffects.esp
 *MaterialModSlot-FallUIWorkbenchPatch.esp
 *CAMP.esp
 *fastcorpseclear.esp
-*Ferals After Dark.esp
-Fire Behavior Crippling v1 DLC.esp
-FFO-Player-SNEKDOG.esp
+*Loot Detector.esp
+*LostWorld.esp
+*Lucky's Intresting Tips 1.4.esp
+*MamaMutie.esp
+*PeopleAreStrangers.esp
+*UncommonCrafting.esp
+*UnrestrictivePowerArmor.esp
+BetterModDescriptionsAE.esp
+BetterBloatflies.esp
+Better Manufacturing - Crafting Framework Additions.esp
+Better Manufacturing - Soylent Green Patch.esp
+EquipSettlers.esl
 FFO-Player-CHEETAH.esp
 FFO-Player-DEER.esp
 FFO-Player-FOX.esp
 FFO-Player-HORSE.esp
+FFO-Player-HYENA.esp
 FFO-Player-LION.esp
 FFO-Player-LYKAIOS.esp
+FFO-Player-SNEKDOG.esp
 FFO-Player-TIGER.esp
-VulpinePlayer.esp
-FFO-Player-HYENA.esp
-*GR001-AutomatronRebooted.esp
-*More Human Raider Loot.esp
-*Power Armor to the People - Raider Overhaul.esp
-*Leveled Raiders.esp
-*Loot Detector.esp
-*LostWorld.esp
-*Lucky's Intresting Tips 1.4.esp
-LupinePlayer.esp
-*Power Armor to the People - Far Harbor.esp
-*SKKGlobalStashScrapping.esp
-SKKOmodStripper.esp
-SKKRESystemManager.esp
-*SalvageRobotParts.esp
-spacefiddle_Scarcity_OverbossPatch.esp
-*SleeplessNights.esp
-*RaidersPatch.esp
-*UncommonCrafting.esp
-*WorkshopPlus.esp
-*raidercorpseworkplease.esp
-*ConstructionPatch.esp
-*dcc-palock.esp
-*UNnaked Power Armor.esp
-*UnrestrictivePowerArmor.esp
-*WeaponDisarm.esp
-*FCEjectNoMore.esp
-More Weapon Scrap.esp
-BetterModDescriptionsAE.esp
-*BetterModDescriptionsROWIP.esp
-*PeopleAreStrangers.esp
-*ATreeGrowsInBoston.esp
-*SuperPatch.esp
 spacefiddle_HomeDespot.esp
 IcebreakerCDO-Settlements.esp
-*MamaMutie.esp
+Kor_Scavenger_RA.esp
+Live Dismemberment - Brutal.esp
+Live Dismemberment - Insane-o.esp
+Live Dismemberment - Liebermode.esp
+Live Dismemberment - Mental.esp
+Live Dismemberment - Mind-Blowing.esp
+Live Dismemberment - Regular.esp
+LupinePlayer.esp
+More Weapon Scrap.esp
+NamedNPCProtect+UFOpatch.esp
+Power Armor to the People - AWKCR-SAR.esp
+SKKOmodStripper.esp
+SKKRESystemManager.esp
+spacefiddle_Scarcity_OverbossPatch.esp
+ConstructionPatch.esp
+Raider Overhaul - AE Patch-Restored Content-VIS.esp
+VulpinePlayer.esp
+ArmorKeywords.esm
 Bashed Patch, 0.esp
 Smashed Patch.esp
