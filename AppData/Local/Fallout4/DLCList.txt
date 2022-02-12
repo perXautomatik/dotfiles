@@ -86,7 +86,6 @@ GR001-AutomatronRebooted.esp
 Gunner Outfit Extreme Overhaul.esp
 GZ_MiscItemOverhaul.esp
 HUDFramework.esm
-IcebreakerCDO-Settlements.esp
 Important NPCs essential edition 1.1.esp
 Kermie's Misc Components.esp
 Kor_Scavenger.esp
@@ -137,7 +136,6 @@ SKKGlobalStashScrapping.esp
 SKKOmodStripper.esp
 SKKRESystemManager.esp
 SleeplessNights.esp
-spacefiddle_HomeDespot.esp
 spacefiddle_Scarcity_Full.esp
 spacefiddle_Scarcity_OverbossPatch.esp
 SuperPatch.esp
@@ -155,3 +153,39 @@ WOTC.esp
 AdvancedWorkshopFoodHarvesting-AllDLC.esp
 GCM.esp
 SKKSettlementAttackSystem.esp
+AnatomicallyCorrectFerals.esp
+AnatomicallyCorrectFerals_FH.esp
+AnatomicallyCorrectFerals_NW.esp
+Better Locational Damage - Robot Edition.esp
+BetterNightVision.esp
+BreakheartBanksSettlementSPE.esp
+BreakTheWallsDown.esp
+BreakTheWallsDownFarHarbor.esp
+BreakTheWallsDownNukaWorld.esp
+BreakTheWallsDownVault88.esp
+cartman1975_soylent.esp
+CcoVulagarVilliansR.esp
+CF_AtomicWarlord.esp
+CrazyEarlsScrapyard.esp
+CrazyEarlsScrapyard_Lore.esp
+DarkerNights.esp
+DarkerNightsDetection.esp
+FurryManualPatch.esp
+GKX Realistic Adhesive Deluxe DLC.esp
+ImmersiveScrapping_TidyUp.esp
+LynnWoodsSettlement.esp
+PiperCaitCurieDialogueOverhaul.esp
+Running with Corpses.esp
+sad.esp
+ScrapThrowables.esp
+StandaloneCustomizableFEnemyBodiesStandard.esp
+StoreAllJunk_SeasonPassEdition.esp
+strongerRobotsSynthsTurrets.esp
+subwayrunnerwip.esp
+Synth Overhaul - No level requirements Patch.esp
+Synth Overhaul.esp
+ToBeLupinized.esp
+Vanguard VIS-G Item Tweaks - Weightless.esp
+WeaponDrops.esp
+WeaponModsPatch.esp
+WolfRaceReplacer3.esp

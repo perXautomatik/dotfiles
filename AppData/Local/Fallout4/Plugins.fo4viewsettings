@@ -4,10 +4,10 @@ vstNavColumnWidth0=318
 vstNavColumnWidth1=141
 vstNavColumnWidth2=191
 WindowState=0
-Left=659
-Top=8
+Left=83
+Top=40
 Width=1557
-Height=929
+Height=934
 DontBackup=1
 
 [Init]
@@ -59,12 +59,12 @@ UDRSetMSTT=1
 UDRSetMSTTValue=27
 
 [DeveloperMessage]
-LastShownOn=44589
+LastShownOn=44604
 Version=4000300
 
 [Usage]
-TotalTime=2.64062499999992
-EditWarnCount=26
+TotalTime=2.64618055555547
+EditWarnCount=27
 
 [ModGroups]
 Selection=bodyshapesFurruy,cbfusion,Cco,comchem,customhh,ESSENTIAL,ffnpc,ffo,ffvulpin,foNpc,Headgear,MurphySupreeem,playerOtter,RaiderOverHaulPowerArmour,SupreemMuti,"Unofficial Fallout 4 Patch - All",VulgarHeadgear
