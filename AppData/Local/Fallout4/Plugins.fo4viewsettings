@@ -1,13 +1,13 @@
 [frmMain]
-pnlNavWidth=646
+pnlNavWidth=671
 vstNavColumnWidth0=318
 vstNavColumnWidth1=141
-vstNavColumnWidth2=166
+vstNavColumnWidth2=191
 WindowState=0
-Left=507
-Top=246
-Width=1386
-Height=702
+Left=83
+Top=40
+Width=1557
+Height=934
 DontBackup=1
 
 [Init]
@@ -59,18 +59,18 @@ UDRSetMSTT=1
 UDRSetMSTTValue=27
 
 [DeveloperMessage]
-LastShownOn=44372
+LastShownOn=44604
 Version=4000300
 
 [Usage]
-TotalTime=2.20347222222235
-EditWarnCount=15
+TotalTime=2.64618055555547
+EditWarnCount=27
 
 [ModGroups]
-Selection="Unofficial Fallout 4 Patch - All"
+Selection=bodyshapesFurruy,cbfusion,Cco,comchem,customhh,ESSENTIAL,ffnpc,ffo,ffvulpin,foNpc,Headgear,MurphySupreeem,playerOtter,RaiderOverHaulPowerArmour,SupreemMuti,"Unofficial Fallout 4 Patch - All",VulgarHeadgear
 
 [View]
-LastUsedScript=Detect conflict between elements
+LastUsedScript=AAA FyTy - Show FormID
 IncludeScriptsFromSubDir=1
 HodeNoConflict=1
 ColumnWidth=1
@@ -85,7 +85,7 @@ Height=403
 
 [Filter]
 ConflictAll=0
-ConflictThis=1
+ConflictThis=0
 ByInjectStatus=0
 InjectStatus=1
 NotReachableStatus=1
@@ -119,17 +119,17 @@ HasPrecombinedMesh=1
 FlattenBlocks=1
 FlattenCellChilds=1
 AssignPersWrldChild=1
-InheritConflictByParent=0
+InheritConflictByParent=1
 caUnknown=0
 caOnlyOne=0
 caNoConflict=0
 caConflictBenign=0
 caOverride=0
-caConflict=0
-caConflictCritical=0
+caConflict=1
+caConflictCritical=1
 ctUnknown=0
 ctIgnored=0
-ctNotDefined=1
+ctNotDefined=0
 ctIdenticalToMaster=0
 ctOnlyOne=0
 ctHiddenByModGroup=0
@@ -138,7 +138,7 @@ ctConflictBenign=0
 ctOverride=0
 ctIdenticalToMasterWinsConflict=1
 ctConflictWins=0
-ctConflictLoses=0
+ctConflictLoses=1
 
 [frmLegend]
 WindowState=0
@@ -193,4 +193,8 @@ Zoom=62
 [GitHub]
 SnoozeVersion=4.1.2p
 SnoozeDate=44381
+
+[NexusMods]
+SnoozeVersion=4.0.4
+SnoozeDate=44593
 
