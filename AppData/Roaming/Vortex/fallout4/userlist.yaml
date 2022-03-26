@@ -11,6 +11,8 @@ plugins:
       - jbr_npc.esp
       - vulpinerace-npcreplacer-dlc.esp
       - furryfallout.esp
+      - synth overhaul.esp
+      - synth overhaul - no level requirements patch.esp
   - name: ffo-player-hyena.esp
     after:
       - vulpineplayer.esp
@@ -76,6 +78,7 @@ plugins:
   - name: kor_scavenger.esp
     after:
       - gz_miscitemoverhaul.esp
+      - vanguard vis-g item tweaks - weightless.esp
   - name: furryfallout.esp
     after:
       - morevariedbodyshapesandskins.esp
@@ -83,10 +86,55 @@ plugins:
     after:
       - raiderspatch.esp
       - superpatch.esp
+      - rabotspatch.esp
+      - better weapon scrap - ultimate edition_esl.esp
+      - more weapon scrap.esp
   - name: ffo_npc_dlc.esp
     after:
       - wolfracereplacer3.esp
   - name: tobelupinized.esp
     after:
       - sad.esp
+  - name: synth overhaul - no level requirements patch.esp
+    after: []
+  - name: manualfurrypatchmsynth.esp
+    after:
+      - raiderspatch.esp
+      - more weapon scrap.esp
+      - raidercorpseworkplease.esp
+      - uncommoncrafting.esp
+      - molotovcraftingredone.esp
+      - storealljunk_seasonpassedition.esp
+      - constructionpatch.esp
+      - ck-chemcraftingexpanded.esp
+      - weaponmodspatch.esp
+      - superpatch.esp
+      - craftpatch2.esp
+      - better weapon scrap - ultimate edition_esl.esp
+      - eco_cwraiders.esp
+      - eco_moreclothestextures.esp
+      - 4estgimp - fallui_r88_pa_innr.esp
+      - crazyearlsscrapyard.esp
+      - crazyearlsscrapyard_lore.esp
+  - name: m8r_item_tags_vanilla_en.esp
+    after:
+      - customraceheadgear.esp
+      - ccovulagarvilliansr.esp
+      - customraceheadgear_ffo.esp
+      - furrypatch.esp
+      - constructionpatch.esp
+      - ck-chemcraftingexpanded.esp
+      - desperate raiders.esp
+      - leveled raiders.esp
+      - power armor to the people - far harbor.esp
+      - salvagerobotparts.esp
+      - more human raider loot.esp
+      - ferals after dark.esp
+      - betterbloatflies.esp
+      - anatomicallycorrectferals_nw.esp
+      - anatomicallycorrectferals_fh.esp
+      - raiderspatch.esp
+      - storealljunk_seasonpassedition.esp
+      - weaponmodspatch.esp
+      - more weapon scrap.esp
 groups: []
