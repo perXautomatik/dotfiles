@@ -29,7 +29,7 @@
     {
         "key": "ctrl+enter",
         "command": "workbench.action.debug.start",
-        "when": "!inDebugMode"
+        "when": "!inDebugMode && editorLangId =~ /(sql|sqlite|ahk)/"
     },
     {
         "key": "f5",
@@ -835,6 +835,26 @@
     {
         "key": "ctrl+s",
         "command": "workbench.action.files.saveAll"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "run.ahk",
+        "when": "editorLangId == 'ahk'"
+    },
+    {
+        "key": "ctrl+f9",
+        "command": "-run.ahk",
+        "when": "editorLangId == 'ahk'"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "dendron.gotoNote",
+        "when": "editorFocus && !inDebugMode && !editorLangId =~ /(sql|sqlite|ahk)/"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "-dendron.gotoNote",
+        "when": "editorFocus"
     }
     
 ]
