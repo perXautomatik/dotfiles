@@ -1,0 +1,9 @@
+[submodule "Roaming/JetBrains/DataGrip2021.1"]
+	path = Roaming/JetBrains/DataGrip2021.1
+	url = D:/AppData/Roaming/JetBrains/DataGrip2021.1
+[submodule "Roaming/Scooter Software/Beyond Compare 4"]
+	path = Roaming/Scooter Software/Beyond Compare 4
+	url = D:/AppData/Roaming/Scooter Software/Beyond Compare 4
+[submodule "Roaming/Microsoft/Windows/PowerShell"]
+	path = Roaming/Microsoft/Windows/PowerShell
+	url = D:/AppData/Roaming/Microsoft/Windows/PowerShell

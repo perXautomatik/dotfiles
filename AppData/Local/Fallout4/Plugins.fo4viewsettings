@@ -1,11 +1,11 @@
 [frmMain]
-pnlNavWidth=646
+pnlNavWidth=745
 vstNavColumnWidth0=318
-vstNavColumnWidth1=141
-vstNavColumnWidth2=166
+vstNavColumnWidth1=171
+vstNavColumnWidth2=235
 WindowState=0
-Left=507
-Top=246
+Left=99
+Top=217
 Width=1386
 Height=702
 DontBackup=1
@@ -59,22 +59,23 @@ UDRSetMSTT=1
 UDRSetMSTTValue=27
 
 [DeveloperMessage]
-LastShownOn=44372
-Version=4000300
+LastShownOn=44654
+Version=4000400
 
 [Usage]
-TotalTime=2.20347222222235
-EditWarnCount=15
+TotalTime=2.56249999999994
+EditWarnCount=27
 
 [ModGroups]
-Selection="Unofficial Fallout 4 Patch - All"
+Selection=armsolt,Cco,chsa,crazy,customhh,EcoArmorSmithNKeywords,EcoArmour,EcoSmith,ff,ffnpc,ffo,foNpc,furryBodyshapes,furryHeadgear,furrypowerarmour,furryUnofficial,FurryVulpinNpc,Headgear,luckyUnoficial,m8rAKeywords,m8rFalluiR88,m8tunoficial,MoreCloth,MurphySupreeem,postalweapon,r88M8r,RaiderOverHaulPowerArmour,raiders,SupreemMuti,"Unofficial Fallout 4 Patch - All",upatch,VulgarHeadgear
 
 [View]
 LastUsedScript=Detect conflict between elements
 IncludeScriptsFromSubDir=1
-HodeNoConflict=1
+HodeNoConflict=0
 ColumnWidth=1
 LastUsedFilter=
+StickViewNodeLabel=*
 
 [frmViewElements]
 WindowState=0
@@ -85,7 +86,7 @@ Height=403
 
 [Filter]
 ConflictAll=0
-ConflictThis=1
+ConflictThis=0
 ByInjectStatus=0
 InjectStatus=1
 NotReachableStatus=1
@@ -100,12 +101,12 @@ BaseEditorID=
 ByBaseName=0
 BaseName=
 ScaledActors=0
-BySignature=0
-Signatures=
+BySignature=1
+Signatures=COBJ
 ByBaseSignature=0
-BaseSignatures=ARMO,BOOK,CMPO,INGR,KEYM,LVLI,MISC,WEAP
+BaseSignatures=FURN
 ByPersistent=0
-Persistent=1
+Persistent=0
 UnnecessaryPersistent=0
 MasterIsTemporary=0
 PersistentPosChanged=0
@@ -119,14 +120,14 @@ HasPrecombinedMesh=1
 FlattenBlocks=1
 FlattenCellChilds=1
 AssignPersWrldChild=1
-InheritConflictByParent=0
+InheritConflictByParent=1
 caUnknown=0
 caOnlyOne=0
 caNoConflict=0
 caConflictBenign=0
 caOverride=0
-caConflict=0
-caConflictCritical=0
+caConflict=1
+caConflictCritical=1
 ctUnknown=0
 ctIgnored=0
 ctNotDefined=1
@@ -138,7 +139,7 @@ ctConflictBenign=0
 ctOverride=0
 ctIdenticalToMasterWinsConflict=1
 ctConflictWins=0
-ctConflictLoses=0
+ctConflictLoses=1
 
 [frmLegend]
 WindowState=0
@@ -163,18 +164,19 @@ FontViewerCharSet=1
 FontViewerColor=-16777208
 FontViewerSize=9
 FontViewerStyle=0
+Theme=Carbon
 
 [ColorConflictThis]
 ctUnknown=-16777208
 ctIgnored=-16777208
 ctNotDefined=10789024
-ctIdenticalToMaster=10789024
+ctIdenticalToMaster=6388542
 ctOnlyOne=-16777208
 ctHiddenByModGroup=12632256
-ctMaster=8388736
+ctMaster=4473890
 ctConflictBenign=12639424
-ctOverride=128
-ctIdenticalToMasterWinsConflict=255
+ctOverride=32896
+ctIdenticalToMasterWinsConflict=33023
 ctConflictWins=16711680
 ctConflictLoses=16711935
 
