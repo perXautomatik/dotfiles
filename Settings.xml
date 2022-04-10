@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg boolean="false"/>
-		<Arg string="Unnamed build"/>
+		<Arg string="C:\Users\dator\Documents/Path of Building/Builds/EShieldBlockGuardian.xml"/>
+		<Arg string="EShieldBlockGuardian"/>
 	</Mode>
 	<Accounts lastAccountName="PerAutomatik" lastRealm="PC">
 		<Account accountName="PerAutomatik"/>
 	</Accounts>
 	<SharedItems/>
-	<Misc showTitlebarName="true" decimalSeparator="." defaultCharLevel="1" thousandsSeparator="," betaTest="true" nodePowerTheme="RED/BLUE" defaultGemQuality="0" showThousandsSeparators="false" buildSortMode="NAME"/>
+	<Misc showTitlebarName="true" showWarnings="true" defaultCharLevel="1" nodePowerTheme="RED/BLUE" connectionProtocol="nil" thousandsSeparator="," betaTest="true" decimalSeparator="." defaultGemQuality="0" showThousandsSeparators="false" buildSortMode="NAME"/>
 </PathOfBuilding>
