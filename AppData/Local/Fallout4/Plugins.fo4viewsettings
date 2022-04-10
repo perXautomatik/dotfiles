@@ -1,13 +1,13 @@
 [frmMain]
-pnlNavWidth=745
-vstNavColumnWidth0=318
-vstNavColumnWidth1=171
-vstNavColumnWidth2=235
-WindowState=0
-Left=99
-Top=217
-Width=1386
-Height=702
+pnlNavWidth=1001
+vstNavColumnWidth0=510
+vstNavColumnWidth1=205
+vstNavColumnWidth2=265
+WindowState=2
+Left=-8
+Top=-8
+Width=1936
+Height=1056
 DontBackup=1
 
 [Init]
@@ -59,23 +59,23 @@ UDRSetMSTT=1
 UDRSetMSTTValue=27
 
 [DeveloperMessage]
-LastShownOn=44654
+LastShownOn=44632
 Version=4000400
 
 [Usage]
-TotalTime=2.56249999999994
-EditWarnCount=27
+TotalTime=3.1881944444441
+EditWarnCount=39
 
 [ModGroups]
-Selection=armsolt,Cco,chsa,crazy,customhh,EcoArmorSmithNKeywords,EcoArmour,EcoSmith,ff,ffnpc,ffo,foNpc,furryBodyshapes,furryHeadgear,furrypowerarmour,furryUnofficial,FurryVulpinNpc,Headgear,luckyUnoficial,m8rAKeywords,m8rFalluiR88,m8tunoficial,MoreCloth,MurphySupreeem,postalweapon,r88M8r,RaiderOverHaulPowerArmour,raiders,SupreemMuti,"Unofficial Fallout 4 Patch - All",upatch,VulgarHeadgear
+Selection=armsolt,bodyshapesFurruy,Cco,chsa,customhh,EcoArmour,EcoSmith,ESSENTIAL,ff,ffnpc,ffo,foNpc,FurryBody,furryHeadgear,furryUnofficial,Headgear,luckyUnoficial,m8rAKeywords,m8tunoficial,MurphySupreeem,patchesz,RaiderOverHaulPowerArmour,raiders,SupreemMuti,"Unofficial Fallout 4 Patch - All",upatch,VulgarHeadgear,örl
 
 [View]
-LastUsedScript=Detect conflict between elements
+LastUsedScript=Edid\Dank_ModifyStrings
 IncludeScriptsFromSubDir=1
-HodeNoConflict=0
-ColumnWidth=1
+HodeNoConflict=1
+ColumnWidth=3
 LastUsedFilter=
-StickViewNodeLabel=*
+StickViewNodeLabel=FULL - Name
 
 [frmViewElements]
 WindowState=0
@@ -85,8 +85,8 @@ Width=644
 Height=403
 
 [Filter]
-ConflictAll=0
-ConflictThis=0
+ConflictAll=1
+ConflictThis=1
 ByInjectStatus=0
 InjectStatus=1
 NotReachableStatus=1
@@ -95,18 +95,18 @@ ReferencesInjectedStatus=1
 ByEditorID=0
 EditorID=
 ByName=0
-Name=
+Name=Chest
 ByBaseEditorID=0
 BaseEditorID=
 ByBaseName=0
 BaseName=
 ScaledActors=0
 BySignature=1
-Signatures=COBJ
+Signatures=ARMO
 ByBaseSignature=0
-BaseSignatures=FURN
+BaseSignatures=ARMO,BOOK,CMPO,INGR,KEYM,LVLI,MISC,WEAP
 ByPersistent=0
-Persistent=0
+Persistent=1
 UnnecessaryPersistent=0
 MasterIsTemporary=0
 PersistentPosChanged=0
@@ -130,7 +130,7 @@ caConflict=1
 caConflictCritical=1
 ctUnknown=0
 ctIgnored=0
-ctNotDefined=1
+ctNotDefined=0
 ctIdenticalToMaster=0
 ctOnlyOne=0
 ctHiddenByModGroup=0
@@ -143,8 +143,8 @@ ctConflictLoses=1
 
 [frmLegend]
 WindowState=0
-Left=222
-Top=989
+Left=368
+Top=342
 Width=1313
 Height=226
 
@@ -164,19 +164,18 @@ FontViewerCharSet=1
 FontViewerColor=-16777208
 FontViewerSize=9
 FontViewerStyle=0
-Theme=Carbon
 
 [ColorConflictThis]
 ctUnknown=-16777208
 ctIgnored=-16777208
 ctNotDefined=10789024
-ctIdenticalToMaster=6388542
+ctIdenticalToMaster=10789024
 ctOnlyOne=-16777208
 ctHiddenByModGroup=12632256
-ctMaster=4473890
+ctMaster=8388736
 ctConflictBenign=12639424
-ctOverride=32896
-ctIdenticalToMasterWinsConflict=33023
+ctOverride=128
+ctIdenticalToMasterWinsConflict=255
 ctConflictWins=16711680
 ctConflictLoses=16711935
 
@@ -195,4 +194,11 @@ Zoom=62
 [GitHub]
 SnoozeVersion=4.1.2p
 SnoozeDate=44381
+
+[NexusMods]
+SnoozeVersion=4.0.4
+SnoozeDate=44593
+
+[External]
+CompareCommandLine=D:\PortableApplauncher\Apps\.free\bCompare\BCompare.exe %1 %2
 

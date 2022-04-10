@@ -4,35 +4,75 @@ DLCRobot.esm
 DLCworkshop01.esm
 DLCworkshop02.esm
 DLCworkshop03.esm
-4estGimp - FallUI_R88_PA_INNR.esp
+M8rDisablePipboyEffects.esp
+M8r_Item_Tags_Vanilla_EN.esp
+Smashed Patch.esp
+FurryPatch.esp
+raidercorpseworkplease.esp
+AllowWorkbenchDuringCombat.esp
+ArmorKeywords.esm
+Bashed Patch, 0.esp
+Better Weapon Scrap - Ultimate Edition_ESL.esp
+BetterModDescriptions.esp
+BetterModDescriptionsAE.esp
+BetterModDescriptionsROWIP.esp
+CK-ChemCraftingExpanded.esp
+CommChemExpanded.esp
+ConstructionPatch.esp
+CraftPatch2.esp
+EarlierPipeWeaponMods.esp
+ECO.esp
+Extended weapon mods.esp
+free_downgrades_DLCCoast.esp
+free_downgrades_DLCNuka.esp
+free_downgrades_stubs.esp
+GR001-AutomatronRebooted.esp
+GZ_MiscItemOverhaul.esp
+Kermie's Misc Components.esp
+Kor_Scavenger.esp
+Kor_Scavenger_RA.esp
+Loot Detector.esp
+MikeMooresMCAM.esp
+MODFoodScraps.esm
+molotovcraftingredone.esp
+More Armor Slots - All Dlc.esp
+More Weapon Scrap.esp
+MoreWeapMods.esp
+RaiderOverhaul.esp
+RaidersPatch.esp
+Random_Enemy_Weapons_DLC.esp
+SalvageRobotParts.esp
+SKKGlobalStashScrapping.esp
+SKKRESystemManager.esp
+spacefiddle_Scarcity_Full.esp
+spacefiddle_Scarcity_OverbossPatch.esp
+SuperPatch.esp
+UncommonCrafting.esp
+Unlevelled Everything - Mods.esp
+Unofficial Fallout 4 Patch.esp
+Weapon Mods Mod.esp
+CcoVulagarVilliansR.esp
+FurryManualPatch.esp
+sad.esp
+ToBeLupinized.esp
+WeaponDrops.esp
+WeaponModsPatch.esp
+Armorsmith Extended.esp
 4estGimp - RO.FallUI.PA_INNR.esp
 advancedAITweaks.esp
 AdvancedWorkshopFoodHarvesting-AllDLC.esp
-AllowWorkbenchDuringCombat.esp
 AnatomicallyCorrectFerals.esp
 AnatomicallyCorrectFerals_FH.esp
 AnatomicallyCorrectFerals_NW.esp
-ArmorKeywords.esm
-Armorsmith Extended.esp
 ATreeGrowsInBoston.esp
 AutomaticSave.esp
-AWKCR - Mod Power Armor Engine Glitch Fix.esp
-Bashed Patch, 0.esp
-Better Locational Damage - Robot Edition.esp
 Better Manufacturing - Crafting Framework Additions.esp
 Better Manufacturing - Manufacturing Extended Additions.esp
 Better Manufacturing - Manufacturing Extended Expanded Patch.esp
 Better Manufacturing - Soylent Green Patch.esp
 Better Manufacturing.esp
 Better Power Armor - Extended.esp
-Better Weapon Scrap - Ultimate Edition_ESL.esp
 BetterBloatflies.esp
-BetterModDescriptions.esp
-BetterModDescriptionsAE.esp
-BetterModDescriptionsEWM.esp
-BetterModDescriptionsPWO.esp
-BetterModDescriptionsROWIP.esp
-BetterNightVision.esp
 BreakheartBanksSettlementSPE.esp
 CAMP.esp
 CartographersMapMarkers Commonwealth.esp
@@ -40,36 +80,17 @@ CartographersMapMarkers FarHarbor.esp
 CartographersMapMarkers NukaWorld.esp
 CBBE.esp
 CCOFoxyFactionsReplacer.esp
-CcoVulagarVilliansR.esp
 CCOVulgarVillainsReplacer.esp
 Chainsaw.esp
-CK-ChemCraftingExpanded.esp
-clothingoverhaul.esp
-ClothingOverhaulSP_XB1_PC.esp
-CommChemExpanded.esp
-Consistent Power Armor Overhaul.esp
-ConstructionPatch.esp
-CraftPatch2.esp
-CrazyEarlsScrapyard.esp
-CrazyEarlsScrapyard_Lore.esp
 CustomRaceHeadgear.esp
 CustomRaceHeadgear_FFO.esp
 CustomRaceHeadgear_Vulpine.esp
-DarkerNights.esp
-DarkerNightsDetection.esp
 dcc-palock.esp
 Desperate Raiders.esp
 DisableAutoAimF4.esp
 DLC items to manufacturing.esp
 DT_GunnerOutfitPack.esp
-EarlierPipeWeaponMods.esp
-ECO.esp
-ECO_CWRaiders.esp
-ECO_MoreClothesTextures.esp
 EFF.esp
-Extended weapon mods.esp
-Fallout 4 AI Overhaul.esp
-Falltoxin.esp
 fastcorpseclear.esp
 FCEjectNoMore.esp
 Ferals After Dark.esp
@@ -84,26 +105,15 @@ FFO-Player-OTTER.esp
 FFO-Player-SNEKDOG.esp
 FFO-Player-TIGER.esp
 FFO_NPC_DLC.esp
-FlamerFuelFromFuel.esp
 FlirtyCommonwealth.esp
 FO76AmmoDeconstruction.esp
-free_downgrades_DLCCoast.esp
-free_downgrades_DLCNuka.esp
-free_downgrades_stubs.esp
 FurryFallout.esp
 FurryFalloutNPCs.esp
-FurryManualPatch.esp
-FurryPatch.esp
 FusionGirl.esp
-GKX Realistic Adhesive Deluxe DLC.esp
-GR001-AutomatronRebooted.esp
+GCM.esp
 Gunner Outfit Extreme Overhaul.esp
-GZ_MiscItemOverhaul.esp
 HUDFramework.esm
 Important NPCs essential edition 1.1.esp
-Kermie's Misc Components.esp
-Kor_Scavenger.esp
-Kor_Scavenger_RA.esp
 KSHairdos.esp
 Leveled Raiders.esp
 Live Dismemberment - Brutal.esp
@@ -114,87 +124,83 @@ Live Dismemberment - Mind-Blowing.esp
 Live Dismemberment - POSTAL.esp
 Live Dismemberment - Regular.esp
 LooksMenu.esp
-Loot Detector.esp
 LostWorld.esp
 Lucky's Intresting Tips 1.4.esp
 LupinePlayer.esp
 LupineRace.esm
 LynnWoodsSettlement.esp
-M8rDisablePipboyEffects.esp
-M8r_Item_Tags_Vanilla_EN.esp
 MamaMutie.esp
-ManualFurryPatchMSynth.esp
 ManufacturingExtended.esp
 MaterialModSlot-FallUIWorkbenchPatch.esp
-MikeMooresMCAM.esp
-MODFoodScraps.esm
-molotovcraftingredone.esp
-More Armor Slots - All Dlc.esp
 More Human Raider Loot.esp
-More Weapon Scrap.esp
 MoreSpawns_High.esp
 MoreVariedBodyShapesAndSkins.esp
-MoreWeapMods.esp
-More_Clothes_Textures.esp
 MostlyFemale.esp
 NamedNPCProtect+UFOpatch.esp
 NPCs Protected Not Essential.esp
 PANPC.esm
 PeopleAreStrangers.esp
-PiperCaitCurieDialogueOverhaul.esp
 Power Armor to the People - AWKCR-SAR.esp
 Power Armor to the People - Far Harbor.esp
 Power Armor to the People - Nuka-World.esp
 Power Armor to the People - Raider Overhaul.esp
 Power Armor to the People.esp
-R88_SimpleSorter.esp
-RabotsPatch.esp
 Raider Overhaul - AE Patch-Restored Content-VIS.esp
-raidercorpseworkplease.esp
-RaiderOverhaul.esp
-RaidersPatch.esp
 RaidersReloaded.esp
-Random_Enemy_Weapons_DLC.esp
-Resources Expanded - Recipes.esp
-ResourcesExpanded.esm
-Running with Corpses.esp
-SA-SyringerAmmoOverhaul.esp
-sad.esp
-SalvageRobotParts.esp
-ScrapThrowables.esp
 SettlementAttacksBeyond.esp
 Simple Inventory Improvements.esp
-SKHMWW.esp
-SKKGlobalStashScrapping.esp
-SKKRESystemManager.esp
 SKKSettlementAttackSystem.esp
 SleeplessNights.esp
-Smashed Patch.esp
-spacefiddle_Scarcity_Full.esp
-spacefiddle_Scarcity_OverbossPatch.esp
-strongerRobotsSynthsTurrets.esp
-SuperPatch.esp
-Synth Overhaul.esp
-Syringer Weapon Rework - Mav's Marvelous Mods.esp
-ToBeLupinized.esp
-UncommonCrafting.esp
-Unlevelled Everything - Mods.esp
+StoreAllJunk_SeasonPassEdition.esp
 UNnaked Power Armor.esp
-Unofficial Fallout 4 Patch.esp
 UnrestrictivePowerArmor.esp
-Vanguard VIS-G Item Tweaks - Weightless.esp
-Vivid Fallout - All in One - Best Choice.esp
 VulpinePlayer.esp
 VulpinePowerArmor.esp
 VulpineRace-NPCReplacer-DLC.esp
 VulpineRace.esm
-Weapon Mods Mod.esp
 WeaponDisarm.esp
-WeaponDrops.esp
-WeaponModsPatch.esp
 WheelMenu.esp
-WolfRaceReplacer3.esp
 WorkshopFramework.esm
 WorkshopPlus.esp
 WOTC.esp
 XDI.esm
+RabotsPatch.esp
+Synth Overhaul.esp
+FlamerFuelFromFuel.esp
+ManualFurryPatchMSynth.esp
+4estGimp - FallUI_R88_PA_INNR.esp
+AWKCR - Mod Power Armor Engine Glitch Fix.esp
+Better Locational Damage - Robot Edition.esp
+BetterModDescriptionsEWM.esp
+BetterModDescriptionsPWO.esp
+BetterNightVision.esp
+CF_AtomicWarlord.esp
+clothingoverhaul.esp
+ClothingOverhaulSP_XB1_PC.esp
+Consistent Power Armor Overhaul.esp
+CrazyEarlsScrapyard.esp
+CrazyEarlsScrapyard_Lore.esp
+DarkerNights.esp
+DarkerNightsDetection.esp
+ECO_CWRaiders.esp
+ECO_MoreClothesTextures.esp
+Fallout 4 AI Overhaul.esp
+Falltoxin.esp
+GKX Realistic Adhesive Deluxe DLC.esp
+ImmersiveScrapping_TidyUp.esp
+JBR_NPC.esp
+More_Clothes_Textures.esp
+PiperCaitCurieDialogueOverhaul.esp
+R88_SimpleSorter.esp
+Resources Expanded - Recipes.esp
+ResourcesExpanded.esm
+Running with Corpses.esp
+SA-SyringerAmmoOverhaul.esp
+Scrap Everything - Ultimate Edition.esp
+ScrapThrowables.esp
+SKHMWW.esp
+strongerRobotsSynthsTurrets.esp
+Syringer Weapon Rework - Mav's Marvelous Mods.esp
+syringerexpanded.esp
+TakeCover.esp
+Vanguard VIS-G Item Tweaks - Weightless.esp

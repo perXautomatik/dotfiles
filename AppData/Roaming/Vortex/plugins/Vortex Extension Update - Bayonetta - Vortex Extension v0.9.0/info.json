@@ -1,0 +1,10 @@
+{
+  "name": "Bayonetta - Vortex Extension",
+  "author": "CbBara",
+  "version": "0.9.0",
+  "description": "Extension that allows mods published on the Bayonetta nexus page to be downloaded through Vortex (currently most mods needs to be updated or Vortex wont be able to recognize them properly or at all).",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Bayonetta - Vortex Extension v0.9.0.7z",
+  "bundled": false,
+  "modId": 260
+}

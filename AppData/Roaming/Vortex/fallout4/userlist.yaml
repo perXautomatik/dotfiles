@@ -1,0 +1,140 @@
+globals: []
+plugins:
+  - name: eco.esp
+    inc: []
+    after:
+      - more armor slots - all dlc.esp
+  - name: armorsmith extended.esp
+    inc: []
+  - name: furryfalloutnpcs.esp
+    after:
+      - jbr_npc.esp
+      - vulpinerace-npcreplacer-dlc.esp
+      - furryfallout.esp
+      - synth overhaul.esp
+      - synth overhaul - no level requirements patch.esp
+  - name: ffo-player-hyena.esp
+    after:
+      - vulpineplayer.esp
+  - name: ffo-player-otter.esp
+    after: []
+  - name: furrypatch.esp
+    after:
+      - important npcs essential edition 1.1.esp
+      - gunner outfit extreme overhaul.esp
+      - mostlyfemale.esp
+  - name: raideroverhaul.esp
+    after:
+      - chainsaw.esp
+  - name: spacefiddle_scarcity_full.esp
+    after:
+      - better power armor - extended.esp
+  - name: more armor slots - all dlc.esp
+    after:
+      - simple inventory improvements.esp
+  - name: better manufacturing.esp
+    after:
+      - free_downgrades_stubs.esp
+  - name: raidercorpseworkplease.esp
+    after:
+      - furryfalloutnpcs.esp
+  - name: gr001-automatronrebooted.esp
+    after:
+      - important npcs essential edition 1.1.esp
+      - npcs protected not essential.esp
+  - name: gz_miscitemoverhaul.esp
+    after:
+      - kermie's misc components.esp
+  - name: customraceheadgear_ffo.esp
+    after:
+      - furryfalloutnpcs.esp
+  - name: npcs protected not essential.esp
+    after:
+      - important npcs essential edition 1.1.esp
+  - name: unlevelled everything - mods.esp
+    after:
+      - moreweapmods.esp
+  - name: raiderspatch.esp
+    after:
+      - npcs protected not essential.esp
+      - furrypatch.esp
+  - name: fusiongirl.esp
+    after:
+      - cbbe.esp
+  - name: raidersreloaded.esp
+    after:
+      - mostlyfemale.esp
+      - morespawns_high.esp
+  - name: dlc items to manufacturing.esp
+    after: []
+  - name: vulpinerace-npcreplacer-dlc.esp
+    after:
+      - morevariedbodyshapesandskins.esp
+  - name: unofficial fallout 4 patch.esp
+    after: []
+  - name: furrymanualpatch.esl
+    after:
+      - furryfallout.esp
+  - name: kor_scavenger.esp
+    after:
+      - gz_miscitemoverhaul.esp
+      - vanguard vis-g item tweaks - weightless.esp
+  - name: furryfallout.esp
+    after:
+      - morevariedbodyshapesandskins.esp
+  - name: furrymanualpatch.esp
+    after:
+      - raiderspatch.esp
+      - superpatch.esp
+      - rabotspatch.esp
+      - better weapon scrap - ultimate edition_esl.esp
+      - more weapon scrap.esp
+  - name: ffo_npc_dlc.esp
+    after:
+      - wolfracereplacer3.esp
+  - name: tobelupinized.esp
+    after:
+      - sad.esp
+  - name: synth overhaul - no level requirements patch.esp
+    after: []
+  - name: manualfurrypatchmsynth.esp
+    after:
+      - raiderspatch.esp
+      - more weapon scrap.esp
+      - raidercorpseworkplease.esp
+      - uncommoncrafting.esp
+      - molotovcraftingredone.esp
+      - storealljunk_seasonpassedition.esp
+      - constructionpatch.esp
+      - ck-chemcraftingexpanded.esp
+      - weaponmodspatch.esp
+      - superpatch.esp
+      - craftpatch2.esp
+      - better weapon scrap - ultimate edition_esl.esp
+      - eco_cwraiders.esp
+      - eco_moreclothestextures.esp
+      - 4estgimp - fallui_r88_pa_innr.esp
+      - crazyearlsscrapyard.esp
+      - crazyearlsscrapyard_lore.esp
+  - name: m8r_item_tags_vanilla_en.esp
+    after:
+      - customraceheadgear.esp
+      - ccovulagarvilliansr.esp
+      - customraceheadgear_ffo.esp
+      - furrypatch.esp
+      - constructionpatch.esp
+      - ck-chemcraftingexpanded.esp
+      - desperate raiders.esp
+      - leveled raiders.esp
+      - power armor to the people - far harbor.esp
+      - salvagerobotparts.esp
+      - more human raider loot.esp
+      - ferals after dark.esp
+      - betterbloatflies.esp
+      - anatomicallycorrectferals_nw.esp
+      - anatomicallycorrectferals_fh.esp
+      - raiderspatch.esp
+      - storealljunk_seasonpassedition.esp
+      - weaponmodspatch.esp
+      - more weapon scrap.esp
+groups: []
