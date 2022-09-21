@@ -1,0 +1,4 @@
+[submodule "Roaming/Everything"]
+	path = Roaming/Everything
+	url = https://github.com/perXautomatik/EverythingSettings
+	branch = --
