@@ -2,3 +2,19 @@
 	path = Roaming/Everything
 	url = https://github.com/perXautomatik/EverythingSettings
 	branch = --
+[submodule "LocalLow/Wizards Of The Coast/MTGA"]
+	path = LocalLow/Wizards Of The Coast/MTGA
+	url = https://github.com/perXautomatik/MTGArenaLog.git
+	branch = --
+[submodule "Roaming/Microsoft/Windows/PowerShell"]
+	path = Roaming/Microsoft/Windows/PowerShell
+	url = https://github.com/perXautomatik/PowerShellCmdHist.git
+	branch = --
+[submodule "Local/LOOT/FalloutNV"]
+	path = Local/LOOT/FalloutNV
+	url = https://github.com/loot/falloutnv.git
+	branch = --
+[submodule "Roaming/JetBrains/DataGrip2022.1"]
+	path = Roaming/JetBrains/DataGrip2022.1
+	url = https://github.com/perXautomatik/DatagripSettings.git
+	branch = --
