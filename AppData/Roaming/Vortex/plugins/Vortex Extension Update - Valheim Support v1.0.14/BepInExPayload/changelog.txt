@@ -1,7 +1,0 @@
-4 commits since v5.4.15
-
-Changelog (excluding merges):
-* (ea425e6) [ghorsington] Bump version
-* (2c08a56) [ghorsington] Update BepInEx.Harmony
-* (6c5766d) [ghorsington] Print file write date only in console
-* (708ebcd) [ghorsington] Use process name for preloader assembly dump path
