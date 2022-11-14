@@ -10,19 +10,19 @@ Direct3D:
     VRAM:     128 MB
     Driver:   10.18.10.4425
 Begin MonoManager ReloadAssembly
-- Completed reload, in  5.890 seconds
+- Completed reload, in 10.040 seconds
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.231500 ms
+UnloadTime: 5.103700 ms
 Loaded embedded metadata
 
 DETAILED LOGS: DISABLED
 
 [EOSClient] no Epic Games launcher args found, skipping EOS startup
 
-Version: 2022.18.60.4240 / 2022.18.60.4240.950016 / 
+Version: 2022.20.40.4361 / 2022.20.40.4361.965897 / 
 
 WwiseUnity: Initialize sound engine ...
 
@@ -30,7 +30,7 @@ WwiseUnity: Sound engine initialized.
 
 Setting environment to Prod, AWS
 
-Connecting to Front Door: frontdoor-mtga-production-2022-18-60-35.w2.mtgarena.com:30010
+Connecting to Front Door: frontdoor-mtga-production-2022-20-40-43.w2.mtgarena.com:30010
 
 [UnityCrossThreadLogger]FrontDoorConnectionAWS.Open {"creator":"ArenaGlobals.Constructor"}
 
@@ -45,111 +45,2284 @@ Connecting to Front Door: frontdoor-mtga-production-2022-18-60-35.w2.mtgarena.co
 [NPE] Initialized, state = Complete
 
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.124400 ms
-[AssetBundles] GET manifest pointer from https://assets.mtgarena.wizards.com/External_2022.18.60.4240.950016-windows.mtga ...
+UnloadTime: 1.980900 ms
+[AssetBundles] GET manifest pointer from https://assets.mtgarena.wizards.com/External_2022.20.40.4361.965897-windows.mtga ...
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 34e0 -> priority: 1 
+  Thread -> id: 4734 -> priority: 1 
 
-Unloading 230 unused Assets to reduce memory usage. Loaded Objects now: 6125.
-Total: 13.444100 ms (FindLiveObjects: 0.458900 ms CreateObjectMapping: 0.338500 ms MarkObjects: 12.484500 ms  DeleteObjects: 0.161800 ms)
+Unloading 231 unused Assets to reduce memory usage. Loaded Objects now: 6347.
+Total: 18.173100 ms (FindLiveObjects: 0.567900 ms CreateObjectMapping: 0.461400 ms MarkObjects: 16.971800 ms  DeleteObjects: 0.171700 ms)
 
-[UnityCrossThreadLogger]Loading SqlLocalizationManager from file: D:/Program Files/Wizards of the Coast/MTGA2/MTGA_Data\Downloads\Raw\Raw_ClientLocalization_6bf250da0f16cd951c6d3292eb242eea.mtga {}
+[UnityCrossThreadLogger]Loading SqlLocalizationManager from file: D:/Program Files/Wizards of the Coast/MTGA2/MTGA_Data\Downloads\Raw\Raw_ClientLocalization_65a6ccfa2966f447be1a7228d4ff776e.mtga {}
 
-Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 11: 'database disk image is malformed'.
-  at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC (System.Int32 rc, SQLitePCL.sqlite3 db) [0x0006d] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand+<PrepareAndEnumerateStatements>d__64.MoveNext () [0x00116] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand+<GetStatements>d__54.MoveNext () [0x00145] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteDataReader.NextResult () [0x0017d] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x000b7] in <20745a689b9c466184d9e839084db292>:0 
-  at Wotc.Mtga.Cards.Database.SqlGreLocalizationManager.GetLocalizedText (System.UInt32 locId, System.String overrideLangCode, System.Boolean formatted) [0x000e5] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at GreClient.CardData.CardDatabase.GetTextForLocId (System.UInt32 locId, System.Boolean formatted, System.String overrideLanguage) [0x00006] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at CardSorter+<>c__DisplayClass5_0`1[T].<SortInternal>b__1 (T c) [0x00017] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x00010] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`1[TElement].Sort (TElement[] elements, System.Int32 count) [0x00000] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.OrderedEnumerable`1+<GetEnumerator>d__1[TElement].MoveNext () [0x0004b] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <a1e9f114a6e64f4eacb529fc802ec93d>:0 
-  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0000e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at BaseSortedCardCache.SortAndCacheList (GreClient.CardData.ICardDataProvider cardDataProvider, System.Boolean ignoreIsCollectible, System.Boolean allowSpecializeFacets, CardSorter+SortType[] sortCriteria) [0x0001c] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Shared.Code.ServiceFactories.LoadCardDatabaseFiber+<>c__DisplayClass1_0+<<YieldCacheCommonBaseLists>g__cacheList|0>d.MoveNext () [0x0001e] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x00063] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 11: 'database disk image is malformed'.
-  at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC (System.Int32 rc, SQLitePCL.sqlite3 db) [0x0006d] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand+<PrepareAndEnumerateStatements>d__64.MoveNext () [0x00116] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand+<GetStatements>d__54.MoveNext () [0x00145] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteDataReader.NextResult () [0x0017d] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x000b7] in <20745a689b9c466184d9e839084db292>:0 
-  at Wotc.Mtga.Cards.Database.SqlGreLocalizationManager.GetLocalizedText (System.UInt32 locId, System.String overrideLangCode, System.Boolean formatted) [0x000e5] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at GreClient.CardData.CardDatabase.GetTextForLocId (System.UInt32 locId, System.Boolean formatted, System.String overrideLanguage) [0x00006] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at CardSorter+<>c__DisplayClass5_0`1[T].<SortInternal>b__1 (T c) [0x00017] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x00010] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`1[TElement].Sort (TElement[] elements, System.Int32 count) [0x00000] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.OrderedEnumerable`1+<GetEnumerator>d__1[TElement].MoveNext () [0x0004b] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <a1e9f114a6e64f4eacb529fc802ec93d>:0 
-  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0000e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at BaseSortedCardCache.SortAndCacheList (GreClient.CardData.ICardDataProvider cardDataProvider, System.Boolean ignoreIsCollectible, System.Boolean allowSpecializeFacets, CardSorter+SortType[] sortCriteria) [0x0001c] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Shared.Code.ServiceFactories.LoadCardDatabaseFiber+<>c__DisplayClass1_0+<<YieldCacheCommonBaseLists>g__cacheList|0>d.MoveNext () [0x0001e] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x00039] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 11: 'database disk image is malformed'.
-  at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC (System.Int32 rc, SQLitePCL.sqlite3 db) [0x0006d] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand+<PrepareAndEnumerateStatements>d__64.MoveNext () [0x00116] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand+<GetStatements>d__54.MoveNext () [0x00145] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteDataReader.NextResult () [0x0017d] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x000b7] in <20745a689b9c466184d9e839084db292>:0 
-  at Wotc.Mtga.Cards.Database.SqlGreLocalizationManager.GetLocalizedText (System.UInt32 locId, System.String overrideLangCode, System.Boolean formatted) [0x000e5] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at GreClient.CardData.CardDatabase.GetTextForLocId (System.UInt32 locId, System.Boolean formatted, System.String overrideLanguage) [0x00006] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at CardSorter+<>c__DisplayClass5_0`1[T].<SortInternal>b__1 (T c) [0x00017] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x00010] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`1[TElement].Sort (TElement[] elements, System.Int32 count) [0x00000] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.OrderedEnumerable`1+<GetEnumerator>d__1[TElement].MoveNext () [0x0004b] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <a1e9f114a6e64f4eacb529fc802ec93d>:0 
-  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0000e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at BaseSortedCardCache.SortAndCacheList (GreClient.CardData.ICardDataProvider cardDataProvider, System.Boolean ignoreIsCollectible, System.Boolean allowSpecializeFacets, CardSorter+SortType[] sortCriteria) [0x0001c] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Shared.Code.ServiceFactories.LoadCardDatabaseFiber+<>c__DisplayClass1_0+<<YieldCacheCommonBaseLists>g__cacheList|0>d.MoveNext () [0x0001e] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x00039] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-Uploading Crash Report
-SqliteException: SQLite Error 11: 'database disk image is malformed'.
-  at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC (System.Int32 rc, SQLitePCL.sqlite3 db) [0x0006d] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand+<PrepareAndEnumerateStatements>d__64.MoveNext () [0x00116] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand+<GetStatements>d__54.MoveNext () [0x00145] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteDataReader.NextResult () [0x0017d] in <20745a689b9c466184d9e839084db292>:0 
-  at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x000b7] in <20745a689b9c466184d9e839084db292>:0 
-  at Wotc.Mtga.Cards.Database.SqlGreLocalizationManager.GetLocalizedText (System.UInt32 locId, System.String overrideLangCode, System.Boolean formatted) [0x000e5] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at GreClient.CardData.CardDatabase.GetTextForLocId (System.UInt32 locId, System.Boolean formatted, System.String overrideLanguage) [0x00006] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at CardSorter+<>c__DisplayClass5_0`1[T].<SortInternal>b__1 (T c) [0x00017] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x00010] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`2[TElement,TKey].ComputeKeys (TElement[] elements, System.Int32 count) [0x0003e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.EnumerableSorter`1[TElement].Sort (TElement[] elements, System.Int32 count) [0x00000] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Linq.OrderedEnumerable`1+<GetEnumerator>d__1[TElement].MoveNext () [0x0004b] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <a1e9f114a6e64f4eacb529fc802ec93d>:0 
-  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0000e] in <55b3683038794c198a24e8a1362bfc61>:0 
-  at BaseSortedCardCache.SortAndCacheList (GreClient.CardData.ICardDataProvider cardDataProvider, System.Boolean ignoreIsCollectible, System.Boolean allowSpecializeFacets, CardSorter+SortType[] sortCriteria) [0x0001c] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Shared.Code.ServiceFactories.LoadCardDatabaseFiber+<>c__DisplayClass1_0+<<YieldCacheCommonBaseLists>g__cacheList|0>d.MoveNext () [0x0001e] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at Core.Code.Fibers.Fiber.MoveNext () [0x000f4] in <9e942f12598547b4a9e6e0156f1d04d7>:0 
-  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00026] in <6796487824e04a109918095ac6bddc3a>:0 
+ALT_CardViewBuilder.Prefabs
+
+ALT_Prefab.EmoteLocalizationDataPrefab
+
+2022-11-14 10:22:00 LoadWrapperScene
+
+Caches cleared
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 6346.
+Total: 109.506200 ms (FindLiveObjects: 0.849500 ms CreateObjectMapping: 0.449000 ms MarkObjects: 108.167900 ms  DeleteObjects: 0.039300 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.264100 ms
+MainNav load in 191ms
+
+2022-11-14 10:22:04 Coroutine_StartupSequence
+
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 12911.
+Total: 118.431400 ms (FindLiveObjects: 1.139700 ms CreateObjectMapping: 1.837400 ms MarkObjects: 115.198700 ms  DeleteObjects: 0.255300 ms)
+
+[UnityCrossThreadLogger]SKU recieved: id=123456001 price=4,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_15_0 price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_4m price=19,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_4r price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-001 price=4,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-002 price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-003 price=19,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-004 price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-005 price=99,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_bundle_40k_sleeves price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_bro_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_bro_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_dmu_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_dmu_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_hbg_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_hbg_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pet price=0,01 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_neo_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_neo_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_snc_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_snc_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=Bundle_Adventurer price=14,99 maxPurchases=1 remainingPurchases=0
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-StarterBundle price=4,99 maxPurchases=1 remainingPurchases=0
+
+2022-11-14 10:22:09 Coroutine_StartupSequence - Data retrieved
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"None","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 5 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 3 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 7 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 4 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 6 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Events/Event_Title_Test_PlayAnyDeck in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 2 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 5 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 3 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 7 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 4 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 6 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Events/Event_Title_Test_PlayAnyDeck in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 2 MID Premier in en-US
+
+BEGIN home page notification flow
+
+END home page notification flow
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"Home","toSceneName":"Profile","initiator":"User","context":"NavBar button"}
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"Profile","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+BEGIN home page notification flow
+
+END home page notification flow
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"Home","toSceneName":"DeckListViewer","initiator":"System","context":"Navigate to Deck Manager"}
+
+Attempting to get IEmoteDataProvider through static instance of WrapperController. Consider injecting dependency rather than doing this.
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"DeckListViewer","toSceneName":"DeckBuilder","initiator":"System","context":"deck builder"}
+
+Attempting to get IEmoteDataProvider through static instance of WrapperController. Consider injecting dependency rather than doing this.
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"DeckBuilder","toSceneName":"DeckListViewer","initiator":"System","context":"Navigate to Deck Manager"}
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"DeckListViewer","toSceneName":"DeckBuilder","initiator":"System","context":"deck builder"}
+
+[Accounts - SharedContextView] Refreshing access token.
+
+[Accounts - SharedContextView] Access token refreshed.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+[Accounts - SharedContextView] Refreshing access token.
+
+[Accounts - SharedContextView] Access token refreshed.
+
+[Accounts - SharedContextView] Refreshing access token.
+
+[Accounts - SharedContextView] Access token refreshed.
+
+[Accounts - SharedContextView] Refreshing access token.
+
+[Accounts - SharedContextView] Access token refreshed.
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"DeckBuilder","toSceneName":"DeckListViewer","initiator":"System","context":"Navigate to Deck Manager"}
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"DeckListViewer","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+BEGIN home page notification flow
+
+END home page notification flow
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 614)
+
+Unloading 11191 unused Assets to reduce memory usage. Loaded Objects now: 189315.
+Total: 1631.637100 ms (FindLiveObjects: 18.260500 ms CreateObjectMapping: 9.852600 ms MarkObjects: 1579.215400 ms  DeleteObjects: 24.308000 ms)
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Timer PregameSequence start 11:26:40.161
+
+Timer SceneLoad_MatchScene start 11:26:40.162
+
+OnSceneLoaded for MatchScene
+
+Timer SceneLoad_MatchScene end 11:26:40.390
+
+Timer MatchSceneManager_Init start 11:26:40.391
+
+Timer MatchSceneManager_Init end 11:26:40.395
+
+Timer None_to_WaitingForMatch_transition start 11:26:40.604
+
+Timer None_to_WaitingForMatch_transition_PreGameScene_Loaded start 11:26:40.606
+
+OnSceneUnloaded for MainNavigation
+
+cannot find async scene unload for MainNavigation
+
+Caches cleared
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 442)
+OnSceneLoaded for PreGameScene
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":0,"new":2}
+
+[UnityCrossThreadLogger]Connecting to matchId 596e62f5-661a-49b0-b2f0-850cfa4bd3cb
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":2,"new":5}
+
+Timer None_to_WaitingForMatch_transition_PreGameScene_Loaded end 11:26:43.410
+
+
+Unloading 20269 unused Assets to reduce memory usage. Loaded Objects now: 28281.
+Total: 503.384600 ms (FindLiveObjects: 3.977700 ms CreateObjectMapping: 6.270600 ms MarkObjects: 465.574900 ms  DeleteObjects: 27.560900 ms)
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":5,"new":7}
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Timer None_to_WaitingForMatch_transition_AlphaIn start 11:26:44.096
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Timer None_to_WaitingForMatch_transition_AlphaIn end 11:26:44.626
+
+Timer None_to_WaitingForMatch_transition_ExecuteBlock start 11:26:44.626
+
+Timer None_to_WaitingForMatch_transition_ExecuteBlock end 11:26:44.650
+
+Timer None_to_WaitingForMatch_transition end 11:26:44.651
+
+Timer WaitingForMatch start 11:26:44.651
+
+Timer WaitingForMatch end 11:26:44.675
+
+Timer WaitingForMatch_to_MatchReady_transition start 11:26:44.676
+
+Timer WaitingForMatch_to_MatchReady_transition_ExecuteBlock start 11:26:44.676
+
+Timer WaitingForMatch_to_MatchReady_transition_Battlefield_Loaded start 11:26:44.706
+
+Timer WaitingForMatch_to_MatchReady_transition_DuelScene_Loaded start 11:26:44.706
+
+OnSceneLoaded for Battlefield_XLN
+
+Timer WaitingForMatch_to_MatchReady_transition_Battlefield_Loaded end 11:26:44.983
+
+EffectPoller: using Post Processing effect = True
+
+OnSceneLoaded for DuelScene
+
+GameManager init
+
+GameManager Start
+
+Camera depthTextureMode was None, changing to Depth
+
+Timer WaitingForMatch_to_MatchReady_transition_DuelScene_Loaded end 11:26:47.786
+
+Timer WaitingForMatch_to_MatchReady_transition_AlphaIn start 11:26:48.423
+
+Timer WaitingForMatch_to_MatchReady_transition_AlphaIn end 11:26:48.423
+
+Timer WaitingForMatch_to_MatchReady_transition_ExecuteBlock end 11:26:54.352
+
+Timer WaitingForMatch_to_MatchReady_transition end 11:26:54.352
+
+Timer MatchReady start 11:26:54.353
+
+Timer MatchReady end 11:26:54.395
+
+Timer MatchReady_to_DuelScene_transition start 11:26:54.395
+
+Timer MatchReady_to_DuelScene_transition_AlphaOut start 11:26:54.396
+
+Timer MatchReady_to_DuelScene_transition_AlphaOut end 11:26:55.404
+
+Timer MatchReady_to_DuelScene_transition_PreGameScene_Unloaded start 11:26:55.404
+
+OnSceneUnloaded for PreGameScene
+
+Timer MatchReady_to_DuelScene_transition_PreGameScene_Unloaded end 11:26:55.458
+
+Timer MatchReady_to_DuelScene_transition_AlphaIn start 11:26:55.478
+
+Timer MatchReady_to_DuelScene_transition_AlphaIn end 11:26:56.459
+
+Timer MatchReady_to_DuelScene_transition end 11:26:56.459
+
+Timer DuelScene start 11:26:56.459
+
+Timer PregameSequence end 11:26:56.461
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 458 -> [InstanceId:458, GrpId:83615]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 560 -> [InstanceId:560, GrpId:83623]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 575 -> [InstanceId:575, GrpId:81151]
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 592 -> [InstanceId:592, GrpId:83623]
+
+Couldn't find affector id 0 in either new or old GameState for UpdatePlayerLifeTotal change event.
+
+Couldn't find affector id 0 in either new or old GameState for UpdatePlayerLifeTotal change event.
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Couldn't find affector id 0 in either new or old GameState for UpdatePlayerLifeTotal change event.
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 752 -> [InstanceId:752, GrpId:83625]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 753 -> [InstanceId:753, GrpId:83623]
+
+Couldn't find affector id 0 in either new or old GameState for UpdatePlayerLifeTotal change event.
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 758 -> [InstanceId:758, GrpId:83625]
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Couldn't find affector id 0 in either new or old GameState for UpdatePlayerLifeTotal change event.
+
+Couldn't find affector id 0 in either new or old GameState for UpdatePlayerLifeTotal change event.
+
+[Accounts - SharedContextView] Refreshing access token.
+
+[Accounts - SharedContextView] Access token refreshed.
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":7,"new":8}
+
+OnSceneLoaded for MatchEndScene
+
+Attempting to refresh mastery pass that's already being refreshed
+
+Couldn't unload audio package BAT_XLN result was AK_Fail
+
+OnSceneUnloaded for Battlefield_XLN
+
+OnSceneUnloaded for DuelScene
+
+OnSceneUnloaded for MatchEndScene
+
+2022-11-14 11:34:32 OnExitMatchScene
+
+[UnityCrossThreadLogger]Client.TcpConnection.Close {"status":2,"reason":"MatchManager.Reset","host":"matchdoor-mtga-production-2022-20-40-43.w2.mtgarena.com","port":30003,"rtTicksRollingAvg":253.2,"rtTicksSamples":[250.0,281.0,344.0,203.0,188.0],"lastLocalActivity":[{"type":"Send","time":"2022-11-14T10:34:02.207838Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:03.0393271Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:03.0733067Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:03.105287Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:04.2388234Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:05.7868078Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:06.3224776Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:11.0092313Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:11.1581426Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:26.0052868Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-11-14T10:34:26.1531947Z","msgType":"Pong","msgVersion":3},{"type":"Close","time":"2022-11-14T10:34:32.1778267Z","status":2,"reason":"MatchManager.Reset"}],"lastRemoteActivity":[{"type":"Msg","time":"2022-11-14T10:34:13.9495265Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:14.0974357Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:14.2453428Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:14.2483409Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:15.2747076Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:15.4246144Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:15.6274883Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:16.2550993Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:16.6748445Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:34:16.6818376Z","msgVersion":3},{"type":"Ping","time":"2022-11-14T10:34:26.1521946Z","msgVersion":3},{"type":"Pong","time":"2022-11-14T10:34:26.1901717Z","msgVersion":3}],"lastRemotePing":"2022-11-14T11:34:26.1521946+01:00","inactivityTimeoutMs":60000}
+
+2022-11-14 11:34:32 LoadWrapperScene
+
+Unloading the last loaded scene Assets/Core/MatchScene/MatchScene.unity(build index: 6), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+
+Caches cleared
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 332)
+
+Unloading 17154 unused Assets to reduce memory usage. Loaded Objects now: 17401.
+Total: 510.515300 ms (FindLiveObjects: 4.315600 ms CreateObjectMapping: 8.415700 ms MarkObjects: 454.485400 ms  DeleteObjects: 43.298200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 332)
+UnloadTime: 5.111100 ms
+MainNav load in 255ms
+
+2022-11-14 11:34:33 Coroutine_StartupSequence
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 23144.
+Total: 428.538700 ms (FindLiveObjects: 1.876500 ms CreateObjectMapping: 2.613500 ms MarkObjects: 423.916100 ms  DeleteObjects: 0.132100 ms)
+
+[UnityCrossThreadLogger]SKU recieved: id=123456001 price=4,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_15_0 price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_4m price=19,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_4r price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-001 price=4,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-002 price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-003 price=19,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-004 price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-005 price=99,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_bundle_40k_sleeves price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_bro_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_bro_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_dmu_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_dmu_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_hbg_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_hbg_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pet price=0,01 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_neo_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_neo_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_snc_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_snc_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=Bundle_Adventurer price=14,99 maxPurchases=1 remainingPurchases=0
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-StarterBundle price=4,99 maxPurchases=1 remainingPurchases=0
+
+2022-11-14 11:34:37 Coroutine_StartupSequence - Data retrieved
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"None","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 5 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 3 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 7 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 4 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 6 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Events/Event_Title_Test_PlayAnyDeck in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 2 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 5 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 3 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 7 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 4 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 6 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Events/Event_Title_Test_PlayAnyDeck in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 2 MID Premier in en-US
+
+BEGIN home page notification flow
+
+END home page notification flow
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 399)
+
+Unloading 1561 unused Assets to reduce memory usage. Loaded Objects now: 40037.
+Total: 531.258100 ms (FindLiveObjects: 4.245000 ms CreateObjectMapping: 4.664700 ms MarkObjects: 519.578800 ms  DeleteObjects: 2.769000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 399)
+
+Unloading 468 unused Assets to reduce memory usage. Loaded Objects now: 40014.
+Total: 512.296600 ms (FindLiveObjects: 3.636500 ms CreateObjectMapping: 3.483200 ms MarkObjects: 504.433800 ms  DeleteObjects: 0.742300 ms)
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"Home","toSceneName":"RewardTrack","initiator":"User","context":"NavBar button"}
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"RewardTrack","toSceneName":"RewardTree","initiator":"User","context":"Opening Web from Track Scene"}
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 324)
+
+Unloading 1271 unused Assets to reduce memory usage. Loaded Objects now: 71937.
+Total: 560.417400 ms (FindLiveObjects: 6.986800 ms CreateObjectMapping: 7.384700 ms MarkObjects: 544.165700 ms  DeleteObjects: 1.879500 ms)
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"RewardTree","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+BEGIN home page notification flow
+
+END home page notification flow
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 473)
+
+Unloading 3059 unused Assets to reduce memory usage. Loaded Objects now: 130409.
+Total: 719.125000 ms (FindLiveObjects: 8.720400 ms CreateObjectMapping: 11.011000 ms MarkObjects: 694.740600 ms  DeleteObjects: 4.652200 ms)
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Timer PregameSequence start 11:35:44.191
+
+Timer SceneLoad_MatchScene start 11:35:44.191
+
+OnSceneLoaded for MatchScene
+
+Timer SceneLoad_MatchScene end 11:35:44.264
+
+Timer MatchSceneManager_Init start 11:35:44.264
+
+Timer MatchSceneManager_Init end 11:35:44.264
+
+Timer None_to_WaitingForMatch_transition start 11:35:44.266
+
+Timer None_to_WaitingForMatch_transition_PreGameScene_Loaded start 11:35:44.266
+
+OnSceneUnloaded for MainNavigation
+
+cannot find async scene unload for MainNavigation
+
+Caches cleared
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 426)
+OnSceneLoaded for PreGameScene
+
+Timer None_to_WaitingForMatch_transition_PreGameScene_Loaded end 11:35:46.128
+
+
+Unloading 32041 unused Assets to reduce memory usage. Loaded Objects now: 28536.
+Total: 494.383100 ms (FindLiveObjects: 5.542700 ms CreateObjectMapping: 8.050300 ms MarkObjects: 446.578300 ms  DeleteObjects: 34.211200 ms)
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Timer None_to_WaitingForMatch_transition_AlphaIn start 11:35:46.800
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Timer None_to_WaitingForMatch_transition_AlphaIn end 11:35:47.208
+
+Timer None_to_WaitingForMatch_transition_ExecuteBlock start 11:35:47.209
+
+Timer None_to_WaitingForMatch_transition_ExecuteBlock end 11:35:47.233
+
+Timer None_to_WaitingForMatch_transition end 11:35:47.233
+
+Timer WaitingForMatch start 11:35:47.233
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":0,"new":2}
+
+[UnityCrossThreadLogger]Connecting to matchId 762071ae-34fe-484e-8e5e-2f5709dec0cc
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":2,"new":5}
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":5,"new":6}
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":6,"new":7}
+
+Timer WaitingForMatch end 11:35:51.703
+
+Timer WaitingForMatch_to_MatchReady_transition start 11:35:51.703
+
+Timer WaitingForMatch_to_MatchReady_transition_ExecuteBlock start 11:35:51.703
+
+Timer WaitingForMatch_to_MatchReady_transition_Battlefield_Loaded start 11:35:51.746
+
+Timer WaitingForMatch_to_MatchReady_transition_DuelScene_Loaded start 11:35:51.746
+
+OnSceneLoaded for Battlefield_GRN
+
+Timer WaitingForMatch_to_MatchReady_transition_Battlefield_Loaded end 11:35:52.119
+
+EffectPoller: using Post Processing effect = True
+
+OnSceneLoaded for DuelScene
+
+GameManager init
+
+GameManager Start
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BattlefieldManager/OpponentTotemRoot/Accessory_ELD_Fox_FaeFox_t3__DuelScene(Clone)/DuelScene_Transforms/bp_fox_forest_tier3/Mesh_Fox"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BattlefieldManager/OpponentTotemRoot/Accessory_ELD_Fox_FaeFox_t3__DuelScene(Clone)/DuelScene_Transforms/ClickNearCollider"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BattlefieldManager/OpponentTotemRoot/Accessory_ELD_Fox_FaeFox_t3__DuelScene(Clone)/DuelScene_Transforms/Bottle_Transforms/BottleObjects/BottlePlacementGrp/BottleAnimGrp/BottleGeo"
+
+Camera depthTextureMode was None, changing to Depth
+
+Timer WaitingForMatch_to_MatchReady_transition_DuelScene_Loaded end 11:35:52.999
+
+Timer WaitingForMatch_to_MatchReady_transition_AlphaIn start 11:35:53.419
+
+Timer WaitingForMatch_to_MatchReady_transition_AlphaIn end 11:35:53.420
+
+Timer WaitingForMatch_to_MatchReady_transition_ExecuteBlock end 11:35:59.418
+
+Timer WaitingForMatch_to_MatchReady_transition end 11:35:59.418
+
+Timer MatchReady start 11:35:59.418
+
+Timer MatchReady end 11:35:59.464
+
+Timer MatchReady_to_DuelScene_transition start 11:35:59.464
+
+Timer MatchReady_to_DuelScene_transition_AlphaOut start 11:35:59.465
+
+Timer MatchReady_to_DuelScene_transition_AlphaOut end 11:36:00.445
+
+Timer MatchReady_to_DuelScene_transition_PreGameScene_Unloaded start 11:36:00.445
+
+OnSceneUnloaded for PreGameScene
+
+Timer MatchReady_to_DuelScene_transition_PreGameScene_Unloaded end 11:36:00.512
+
+Timer MatchReady_to_DuelScene_transition_AlphaIn start 11:36:00.527
+
+Timer MatchReady_to_DuelScene_transition_AlphaIn end 11:36:01.533
+
+Timer MatchReady_to_DuelScene_transition end 11:36:01.533
+
+Timer DuelScene start 11:36:01.533
+
+Timer PregameSequence end 11:36:01.534
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 463 -> [InstanceId:463, GrpId:83615]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 480 -> [InstanceId:480, GrpId:83628]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 505 -> [InstanceId:505, GrpId:83628]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 667 -> [InstanceId:667, GrpId:83625]
+
+Coroutine couldn't be started because the the game object 'critter_bird(Clone)' is inactive!
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_green.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_white.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_blue.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_green.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_black.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_red.png
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 704 -> [InstanceId:704, GrpId:83627]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 787 -> [InstanceId:787, GrpId:83623]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 788 -> [InstanceId:788, GrpId:83626]
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":7,"new":8}
+
+OnSceneLoaded for MatchEndScene
+
+Attempting to refresh mastery pass that's already being refreshed
+
+Couldn't unload audio package BAT_GRN result was AK_Fail
+
+OnSceneUnloaded for Battlefield_GRN
+
+OnSceneUnloaded for DuelScene
+
+OnSceneUnloaded for MatchEndScene
+
+2022-11-14 11:47:15 OnExitMatchScene
+
+[UnityCrossThreadLogger]Client.TcpConnection.Close {"status":2,"reason":"MatchManager.Reset","host":"matchdoor-mtga-production-2022-20-40-43.w2.mtgarena.com","port":30003,"rtTicksRollingAvg":178.2,"rtTicksSamples":[188.0,172.0,172.0,172.0,187.0],"lastLocalActivity":[{"type":"Send","time":"2022-11-14T10:46:35.5154644Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-11-14T10:46:35.6174016Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-11-14T10:46:37.2806239Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:46:39.3427354Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:46:39.4096943Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:46:39.8098323Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:46:50.5171845Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-11-14T10:46:50.613124Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-11-14T10:47:02.9785431Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:47:05.5229699Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-11-14T10:47:05.6139182Z","msgType":"Pong","msgVersion":3},{"type":"Close","time":"2022-11-14T10:47:15.9134563Z","status":2,"reason":"MatchManager.Reset"}],"lastRemoteActivity":[{"type":"Msg","time":"2022-11-14T10:46:56.2730099Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:46:56.3339719Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:46:57.7642883Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:46:59.722332Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:47:03.5551868Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:47:03.7740504Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:47:04.7414531Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:47:04.9413298Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:47:05.4809956Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:47:05.4819953Z","msgVersion":3},{"type":"Ping","time":"2022-11-14T10:47:05.6119168Z","msgVersion":3},{"type":"Pong","time":"2022-11-14T10:47:05.7058564Z","msgVersion":3}],"lastRemotePing":"2022-11-14T11:47:05.6119168+01:00","inactivityTimeoutMs":60000}
+
+2022-11-14 11:47:15 LoadWrapperScene
+
+Unloading the last loaded scene Assets/Core/MatchScene/MatchScene.unity(build index: 6), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+
+Caches cleared
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 321)
+
+Unloading 19588 unused Assets to reduce memory usage. Loaded Objects now: 17432.
+Total: 617.941900 ms (FindLiveObjects: 3.831100 ms CreateObjectMapping: 5.588600 ms MarkObjects: 557.219800 ms  DeleteObjects: 51.301800 ms)
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_blue.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_blue.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_black.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_white.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_green.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_red.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_black.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_red.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_green.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_white.png
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 321)
+UnloadTime: 3.011200 ms
+MainNav load in 311ms
+
+2022-11-14 11:47:17 Coroutine_StartupSequence
+
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 23140.
+Total: 741.922100 ms (FindLiveObjects: 6.350500 ms CreateObjectMapping: 3.242900 ms MarkObjects: 732.161800 ms  DeleteObjects: 0.166400 ms)
+
+[UnityCrossThreadLogger]SKU recieved: id=123456001 price=4,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_15_0 price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_4m price=19,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_4r price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-001 price=4,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-002 price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-003 price=19,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-004 price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-005 price=99,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_bundle_40k_sleeves price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_bro_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_bro_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_dmu_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_dmu_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_hbg_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_hbg_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pet price=0,01 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_neo_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_neo_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_snc_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_snc_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=Bundle_Adventurer price=14,99 maxPurchases=1 remainingPurchases=0
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-StarterBundle price=4,99 maxPurchases=1 remainingPurchases=0
+
+2022-11-14 11:47:21 Coroutine_StartupSequence - Data retrieved
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"None","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 5 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 3 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 7 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 4 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 6 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Events/Event_Title_Test_PlayAnyDeck in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 2 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 5 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 3 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 7 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 4 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 6 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Events/Event_Title_Test_PlayAnyDeck in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 2 MID Premier in en-US
+
+BEGIN home page notification flow
+
+END home page notification flow
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 385)
+
+Unloading 1509 unused Assets to reduce memory usage. Loaded Objects now: 40160.
+Total: 1067.678600 ms (FindLiveObjects: 5.876500 ms CreateObjectMapping: 5.258000 ms MarkObjects: 1050.685400 ms  DeleteObjects: 5.858200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 385)
+
+Unloading 294 unused Assets to reduce memory usage. Loaded Objects now: 40027.
+Total: 484.088200 ms (FindLiveObjects: 5.079400 ms CreateObjectMapping: 3.820000 ms MarkObjects: 474.900100 ms  DeleteObjects: 0.288100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 300)
+
+Unloading 2174 unused Assets to reduce memory usage. Loaded Objects now: 36800.
+Total: 522.312100 ms (FindLiveObjects: 4.403800 ms CreateObjectMapping: 3.492500 ms MarkObjects: 511.853100 ms  DeleteObjects: 2.562200 ms)
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Data for this type does not have an entry in the dictionary
+Call AddNavContentData to initialize one
+
+Timer PregameSequence start 11:47:47.352
+
+Timer SceneLoad_MatchScene start 11:47:47.353
+
+OnSceneLoaded for MatchScene
+
+Timer SceneLoad_MatchScene end 11:47:47.399
+
+Timer MatchSceneManager_Init start 11:47:47.400
+
+Timer MatchSceneManager_Init end 11:47:47.400
+
+Timer None_to_WaitingForMatch_transition start 11:47:47.401
+
+Timer None_to_WaitingForMatch_transition_PreGameScene_Loaded start 11:47:47.401
+
+OnSceneUnloaded for MainNavigation
+
+cannot find async scene unload for MainNavigation
+
+Caches cleared
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 182)
+OnSceneLoaded for PreGameScene
+
+Timer None_to_WaitingForMatch_transition_PreGameScene_Loaded end 11:47:47.592
+
+
+Unloading 9941 unused Assets to reduce memory usage. Loaded Objects now: 18878.
+Total: 476.471600 ms (FindLiveObjects: 2.083800 ms CreateObjectMapping: 5.274200 ms MarkObjects: 458.043600 ms  DeleteObjects: 11.069400 ms)
+
+Reference Assets/Core/Art/Meta/Cosmetics/Pets/Images/Icon_Pet_DMU_Mastery_Rundelvelt.png named DMU_MasteryLevel1 not cleaned up properly.
+
+Timer None_to_WaitingForMatch_transition_AlphaIn start 11:47:48.247
+
+Timer None_to_WaitingForMatch_transition_AlphaIn end 11:47:48.346
+
+Timer None_to_WaitingForMatch_transition_ExecuteBlock start 11:47:48.346
+
+Timer None_to_WaitingForMatch_transition_ExecuteBlock end 11:47:48.369
+
+Timer None_to_WaitingForMatch_transition end 11:47:48.369
+
+Timer WaitingForMatch start 11:47:48.370
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":0,"new":2}
+
+[UnityCrossThreadLogger]Connecting to matchId d0824ac3-5f60-472f-b68b-649335345851
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":2,"new":5}
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":5,"new":6}
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":6,"new":7}
+
+Timer WaitingForMatch end 11:47:51.661
+
+Timer WaitingForMatch_to_MatchReady_transition start 11:47:51.661
+
+Timer WaitingForMatch_to_MatchReady_transition_ExecuteBlock start 11:47:51.661
+
+Timer WaitingForMatch_to_MatchReady_transition_Battlefield_Loaded start 11:47:51.687
+
+Timer WaitingForMatch_to_MatchReady_transition_DuelScene_Loaded start 11:47:51.688
+
+OnSceneLoaded for Battlefield_STX
+
+Timer WaitingForMatch_to_MatchReady_transition_Battlefield_Loaded end 11:47:52.111
+
+EffectPoller: using Post Processing effect = True
+
+OnSceneLoaded for DuelScene
+
+GameManager init
+
+GameManager Start
+
+Camera depthTextureMode was None, changing to Depth
+
+Timer WaitingForMatch_to_MatchReady_transition_DuelScene_Loaded end 11:47:52.936
+
+Timer WaitingForMatch_to_MatchReady_transition_AlphaIn start 11:47:53.182
+
+Timer WaitingForMatch_to_MatchReady_transition_AlphaIn end 11:47:53.182
+
+Timer WaitingForMatch_to_MatchReady_transition_ExecuteBlock end 11:47:59.493
+
+Timer WaitingForMatch_to_MatchReady_transition end 11:47:59.493
+
+Timer MatchReady start 11:47:59.493
+
+Timer MatchReady end 11:47:59.543
+
+Timer MatchReady_to_DuelScene_transition start 11:47:59.543
+
+Timer MatchReady_to_DuelScene_transition_AlphaOut start 11:47:59.543
+
+Timer MatchReady_to_DuelScene_transition_AlphaOut end 11:48:00.549
+
+Timer MatchReady_to_DuelScene_transition_PreGameScene_Unloaded start 11:48:00.549
+
+OnSceneUnloaded for PreGameScene
+
+Timer MatchReady_to_DuelScene_transition_PreGameScene_Unloaded end 11:48:00.626
+
+Timer MatchReady_to_DuelScene_transition_AlphaIn start 11:48:00.640
+
+Timer MatchReady_to_DuelScene_transition_AlphaIn end 11:48:01.659
+
+Timer MatchReady_to_DuelScene_transition end 11:48:01.659
+
+Timer DuelScene start 11:48:01.659
+
+Timer PregameSequence end 11:48:01.660
+
+[Accounts - SharedContextView] Refreshing access token.
+
+[Accounts - SharedContextView] Access token refreshed.
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 648 -> [InstanceId:648, GrpId:83625]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 672 -> [InstanceId:672, GrpId:83623]
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 687 -> [InstanceId:687, GrpId:81149]
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Look rotation viewing vector is zero
+
+Couldn't find affector id 9015 in either new or old GameState for UpdatePlayerLifeTotal change event.
+
+ZoneTransferUXEvent told to perform an operation on a card not found in the game: 875 -> [InstanceId:875, GrpId:83628]
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":7,"new":8}
+
+[UnityCrossThreadLogger]Client.TcpConnection.Close
+
+[UnityCrossThreadLogger]GREConnection.HandleWebSocketClosed {"closeType":7,"reason":"Closed by remote end","tcpConn":{"host":"matchdoor-mtga-production-2022-20-40-43.w2.mtgarena.com","port":30003,"rtTicksRollingAvg":184.2,"rtTicksSamples":[218.0,172.0,172.0,187.0,172.0],"lastLocalActivity":[{"type":"Send","time":"2022-11-14T10:59:43.3407737Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:43.8624518Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:44.7361354Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:45.0969223Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:45.6026102Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:46.5748243Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:47.0987615Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:47.123747Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:50.5700625Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:50.6200295Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:51.4685054Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Close","time":"2022-11-14T10:59:51.6483948Z","status":7,"reason":"Closed by remote end"}],"lastRemoteActivity":[{"type":"Msg","time":"2022-11-14T10:59:46.3774333Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:46.8496388Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:47.4095695Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:47.4595381Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:47.660719Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:48.2743338Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:48.8428069Z","msgVersion":3},{"type":"Ping","time":"2022-11-14T10:59:50.619031Z","msgVersion":3},{"type":"Pong","time":"2022-11-14T10:59:50.7489517Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:50.9688147Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:50.9698161Z","msgVersion":3},{"type":"Close","time":"2022-11-14T10:59:51.6483948Z"}],"lastRemotePing":"2022-11-14T11:59:50.6180311+01:00","inactivityTimeoutMs":60000}}
+
+[UnityCrossThreadLogger]STATE CHANGED {"old":8,"new":1}
+
+[UnityCrossThreadLogger]Client.TcpConnection.Close
+
+OnSceneLoaded for MatchEndScene
+
+Attempting to refresh mastery pass that's already being refreshed
+
+Couldn't unload audio package BAT_STX result was AK_Fail
+
+OnSceneUnloaded for Battlefield_STX
+
+OnSceneUnloaded for DuelScene
+
+OnSceneUnloaded for MatchEndScene
+
+2022-11-14 11:59:57 OnExitMatchScene
+
+[UnityCrossThreadLogger]Client.TcpConnection.Close {"status":2,"reason":"MatchManager.Reset","host":"matchdoor-mtga-production-2022-20-40-43.w2.mtgarena.com","port":30003,"rtTicksRollingAvg":184.2,"rtTicksSamples":[218.0,172.0,172.0,187.0,172.0],"lastLocalActivity":[{"type":"Send","time":"2022-11-14T10:59:44.7361354Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:45.0969223Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:45.6026102Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:46.5748243Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:47.0987615Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:47.123747Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:50.5700625Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:50.6200295Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-11-14T10:59:51.4685054Z","msgType":"ClientToMatchSvcMsgWrapper","msgVersion":3},{"type":"Close","time":"2022-11-14T10:59:51.6483948Z","status":7,"reason":"Closed by remote end"},{"type":"Close","time":"2022-11-14T10:59:51.6783759Z","status":7,"reason":"Closed by remote end"},{"type":"Close","time":"2022-11-14T10:59:57.817598Z","status":2,"reason":"MatchManager.Reset"}],"lastRemoteActivity":[{"type":"Msg","time":"2022-11-14T10:59:46.3774333Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:46.8496388Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:47.4095695Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:47.4595381Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:47.660719Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:48.2743338Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:48.8428069Z","msgVersion":3},{"type":"Ping","time":"2022-11-14T10:59:50.619031Z","msgVersion":3},{"type":"Pong","time":"2022-11-14T10:59:50.7489517Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:50.9688147Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T10:59:50.9698161Z","msgVersion":3},{"type":"Close","time":"2022-11-14T10:59:51.6483948Z"}],"lastRemotePing":"2022-11-14T11:59:50.6180311+01:00","inactivityTimeoutMs":60000}
+
+2022-11-14 11:59:57 LoadWrapperScene
+
+Unloading the last loaded scene Assets/Core/MatchScene/MatchScene.unity(build index: 6), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+
+Caches cleared
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 321)
+
+Unloading 21107 unused Assets to reduce memory usage. Loaded Objects now: 17446.
+Total: 608.787800 ms (FindLiveObjects: 4.005600 ms CreateObjectMapping: 5.581700 ms MarkObjects: 542.466800 ms  DeleteObjects: 56.732900 ms)
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_red.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_red.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_green.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_white.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_black.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_green.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_green.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_black.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_blue.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_black.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_red.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_blue.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_blue.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_white.png
+
+Asset Tracker ManaWergeIconImageSprite not cleaned up. Keeping asset path loaded: Assets/Core/Art/VFX/Textures/Common/CardElement/plain_mana_icon_white.png
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 321)
+UnloadTime: 3.033200 ms
+MainNav load in 289ms
+
+2022-11-14 11:59:59 Coroutine_StartupSequence
+
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 23153.
+Total: 401.614900 ms (FindLiveObjects: 1.328300 ms CreateObjectMapping: 2.664700 ms MarkObjects: 397.496400 ms  DeleteObjects: 0.124800 ms)
+
+[UnityCrossThreadLogger]SKU recieved: id=123456001 price=4,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_15_0 price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_4m price=19,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=bundle_wildcards_4r price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-001 price=4,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-002 price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-003 price=19,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-004 price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-Gems-005 price=99,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_bundle_40k_sleeves price=9,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_afr_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_bro_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_bro_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_dmu_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_dmu_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_hbg_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_hbg_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Pet price=0,01 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA_Preorder_KHM_Play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_mid_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_neo_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_neo_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_snc_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_snc_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_stx_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_pack price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=mtga_preorder_vow_play price=49,99 maxPurchases=0 remainingPurchases=-1
+
+[UnityCrossThreadLogger]SKU recieved: id=Bundle_Adventurer price=14,99 maxPurchases=1 remainingPurchases=0
+
+[UnityCrossThreadLogger]SKU recieved: id=MTGA-StarterBundle price=4,99 maxPurchases=1 remainingPurchases=0
+
+2022-11-14 12:00:02 Coroutine_StartupSequence - Data retrieved
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"None","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 5 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 3 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 7 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 4 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 6 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Events/Event_Title_Test_PlayAnyDeck in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 2 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 5 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 3 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 7 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 4 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 6 MID Premier in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Events/Event_Title_Test_PlayAnyDeck in en-US
+
+[UnityCrossThreadLogger][MTGA.Loc] Missing translation for Test Draft Queue Size 2 MID Premier in en-US
+
+BEGIN home page notification flow
+
+END home page notification flow
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 388)
+
+Unloading 1561 unused Assets to reduce memory usage. Loaded Objects now: 39915.
+Total: 531.992400 ms (FindLiveObjects: 2.973600 ms CreateObjectMapping: 3.818900 ms MarkObjects: 520.635700 ms  DeleteObjects: 4.563800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 388)
+
+Unloading 670 unused Assets to reduce memory usage. Loaded Objects now: 39892.
+Total: 465.553600 ms (FindLiveObjects: 3.356700 ms CreateObjectMapping: 3.527100 ms MarkObjects: 458.076700 ms  DeleteObjects: 0.592700 ms)
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"Home","toSceneName":"RewardTrack","initiator":"User","context":"NavBar button"}
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"RewardTrack","toSceneName":"RewardTree","initiator":"User","context":"Opening Web from Track Scene"}
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 326)
+
+Unloading 450 unused Assets to reduce memory usage. Loaded Objects now: 71407.
+Total: 550.002300 ms (FindLiveObjects: 5.834200 ms CreateObjectMapping: 6.993600 ms MarkObjects: 535.888200 ms  DeleteObjects: 1.285900 ms)
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"RewardTree","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+BEGIN home page notification flow
+
+END home page notification flow
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"Home","toSceneName":"RewardTrack","initiator":"User","context":"From EPP Objective Circle"}
+
+[UnityCrossThreadLogger]Client.SceneChange {"fromSceneName":"RewardTrack","toSceneName":"Home","initiator":"System","context":"Landing Page 'Home'"}
+
+BEGIN home page notification flow
+
+END home page notification flow
 
 [UnityCrossThreadLogger]FrontDoorConnection.Close(reason = "OnDestroy")
 
-[UnityCrossThreadLogger]Client.TcpConnection.Close {"status":2,"reason":"OnDestroy","host":"frontdoor-mtga-production-2022-18-60-35.w2.mtgarena.com","port":30010,"rtTicksRollingAvg":337.4,"rtTicksSamples":[172.0,984.0,172.0,187.0,172.0],"lastLocalActivity":[{"type":"Send","time":"2022-08-31T21:59:58.0500103Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:12.8934697Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:13.051374Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:27.8973617Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:28.8944895Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:42.8981602Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:43.0470784Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:57.8985813Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:00:58.0464961Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-08-31T22:01:12.8994243Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-08-31T22:01:13.0463366Z","msgType":"Pong","msgVersion":3},{"type":"Close","time":"2022-08-31T22:01:26.8410822Z","status":2,"reason":"OnDestroy"}],"lastRemoteActivity":[{"type":"Ping","time":"2022-08-31T21:59:58.0490033Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T21:59:58.0729925Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:00:13.0503684Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:00:13.0753534Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:00:28.8904938Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:00:28.8914938Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:00:43.0460668Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:00:43.0800441Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:00:58.0454868Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:00:58.0804645Z","msgVersion":3},{"type":"Ping","time":"2022-08-31T22:01:13.0443354Z","msgVersion":3},{"type":"Pong","time":"2022-08-31T22:01:13.0801802Z","msgVersion":3}],"lastRemotePing":"2022-09-01T00:01:13.0443354+02:00","inactivityTimeoutMs":60000}
+[UnityCrossThreadLogger]Client.TcpConnection.Close {"status":2,"reason":"OnDestroy","host":"frontdoor-mtga-production-2022-20-40-43.w2.mtgarena.com","port":30010,"rtTicksRollingAvg":202.4,"rtTicksSamples":[171.0,171.0,187.0,171.0,312.0],"lastLocalActivity":[{"type":"Send","time":"2022-11-14T11:00:48.488821Z","msgType":"Ping","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:48.6591161Z","msgType":"StringMsg","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:48.6831007Z","msgType":"StringMsg","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:48.6831007Z","msgType":"StringMsg","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:48.7342332Z","msgType":"StringMsg","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:49.2678683Z","msgType":"Pong","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:49.3368245Z","msgType":"StringMsg","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:49.3378248Z","msgType":"StringMsg","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:54.2908266Z","msgType":"StringMsg","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:54.4477467Z","msgType":"StringMsg","msgVersion":3},{"type":"Send","time":"2022-11-14T11:00:54.4657375Z","msgType":"StringMsg","msgVersion":3},{"type":"Close","time":"2022-11-14T11:00:54.4677358Z","status":2,"reason":"OnDestroy"}],"lastRemoteActivity":[{"type":"Msg","time":"2022-11-14T11:00:48.2256249Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:48.2346221Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:48.4123198Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:48.619086Z","msgVersion":3},{"type":"Pong","time":"2022-11-14T11:00:48.8006609Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:48.992228Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:48.9997608Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:49.0057578Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:49.0248933Z","msgVersion":3},{"type":"Ping","time":"2022-11-14T11:00:49.2668683Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:49.6764518Z","msgVersion":3},{"type":"Msg","time":"2022-11-14T11:00:49.6844471Z","msgVersion":3}],"lastRemotePing":"2022-11-14T12:00:49.2668683+01:00","inactivityTimeoutMs":60000}
+
+Uploading Crash Report
+NullReferenceException: Object reference not set to an instance of an object
+  at Wotc.Mtga.Network.ServiceWrappers.AwsInventoryServiceWrapper..ctor (FrontDoorConnectionAWS fdc, Wotc.Mtga.Providers.CosmeticsProvider cosmeticsProvider, Wizards.Mtga.Decks.DeckDataProvider deckDataProvider) [0x00035] in <352b494142a14b478e6a2602967270bd>:0 
+  at Core.Shared.Code.WrapperFactories.InventoryServiceWrapperFactory.Create (Wotc.Mtga.Network.ServiceWrappers.IFrontDoorConnectionServiceWrapper fd, Wotc.Mtga.Providers.CosmeticsProvider cosmeticsProvider, Wizards.Mtga.Decks.DeckDataProvider deckDataProvider) [0x00015] in <352b494142a14b478e6a2602967270bd>:0 
+  at Core.Shared.Code.WrapperFactories.InventoryServiceWrapperFactory.Create () [0x00029] in <352b494142a14b478e6a2602967270bd>:0 
+  at Wizards.Mtga.Pantry.get[T] () [0x00031] in <352b494142a14b478e6a2602967270bd>:0 
+  at Wizards.Mtga.Pantry.Get[T] (Wizards.Mtga.Pantry+Scope scope) [0x00006] in <352b494142a14b478e6a2602967270bd>:0 
+  at Core.Shared.Code.WrapperFactories.InventoryManagerFactory.Create () [0x00000] in <352b494142a14b478e6a2602967270bd>:0 
+  at Wizards.Mtga.Pantry.get[T] () [0x00031] in <352b494142a14b478e6a2602967270bd>:0 
+  at Wizards.Mtga.Pantry.Get[T] (Wizards.Mtga.Pantry+Scope scope) [0x00006] in <352b494142a14b478e6a2602967270bd>:0 
+  at Core.MainNavigation.RewardTrack.SetMasteryStrategyFactory.Create () [0x00000] in <352b494142a14b478e6a2602967270bd>:0 
+  at Wizards.Mtga.Pantry.get[T] () [0x00031] in <352b494142a14b478e6a2602967270bd>:0 
+  at Wizards.Mtga.Pantry.Get[T] (Wizards.Mtga.Pantry+Scope scope) [0x00006] in <352b494142a14b478e6a2602967270bd>:0 
+  at Core.MainNavigation.RewardTrack.SetMasteryDataProvider.Create () [0x00000] in <352b494142a14b478e6a2602967270bd>:0 
+  at Wizards.Mtga.Pantry.get[T] () [0x00031] in <352b494142a14b478e6a2602967270bd>:0 
+  at Wizards.Mtga.Pantry.Get[T] (Wizards.Mtga.Pantry+Scope scope) [0x00006] in <352b494142a14b478e6a2602967270bd>:0 
+  at ProgressionTracksContentController.get_MasteryPassProvider () [0x00000] in <352b494142a14b478e6a2602967270bd>:0 
+  at ProgressionTracksContentController.OnDestroy () [0x00000] in <352b494142a14b478e6a2602967270bd>:0 
 
 Curl error 42: Callback aborted
+Reference Assets/Core/CardArt/428000/428802_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428802_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428760_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428760_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428773_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428773_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Asset Tracker AltReferenceMaterial not cleaned up. Keeping asset path loaded: Assets/Core/Art/CDC/Meshes/Materials/Mat_Card_TitleTypePT_PremiumT2.mat
+
+Reference Assets/Core/CardArt/428000/428760_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428760_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428802_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428802_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428804_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428804_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428802_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428802_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428773_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428773_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Asset Tracker AltReferenceMaterial not cleaned up. Keeping asset path loaded: Assets/Core/Art/CDC/CardBacks/Materials/Mat_CardBack_DMU_StainedGlass_RonaSheoldredsFaithful.mat
+
+Reference Assets/Core/CardArt/428000/428804_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428804_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428773_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428773_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Asset Tracker AltReferenceMaterial not cleaned up. Keeping asset path loaded: Assets/Core/Art/CDC/Meshes/Materials/Mat_Card_TitleTypePT_PremiumT2.mat
+
+Reference Assets/Core/CardArt/428000/428804_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428804_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428802_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428802_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428804_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428804_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428760_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428760_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/SetAgnostic/MissingArt.png named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428760_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428760_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428773_AIF.tga named _MainTex not cleaned up properly.
+
+Reference Assets/Core/CardArt/428000/428773_AIF_util.tga named _DepthFoilDistTex not cleaned up properly.
+
