@@ -1,0 +1,9 @@
+{
+  "name": "Archive binding fix",
+  "author": "Nexus Mods",
+  "version": "0.1.0",
+  "description": "Tries to fix duplicate entries in the mod list.",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Archive binding fix v0.1.0.7z",
+  "bundled": false,
+  "modId": 25
+}

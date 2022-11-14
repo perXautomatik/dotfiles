@@ -1,0 +1,9 @@
+{
+  "name": "Developer Tools",
+  "author": "Nexus Mods",
+  "version": "1.0.0",
+  "description": "Adds a button to Vortex to open the chrome developer tools.",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Developer Tools v1.0.0.7z",
+  "bundled": false,
+  "modId": 12
+}
