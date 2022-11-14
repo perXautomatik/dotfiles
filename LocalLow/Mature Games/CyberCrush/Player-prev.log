@@ -1,0 +1,1457 @@
+Mono path[0] = 'E:/Steam/steamapps/common/Cyber Crush 2069/CyberCrush_Data/Managed'
+Mono config path = 'E:/Steam/steamapps/common/Cyber Crush 2069/MonoBleedingEdge/etc'
+Initialize engine version: 2019.3.15f1 (59ff3e03856d)
+[Subsystems] Discovering subsystems at path E:/Steam/steamapps/common/Cyber Crush 2069/CyberCrush_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   (null)
+    VRAM:     2988 MB
+    Driver:   27.21.14.5671
+Begin MonoManager ReloadAssembly
+- Completed reload, in  3.813 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.613100 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.270400 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 21939.
+Total: 5.591600 ms (FindLiveObjects: 1.560100 ms CreateObjectMapping: 0.606400 ms MarkObjects: 3.327100 ms  DeleteObjects: 0.097300 ms)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: OPERATING_ROOM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: SFX/446 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_117_Hold2 = FCS8_117_Hold2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_053_Ok3 = FCS8_053_Ok3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_049_Recover2 = FCS8_049_Recover2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_052_Ok2 = FCS8_052_Ok2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_048_Recover1 = FCS8_048_Recover1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_053_Ok3 = FCS8_053_Ok3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_083_Shy1 = FCS8_083_Shy1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_071_Suspicious2 = FCS8_071_Suspicious2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_106_Request2 = FCS8_106_Request2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: WARREN_OFFICE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_081_Satisfaction1 = FCS8_081_Satisfaction1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_075_Anger1 = FCS8_075_Anger1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_087_Laugh1 = FCS8_087_Laugh1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_058_Aha2 = FCS8_058_Aha2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_097_Praise1 = FCS8_097_Praise1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_051_Ok1 = FCS8_051_Ok1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_104_Abuse2 = FCS8_104_Abuse2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_056_Deny3 = FCS8_056_Deny3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_053_Ok3 = FCS8_053_Ok3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_089_Bitter smile1 = FCS8_089_Bitter smile1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_068_Thinking3 = FCS8_068_Thinking3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_067_Thinking2 = FCS8_067_Thinking2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_087_Laugh1 = FCS8_087_Laugh1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_054_Deny1 = FCS8_054_Deny1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_053_Ok3 = FCS8_053_Ok3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: SMS_ALERT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: INCREASE_HEART 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: TALK_POSITIVE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: DIALOG_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: DIALOG_HIDE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: TALK_POSITIVE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: BLACK_SCREEN 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: HOSPITAL_LOBBY 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_087_Laugh1 = FCS8_087_Laugh1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_078_Feel down2 = FCS8_078_Feel down2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_058_Aha2 = FCS8_058_Aha2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_067_Thinking2 = FCS8_067_Thinking2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_056_Deny3 = FCS8_056_Deny3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_053_Ok3 = FCS8_053_Ok3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_054_Deny1 = FCS8_054_Deny1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_049_Recover2 = FCS8_049_Recover2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: ICU_BED 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_051_Ok1 = FCS8_051_Ok1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_052_Ok2 = FCS8_052_Ok2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_075_Anger1 = FCS8_075_Anger1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_072_Joy1 = FCS8_072_Joy1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_067_Thinking2 = FCS8_067_Thinking2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_081_Satisfaction1 = FCS8_081_Satisfaction1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 36.791300 ms
+
+Unloading 976 unused Assets to reduce memory usage. Loaded Objects now: 14091.
+Total: 33.499200 ms (FindLiveObjects: 1.497700 ms CreateObjectMapping: 3.450400 ms MarkObjects: 14.440400 ms  DeleteObjects: 14.110100 ms)
+
+haveUnviewedSMS = True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: PROFILE_ALERT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G1/FCS20_087_Laugh1 = FCS20_087_Laugh1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G1/FCS20_087_Laugh1 = FCS20_087_Laugh1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: GIVE_SUCCESS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G1/FCS20_087_Laugh1 = FCS20_087_Laugh1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: GIVE_SUCCESS 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Achievement popped: FIRST_DATE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Achievement popped: NEWBIE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Achievement popped: FIRST_DATE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Achievement popped: NEWBIE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Achievement popped: FIRST_DATE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Achievement popped: NEWBIE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: INCREASE_XP 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.717600 ms
+
+Unloading 1066 unused Assets to reduce memory usage. Loaded Objects now: 34235.
+Total: 23.292500 ms (FindLiveObjects: 2.832000 ms CreateObjectMapping: 2.184200 ms MarkObjects: 16.012300 ms  DeleteObjects: 2.263300 ms)
+
+SetBackground: ICU_BED 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_096_Thank you2 = FCS8_096_Thank you2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_100_Apologize2 = FCS8_100_Apologize2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_057_Aha1 = FCS8_057_Aha1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_066_Thinking1 = FCS8_066_Thinking1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_058_Aha2 = FCS8_058_Aha2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_057_Aha1 = FCS8_057_Aha1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_081_Satisfaction1 = FCS8_081_Satisfaction1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_093_Weep1 = FCS8_093_Weep1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_068_Thinking3 = FCS8_068_Thinking3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_051_Ok1 = FCS8_051_Ok1 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_056_Deny3 = FCS8_056_Deny3 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playvoice: Voices/G2/FCS8_067_Thinking2 = FCS8_067_Thinking2 (UnityEngine.AudioClip) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+haveUnviewedSMS = True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: SMS_ALERT 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: INCREASE_HEART 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: TALK_POSITIVE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: TALK_POSITIVE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: OPTIONS_SHOW 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: TALK_POSITIVE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+haveUnviewedSMS = True 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 6.765700 ms
+
+Unloading 934 unused Assets to reduce memory usage. Loaded Objects now: 20406.
+Total: 23.420000 ms (FindLiveObjects: 1.276000 ms CreateObjectMapping: 0.609500 ms MarkObjects: 18.609600 ms  DeleteObjects: 2.924200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 1.925500 ms
+
+Unloading 584 unused Assets to reduce memory usage. Loaded Objects now: 34875.
+Total: 20.881700 ms (FindLiveObjects: 1.669300 ms CreateObjectMapping: 0.955500 ms MarkObjects: 17.943900 ms  DeleteObjects: 0.312200 ms)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: ICU_BED 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: CLINIC_OPERATING_THEATER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 3.262600 ms
+
+Unloading 924 unused Assets to reduce memory usage. Loaded Objects now: 23209.
+Total: 23.206400 ms (FindLiveObjects: 1.169600 ms CreateObjectMapping: 0.747400 ms MarkObjects: 19.498500 ms  DeleteObjects: 1.790200 ms)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: ICU_BED 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.666900 ms
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 38259.
+Total: 25.812300 ms (FindLiveObjects: 1.873200 ms CreateObjectMapping: 0.885300 ms MarkObjects: 22.700600 ms  DeleteObjects: 0.352600 ms)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: ICU_BED 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: CLINIC_OPERATING_THEATER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 3.490300 ms
+
+Unloading 924 unused Assets to reduce memory usage. Loaded Objects now: 23378.
+Total: 23.732700 ms (FindLiveObjects: 1.153400 ms CreateObjectMapping: 0.685100 ms MarkObjects: 19.951400 ms  DeleteObjects: 1.941900 ms)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: ICU_BED 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.846900 ms
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 38428.
+Total: 29.786500 ms (FindLiveObjects: 2.160300 ms CreateObjectMapping: 1.410300 ms MarkObjects: 25.813300 ms  DeleteObjects: 0.401400 ms)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUY_ITEM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: ICU_BED 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: CLINIC_OPERATING_THEATER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 3.524400 ms
+
+Unloading 924 unused Assets to reduce memory usage. Loaded Objects now: 24836.
+Total: 26.623400 ms (FindLiveObjects: 1.283300 ms CreateObjectMapping: 0.741600 ms MarkObjects: 22.524800 ms  DeleteObjects: 2.072900 ms)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetBackground: ICU_BED 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 0.984300 ms
+
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 39886.
+Total: 34.955000 ms (FindLiveObjects: 2.408200 ms CreateObjectMapping: 1.689500 ms MarkObjects: 30.476600 ms  DeleteObjects: 0.380100 ms)
+
+haveUnviewedSMS = False 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: MAIN_BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: ITEM_HOVER 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlayOneShot was called with a null AudioClip. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PlaySFX: BUTTON_CLICK 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 12548 -> priority: 1 
+  Thread -> id: 124f4 -> priority: 1 
+  Thread -> id: 12078 -> priority: 1 
+  Thread -> id: d9b0 -> priority: 1 

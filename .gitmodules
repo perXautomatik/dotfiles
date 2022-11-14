@@ -3,18 +3,6 @@
 [submodule "Roaming/JetBrains/DataGrip2021.1"]
 	path = Roaming/JetBrains/DataGrip2021.1
 	url = https://github.com/perXautomatik/DatagripSettings.git
-[submodule "Roaming/Microsoft/Windows/PowerShell"]
-	path = Roaming/Microsoft/Windows/PowerShell
-[submodule "Roaming/Scooter Software/Beond Compare 4"]
-	path = Roaming/Scooter Software/Beond Compare 4
-	url = https://github.com/perXautomatik/BeondCompare4.git
-[submodule "Roaming/Vortex/fallout3/masterlist"]
-	path = Roaming/Vortex/fallout3/masterlist
-	url = https://github.com/loot/fallout3.git
-[submodule "Roaming/Vortex/fallout4/masterlist"]
-	path = Roaming/Vortex/fallout4/masterlist
-[submodule "Roaming/Vortex/falloutnv/masterlist"]
-	path = Roaming/Vortex/falloutnv/masterlist
 [submodule "Roaming/JetBrains/DataGrip2021.1_1"]
 	branch = --
 	path = Roaming/JetBrains/DataGrip2021.1_1
@@ -31,6 +19,18 @@
 	branch = --
 	path = Roaming/JetBrains/DataGrip2022.1_1
 	url = https://github.com/perXautomatik/DatagripSettings.git
+[submodule "Roaming/Microsoft/Windows/PowerShell"]
+	path = Roaming/Microsoft/Windows/PowerShell
 [submodule "Roaming/Opera Software/Opera GX Stable/_side_profiles"]
 	branch = --
 	path = Roaming/Opera Software/Opera GX Stable/_side_profiles
+[submodule "Roaming/Scooter Software/Beond Compare 4"]
+	path = Roaming/Scooter Software/Beond Compare 4
+	url = https://github.com/perXautomatik/BeondCompare4.git
+[submodule "Roaming/Vortex/fallout3/masterlist"]
+	path = Roaming/Vortex/fallout3/masterlist
+	url = https://github.com/loot/fallout3.git
+[submodule "Roaming/Vortex/fallout4/masterlist"]
+	path = Roaming/Vortex/fallout4/masterlist
+[submodule "Roaming/Vortex/falloutnv/masterlist"]
+	path = Roaming/Vortex/falloutnv/masterlist

@@ -1,0 +1,10 @@
+{
+  "name": "Import from Steam Workshop",
+  "author": "Pickysaurus",
+  "version": "1.0.5",
+  "description": "Import mods installed via Steam Workshop into Vortex",
+  "type": null,
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Import from Steam Workshop v1.0.5.7z",
+  "bundled": false,
+  "modId": 114
+}
