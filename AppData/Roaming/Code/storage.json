@@ -1,18 +1,5 @@
 {
     "telemetry.machineId": "22ad05d8523683622e57fdd02c2dd4a19ad3be7c754c7694eabd041f6b58b79c",
-    "openedPathsList": {
-        "entries": [
-            {
-                "folderUri": "file:///d%3A/ToGit/Notebook-Foam"
-            },
-            {
-                "folderUri": "file:///c%3A/Users/dator"
-            },
-            {
-                "fileUri": "file:///c%3A/Users/dator/AppData/Local/Microsoft_Corporation/PowerShell_ISE.exe_StrongName_lw2v2vm3wmtzzpebq33gybmeoxukb04w/3.0.0.0/user.config"
-            }
-        ]
-    },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
     "windowSplash": {
@@ -28,7 +15,7 @@
             "statusBarNoFolderBackground": "#68217a"
         },
         "layoutInfo": {
-            "sideBarSide": "left",
+            "sideBarSide": "right",
             "editorPartMinWidth": 220,
             "titleBarHeight": 30,
             "activityBarWidth": 48,
@@ -39,12 +26,12 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "C:\\Users\\dator\\AppData\\Roaming\\Code\\Backups\\1641137526699",
+            "backupPath": "C:\\Users\\Användaren\\AppData\\Roaming\\Code\\Backups\\1647696200858",
             "uiState": {
                 "mode": 1,
-                "x": 316,
-                "y": 159,
-                "width": 1575,
+                "x": 448,
+                "y": 156,
+                "width": 1024,
                 "height": 768
             }
         },
