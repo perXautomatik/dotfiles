@@ -1,3 +1,37 @@
 globals: []
-plugins: []
+plugins:
+  - name: a world of pain revised.esm
+    after: []
+  - name: unofficial patch nvse plus.esp
+    after:
+      - yup - npc fixes (base game + all dlc).esp
+  - name: dip1.esp
+    after:
+      - diplonesome.esp
+  - name: dipblues.esp
+    after:
+      - diplonesome.esp
+      - dip1.esp
+      - t4-plugin.esp
+      - dipdead.esp
+  - name: npcs wear nsns nv.esp
+    after: []
+  - name: t4-plugin.esp
+    after:
+      - diphonest.esp
+  - name: t6m equipment replacer nv.esm
+    after: []
+  - name: t6m jeans outfit.esp
+    after:
+      - npcs wear nsns nv.esp
+  - name: t6_munnibhai_bnb.esm
+    after: []
+  - name: gunrunnersarsenal.esm
+    after:
+      - t6_munnibhai_bnb.esm
+  - name: dipdead.esp
+    after:
+      - t4-plugin.esp
+  - name: deadmoney.esm
+    after: []
 groups: []
