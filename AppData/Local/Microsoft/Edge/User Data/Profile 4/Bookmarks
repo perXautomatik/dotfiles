@@ -1,0 +1,963 @@
+{
+   "checksum": "9e5d0a53eaefc443ddc0a3648fa08bfd",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13266517044060607",
+            "date_modified": "13266517044060607",
+            "guid": "d38ea7ae-c331-4cb5-a9d2-59627e2476b9",
+            "id": "5",
+            "name": "New folder",
+            "source": "extension",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13274529708727614",
+                  "guid": "edf4bdeb-de5e-4146-849d-d5077d248007",
+                  "id": "10",
+                  "name": "[2021-08-27 11:21:48] - explooosion/PoeHideoutSyntax: This is a poe hideout syntax highlighting.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/explooosion/PoeHideoutSyntax"
+               }, {
+                  "date_added": "13274530243602633",
+                  "guid": "29499abc-58cb-4fc3-a7e8-7ccbd360c917",
+                  "id": "11",
+                  "name": "[2021-08-27 11:30:43] - GitHub",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/"
+               }, {
+                  "date_added": "13274742650867954",
+                  "guid": "761e59c2-0958-4fc0-84f8-743289b4c301",
+                  "id": "13",
+                  "name": "[2021-08-29 22:30:50] - Releases · matortheeternal/merge-plugins",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/merge-plugins/releases"
+               }, {
+                  "date_added": "13274801807348264",
+                  "guid": "1589e4aa-67f9-412a-8e82-dc8b0b73dcad",
+                  "id": "16",
+                  "name": "[2021-08-30 14:56:47] - Search · mator smash",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/search?q=mator+smash&ref=opensearch"
+               }, {
+                  "date_added": "13274801810186763",
+                  "guid": "07e494d9-bba7-48a8-b8ec-29e436cd8283",
+                  "id": "17",
+                  "name": "[2021-08-30 14:56:50] - matortheeternal/madi: Mator's Application Data Interface (MADI) is a RESTful API for Merge Plugins, Mator Smash, and future applications.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/madi"
+               }, {
+                  "date_added": "13274801841997737",
+                  "guid": "9f4710fd-0891-4eac-a146-b4a00e13894c",
+                  "id": "20",
+                  "name": "[2021-08-30 14:57:21] - matortheeternal (Colin)",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal"
+               }, {
+                  "date_added": "13274801844333684",
+                  "guid": "8261a10b-7800-43a0-a04d-1027e022bc07",
+                  "id": "21",
+                  "name": "[2021-08-30 14:57:24] - matortheeternal (Colin)",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal?tab=repositories"
+               }, {
+                  "date_added": "13274801868721409",
+                  "guid": "5219fd1e-18a7-4c26-a793-55abb7eecf4b",
+                  "id": "22",
+                  "name": "[2021-08-30 14:57:48] - matortheeternal/esp.json: JSON definitions for parsing Bethesda Plugin Files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/esp.json"
+               }, {
+                  "date_added": "13274801873898619",
+                  "guid": "21f82864-51dd-4a12-b0e4-ffdd3be29e2e",
+                  "id": "25",
+                  "name": "[2021-08-30 14:57:53] - matortheeternal/memory-map: Native addon which uses the windows api to memory map files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/memory-map"
+               }, {
+                  "date_added": "13274801876988022",
+                  "guid": "d680d98a-a8d8-49a6-80bd-8b218b453bad",
+                  "id": "26",
+                  "name": "[2021-08-30 14:57:56] - matortheeternal/esper-js: An API for reading and writing Bethesda Plugin files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/esper-js"
+               }, {
+                  "date_added": "13274801890500576",
+                  "guid": "35f85b69-e669-4560-9108-d8997b3db9ad",
+                  "id": "27",
+                  "name": "[2021-08-30 14:58:10] - matortheeternal/pex-parser: JavaScript parser for compiled Papyrus script files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/pex-parser"
+               }, {
+                  "date_added": "13274801907808664",
+                  "guid": "5186f8b3-4cca-41ff-8932-2a5aa9220f92",
+                  "id": "28",
+                  "name": "[2021-08-30 14:58:27] - matortheeternal/ini-api: Node module which provides a clean class-based API for parsing, editing, and creating INI files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/ini-api"
+               }, {
+                  "date_added": "13274801908107910",
+                  "guid": "5b1807ea-8a02-454c-b4d3-0543818b9b3b",
+                  "id": "29",
+                  "name": "[2021-08-30 14:58:28] - matortheeternal/smash: An application that provides a means of performing automatic conflict resolution between multiple Bethesda Plugin Files for TES and Fallout games.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/smash"
+               }, {
+                  "date_added": "13274801913625092",
+                  "guid": "6f5d23f4-3d53-430c-a04f-4f8c233a3e17",
+                  "id": "30",
+                  "name": "[2021-08-30 14:58:33] - matortheeternal/TES5EditScripts: A collection of TES5Edit/FNVEdit scripts for modders.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5EditScripts"
+               }, {
+                  "date_added": "13274801924064289",
+                  "guid": "655a519d-be28-4716-9a4c-ad969f568b95",
+                  "id": "31",
+                  "name": "[2021-08-30 14:58:44] - matortheeternal/frostfall-warmth-utility: Legacy xEdit script for setting up armors for Frostfall.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/frostfall-warmth-utility"
+               }, {
+                  "date_added": "13274801930761941",
+                  "guid": "a1e2d36d-4ea1-459b-bc04-86713aa21125",
+                  "id": "32",
+                  "name": "[2021-08-30 14:58:50] - matortheeternal/balsa: Bethesda archive and asset programming library. Work in progress project to parse, edit, and create various Bethesda asset file formats.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/balsa"
+               }, {
+                  "date_added": "13274801936077670",
+                  "guid": "7accc867-b3ae-451b-a826-0c24c6ccba37",
+                  "id": "33",
+                  "name": "[2021-08-30 14:58:56] - matortheeternal/esper: Bethesda Plugin file parser.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/esper"
+               }, {
+                  "date_added": "13274801938238953",
+                  "guid": "549cfcff-888c-4512-89e8-7f1b99a5e9e6",
+                  "id": "34",
+                  "name": "[2021-08-30 14:58:58] - matortheeternal/esper-cpp: C++ based parser for Bethesda Plugin files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/esper-cpp"
+               }, {
+                  "date_added": "13274801944938427",
+                  "guid": "bd74ee07-cbcd-46a2-82d0-d2c525d8c16c",
+                  "id": "35",
+                  "name": "[2021-08-30 14:59:04] - matortheeternal/xedit-lib: Project to make a DLL exposing XEdit functionality to an application in any language.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/xedit-lib"
+               }, {
+                  "date_added": "13274801951022357",
+                  "guid": "184c9568-f309-498c-80b4-30478862fda7",
+                  "id": "36",
+                  "name": "[2021-08-30 14:59:11] - matortheeternal/zedit-blacksmith",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/zedit-blacksmith"
+               }, {
+                  "date_added": "13274801956620626",
+                  "guid": "db34c3a4-1468-4c54-8f35-2edbaf58aa7a",
+                  "id": "37",
+                  "name": "[2021-08-30 14:59:16] - matortheeternal/mod-picker: A web application which helps users to pick mods to use in Bethesda Games such as Skyrim and Fallout 4.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mod-picker"
+               }, {
+                  "date_added": "13274801965469170",
+                  "guid": "71c72e73-4ce4-487f-9867-e23a17194782",
+                  "id": "38",
+                  "name": "[2021-08-30 14:59:25] - matortheeternal/TES5Edit: xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5Edit"
+               }, {
+                  "date_added": "13274801970653900",
+                  "guid": "1bb2c452-458e-4fba-a36d-6e0ef36cc1d1",
+                  "id": "39",
+                  "name": "[2021-08-30 14:59:30] - matortheeternal/argo: A JSON framework for Delphi. Allows you to create, edit, serialize, and deserialize JSON objects.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/argo"
+               }, {
+                  "date_added": "13274801978142200",
+                  "guid": "741d5193-7120-4e3b-b999-94c7c7e18800",
+                  "id": "40",
+                  "name": "[2021-08-30 14:59:38] - matortheeternal/mxpf: An xEdit scripting library that provides a variety of functions for the generation of patches",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mxpf"
+               }, {
+                  "date_added": "13274801987861837",
+                  "guid": "1a2abd87-557b-4aa0-93ac-c0b120204a1b",
+                  "id": "41",
+                  "name": "[2021-08-30 14:59:47] - matortheeternal/zedit-workflow-system: Provides a system for creating and running workflows in zEdit.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/zedit-workflow-system"
+               }, {
+                  "date_added": "13274801990733698",
+                  "guid": "b0cfbc27-d640-4b2c-b35c-c3b71fb94e78",
+                  "id": "42",
+                  "name": "[2021-08-30 14:59:50] - matortheeternal (Colin) / Repositories",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal?after=Y3Vyc29yOnYyOpK5MjAxOC0wOS0yOFQwOTowOToyMiswMjowMM4I-391&tab=repositories"
+               }, {
+                  "date_added": "13274801995032059",
+                  "guid": "759aec5a-7d9a-4192-af51-3a72194b3111",
+                  "id": "43",
+                  "name": "[2021-08-30 14:59:55] - matortheeternal/basic-tutorials: Tutorials on basic topics for programming and software development.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/basic-tutorials"
+               }, {
+                  "date_added": "13274802000837020",
+                  "guid": "a65b4d3f-2c26-4d3b-9bee-eba6e7d9cb58",
+                  "id": "44",
+                  "name": "[2021-08-30 15:00:00] - matortheeternal/reproccer-reborn: Re-imagined SkyRe Reproccer using zEdit UPF",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/reproccer-reborn"
+               }, {
+                  "date_added": "13274802004650401",
+                  "guid": "f9ee037a-1eae-4332-abab-d1b0a71235cb",
+                  "id": "45",
+                  "name": "[2021-08-30 15:00:04] - matortheeternal/zedit-reproccer-xml-converter: Converts SkyRe Reproccer XML files to the JSON format used by Reproccer Reborn.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/zedit-reproccer-xml-converter"
+               }, {
+                  "date_added": "13274802007401670",
+                  "guid": "0e8c38a2-827b-4897-ae43-62cac48a4c66",
+                  "id": "46",
+                  "name": "[2021-08-30 15:00:07] - matortheeternal/zedit-unlimited-bookshelves: zEdit UPF patcher which patches plugins to work with unlimited bookshelves.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/zedit-unlimited-bookshelves"
+               }, {
+                  "date_added": "13274802300865275",
+                  "guid": "26ea1edc-7460-4485-b396-b20a6cb6d46d",
+                  "id": "47",
+                  "name": "[2021-08-30 15:05:00] - matortheeternal/wafr-patcher: A zEdit patcher for applying WAFR (or Weapon AF) changes to other mods.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/wafr-patcher"
+               }, {
+                  "date_added": "13274802320589736",
+                  "guid": "b9b001cd-585e-40b1-9aa7-f42c40b6a331",
+                  "id": "48",
+                  "name": "[2021-08-30 15:05:20] - matortheeternal/merge-plugins: Standalone application for merging bethesda plugin files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/merge-plugins"
+               }, {
+                  "date_added": "13274802324724953",
+                  "guid": "8a0b1549-eb17-4cf7-9ab2-ef7c111b9405",
+                  "id": "49",
+                  "name": "[2021-08-30 15:05:24] - matortheeternal/zedit-csv-tools: Tools for exporting and importing record data from CSV files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/zedit-csv-tools"
+               }, {
+                  "date_added": "13274802330061456",
+                  "guid": "36c92f76-7b16-41d5-b929-c17d3e26a822",
+                  "id": "50",
+                  "name": "[2021-08-30 15:05:30] - matortheeternal/zedit-npc-tools: A set of tools for generating NPCs.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/zedit-npc-tools"
+               }, {
+                  "date_added": "13274802342519114",
+                  "guid": "3775b922-cacc-4838-8872-62a589774411",
+                  "id": "51",
+                  "name": "[2021-08-30 15:05:42] - matortheeternal/buddah: A simple registry for community-made game modding software.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/buddah"
+               }, {
+                  "date_added": "13274802346571766",
+                  "guid": "cdddd2d5-e1ae-4889-9d78-4a0edc530135",
+                  "id": "52",
+                  "name": "[2021-08-30 15:05:46] - matortheeternal/shampoo: A utility for cleaning Bethesda Plugin files for use with TES and Fallout games.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/shampoo"
+               }, {
+                  "date_added": "13274802355523501",
+                  "guid": "bc191cfa-7aad-40d8-9d7a-1e442e8e9aa3",
+                  "id": "53",
+                  "name": "[2021-08-30 15:05:55] - matortheeternal/mahogany: A jasmine-inspired testing framework for Delphi.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mahogany"
+               }, {
+                  "date_added": "13274802367649276",
+                  "guid": "8d39f407-b642-4a8a-9d14-bc3b2ac38975",
+                  "id": "54",
+                  "name": "[2021-08-30 15:06:07] - matortheeternal/mod-dump: A command line application to produce compatibility dumps on bethesda plugins built on top of the xEdit codebase.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mod-dump"
+               }, {
+                  "date_added": "13274802402240149",
+                  "guid": "83c48766-b59b-4532-ba65-cb1d5f0557ee",
+                  "id": "55",
+                  "name": "[2021-08-30 15:06:42] - matortheeternal/libbsa: A free software library for reading and writing BSA files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/libbsa"
+               }, {
+                  "date_added": "13274802439689148",
+                  "guid": "35ca4ec4-bab7-4c6a-bda2-0a133203592c",
+                  "id": "56",
+                  "name": "[2021-08-30 15:07:19] - matortheeternal/BA2Lib: A .NET CLI Wrapper around a C++ class for opening and extracting files from Bethesda's BA2 archive format.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/BA2Lib"
+               }, {
+                  "date_added": "13274802442407760",
+                  "guid": "a1775f71-9c6f-4860-911d-9e7bd8c5f988",
+                  "id": "57",
+                  "name": "[2021-08-30 15:07:22] - matortheeternal/mteFunctions: A collection of scripting functions for xEdit.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mteFunctions"
+               }, {
+                  "date_added": "13274802448144120",
+                  "guid": "f04d92ba-36aa-46a2-97db-8d4ad1263d8b",
+                  "id": "58",
+                  "name": "[2021-08-30 15:07:28] - matortheeternal (Colin) / Repositories",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal?after=Y3Vyc29yOnYyOpK5MjAxNi0wMy0wMVQxOTowODo1MSswMTowMM4Cs_bh&tab=repositories"
+               }, {
+                  "date_added": "13274802457803025",
+                  "guid": "9e5a3d54-dd99-4313-9b75-b48e31f4d3a7",
+                  "id": "59",
+                  "name": "[2021-08-30 15:07:37] - matortheeternal/bae: Bethesda Archive Extractor",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/bae"
+               }, {
+                  "date_added": "13274802973989675",
+                  "guid": "2576e46f-cfea-4e47-9685-1fa502c70474",
+                  "id": "60",
+                  "name": "[2021-08-30 15:16:13] - matortheeternal/xedit-lib: Project to make a DLL exposing XEdit functionality to an application in any language.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/xedit-lib/tree/DelphiTokyo/src"
+               }, {
+                  "date_added": "13274802981196203",
+                  "guid": "cda81e8c-c3fb-41ec-a3f8-bba27d1185e4",
+                  "id": "61",
+                  "name": "[2021-08-30 15:16:21] - matortheeternal/xedit-lib: Project to make a DLL exposing XEdit functionality to an application in any language.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/xedit-lib/branches"
+               }, {
+                  "date_added": "13274802994002467",
+                  "guid": "45f7f813-72e2-4b15-9e45-e7f682e182b8",
+                  "id": "62",
+                  "name": "[2021-08-30 15:16:34] - matortheeternal/xedit-lib at feature/remove-plugin-limit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/xedit-lib/tree/feature/remove-plugin-limit"
+               }, {
+                  "date_added": "13274803158747960",
+                  "guid": "eac438b7-9e5b-4ded-a221-05d240805d3d",
+                  "id": "63",
+                  "name": "[2021-08-30 15:19:18] - matortheeternal/TES5Edit: xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5Edit/tree/mator-zedit/Edit%20Scripts"
+               }, {
+                  "date_added": "13274803205118670",
+                  "guid": "1753d891-f4a7-46b3-b343-05a3674b24aa",
+                  "id": "64",
+                  "name": "[2021-08-30 15:20:05] - matortheeternal/TES5Edit: xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5Edit/branches"
+               }, {
+                  "date_added": "13274803213606238",
+                  "guid": "de56f8aa-8f1b-4335-9aa1-31d918b17364",
+                  "id": "65",
+                  "name": "[2021-08-30 15:20:13] - Branches · matortheeternal/TES5Edit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5Edit/branches/stale"
+               }, {
+                  "date_added": "13274803220153853",
+                  "guid": "8e5f85e8-60cc-450e-b48c-92a87095a47e",
+                  "id": "66",
+                  "name": "[2021-08-30 15:20:20] - Branches · matortheeternal/TES5Edit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5Edit/branches/all"
+               }, {
+                  "date_added": "13274803235475578",
+                  "guid": "5320c93c-612a-40bb-aac6-c3444c2e5ed2",
+                  "id": "67",
+                  "name": "[2021-08-30 15:20:35] - Comparing TES5Edit:master...matortheeternal:master · TES5Edit/TES5Edit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/TES5Edit/TES5Edit/compare/master...matortheeternal:master"
+               }, {
+                  "date_added": "13274803243484206",
+                  "guid": "a5fd4f6c-3bc5-4cab-99d5-0af4cc7849bf",
+                  "id": "70",
+                  "name": "[2021-08-30 15:20:43] - matortheeternal/TES5Edit at dev",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5Edit/tree/dev"
+               }, {
+                  "date_added": "13274803251487005",
+                  "guid": "73d15d72-147f-45de-a585-848e7ecc635d",
+                  "id": "71",
+                  "name": "[2021-08-30 15:20:51] - matortheeternal/TES5Edit at dev",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5Edit/tree/dev/xSE"
+               }, {
+                  "date_added": "13274803255343822",
+                  "guid": "4bb24f6b-9723-4869-b601-1cc0feaab9a2",
+                  "id": "72",
+                  "name": "[2021-08-30 15:20:55] - TES5Edit/xSE at dev · matortheeternal/TES5Edit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/TES5Edit/tree/dev/xSE/nvse_plugin_xEdit"
+               }, {
+                  "date_added": "13274803478133310",
+                  "guid": "85252fa8-180a-4707-9423-ab6e763af261",
+                  "id": "73",
+                  "name": "[2021-08-30 15:24:38] - matortheeternal/mxpf: An xEdit scripting library that provides a variety of functions for the generation of patches",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mxpf/commits/master"
+               }, {
+                  "date_added": "13274803609168204",
+                  "guid": "706f5dea-b174-425d-8bbe-292526df78f6",
+                  "id": "74",
+                  "name": "[2021-08-30 15:26:49] - Forks · matortheeternal/mxpf",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mxpf/network/members"
+               }, {
+                  "date_added": "13274803652868597",
+                  "guid": "be1a3705-c81b-4697-9d3c-3496a79bf1fa",
+                  "id": "75",
+                  "name": "[2021-08-30 15:27:32] - Search · zEdit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/search?q=zEdit"
+               }, {
+                  "date_added": "13274803655903319",
+                  "guid": "c8415f92-c892-48ee-9489-6faf914befed",
+                  "id": "76",
+                  "name": "[2021-08-30 15:27:35] - z-edit/zedit: An integrated development environment for Bethesda Plugin Files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/z-edit/zedit"
+               }, {
+                  "date_added": "13274803671780495",
+                  "guid": "3fc76a24-1017-4064-8c46-d01fa8b5549e",
+                  "id": "77",
+                  "name": "[2021-08-30 15:27:51] - Releases · z-edit/zedit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/z-edit/zedit/releases"
+               }, {
+                  "date_added": "13274803675755029",
+                  "guid": "730a32b0-f22b-456b-823a-6710d97af9ac",
+                  "id": "78",
+                  "name": "[2021-08-30 15:27:55] - zEdit_v0.6.6.1_-_Portable_x64.7z",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z"
+               }, {
+                  "date_added": "13274803704981532",
+                  "guid": "67b061ae-341e-4ad9-93e4-5795ea5322a1",
+                  "id": "81",
+                  "name": "[2021-08-30 15:28:24] - perXautomatik/basic-tutorials",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/perXautomatik/basic-tutorials"
+               }, {
+                  "date_added": "13274804136319318",
+                  "guid": "28f81a40-a385-4ccf-9776-5623a75d307f",
+                  "id": "82",
+                  "name": "[2021-08-30 15:35:36] - matortheeternal/merge-plugins: Standalone application for merging bethesda plugin files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/merge-plugins/tree/master/models"
+               }, {
+                  "date_added": "13274804153953668",
+                  "guid": "7c8beac4-faff-48a0-bb1a-f827f3124ce6",
+                  "id": "83",
+                  "name": "[2021-08-30 15:35:53] - Stargazers · matortheeternal/zedit-npc-tools",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/zedit-npc-tools/stargazers"
+               }, {
+                  "date_added": "13274804291202857",
+                  "guid": "08907212-f97f-47dd-8c05-45bd63464b33",
+                  "id": "84",
+                  "name": "[2021-08-30 15:38:11] - matortheeternal/mod-dump: A command line application to produce compatibility dumps on bethesda plugins built on top of the xEdit codebase.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mod-dump/releases/tag/1.5"
+               }, {
+                  "date_added": "13274804295216266",
+                  "guid": "b797ddaf-b838-4bcc-bf4a-8d9f9b458520",
+                  "id": "87",
+                  "name": "[2021-08-30 15:38:15] - ModDump.zip",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mod-dump/releases/download/1.5/ModDump.zip"
+               }, {
+                  "date_added": "13274805876630238",
+                  "guid": "6ea8c0ad-0255-499c-991b-4b21693275bc",
+                  "id": "92",
+                  "name": "[2021-08-30 16:04:36] - matortheeternal/mteFunctions: A collection of scripting functions for xEdit.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mteFunctions/branches"
+               }, {
+                  "date_added": "13274805882349223",
+                  "guid": "f802b370-81a7-4c56-b94b-064d2a7327e7",
+                  "id": "93",
+                  "name": "[2021-08-30 16:04:42] - Forks · matortheeternal/mteFunctions",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mteFunctions/network/members"
+               }, {
+                  "date_added": "13274805919648807",
+                  "guid": "fec348f3-587c-4a8d-96b4-7f23f87f3e8a",
+                  "id": "95",
+                  "name": "[2021-08-30 16:05:19] - matortheeternal/mteFunctions: A collection of scripting functions for xEdit.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mteFunctions/tree/master/Edit%20Scripts"
+               }, {
+                  "date_added": "13274805930061876",
+                  "guid": "8299ac5e-026e-4a8f-b15b-0731511e799a",
+                  "id": "96",
+                  "name": "[2021-08-30 16:05:30] - mteFunctions/Edit Scripts at master · matortheeternal/mteFunctions",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mteFunctions/tree/master/Edit%20Scripts/lib"
+               }, {
+                  "date_added": "13274814458359841",
+                  "guid": "9159b79c-f987-45e4-a3a5-c70b342ec868",
+                  "id": "97",
+                  "name": "[2021-08-30 18:27:38] - txusko (Javi Filella)",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/txusko"
+               }, {
+                  "date_added": "13274814468493986",
+                  "guid": "9ada173c-9dbb-46a3-a42a-3647db8f8fcc",
+                  "id": "98",
+                  "name": "[2021-08-30 18:27:48] - txusko/AutoBookmarks: A chrome extension for automatically save the visited pages and the downloaded URLs in your bookmarks.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/txusko/AutoBookmarks"
+               }, {
+                  "date_added": "13274865071284117",
+                  "guid": "adbc290d-e38c-448d-b38c-3fa48ee9712f",
+                  "id": "100",
+                  "name": "[2021-08-31 08:31:11] - Explore GitHub",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/explore"
+               }, {
+                  "date_added": "13274865124252093",
+                  "guid": "7e622d15-064f-4706-b541-c73b61378999",
+                  "id": "101",
+                  "name": "[2021-08-31 08:32:04] - Semantic-Org/Semantic-UI: Semantic is a UI component framework based around useful principles from natural language.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/Semantic-Org/Semantic-UI"
+               }, {
+                  "date_added": "13274865145790092",
+                  "guid": "97c86ed7-756a-4647-83e1-386e5f844111",
+                  "id": "102",
+                  "name": "[2021-08-31 08:32:25] - huggingface/transformers: 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/huggingface/transformers"
+               }, {
+                  "date_added": "13276006046502075",
+                  "guid": "27b9dfd6-f321-4924-8c61-2a78b69e6d5e",
+                  "id": "104",
+                  "name": "[2021-09-13 13:27:26] - PSteph/jsonToOrmMapper: Mapping a given JSON Object into the desire ORM",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/PSteph/jsonToOrmMapper"
+               } ],
+               "date_added": "13274529708727157",
+               "date_modified": "13276006046502075",
+               "guid": "9069d7e5-aee4-4d10-b188-43b104d93365",
+               "id": "9",
+               "name": "github.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274797693995847",
+                  "guid": "ff7b4d17-14a2-4dfd-ad9b-13654b47f85e",
+                  "id": "15",
+                  "name": "[2021-08-30 13:48:13] - Active Forks - Microsoft Edge Addons",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://microsoftedge.microsoft.com/addons/detail/active-forks/bpjmkkjkcligjfbanmjnlkjffalbehpb"
+               }, {
+                  "date_added": "13274814522280578",
+                  "guid": "bd4ef772-8dd8-4af9-8f8c-83dcdbcf6cd0",
+                  "id": "99",
+                  "name": "[2021-08-30 18:28:42] - Visual bookmarks - Microsoft Edge Addons",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://microsoftedge.microsoft.com/addons/detail/visual-bookmarks/idfbjjfgccflicphjlpbomcklaehplha"
+               } ],
+               "date_added": "13274797693995220",
+               "date_modified": "13274814522280578",
+               "guid": "2a69b587-41f3-4152-9f6b-375b57992f46",
+               "id": "14",
+               "name": "microsoftedge.microsoft.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274801838154006",
+                  "guid": "42d30456-44c8-4384-b024-65eee5f2447b",
+                  "id": "19",
+                  "name": "[2021-08-30 14:57:18] - Modding Tools",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://discord.com/invite/GUfRdpT"
+               } ],
+               "date_added": "13274801838153403",
+               "date_modified": "13274801838154006",
+               "guid": "c3adc08c-0c41-4a97-90db-0070d15b29d3",
+               "id": "18",
+               "name": "discord.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274801868723575",
+                  "guid": "27607c4d-45bd-4ac7-8e62-b6d69a72351c",
+                  "id": "24",
+                  "name": "[2021-08-30 14:57:48] - matortheeternal/esp.json: JSON definitions for parsing Bethesda Plugin Files.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/esp.json"
+               } ],
+               "date_added": "13274801868723218",
+               "date_modified": "13274801868723575",
+               "guid": "cd23d297-2c84-45d4-b05b-75a972a9bedf",
+               "id": "23",
+               "name": ".json",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274803235478511",
+                  "guid": "4cc50b30-f871-4aed-a8c0-6519ddaaeeeb",
+                  "id": "69",
+                  "name": "[2021-08-30 15:20:35] - Comparing TES5Edit:master...matortheeternal:master · TES5Edit/TES5Edit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/TES5Edit/TES5Edit/compare/master...matortheeternal:master"
+               } ],
+               "date_added": "13274803235477286",
+               "date_modified": "13274803235478511",
+               "guid": "8d8a1eb0-a6ca-4d38-8c97-b1b3b1ca58ee",
+               "id": "68",
+               "name": ".matortheeternal:master",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274803675776304",
+                  "guid": "3e2bef16-e0f1-4133-aa0a-b666ab9d023c",
+                  "id": "80",
+                  "name": "[2021-08-30 15:27:55] - zEdit_v0.6.6.1_-_Portable_x64.7z",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z"
+               } ],
+               "date_added": "13274803675756816",
+               "date_modified": "13274803675776304",
+               "guid": "8f7e0caa-767b-454b-8413-dccd801999a7",
+               "id": "79",
+               "name": ".7z",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274804291209023",
+                  "guid": "0a1536c7-9d26-4ca0-b48e-f0f2df733252",
+                  "id": "86",
+                  "name": "[2021-08-30 15:38:11] - matortheeternal/mod-dump: A command line application to produce compatibility dumps on bethesda plugins built on top of the xEdit codebase.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mod-dump/releases/tag/1.5"
+               } ],
+               "date_added": "13274804291208228",
+               "date_modified": "13274804291209023",
+               "guid": "b42b4e13-a805-44ae-a6d1-f4cb4a308fe6",
+               "id": "85",
+               "name": ".5",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274804295236691",
+                  "guid": "22ac3277-2559-4015-a7f1-f9b2f0975ff9",
+                  "id": "89",
+                  "name": "[2021-08-30 15:38:15] - ModDump.zip",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/matortheeternal/mod-dump/releases/download/1.5/ModDump.zip"
+               } ],
+               "date_added": "13274804295218011",
+               "date_modified": "13274804295236691",
+               "guid": "ec5d5a0c-9f1c-4a20-8fee-be9721950c2d",
+               "id": "88",
+               "name": ".zip",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274805675624300",
+                  "guid": "5b83c60c-007a-48d3-989f-77ca621e84ab",
+                  "id": "91",
+                  "name": "[2021-08-30 16:01:15] - Active GitHub Forks",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://ridvanaltun.github.io/active-forks/#matortheeternal/mod-dump"
+               }, {
+                  "date_added": "13274805889246594",
+                  "guid": "883bfb78-8127-4010-ae82-a815ba270be5",
+                  "id": "94",
+                  "name": "[2021-08-30 16:04:49] - Active GitHub Forks",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://ridvanaltun.github.io/active-forks/#matortheeternal/mteFunctions/network/members"
+               } ],
+               "date_added": "13274805675623874",
+               "date_modified": "13274805889246594",
+               "guid": "bfc8c670-e7be-4e0e-9e72-033dde242693",
+               "id": "90",
+               "name": "ridvanaltun.github.io",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276010137416656",
+                  "guid": "4a3a5fa7-88b3-4b3b-be25-58bf1f9c6b48",
+                  "id": "106",
+                  "name": "[2021-09-13 14:35:37] - Before you continue",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://consent.google.com/ml?continue=https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle&gl=SE&hl=en-US&pc=cws&src=1"
+               } ],
+               "date_added": "13276010137415842",
+               "date_modified": "13276010137416656",
+               "guid": "32ad8bc6-51ea-4bd1-aa08-4f492a32bf69",
+               "id": "105",
+               "name": "consent.google.com",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13274528206672704",
+            "date_modified": "13276010137415920",
+            "guid": "bdc0d47b-b623-465d-b6dc-42e5454953fd",
+            "id": "7",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "0",
+         "date_modified": "13274528206673218",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13276010170745746",
+                  "guid": "3587dddc-6be3-4f9f-a6a3-2bdc31ab281e",
+                  "id": "109",
+                  "name": "Visual bookmarks",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "edge://newtab/"
+               }, {
+                  "date_added": "13276010170745975",
+                  "guid": "00dcb62d-b1fe-47e2-b5ec-62adf6a0cc8f",
+                  "id": "110",
+                  "name": "PSteph/jsonToOrmMapper: Mapping a given JSON Object into the desire ORM",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/PSteph/jsonToOrmMapper"
+               }, {
+                  "date_added": "13276010170746191",
+                  "guid": "2570271e-6508-4534-85cf-f90d01b3ca74",
+                  "id": "111",
+                  "name": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle/related"
+               } ],
+               "date_added": "13276010170745103",
+               "date_modified": "13276010170746398",
+               "guid": "f207de2c-ba02-4b0c-a001-9e2a3cfd8f9a",
+               "id": "108",
+               "name": "2021-09-13 #1",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13276010170744587",
+            "date_modified": "13276010170745161",
+            "guid": "aefe6015-5164-41c8-970b-c70a1b0276d8",
+            "id": "107",
+            "name": "Saved Sessions",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "0",
+         "date_modified": "13276010170744753",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "0",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,99 @@
+{
+   "checksum": "2d82cd726b98ca1816f21d08403a5798",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13274874815522549",
+                  "guid": "17a33f98-dc16-4f11-ba7c-71f02ff2f0b3",
+                  "id": "7",
+                  "name": "[2021-08-31 11:13:35] - Sketchviz - Create and publish Graphviz graphs on the web for free",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://sketchviz.com/new"
+               } ],
+               "date_added": "13274874815522160",
+               "date_modified": "13274874815522549",
+               "guid": "68468925-d59b-4420-a7af-871f33963425",
+               "id": "6",
+               "name": "sketchviz.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274874823845238",
+                  "guid": "7817a064-ef4d-44e6-affa-55e1b2bad920",
+                  "id": "9",
+                  "name": "[2021-08-31 11:13:43] - Open source text annotation tool for machine learning practitioner",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://pythonawesome.com/open-source-text-annotation-tool-for-machine-learning-practitioner/"
+               } ],
+               "date_added": "13274874823844824",
+               "date_modified": "13274874823845238",
+               "guid": "1a124353-43e6-4c9f-a2c3-21c8de3e9364",
+               "id": "8",
+               "name": "pythonawesome.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274874824883591",
+                  "guid": "f75af3b6-80ae-4486-a745-d7878936f812",
+                  "id": "11",
+                  "name": "[2021-08-31 11:13:44] - Demo Page for TextRank Algorithm",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "http://textrank-demo.veritable.pw/"
+               } ],
+               "date_added": "13274874824883076",
+               "date_modified": "13274874824883591",
+               "guid": "9955aa7f-f2bf-48e5-8a58-35256df0625f",
+               "id": "10",
+               "name": "textrank-demo.veritable.pw",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13274874815520707",
+            "date_modified": "13274874824883105",
+            "guid": "0d56585b-138f-435e-b5ff-a387b10cd46a",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13274720392536331",
+         "date_modified": "13274874815521024",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13274720392536333",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13274720392536335",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

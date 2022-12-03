@@ -88,3 +88,23 @@ SmartScreen/
 Local/Microsoft/PowerToys/*/Logs/
 Logs/
 Cookies
+.usage
+Cookies-journal
+Favicons
+Favicons-journal
+load_statistics.db-shm
+LICENSE
+lockfile
+Login Data
+Secure Preferences
+Translate Ranker Model
+TransportSecurity
+Web Data
+Web Data-journal
+Shortcuts
+Shortcuts-journal
+Reporting and NEL
+Safe Browsing Cookies
+Safe Browsing Cookies-journal
+manifest.json
+manifest.fingerprint
