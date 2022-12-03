@@ -7,5 +7,116 @@ Local/Google/Chrome/User Data/Profile 1/Translate Ranker Model
 Local/Google/Chrome/User Data/Profile 1/Web Data
 Local/Google/Chrome/User Data/Profile 1/heavy_ad_intervention_opt_out.db
 Local/Google/Chrome/User Data/Profile 1/Favicons
+/Roaming/Vortex/Code Cache/
+*Cache/
+Cache*/
 /Roaming/Vortex/Cache
 /Roaming/Path of Exile/Minimap
+*.svg
+*.png
+*.jpg
+*.dll
+*.ico
+MachineKeys
+*.zip
+*.exe
+__folder_managed_by_vortex
+*.dll
+*.log
+*.db
+*.7z
+leveldb/
+00/
+IndexedDB/
+*.sqlite
+*.pak
+*.asar
+Discord-1.0.9004-full.nupkg
+thumbcache_96db
+CurrentDatabase_400.wmdb
+iconcache_32db
+PluginHost_MediaStackETW-6.0.8968.616-releases_CL2016_R18-x86fre-U.etl
+*.dmp
+UrlSoceng.store
+*.msi
+collectionsSQLite
+*.dat
+thumbcache_96.db0
+*.otf
+iconcache_256db
+iconcache_32.db0
+*.jar
+easyanticheat_wow64_x64.eac
+SkypeForBusinessPlugin/
+*.db0
+TortoiseGit
+iconcache_16db
+Temp
+Spotify
+*.html
+Functional Data-wal
+Extensions
+Edge Wallet/
+Subresource Filter/
+Personal
+README.md
+LOG
+LOCK
+LOG.old
+SettingsLogs
+OneDrive
+Local/Packages/Microsoft.WindowsMaps_8wekyb3d8bbwe
+MANIFEST-000001
+CURRENT
+*.tmp
+Indexed DB/
+Local/Microsoft/Office
+Local/Packages/
+Local/SynologyDrive/
+Local/Programs/Opera GX/
+Local/Microsoft/Windows/Safety/
+Local/Microsoft/Windows/PowerShell/ISE
+Local/Microsoft/Windows/Explorer/thumbcache*
+Local/Microsoft/VSCommon/
+TeamsPresenceAddin
+ShortcutGuide
+Local/Microsoft/Edge/User Data/Edge Shopping/
+Local/Microsoft/ApplicationInsights/
+Local/JetBrains/DataGrip2022.1/
+hyphen-data/
+Local/Google/Chrome/User Data/AutofillStates/
+SmartScreen/
+Local/Microsoft/PowerToys/*/Logs/
+Logs/
+Cookies
+.usage
+Cookies-journal
+Favicons
+Favicons-journal
+load_statistics.db-shm
+LICENSE
+lockfile
+Login Data
+Secure Preferences
+Translate Ranker Model
+TransportSecurity
+Web Data
+Web Data-journal
+Shortcuts
+Shortcuts-journal
+Reporting and NEL
+Safe Browsing Cookies
+Safe Browsing Cookies-journal
+manifest.json
+manifest.fingerprint
+*.rar
+*.jtx
+Local/Comms/UnistoreDB/store.jfm
+Local/Comms/UnistoreDB/store.vol
+Local/Comms/UnistoreDB/tmp.edb
+Local/Microsoft/Edge/User Data/Default/Sessions/Session_13314511183716392
+Local/Microsoft/Edge/User Data/Default/Sessions/Tabs_13313507043888599
+Local/Microsoft/Edge/User Data/Profile 1/Sessions/Session_13314295046834347
+Local/Microsoft/Edge/User Data/Profile 1/Sessions/Tabs_13314236006496655
+Local/Microsoft/Windows/UsrClass.dat.LOG1
+Local/Microsoft/Windows/UsrClass.dat.LOG2

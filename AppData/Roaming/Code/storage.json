@@ -19,14 +19,14 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 30,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 476,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "C:\\Users\\Användaren\\AppData\\Roaming\\Code\\Backups\\1647696200858",
+            "backupPath": "C:\\Users\\chris\\AppData\\Roaming\\Code\\Backups\\1647696200858",
             "uiState": {
                 "mode": 1,
                 "x": 448,
@@ -37,5 +37,6 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "D:\\ToGit"
+    "pickerWorkingDir": "D:\\ToGit",
+    "lifecycle.quitAndRestart": true
 }

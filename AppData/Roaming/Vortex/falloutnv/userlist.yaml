@@ -34,4 +34,31 @@ plugins:
       - t4-plugin.esp
   - name: deadmoney.esm
     after: []
+  - name: brayduck_classic.esp
+    group: Late Fixes & Changes
+  - name: the mod configuration menu.esp
+    after:
+      - pnvnvbount1.esp
+      - pnvhh.esp
+      - pnv.esp
+      - pnvprojectnevada.esp
+      - pnvprojectnevadarebalance.esp
+      - nvr3_projectnevadaequipment patch.esp
+      - project nevada - wmx.esp
+      - project nevada - dead money.esp
+      - project nevada - gun runners' arsenal.esp
+      - project nevada - honest hearts.esp
+      - project nevada - lonesome road.esp
+      - project nevada - old world blues.esp
+      - project nevada - core.esm
+      - project nevada - cyberware.esp
+      - project nevada - equipment.esm
+      - project nevada - rebalance.esp
+      - project nevada - rebalance uncapped max level.esp
+  - name: mojave raiders.esp
+    after:
+      - uncut wasteland.esp
+  - name: mojave raiders - tld patch.esp
+    after:
+      - uncut wasteland.esp
 groups: []
