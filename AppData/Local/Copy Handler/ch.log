@@ -1,3 +1,5 @@
 Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.Asynchronous logger critical failure: waiting failed with error 87. Logging will be disabled until the application will be restarted.2022-11-23 10:07:24.236699 [error] Filesystem[13852]: Failed to retrieve free space for path E:\. Error: 21
 2022-11-23 10:07:24.251689 [error] Filesystem[13852]: Failed to retrieve free space for path E:\. Error: 21
 2022-11-23 10:07:24.284780 [error] Filesystem[13852]: Failed to retrieve free space for path F:\. Error: 21
+2022-12-03 07:22:07.987283 [error] Filesystem[14040]: Failed to retrieve free space for path F:\. Error: 21
+2022-12-03 07:22:07.996507 [error] Filesystem[14040]: Failed to retrieve free space for path E:\. Error: 21
