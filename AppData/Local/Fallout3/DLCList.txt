@@ -1,5 +1,0 @@
-Anchorage.esm
-ThePitt.esm
-BrokenSteel.esm
-PointLookout.esm
-Zeta.esm
