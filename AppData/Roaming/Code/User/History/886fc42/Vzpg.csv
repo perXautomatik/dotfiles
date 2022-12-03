@@ -1,0 +1,20 @@
+git.exe add -f [...]
+
+error: open("Local/Comms/UnistoreDB/store.jfm"): Permission denied
+Local/Comms/UnistoreDB/store.jfm
+error: open("Local/Comms/UnistoreDB/store.vol"): Permission denied
+Local/Comms/UnistoreDB/store.vol
+error: open("Local/Comms/UnistoreDB/tmp.edb"): Permission denied
+Local/Comms/UnistoreDB/tmp.edb
+error: open("Local/Microsoft/Edge/User Data/Default/Sessions/Session_13314511183716392"): Permission denied
+Local/Microsoft/Edge/User Data/Default/Sessions/Session_13314511183716392
+error: open("Local/Microsoft/Edge/User Data/Default/Sessions/Tabs_13313507043888599"): Permission denied
+Local/Microsoft/Edge/User Data/Default/Sessions/Tabs_13313507043888599
+error: open("Local/Microsoft/Edge/User Data/Profile 1/Sessions/Session_13314295046834347"): Permission denied
+Local/Microsoft/Edge/User Data/Profile 1/Sessions/Session_13314295046834347
+error: open("Local/Microsoft/Edge/User Data/Profile 1/Sessions/Tabs_13314236006496655"): Permission denied
+Local/Microsoft/Edge/User Data/Profile 1/Sessions/Tabs_13314236006496655
+error: open("Local/Microsoft/Windows/UsrClass.dat.LOG1"): Permission denied
+Local/Microsoft/Windows/UsrClass.dat.LOG1
+error: open("Local/Microsoft/Windows/UsrClass.dat.LOG2"): Permission denied
+Local/Microsoft/Windows/UsrClass.dat.LOG2

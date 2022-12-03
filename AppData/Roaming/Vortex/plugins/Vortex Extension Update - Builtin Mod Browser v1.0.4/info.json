@@ -1,0 +1,10 @@
+{
+  "name": "Builtin Mod Browser",
+  "author": "MaverickMartyn AKA HackerFinn and Bladehawke",
+  "version": "1.0.4",
+  "description": "Quite simply, it adds a \"Browse\" section containing an embedded Nexus Mods browser. This allows you to browse and download mods from inside Vortex itself. Now fixed to work on the Skyrim and Fallout pages.",
+  "type": null,
+  "path": "C:\\Users\\chris\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Builtin Mod Browser v1.0.4.7z",
+  "bundled": false,
+  "modId": 88
+}

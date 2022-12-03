@@ -110,3 +110,12 @@ manifest.json
 manifest.fingerprint
 *.rar
 *.jtx
+Local/Comms/UnistoreDB/store.jfm
+Local/Comms/UnistoreDB/store.vol
+Local/Comms/UnistoreDB/tmp.edb
+Local/Microsoft/Edge/User Data/Default/Sessions/Session_13314511183716392
+Local/Microsoft/Edge/User Data/Default/Sessions/Tabs_13313507043888599
+Local/Microsoft/Edge/User Data/Profile 1/Sessions/Session_13314295046834347
+Local/Microsoft/Edge/User Data/Profile 1/Sessions/Tabs_13314236006496655
+Local/Microsoft/Windows/UsrClass.dat.LOG1
+Local/Microsoft/Windows/UsrClass.dat.LOG2
