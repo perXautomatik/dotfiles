@@ -1,0 +1,13 @@
+{
+  "Cache-Control": " no-cache",
+  "Content-Type": " image/jpeg",
+  "Date": " Tue, 29 Mar 2022 14:30:11 GMT",
+  "ETag": " W/\"4de0e36accc5cd9fa6403aff1baeb2b1f8d63bd3533b7bf8ff4856d184115573\"",
+  "StatusCode": "200",
+  "Strict-Transport-Security": " max-age=31536000",
+  "Transfer-Encoding": " chunked",
+  "X-Content-Type-Options": " nosniff",
+  "client-request-id": " 1503a63a-d925-45c9-9661-5b72d8f1870a",
+  "request-id": " 1503a63a-d925-45c9-9661-5b72d8f1870a",
+  "x-ms-ags-diagnostic": " {\"ServerInfo\":{\"DataCenter\":\"West Europe\",\"Slice\":\"E\",\"Ring\":\"5\",\"ScaleUnit\":\"000\",\"RoleInstance\":\"AM1PEPF000113ED\"}}"
+}

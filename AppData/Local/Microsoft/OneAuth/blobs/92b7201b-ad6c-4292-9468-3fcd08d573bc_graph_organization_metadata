@@ -1,0 +1,13 @@
+{
+  "Cache-Control": " no-cache",
+  "Content-Type": " application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8",
+  "Date": " Tue, 29 Mar 2022 14:30:11 GMT",
+  "OData-Version": " 4.0",
+  "StatusCode": "200",
+  "Strict-Transport-Security": " max-age=31536000",
+  "Transfer-Encoding": " chunked",
+  "client-request-id": " 6fa247c7-3ff0-4a6d-b91f-463158fdb6f4",
+  "request-id": " 6fa247c7-3ff0-4a6d-b91f-463158fdb6f4",
+  "x-ms-ags-diagnostic": " {\"ServerInfo\":{\"DataCenter\":\"West Europe\",\"Slice\":\"E\",\"Ring\":\"5\",\"ScaleUnit\":\"000\",\"RoleInstance\":\"AM1PEPF000113ED\"}}",
+  "x-ms-resource-unit": " 1"
+}
