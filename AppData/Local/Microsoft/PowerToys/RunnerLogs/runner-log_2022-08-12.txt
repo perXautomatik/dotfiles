@@ -1,0 +1,38 @@
+[2022-08-12 02:10:25.541254] [p-8392] [t-8792] [trace] Discovered new version v0.61.1
+[2022-08-12 02:10:25.542439] [p-8392] [t-8792] [trace] New version is already downloaded
+[2022-08-12 02:23:25.306154] [p-8216] [t-8220] [info] runner logger is initialized
+[2022-08-12 02:23:25.306181] [p-8216] [t-8220] [info] Running powertoys with cmd args: 
+[2022-08-12 02:23:25.326181] [p-8216] [t-8220] [info] apply_general_settings: {"startup":true,"enabled":{"AlwaysOnTop":true,"Awake":true,"ColorPicker":true,"FancyZones":true,"File Explorer":true,"FindMyMouse":true,"Image Resizer":true,"Keyboard Manager":true,"MouseHighlighter":true,"MousePointerCrosshairs":false,"PowerRename":true,"PowerToys Run":true,"Shortcut Guide":true,"Video Conference":false},"is_elevated":false,"run_elevated":false,"download_updates_automatically":true,"is_admin":true,"theme":"system","system_theme":"light","powertoys_version":"v0.57.2"}
+[2022-08-12 02:23:25.358109] [p-8216] [t-8220] [info] Runner is starting. Elevated=false
+[2022-08-12 02:23:25.479680] [p-8216] [t-8220] [trace] UnRegister hotkey action for FancyZones
+[2022-08-12 02:23:25.602367] [p-8216] [t-8220] [trace] UnRegister hotkey action for File Explorer
+[2022-08-12 02:23:25.618595] [p-8216] [t-8220] [trace] UnRegister hotkey action for Image Resizer
+[2022-08-12 02:23:25.691706] [p-8216] [t-8220] [trace] UnRegister hotkey action for Keyboard Manager
+[2022-08-12 02:23:25.764434] [p-8216] [t-8220] [trace] UnRegister hotkey action for PowerToys Run
+[2022-08-12 02:23:25.764443] [p-8216] [t-8220] [trace] Register hotkey action for PowerToys Run
+[2022-08-12 02:23:25.790089] [p-8216] [t-8220] [trace] UnRegister hotkey action for PowerRename
+[2022-08-12 02:23:25.899095] [p-8216] [t-8220] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-08-12 02:23:25.989909] [p-8216] [t-8220] [trace] UnRegister hotkey action for ColorPicker
+[2022-08-12 02:23:25.989921] [p-8216] [t-8220] [trace] Register hotkey action for ColorPicker
+[2022-08-12 02:23:26.098560] [p-8216] [t-8220] [trace] UnRegister hotkey action for Awake
+[2022-08-12 02:23:26.203866] [p-8216] [t-8220] [trace] UnRegister hotkey action for FindMyMouse
+[2022-08-12 02:23:26.271627] [p-8216] [t-8220] [trace] UnRegister hotkey action for MouseHighlighter
+[2022-08-12 02:23:26.333954] [p-8216] [t-8220] [trace] UnRegister hotkey action for AlwaysOnTop
+[2022-08-12 02:23:26.419657] [p-8216] [t-8220] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-08-12 02:23:26.517457] [p-8216] [t-8220] [trace] UnRegister hotkey action for Video Conference
+[2022-08-12 02:23:26.517808] [p-8216] [t-8220] [info] start_enabled_powertoys: Powertoy Video Conference explicitly disabled
+[2022-08-12 02:23:26.517815] [p-8216] [t-8220] [info] start_enabled_powertoys: Powertoy MousePointerCrosshairs explicitly disabled
+[2022-08-12 02:23:26.517838] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy AlwaysOnTop
+[2022-08-12 02:23:26.595669] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy Awake
+[2022-08-12 02:23:26.600524] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2022-08-12 02:23:26.626883] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy FancyZones
+[2022-08-12 02:23:26.714518] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2022-08-12 02:23:26.714528] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2022-08-12 02:23:26.714606] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy Image Resizer
+[2022-08-12 02:23:26.715793] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2022-08-12 02:23:26.760495] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2022-08-12 02:23:26.760673] [p-8216] [t-8220] [trace] shift+win+H shortcut registered
+[2022-08-12 02:23:26.760678] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy PowerRename
+[2022-08-12 02:23:26.778760] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2022-08-12 02:23:26.871457] [p-8216] [t-8220] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2022-08-12 02:23:26.871549] [p-8216] [t-8220] [trace] shift+win+' shortcut registered
