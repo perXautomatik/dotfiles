@@ -1,0 +1,4 @@
+owner: hackjutsu
+repo: Lepton
+provider: github
+updaterCacheDirName: lepton-updater

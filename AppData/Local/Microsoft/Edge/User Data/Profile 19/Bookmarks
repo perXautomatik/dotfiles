@@ -1,0 +1,945 @@
+{
+   "checksum": "90f750388491552537bb42f7574dacd5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13275838642014356",
+                  "guid": "f8c0f9ad-72e7-45d6-b236-e311bbae1fcd",
+                  "id": "7",
+                  "name": "[2021-09-11 14:57:22] - Bookmarks Commander - Microsoft Edge Addons",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://microsoftedge.microsoft.com/addons/detail/bookmarks-commander/kenlddohpphjdhgfejegaaplbfmcpcin"
+               } ],
+               "date_added": "13275838642014015",
+               "date_modified": "13275838642014356",
+               "guid": "526f2288-1852-479a-b90f-a860aaba6bac",
+               "id": "6",
+               "name": "microsoftedge.microsoft.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275838652887780",
+                  "guid": "971a3d82-ae4c-466d-9921-8c9fd2b192be",
+                  "id": "10",
+                  "name": "[2021-09-11 14:57:32] - Bookmarks Commander :: add0n.com",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://add0n.com/bookmarks-commander.html?version=0.2.7&type=install"
+               } ],
+               "date_added": "13275838652887326",
+               "date_modified": "13275838652887780",
+               "guid": "e584c58e-cb71-4188-a0f5-3b69fe7be0e7",
+               "id": "8",
+               "name": "add0n.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275838652888569",
+                  "guid": "16d897f1-02b8-415c-9b3d-6a92cbc0f89d",
+                  "id": "11",
+                  "name": "[2021-09-11 14:57:32] - Bookmarks Commander :: add0n.com",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://add0n.com/bookmarks-commander.html?version=0.2.7&type=install"
+               }, {
+                  "date_added": "13275842439694806",
+                  "guid": "c5a64655-8dbe-451f-a209-09986646175e",
+                  "id": "37",
+                  "name": "[2021-09-11 16:00:39] - xEdit Cleaning and-Error Checking | Tome of xEdit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://tes5edit.github.io/docs/7-mod-cleaning-and-error-checking.html"
+               } ],
+               "date_added": "13275838652887453",
+               "date_modified": "13275842439694806",
+               "guid": "8b6cc0fd-43a5-4435-976a-418c399a13cc",
+               "id": "9",
+               "name": ".html",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275839145761370",
+                  "guid": "d734d7a3-427a-4daf-b389-cc9ef07409c8",
+                  "id": "14",
+                  "name": "[2021-09-11 15:05:45] - Account Suspended",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "http://autobookmarks.txusko.com/cgi-sys/suspendedpage.cgi"
+               } ],
+               "date_added": "13275839145760798",
+               "date_modified": "13275839145761370",
+               "guid": "6890042a-0a9c-4213-a0f0-0cff43e6e0b4",
+               "id": "12",
+               "name": "autobookmarks.txusko.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275839145763715",
+                  "guid": "b7f9223c-1c66-49d3-ac58-79563930c05d",
+                  "id": "15",
+                  "name": "[2021-09-11 15:05:45] - Account Suspended",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "http://autobookmarks.txusko.com/cgi-sys/suspendedpage.cgi"
+               } ],
+               "date_added": "13275839145760984",
+               "date_modified": "13275839145763715",
+               "guid": "e570a020-042d-4e96-8701-1377825eb1e1",
+               "id": "13",
+               "name": ".cgi",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275839333683753",
+                  "guid": "19ddbc67-a7d7-4d3b-8b0a-2252d3478fdd",
+                  "id": "17",
+                  "name": "[2021-09-11 15:08:53] - ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=(+fallout+4+%7C+skyrim+%7C+oblivion+)+identify+which+assets+is+not+loaded+correctly&cvid=a261c8832cb246e7b369e725f170718f&aqs=edge..69i57.102392j0j4&FORM=ANAB01&PC=U531"
+               } ],
+               "date_added": "13275839333683087",
+               "date_modified": "13275839333683753",
+               "guid": "66d202c9-1941-4f54-a912-eba5b856d99f",
+               "id": "16",
+               "name": "bing.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275839425341158",
+                  "guid": "f1ad1e7d-551d-4320-9498-f3288b3f07c9",
+                  "id": "19",
+                  "name": "[2021-09-11 15:10:25] - ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Sök på Google",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+fallout+4+%7C+skyrim+%7C+oblivion+)+identify+which+assets+is+not+loaded+correctly&cvid=a261c8832cb246e7b369e725f170718f&aqs=edge..69i57.102392j0j4&FORM=ANAB01&PC=U531"
+               }, {
+                  "date_added": "13275839607212257",
+                  "guid": "b3636018-e167-4630-8e6f-03bb36ad9e2c",
+                  "id": "20",
+                  "name": "[2021-09-11 15:13:27] - xedit ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Sök på Google",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=xedit+%28+fallout+4+%7C+skyrim+%7C+oblivion+%29+identify+which+assets+is+not+loaded+correctly&ei=vao8YbiyIMzKrgTbvJH4BQ&oq=xedit+%28+fallout+4+%7C+skyrim+%7C+oblivion+%29+identify+which+assets+is+not+loaded+correctly&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQmfsKWPmCC2CAigtoAXACeACAAVuIAeICkgEBNpgBAKABAcgBBsABAQ&sclient=gws-wiz&ved=0ahUKEwj4hKqi__byAhVMpYsKHVteBF8Q4dUDCA4&uact=5"
+               }, {
+                  "date_added": "13275839684334428",
+                  "guid": "2076a728-9381-4145-a41b-be1ba47729df",
+                  "id": "21",
+                  "name": "[2021-09-11 15:14:44] - ( xedit | fo4edit | teseedit ) ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Sök på Google",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=%28+xedit+%7C+fo4edit+%7C+teseedit+%29+%28+fallout+4+%7C+skyrim+%7C+oblivion+%29+identify+which+assets+is+not+loaded+correctly&ei=dKs8YcvLC8ur3AODqZCoDg&oq=%28+xedit+%7C+fo4edit+%7C+teseedit+%29+%28+fallout+4+%7C+skyrim+%7C+oblivion+%29+identify+which+assets+is+not+loaded+correctly&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAghEApKBAhBGABQorsCWLrQBGDJ1ARoBHACeACAAWaIAeIIkgEEMTYuMZgBAKABAcgBBsABAQ&sclient=gws-wiz&ved=0ahUKEwjL1bb5__byAhXLFXcKHYMUBOUQ4dUDCA4&uact=5"
+               }, {
+                  "date_added": "13275839704982115",
+                  "guid": "23101344-14be-428b-a9d7-e52bb73c37a9",
+                  "id": "22",
+                  "name": "[2021-09-11 15:15:04] - ( xedit | fo4edit | teseedit ) ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+teseedit+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+identify+which+assets+is+not+loaded+correctly&ei=dKs8YcvLC8ur3AODqZCoDg&oq=(+xedit+%7C+fo4edit+%7C+teseedit+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+identify+which+assets+is+not+loaded+correctly&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAghEApKBAhBGABQorsCWLrQBGDJ1ARoBHACeACAAWaIAeIIkgEEMTYuMZgBAKABAcgBBsABAQ&sclient=gws-wiz&ved=0ahUKEwjL1bb5__byAhXLFXcKHYMUBOUQ4dUDCA4&uact=5"
+               }, {
+                  "date_added": "13275840624016300",
+                  "guid": "e75b82cc-f3bb-43f2-80c8-d4c0ba893b6c",
+                  "id": "23",
+                  "name": "[2021-09-11 15:30:24] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=%28+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+%29+%28+fallout+4+%7C+skyrim+%7C+oblivion+%29+identify+which+assets+is+not+loaded+correctly&ei=1as8YcL_Mb2jjgbiuLyoBQ&oq=%28+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+%29+%28+fallout+4+%7C+skyrim+%7C+oblivion+%29+identify+which+assets+is+not+loaded+correctly&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsAMyBwgAEEcQsANKBAhBGABQlMM3WM6EOGD5hzhoAHADeACAAQCIAQCSAQCYAQCgAQKgAQHIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwiCvv2ngPfyAhW9kcMKHWIcD1UQ4dUDCA4&uact=5"
+               }, {
+                  "date_added": "13275840644054620",
+                  "guid": "16d89b37-1cbd-40cb-bdc0-3556b41c896a",
+                  "id": "24",
+                  "name": "[2021-09-11 15:30:44] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+identify+which+assets+is+not+loaded+correctly&ei=ba88Yd-eHvLJrgTjuqrwBw&start=10&sa=N&ved=2ahUKEwificLeg_fyAhXypIsKHWOdCn4Q8NMDegQIARBG&biw=1200&bih=1809"
+               }, {
+                  "date_added": "13275840664434179",
+                  "guid": "4e6a045e-d8f9-4cae-ab57-7288c464d38d",
+                  "id": "25",
+                  "name": "[2021-09-11 15:31:04] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+identify+which+assets+is+not+loaded+correctly&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiMso3og_fyAhXitYsKHaETAB44ChD8BSgBegQIARAD&biw=1200&bih=1809"
+               }, {
+                  "date_added": "13275840665779644",
+                  "guid": "49146d39-70d9-4989-b5d0-3e7b7df1c206",
+                  "id": "26",
+                  "name": "[2021-09-11 15:31:05] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+identify+which+assets+is+not+loaded+correctly&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjU3_Lxg_fyAhWpSvEDHQLXD8cQ_AUoAnoECAEQBA&biw=1200&bih=1809&dpr=1"
+               }, {
+                  "date_added": "13275840674368434",
+                  "guid": "c9f174ec-f4f9-4257-837f-66099f520497",
+                  "id": "27",
+                  "name": "[2021-09-11 15:31:14] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) identify which assets is not loaded correctly - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+identify+which+assets+is+not+loaded+correctly&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjU3_Lxg_fyAhWpSvEDHQLXD8cQ_AUoAnoECAEQBA&biw=1200&bih=1809&dpr=1#imgrc=Osd1GDLtjzvzCM"
+               }, {
+                  "date_added": "13275842413347936",
+                  "guid": "4371ddbe-0470-49c3-b452-97ddcf4f5dc8",
+                  "id": "30",
+                  "name": "[2021-09-11 16:00:13] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) ( lost | wrong ) ( meshes | textures ) - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+(+lost+%7C+wrong+)+(+meshes+%7C+textures+)&tbm=isch&ved=2ahUKEwj508Tyg_fyAhUYuSoKHapTD8IQ2-cCegQIABAA&oq=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+(+lost+%7C+wrong+)+(+meshes+%7C+textures+)&gs_lcp=CgNpbWcQA1Dlo2lYtsVqYPjHamgAcAB4AIABRYgBkAeSAQIyMJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=l688YbmsHZjyqgGqp72QDA&bih=1809&biw=1200"
+               }, {
+                  "date_added": "13275842418693391",
+                  "guid": "2fe5cc7c-3082-48d9-b658-1763b5ea18df",
+                  "id": "31",
+                  "name": "[2021-09-11 16:00:18] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) ( lost | wrong ) ( meshes | textures ) - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=%28+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+%29+%28+fallout+4+%7C+skyrim+%7C+oblivion+%29+%28+lost+%7C+wrong+%29+%28+meshes+%7C+textures+%29&source=lmns&bih=1809&biw=1200&hl=en&sa=X&ved=2ahUKEwjly9qzivfyAhXWvSoKHbbTAd4Q_AUoAHoECAEQAA"
+               }, {
+                  "date_added": "13275842452024468",
+                  "guid": "a6ea7a18-dfd1-4424-a97d-ae867d0435ac",
+                  "id": "43",
+                  "name": "[2021-09-11 16:00:52] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) ( lost | wrong ) ( meshes | textures ) - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+(+lost+%7C+wrong+)+(+meshes+%7C+textures+)&hl=en&ei=b7Y8YcrsIYKSwPAP05q68A0&start=10&sa=N&ved=2ahUKEwiK4P61ivfyAhUCCRAIHVONDt4Q8NMDegQIARBI&biw=1367&bih=952"
+               }, {
+                  "date_added": "13275842522847309",
+                  "guid": "ca96d7fa-4d7a-4c27-aa4e-41a00042fd57",
+                  "id": "48",
+                  "name": "[2021-09-11 16:02:02] - ( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) ( lost | wrong ) ( meshes | textures ) - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+(+lost+%7C+wrong+)+(+meshes+%7C+textures+)&hl=en&ei=kbY8YcyNGNOgjgaDh6eYDg&start=20&sa=N&ved=2ahUKEwiMmpDGivfyAhVTkMMKHYPDCeM4ChDw0wN6BAgBEEg&biw=1367&bih=952"
+               } ],
+               "date_added": "13275839425340615",
+               "date_modified": "13275842522847309",
+               "guid": "ee4e52bc-c432-45ba-896e-ea1567139e20",
+               "id": "18",
+               "name": "google.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275840683353625",
+                  "guid": "dbb92199-e93f-4ae7-a8af-b65121068027",
+                  "id": "29",
+                  "name": "[2021-09-11 15:31:23] - Armor and Weapon Keywords Community Resource (AWKCR) at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/6091?tab=posts"
+               }, {
+                  "date_added": "13275842428420334",
+                  "guid": "749f3986-dfd5-487d-9a78-7989a5f0e8bd",
+                  "id": "32",
+                  "name": "[2021-09-11 16:00:28] - Using this script to clean your mod of unneeded precombineds at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/articles/484"
+               }, {
+                  "date_added": "13275842433033750",
+                  "guid": "017696e9-df32-4f86-90cc-6227e092592d",
+                  "id": "33",
+                  "name": "[2021-09-11 16:00:33] - Pra's Fo4Edit Scripts - Automatic Patch Generation at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/28898?tab=posts"
+               }, {
+                  "date_added": "13275844593577215",
+                  "guid": "8859bc1a-e4da-43fe-9767-3c1dd0e174e0",
+                  "id": "75",
+                  "name": "[2021-09-11 16:36:33] - FO4Edit Precombined Data editor at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/23967"
+               }, {
+                  "date_added": "13275844672906913",
+                  "guid": "d8e52a1e-8554-4290-82d8-dfcbdb9cdda5",
+                  "id": "76",
+                  "name": "[2021-09-11 16:37:52] - FO4Edit Precombined Data editor at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/23967?tab=files&file_id=97633"
+               }, {
+                  "date_added": "13275844782949779",
+                  "guid": "72611f8f-6051-4481-aa89-9f3f91dc3595",
+                  "id": "79",
+                  "name": "[2021-09-11 16:39:42] - FO4Edit Precombined Data editor at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/23967?tab=files"
+               }, {
+                  "date_added": "13275844815781089",
+                  "guid": "312cf597-8055-4edd-8a59-6233ed874797",
+                  "id": "80",
+                  "name": "[2021-09-11 16:40:15] - FO4Edit Precombined Data editor at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/23967?tab=files&file_id=97634"
+               }, {
+                  "date_added": "13275946746186236",
+                  "guid": "380406b6-bcd3-471a-9000-7896aa249de6",
+                  "id": "84",
+                  "name": "[2021-09-12 20:59:06] - Immersive Fast Travel Requirements at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/73627"
+               }, {
+                  "date_added": "13275946764931400",
+                  "guid": "0f0eb133-4696-47fd-ad68-0321ef1580b4",
+                  "id": "85",
+                  "name": "[2021-09-12 20:59:24] - Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas"
+               }, {
+                  "date_added": "13275946769447341",
+                  "guid": "4ea70a1f-749c-451d-8f10-2b08fb3c2eb0",
+                  "id": "86",
+                  "name": "[2021-09-12 20:59:29] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2"
+               }, {
+                  "date_added": "13275946774849288",
+                  "guid": "438d0f2b-35ab-4a45-88bb-732625fa542c",
+                  "id": "87",
+                  "name": "[2021-09-12 20:59:34] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=0"
+               }, {
+                  "date_added": "13275946880486326",
+                  "guid": "e3185be5-01ec-4dca-9ca6-1592bae1f11c",
+                  "id": "88",
+                  "name": "[2021-09-12 21:01:20] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=1"
+               }, {
+                  "date_added": "13275946919030998",
+                  "guid": "4605c766-2713-4bdf-815d-98a33245f54e",
+                  "id": "89",
+                  "name": "[2021-09-12 21:01:59] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=2"
+               }, {
+                  "date_added": "13275946919244612",
+                  "guid": "3dba87fb-55c3-410d-874d-f87e26668147",
+                  "id": "90",
+                  "name": "[2021-09-12 21:01:59] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=3"
+               }, {
+                  "date_added": "13275946961740892",
+                  "guid": "36e75965-1855-4c5a-be76-dc17a2aedac2",
+                  "id": "91",
+                  "name": "[2021-09-12 21:02:41] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=4"
+               }, {
+                  "date_added": "13275947053109164",
+                  "guid": "5c75b20e-a79d-41b9-95c2-4161f062bf3e",
+                  "id": "92",
+                  "name": "[2021-09-12 21:04:13] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=5"
+               }, {
+                  "date_added": "13275947152998077",
+                  "guid": "090ce0ce-eca4-4582-94e4-a9813070a302",
+                  "id": "93",
+                  "name": "[2021-09-12 21:05:52] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=6"
+               }, {
+                  "date_added": "13275947158555403",
+                  "guid": "2d02078a-a47f-49d5-99f5-f5370d2321db",
+                  "id": "94",
+                  "name": "[2021-09-12 21:05:58] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=7"
+               }, {
+                  "date_added": "13275947219702034",
+                  "guid": "3e2d4412-705a-409c-bb0f-fa3cdab2f3e8",
+                  "id": "95",
+                  "name": "[2021-09-12 21:06:59] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=8"
+               }, {
+                  "date_added": "13275947270939740",
+                  "guid": "093d4dc5-455b-49f7-8b18-b35ac22687ce",
+                  "id": "96",
+                  "name": "[2021-09-12 21:07:50] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=9"
+               }, {
+                  "date_added": "13275947313004871",
+                  "guid": "9b5d11ee-ab5c-4989-8758-a7e57eba5743",
+                  "id": "97",
+                  "name": "[2021-09-12 21:08:33] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=10"
+               }, {
+                  "date_added": "13275947337425618",
+                  "guid": "2087bbfb-2ab4-49ac-89e6-ec89c66d0cf1",
+                  "id": "98",
+                  "name": "[2021-09-12 21:08:57] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=11"
+               }, {
+                  "date_added": "13275947410217786",
+                  "guid": "bb91b3a5-e91d-4364-9621-3344cc27d28f",
+                  "id": "99",
+                  "name": "[2021-09-12 21:10:10] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=12"
+               }, {
+                  "date_added": "13275947456213079",
+                  "guid": "7d9f0cf9-0bf4-4043-805b-2ab7573395c8",
+                  "id": "100",
+                  "name": "[2021-09-12 21:10:56] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=13"
+               }, {
+                  "date_added": "13275947486629217",
+                  "guid": "c5f81c09-10bb-4177-95ae-e4f8927675cb",
+                  "id": "101",
+                  "name": "[2021-09-12 21:11:26] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=14"
+               }, {
+                  "date_added": "13275947554343886",
+                  "guid": "90878c17-3a0b-4625-a397-2af958bdf45b",
+                  "id": "102",
+                  "name": "[2021-09-12 21:12:34] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=15"
+               }, {
+                  "date_added": "13275947676958476",
+                  "guid": "38b59507-2894-404e-9d49-59b39e7a3dcf",
+                  "id": "103",
+                  "name": "[2021-09-12 21:14:36] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=16"
+               }, {
+                  "date_added": "13275947801240978",
+                  "guid": "65f17117-5cd7-4aae-a273-d221d428ccc4",
+                  "id": "104",
+                  "name": "[2021-09-12 21:16:41] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=17"
+               }, {
+                  "date_added": "13275947853584382",
+                  "guid": "c9902de7-e557-48b0-ba79-89ba3d0f9af4",
+                  "id": "105",
+                  "name": "[2021-09-12 21:17:33] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=18"
+               }, {
+                  "date_added": "13275947915291628",
+                  "guid": "772faf24-aa40-4b11-921b-b5cf9c255a71",
+                  "id": "106",
+                  "name": "[2021-09-12 21:18:35] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=19"
+               }, {
+                  "date_added": "13275947973706828",
+                  "guid": "82966bf1-a1cf-4579-a6c0-ab4e4a7238bd",
+                  "id": "107",
+                  "name": "[2021-09-12 21:19:33] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=20"
+               }, {
+                  "date_added": "13275948032299540",
+                  "guid": "1b58cae6-4800-4b02-a3e0-f52a8748bb75",
+                  "id": "108",
+                  "name": "[2021-09-12 21:20:32] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=21"
+               }, {
+                  "date_added": "13275948125646336",
+                  "guid": "aec613b3-7b95-477f-84fb-fa5e78fb9265",
+                  "id": "109",
+                  "name": "[2021-09-12 21:22:05] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=22"
+               }, {
+                  "date_added": "13275948185117810",
+                  "guid": "ac4534ad-1bff-4611-85be-c21fc3007f44",
+                  "id": "110",
+                  "name": "[2021-09-12 21:23:05] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=23"
+               }, {
+                  "date_added": "13275948233116295",
+                  "guid": "ba01a19b-2c2c-4291-a5ab-d64f0db8272f",
+                  "id": "111",
+                  "name": "[2021-09-12 21:23:53] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=24"
+               }, {
+                  "date_added": "13275948304092380",
+                  "guid": "3eca0088-d684-4fb7-a305-c068bdb8c1ef",
+                  "id": "112",
+                  "name": "[2021-09-12 21:25:04] - Today's new mods at Fallout New Vegas - mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/newvegas/mods/today/?nav=1&page_size=15&page=2&BH=25"
+               } ],
+               "date_added": "13275840683353110",
+               "date_modified": "13275948304092380",
+               "guid": "5c9c790f-cf09-4415-9a6b-9949c403972e",
+               "id": "28",
+               "name": "nexusmods.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842438521388",
+                  "guid": "c8d062de-9dc6-44ec-8272-de749f8038d8",
+                  "id": "35",
+                  "name": "[2021-09-11 16:00:38] - How do i check what mods disable precombined textures ? [FO4] : Fallout",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/Fallout/comments/d25dd5/how_do_i_check_what_mods_disable_precombined/"
+               } ],
+               "date_added": "13275842438520982",
+               "date_modified": "13275842438521388",
+               "guid": "0befad42-f288-4ced-bc7d-1f4262e45694",
+               "id": "34",
+               "name": "reddit.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842439695210",
+                  "guid": "30ade600-4518-46c7-80bb-9a83f8fd1a39",
+                  "id": "38",
+                  "name": "[2021-09-11 16:00:39] - xEdit Cleaning and-Error Checking | Tome of xEdit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://tes5edit.github.io/docs/7-mod-cleaning-and-error-checking.html"
+               } ],
+               "date_added": "13275842439694558",
+               "date_modified": "13275842439695210",
+               "guid": "a241148c-debb-4c6a-8e03-d3725b04a952",
+               "id": "36",
+               "name": "tes5edit.github.io",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842444081259",
+                  "guid": "1084418e-8c3b-4152-ae5f-55484da073c0",
+                  "id": "40",
+                  "name": "[2021-09-11 16:00:44] - Bad Textures :: Fallout 4 General Discussions",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://steamcommunity.com/app/377160/discussions/0/340412122416968068/"
+               } ],
+               "date_added": "13275842444080882",
+               "date_modified": "13275842444081259",
+               "guid": "3861ff80-b6d5-4f59-880e-f95ee3bcafcd",
+               "id": "39",
+               "name": "steamcommunity.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842451850475",
+                  "guid": "751c3dde-3c41-49af-bffa-c952af1b3e19",
+                  "id": "42",
+                  "name": "[2021-09-11 16:00:51] - Understanding CTDs in The Triangle of Death (Sanctuary, Abernathy Farm, and Red Rocket) | Sim Settlements Forums",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://simsettlements.com/site/index.php?threads/understanding-ctds-in-the-triangle-of-death-sanctuary-abernathy-farm-and-red-rocket.6964/"
+               } ],
+               "date_added": "13275842451850087",
+               "date_modified": "13275842451850475",
+               "guid": "6e68c90a-1a18-48c4-b093-fc653680316d",
+               "id": "41",
+               "name": "simsettlements.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842510117821",
+                  "guid": "a3bc3fd7-a6af-4ad8-8ff6-4a6145d24c7d",
+                  "id": "45",
+                  "name": "[2021-09-11 16:01:50] - Fallout 4: The 10 Biggest Mistakes Gamers Make When Modding The Game",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://gamerant.com/fallout-4-modding-mistakes-tips/"
+               } ],
+               "date_added": "13275842510117439",
+               "date_modified": "13275842510117821",
+               "guid": "57513929-5e8a-48e6-89ac-b93ff61bdfe6",
+               "id": "44",
+               "name": "gamerant.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842520909663",
+                  "guid": "c74340dd-88ee-4626-b5e8-3f5366e4f4b2",
+                  "id": "47",
+                  "name": "[2021-09-11 16:02:00] - 15 Best Fallout 4 Performance Mods To Optimize Speed & Playability – FandomSpot",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.fandomspot.com/fallout4-performance-mods/"
+               } ],
+               "date_added": "13275842520908681",
+               "date_modified": "13275842520909663",
+               "guid": "f5985e77-7277-47ab-b0eb-19d35cfa3faf",
+               "id": "46",
+               "name": "fandomspot.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842525668097",
+                  "guid": "1a2ba9b5-405d-4918-ba4f-2952237fdcae",
+                  "id": "50",
+                  "name": "[2021-09-11 16:02:05] - Fallout NV Mod Conflict Troubleshooting - Nexus Mods Wiki",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "http://wiki.tesnexus.com/index.php/Fallout_NV_Mod_Conflict_Troubleshooting"
+               } ],
+               "date_added": "13275842525667562",
+               "date_modified": "13275842525668097",
+               "guid": "f0ce2965-a7a0-4857-b680-571703a8b78e",
+               "id": "49",
+               "name": "wiki.tesnexus.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842527489260",
+                  "guid": "80dbce22-60f5-4e3d-825b-1dbd44b38029",
+                  "id": "52",
+                  "name": "[2021-09-11 16:02:07] - 40 Common Fallout 4 Problems & How to Fix Them",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.gottabemobile.com/fallout-4-problems-fixes/"
+               } ],
+               "date_added": "13275842527488745",
+               "date_modified": "13275842527489260",
+               "guid": "16c7d409-695d-4bc5-953a-7b31ce48f88e",
+               "id": "51",
+               "name": "gottabemobile.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275844683226418",
+                  "guid": "2099fdc0-b117-499b-870e-071587f31ddf",
+                  "id": "78",
+                  "name": "[2021-09-11 16:38:03] - Nexus Mods - Users",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://users.nexusmods.com/auth/sign_in"
+               } ],
+               "date_added": "13275844683225422",
+               "date_modified": "13275844683226418",
+               "guid": "28df1bed-a67e-42de-a25c-b1f5aa781b45",
+               "id": "77",
+               "name": "users.nexusmods.com",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13275838642012517",
+            "date_modified": "13275844683225507",
+            "guid": "09f275b9-d782-4e16-8a3e-18f5c2b33ea5",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13275838544628789",
+         "date_modified": "13275838642012934",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13275842742788440",
+                  "guid": "5e67293c-7fc2-408b-ac38-3fdf173ae705",
+                  "id": "60",
+                  "name": "Bad Textures :: Fallout 4 General Discussions",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://steamcommunity.com/app/377160/discussions/0/340412122416968068/"
+               }, {
+                  "date_added": "13275842742787405",
+                  "guid": "ee5e3e67-da29-477a-b3c7-bfdd6c9c6b18",
+                  "id": "55",
+                  "name": "( xedit | fo4edit | TES5Edit | pas | script ) ( fallout 4 | skyrim | oblivion ) ( lost | wrong ) ( meshes | textures ) - Google Search",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=(+xedit+%7C+fo4edit+%7C+TES5Edit+%7C+pas+%7C+script+)+(+fallout+4+%7C+skyrim+%7C+oblivion+)+(+lost+%7C+wrong+)+(+meshes+%7C+textures+)&hl=en&ei=kbY8YcyNGNOgjgaDh6eYDg&start=20&sa=N&ved=2ahUKEwiMmpDGivfyAhVTkMMKHYPDCeM4ChDw0wN6BAgBEEg&biw=1367&bih=952"
+               }, {
+                  "date_added": "13275842742787729",
+                  "guid": "59c5ecb6-1707-49e7-966d-888a39811fba",
+                  "id": "56",
+                  "name": "Using this script to clean your mod of unneeded precombineds at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/articles/484"
+               }, {
+                  "date_added": "13275842742787983",
+                  "guid": "4fbeb51b-6b0e-40ce-885c-b2d099d94684",
+                  "id": "57",
+                  "name": "Pra's Fo4Edit Scripts - Automatic Patch Generation at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/28898?tab=posts"
+               }, {
+                  "date_added": "13275842742788143",
+                  "guid": "5ef50ed0-4c4d-4df4-b671-ba142e2e4f59",
+                  "id": "58",
+                  "name": "How do i check what mods disable precombined textures ? [FO4] : Fallout",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/Fallout/comments/d25dd5/how_do_i_check_what_mods_disable_precombined/"
+               }, {
+                  "date_added": "13275842742788294",
+                  "guid": "fa8b619c-7ecd-4233-b3a0-d90b8ce8c70f",
+                  "id": "59",
+                  "name": "xEdit Cleaning and-Error Checking | Tome of xEdit",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://tes5edit.github.io/docs/7-mod-cleaning-and-error-checking.html"
+               }, {
+                  "date_added": "13275842742788586",
+                  "guid": "4aba1d09-80be-43ce-852b-6fff2b473c3a",
+                  "id": "61",
+                  "name": "Understanding CTDs in The Triangle of Death (Sanctuary, Abernathy Farm, and Red Rocket) | Sim Settlements Forums",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://simsettlements.com/site/index.php?threads/understanding-ctds-in-the-triangle-of-death-sanctuary-abernathy-farm-and-red-rocket.6964/"
+               }, {
+                  "date_added": "13275842742788760",
+                  "guid": "5331eb07-b9c9-44d8-811f-bbbc6ef370d1",
+                  "id": "62",
+                  "name": "Fallout 4: The 10 Biggest Mistakes Gamers Make When Modding The Game",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://gamerant.com/fallout-4-modding-mistakes-tips/"
+               }, {
+                  "date_added": "13275842742788921",
+                  "guid": "8cea06c1-f20f-48f0-92a6-5228ebff0065",
+                  "id": "63",
+                  "name": "40 Common Fallout 4 Problems & How to Fix Them",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.gottabemobile.com/fallout-4-problems-fixes/"
+               }, {
+                  "date_added": "13275842742789074",
+                  "guid": "459fd080-0b40-4974-85e4-b6d35b57088f",
+                  "id": "64",
+                  "name": "15 Best Fallout 4 Performance Mods To Optimize Speed & Playability – FandomSpot",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.fandomspot.com/fallout4-performance-mods/"
+               }, {
+                  "date_added": "13275842742789239",
+                  "guid": "012fb4eb-bf38-4391-99ea-4c1cfd42cbc5",
+                  "id": "65",
+                  "name": "Fallout NV Mod Conflict Troubleshooting - Nexus Mods Wiki",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "http://wiki.tesnexus.com/index.php/Fallout_NV_Mod_Conflict_Troubleshooting"
+               } ],
+               "date_added": "13275842742786784",
+               "date_modified": "13275842823669508",
+               "guid": "927f69cf-d371-42f3-8750-6ca5bde811a3",
+               "id": "54",
+               "name": "2021-09-11 #1",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275842779894698",
+                  "guid": "bb85c7f3-dc9e-4bea-a518-aa7ba23ce424",
+                  "id": "74",
+                  "name": "Armor and Weapon Keywords Community Resource (AWKCR) at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/6091?tab=posts"
+               } ],
+               "date_added": "13275842779892802",
+               "date_modified": "13275842779894698",
+               "guid": "daec58ae-7047-440b-9627-2be509177ace",
+               "id": "67",
+               "name": "2021-09-11 #2",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275846949886314",
+                  "guid": "6b1a6fc9-e2ef-47b2-9764-6a7262b45e45",
+                  "id": "82",
+                  "name": "Favorites",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "edge://favorites/?id=54"
+               }, {
+                  "date_added": "13275846949887353",
+                  "guid": "eea295e1-cb95-49f3-b4f9-4d90b35ce1bc",
+                  "id": "83",
+                  "name": "FO4Edit Precombined Data editor at Fallout 4 Nexus - Mods and community",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.nexusmods.com/fallout4/mods/23967?tab=files&file_id=97633"
+               } ],
+               "date_added": "13275846949884981",
+               "date_modified": "13275846949887353",
+               "guid": "0408db59-4c86-43d3-a3a3-3226176c8501",
+               "id": "81",
+               "name": "2021-09-11 #3",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13275842742785718",
+            "date_modified": "13275846949885724",
+            "guid": "80a725c6-3783-4860-bb9c-1690a07632db",
+            "id": "53",
+            "name": "Saved Sessions",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13275838544628792",
+         "date_modified": "13275842742786335",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13275838544628793",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,63 @@
+{
+   "checksum": "a6a95053902928832ab77a3c64f6a765",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13274814526474315",
+                  "guid": "4faa47ba-c556-4452-9678-e7f9d7274e92",
+                  "id": "7",
+                  "name": "[2021-08-30 18:28:46] - Visual bookmarks - Microsoft Edge Addons",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://microsoftedge.microsoft.com/addons/detail/visual-bookmarks/idfbjjfgccflicphjlpbomcklaehplha"
+               } ],
+               "date_added": "13274814526472023",
+               "date_modified": "13274814526474315",
+               "guid": "d0866918-d1a6-47e5-8083-42429e5448b3",
+               "id": "6",
+               "name": "microsoftedge.microsoft.com",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13274814526469545",
+            "date_modified": "13274814526472060",
+            "guid": "b879a960-e9a5-4c27-b470-1a0c00298b89",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13274720484789683",
+         "date_modified": "13274814526469951",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13274720484789685",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13274720484789688",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

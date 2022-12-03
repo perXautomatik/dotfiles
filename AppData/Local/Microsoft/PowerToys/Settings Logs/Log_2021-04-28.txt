@@ -1,0 +1,21 @@
+INFO: 09:10:07.8241948
+    [Method]: LoadSettingsFromJson [Class]: UserSettings
+    ColorPicker settings.json was missing, creating a new one
+INFO: 09:10:08.1607906
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 09:10:10.4409458
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 19:48:45.9109267
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 19:48:46.3408701
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 19:48:46.0502979
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 19:48:46.1244127
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry

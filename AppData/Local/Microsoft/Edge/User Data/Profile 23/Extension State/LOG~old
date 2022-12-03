@@ -1,0 +1,18 @@
+2022/03/06-11:24:05.237 1acc Reusing MANIFEST C:\Users\dator\AppData\Local\Microsoft\Edge\User Data\Profile 23\Extension State/MANIFEST-000001
+2022/03/06-11:24:05.238 1acc Recovering log #10
+2022/03/06-11:24:05.248 1acc Reusing old log C:\Users\dator\AppData\Local\Microsoft\Edge\User Data\Profile 23\Extension State/000010.log 
+2022/03/06-11:33:10.273 3a4c Level-0 table #14: started
+2022/03/06-11:33:10.309 3a4c Level-0 table #14: 4188883 bytes OK
+2022/03/06-11:33:10.312 3a4c Delete type=0 #10
+2022/03/06-11:58:51.624 43b8 Level-0 table #16: started
+2022/03/06-11:58:51.689 43b8 Level-0 table #16: 4197237 bytes OK
+2022/03/06-11:58:51.691 43b8 Delete type=0 #13
+2022/03/06-11:58:51.691 20c0 Compacting 4@0 + 1@1 files
+2022/03/06-11:58:51.770 20c0 Generated table #17@0: 2 keys, 4966 bytes
+2022/03/06-11:58:51.770 20c0 Compacted 4@0 + 1@1 files => 4966 bytes
+2022/03/06-11:58:51.771 20c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/06-11:58:51.772 20c0 Delete type=2 #7
+2022/03/06-11:58:51.772 20c0 Delete type=2 #9
+2022/03/06-11:58:51.772 20c0 Delete type=2 #11
+2022/03/06-11:58:51.772 20c0 Delete type=2 #14
+2022/03/06-11:58:51.772 20c0 Delete type=2 #16

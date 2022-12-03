@@ -1,0 +1,39 @@
+INFO: 01:19:33.7494887
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 01:19:33.0283136
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 01:19:35.0911491
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 01:19:34.5670495
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 01:19:40.2169772
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 03:05:01.4959858
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 03:05:05.6639034
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 03:05:02.6578412
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 03:05:06.6821169
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 13:01:04.9783068
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 13:01:06.0348069
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 22:11:35.0744327
+    [Method]: ThreadStart_Context [Class]: ThreadHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 22:11:38.1530184
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry

@@ -1,0 +1,90 @@
+{
+   "checksum": "e3b472d709d980a155c1aef2e0cf1ef2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13275837174108052",
+                  "guid": "d3a40a1f-1a7d-42f6-88a8-9e9b9a34838c",
+                  "id": "7",
+                  "name": "[2021-09-11 14:32:54] - COPSHOP | OFFICIELL TRAILER - YouTube",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=CXcw6_KuSB4"
+               }, {
+                  "date_added": "13275837232325646",
+                  "guid": "43d2c9cd-d7df-47e8-8d1b-6572c90ec722",
+                  "id": "8",
+                  "name": "[2021-09-11 14:33:52] - THE MATRIX RESURRECTIONS | OFFICIELL TRAILER - YouTube",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=f2BU-qsYS1c"
+               }, {
+                  "date_added": "13275837460343001",
+                  "guid": "b6a79dba-3d1c-4d2d-87eb-903191c87dfa",
+                  "id": "9",
+                  "name": "[2021-09-11 14:37:40] - DUNE | JASON MOMOA X DUNCAN IDAHO - YouTube",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ceLerDlxCCA"
+               }, {
+                  "date_added": "13275837496345228",
+                  "guid": "b732084d-abe2-440e-9b1e-e96f1903fa92",
+                  "id": "10",
+                  "name": "[2021-09-11 14:38:16] - Warner Bros. Pictures Sverige - YouTube",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.youtube.com/user/WarnerBrosPicturesSe"
+               } ],
+               "date_added": "13275837174103932",
+               "date_modified": "13275837496345228",
+               "guid": "5d96bba7-e429-41c9-ac4c-c7e3485b43c9",
+               "id": "6",
+               "name": "youtube.com",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13275837174075080",
+            "date_modified": "13275837174103985",
+            "guid": "89cf1411-203d-40ab-8672-bf9e0c7d794e",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13275836644516860",
+         "date_modified": "13275837174075644",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13275836644516863",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13275836644516864",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

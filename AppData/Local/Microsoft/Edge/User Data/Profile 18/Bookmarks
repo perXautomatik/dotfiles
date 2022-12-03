@@ -1,0 +1,117 @@
+{
+   "checksum": "11a19ac83b3d53c4feaedae5d60bd73c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13275838301298763",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13275838493255005",
+                  "guid": "725bf189-f0b5-49a4-a5d8-cfe0f9b915f7",
+                  "id": "7",
+                  "name": "Settings",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "edge://settings/profiles"
+               }, {
+                  "date_added": "13275838493255496",
+                  "guid": "eb6239e2-4a68-46d1-b791-43cc51330d9e",
+                  "id": "9",
+                  "name": "Save as MHTML - Chrome Web Store",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/save-as-mhtml/ahgakckdonjmnpnegjcamhagackmjpei"
+               } ],
+               "date_added": "13275838493254143",
+               "date_modified": "13275838493255496",
+               "guid": "8ad8d24f-a2a1-4f13-b29e-f72261b70527",
+               "id": "6",
+               "name": "2021-09-11 #1",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276010020919983",
+                  "guid": "afe3d03a-a4a4-4e84-b26b-782025f33821",
+                  "id": "11",
+                  "name": "New tab",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "edge://newtab/"
+               }, {
+                  "date_added": "13276010020920211",
+                  "guid": "f1302eb6-83a1-45c3-ab1a-d75b5518e049",
+                  "id": "12",
+                  "name": "Bookmarks HotList - Chrome Web Store",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/bookmarks-hotlist/jnbabccejebnlmnjendoibdlbpbgbham"
+               }, {
+                  "date_added": "13276010020920344",
+                  "guid": "0a4d239a-3276-4728-af99-7bd236243bf9",
+                  "id": "13",
+                  "name": "BookmarkHub - sync bookmarks - Chrome Web Store",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/bookmarkhub-sync-bookmark/fohimdklhhcpcnpmmichieidclgfdmol/related"
+               }, {
+                  "date_added": "13276010020920469",
+                  "guid": "bd8d0f24-9c33-420d-b9a4-2d06a4d830d0",
+                  "id": "14",
+                  "name": "Github Stars Manager - Chrome Web Store",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/github-stars-manager/epooeampfghdkampjnocabjniefmnkab"
+               } ],
+               "date_added": "13276010020919394",
+               "date_modified": "13276010020920469",
+               "guid": "cf3fa6a3-8ded-403a-9969-7c536a3e6dd2",
+               "id": "10",
+               "name": "2021-09-13 #1",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13275838493252212",
+            "date_modified": "13276010020919471",
+            "guid": "4b19f739-3a1c-4d92-91ae-935f407c605c",
+            "id": "5",
+            "name": "Saved Sessions",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13275838301298765",
+         "date_modified": "13275838493252468",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13275838301298767",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

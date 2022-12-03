@@ -1,0 +1,63 @@
+{
+   "checksum": "97b989612991efb37a95149b85142b07",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13274871198361971",
+                  "guid": "eeb13c16-1478-4f99-9d98-46bacbd2d1bc",
+                  "id": "7",
+                  "name": "[2021-08-31 10:13:18] - Verdict - Asus P8Z68-V LX review | TechRadar",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.techradar.com/reviews/pc-mac/pc-components/motherboards/asus-p8z68-v-lx-1072516/review/3"
+               } ],
+               "date_added": "13274871198359283",
+               "date_modified": "13274871198361971",
+               "guid": "390a9f85-2d12-45ca-bc13-2cdf6f27df87",
+               "id": "6",
+               "name": "techradar.com",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13274871198354809",
+            "date_modified": "13274871198359331",
+            "guid": "ecdceb2b-3e23-43eb-9eb4-2b778129f2db",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13274871115822392",
+         "date_modified": "13274871198355171",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13274871115822396",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13274871115822398",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
