@@ -10,7 +10,7 @@
 	branch = --
 	path = Roaming/JetBrains/DataGrip2022.1
 	url = https://github.com/perXautomatik/DatagripSettings.git
-[submodule "Roaming/JetBrains/DataGrip2022.1"]
+[submodule "Roaming/JetBrains/DataGrip2021.1"]
 	branch = --
 	path = Roaming/JetBrains/DataGrip2022.1
 	url = https://github.com/perXautomatik/DatagripSettings.git
