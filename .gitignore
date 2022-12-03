@@ -108,3 +108,5 @@ Safe Browsing Cookies
 Safe Browsing Cookies-journal
 manifest.json
 manifest.fingerprint
+*.rar
+*.jtx
