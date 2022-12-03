@@ -20,3 +20,10 @@ MachineKeys
 *.zip
 *.exe
 __folder_managed_by_vortex
+*.dll
+*.log
+*.db
+*.7z
+leveldb/
+00/
+IndexedDB/
