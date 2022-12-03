@@ -1,0 +1,2 @@
+[2022-08-13 02:10:25.797602] [p-8216] [t-8364] [trace] Discovered new version v0.61.1
+[2022-08-13 02:10:25.798962] [p-8216] [t-8364] [trace] New version is already downloaded

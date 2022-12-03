@@ -1,0 +1,279 @@
+{
+   "checksum": "dcb07efb8c8b32649794f0fc4ea766ec",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13275050915563752",
+                  "guid": "6906e352-1cd2-4a72-a450-8c4134bb7c74",
+                  "id": "7",
+                  "name": "[2021-09-02 12:08:35] - Automatic Extension Login | LastPass",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://lastpass.com/automatic-login"
+               } ],
+               "date_added": "13275050915563042",
+               "date_modified": "13275050915563752",
+               "guid": "f7a05c21-0982-4a7d-ba2c-484cd614115f",
+               "id": "6",
+               "name": "lastpass.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275051158891598",
+                  "guid": "644d9c33-73ad-4296-bd4d-8165c40701f0",
+                  "id": "9",
+                  "name": "[2021-09-02 12:12:38] - copy as markdown - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=copy+as+markdown&cvid=4d0cbef34218423f87e5c8f2572ba721&aqs=edge..69i57j0.3472j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13275051556397774",
+                  "guid": "62182fc4-4f07-49e6-8c79-bf2ca76f8744",
+                  "id": "15",
+                  "name": "[2021-09-02 12:19:16] - git add bootstrap.sh - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=git+add+bootstrap.sh&aqs=edge..69i57&FORM=ANCMS9&PC=U531"
+               }, {
+                  "date_added": "13275051638143896",
+                  "guid": "6e503b92-1221-4be4-b1ce-3ceb08d4abce",
+                  "id": "18",
+                  "name": "[2021-09-02 12:20:38] - git ad \"bootstrap.sh\" - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=git+ad+%22bootstrap.sh%22&qs=n&form=QBRE&sp=-1&pq=git+a+%22bootstrap.sh%22&sc=0-20&sk=&cvid=701B274EC62D49E7B380180CAF7F06FD"
+               }, {
+                  "date_added": "13275051644886992",
+                  "guid": "6be968ac-2f2c-4d12-925b-41979c355801",
+                  "id": "19",
+                  "name": "[2021-09-02 12:20:44] - git add \"bootstrap.sh\" - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=git+add+%22bootstrap.sh%22&qs=n&form=QBRE&sp=-1&pq=git+add+%22bootstrap.sh%22&sc=0-22&sk=&cvid=FBDEEF0212494140A39D7ACAE05C214D"
+               }, {
+                  "date_added": "13276528885979422",
+                  "guid": "bc88003a-906d-4018-9709-d77d4615bbc0",
+                  "id": "29",
+                  "name": "[2021-09-19 14:41:25] - powershell gues path from string - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powershell+gues+path+from+string&cvid=6633f2108629406bbae564d55754fc17&aqs=edge..69i57.7392j0j4&FORM=ANAB01&PC=U531"
+               } ],
+               "date_added": "13275051158891072",
+               "date_modified": "13276528885979422",
+               "guid": "2ea2a2ea-a41e-4521-b57a-73864c1fd223",
+               "id": "8",
+               "name": "bing.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275051165963859",
+                  "guid": "ec6ca9dd-7ac9-4708-98ac-f3627f578597",
+                  "id": "11",
+                  "name": "[2021-09-02 12:12:45] - Copy as Markdown - Microsoft Edge Addons",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://microsoftedge.microsoft.com/addons/detail/copy-as-markdown/cbbdkefgbfifiljnnklfhnhcnlmpglpd"
+               }, {
+                  "date_added": "13275051182326571",
+                  "guid": "e0ea1871-374c-468c-b715-f704d8f9b5b8",
+                  "id": "12",
+                  "name": "[2021-09-02 12:13:02] - Copy as Markdown - Microsoft Edge Addons",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://microsoftedge.microsoft.com/addons/detail/copy-as-markdown/immegcobaplfimdjgkabakodipaehfca"
+               } ],
+               "date_added": "13275051165963591",
+               "date_modified": "13275051182326571",
+               "guid": "0cd287db-66d7-4a2f-8b0b-96227e931d81",
+               "id": "10",
+               "name": "microsoftedge.microsoft.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275051468161147",
+                  "guid": "5886aca1-164d-482e-8933-89b312019e9c",
+                  "id": "14",
+                  "name": "[2021-09-02 12:17:48] - Hot Questions - Stack Exchange",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://stackexchange.com/questions?tab=hot"
+               } ],
+               "date_added": "13275051468160697",
+               "date_modified": "13275051468161147",
+               "guid": "6bca40f2-83a0-4f6f-b195-cc778c9ed3af",
+               "id": "13",
+               "name": "stackexchange.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275051567904129",
+                  "guid": "1015b73e-da66-494c-af9f-5f83ed7c753b",
+                  "id": "17",
+                  "name": "[2021-09-02 12:19:27] - bootstrap.sh · GitHub",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://gist.github.com/gcollazo/850359"
+               } ],
+               "date_added": "13275051567903752",
+               "date_modified": "13275051567904129",
+               "guid": "92bc2904-4e11-4fe0-ae0f-5e93dd9e4904",
+               "id": "16",
+               "name": "gist.github.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275051751197146",
+                  "guid": "08ac1e60-13b5-4ceb-ade0-824c6689ac85",
+                  "id": "24",
+                  "name": "[2021-09-02 12:22:31] - GitHub - notlmn/copy-as-markdown: 🖱 Browser extension to copy hyperlinks, images, and selected text as Markdown with GFM support",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/notlmn/copy-as-markdown"
+               } ],
+               "date_added": "13275051751196757",
+               "date_modified": "13275051751197146",
+               "guid": "9b58f5e0-1356-4602-818b-ebdcaeb3cd97",
+               "id": "23",
+               "name": "github.com",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13275050915558687",
+            "date_modified": "13275051751196797",
+            "guid": "65c136fa-12b1-4b54-a7ef-a9c433d80c94",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13275050713532374",
+         "date_modified": "13275050915559198",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13275051738999803",
+                  "guid": "9d793107-8247-4760-9a54-0c8485890129",
+                  "id": "22",
+                  "name": "git add \"bootstrap.sh\" - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=git+add+%22bootstrap.sh%22&qs=n&form=QBRE&sp=-1&pq=git+add+%22bootstrap.sh%22&sc=0-22&sk=&cvid=FBDEEF0212494140A39D7ACAE05C214D"
+               } ],
+               "date_added": "13275051738998794",
+               "date_modified": "13275051738999803",
+               "guid": "079630f6-3807-4adf-bda9-3d39d1b8bfb7",
+               "id": "21",
+               "name": "2021-09-02 #1",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275051754783337",
+                  "guid": "cc885dbd-9a41-4e18-a59e-ba3359eaacb7",
+                  "id": "26",
+                  "name": "git commit with external resource - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=git+commit+with+external+resource&cvid=b80e84e91fa94766865512b5caa7b948&aqs=edge..69i57.19239j0j4&FORM=ANAB01&PC=U531"
+               }, {
+                  "date_added": "13275051754783486",
+                  "guid": "74a8256a-9444-4b8e-9c70-0ca697b9bb12",
+                  "id": "27",
+                  "name": "git: symlink/reference to a file in an external repository - Stack Overflow",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/15844542/git-symlink-reference-to-a-file-in-an-external-repository"
+               } ],
+               "date_added": "13275051754783076",
+               "date_modified": "13275051754783486",
+               "guid": "bf675424-1d0b-4451-8915-2caf764e5e85",
+               "id": "25",
+               "name": "2021-09-02 #2",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276531688440604",
+                  "guid": "2c15a936-45ba-4bba-828e-aead591acf46",
+                  "id": "31",
+                  "name": "Favorites",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "edge://favorites/?id=25"
+               }, {
+                  "date_added": "13276531688440743",
+                  "guid": "8c74c6b9-78a8-4e49-83ec-bd372f0fca13",
+                  "id": "32",
+                  "name": "powershell gues path from string - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powershell+gues+path+from+string&cvid=6633f2108629406bbae564d55754fc17&aqs=edge..69i57.7392j0j4&FORM=ANAB01&PC=U531"
+               } ],
+               "date_added": "13276531688439866",
+               "date_modified": "13276531688440743",
+               "guid": "a4ffa996-34c0-46de-b68d-ca262c9eda60",
+               "id": "30",
+               "name": "2021-09-19 #1",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13275051738997828",
+            "date_modified": "13276531688440192",
+            "guid": "1d0fd6e2-d666-420a-a178-2db34fde8177",
+            "id": "20",
+            "name": "Saved Sessions",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13275050713532375",
+         "date_modified": "13275051738998363",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13275050713532378",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,162 @@
+{
+   "checksum": "2d1d1a597809813da2f8cb06956960d6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13275843005435080",
+                  "guid": "3d0f3975-81ad-4025-8f2b-e41f76d1b00d",
+                  "id": "9",
+                  "name": "[2021-09-11 16:10:05] - FullEventLogView - The Portable Freeware Collection",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.portablefreeware.com/index.php?id=2811"
+               }, {
+                  "date_added": "13275843037543857",
+                  "guid": "88784b56-8d68-4e4a-8618-ccf1e05e1652",
+                  "id": "11",
+                  "name": "[2021-09-11 16:10:37] - BrowserDownloadsView - The Portable Freeware Collection",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.portablefreeware.com/index.php?id=2916"
+               }, {
+                  "date_added": "13275843111981663",
+                  "guid": "90000026-af3c-458d-98b3-e0a343e70f4c",
+                  "id": "13",
+                  "name": "[2021-09-11 16:11:51] - Textosaurus - The Portable Freeware Collection",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.portablefreeware.com/index.php?id=2921"
+               } ],
+               "date_added": "13275843005433363",
+               "date_modified": "13275843111981663",
+               "guid": "c3e63073-4a58-4ebd-8195-ecac094cd473",
+               "id": "7",
+               "name": "portablefreeware.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275843005446559",
+                  "guid": "be299e85-f26a-467e-91b9-f10ad1543af0",
+                  "id": "10",
+                  "name": "[2021-09-11 16:10:05] - FullEventLogView - The Portable Freeware Collection",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.portablefreeware.com/index.php?id=2811"
+               }, {
+                  "date_added": "13275843037549244",
+                  "guid": "4216ba11-fcdc-4ba4-8e4a-2d51f2d41ec9",
+                  "id": "12",
+                  "name": "[2021-09-11 16:10:37] - BrowserDownloadsView - The Portable Freeware Collection",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.portablefreeware.com/index.php?id=2916"
+               }, {
+                  "date_added": "13275843111986557",
+                  "guid": "d89d5d2e-0078-4012-ad7b-f857bfe875c8",
+                  "id": "14",
+                  "name": "[2021-09-11 16:11:51] - Textosaurus - The Portable Freeware Collection",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.portablefreeware.com/index.php?id=2921"
+               } ],
+               "date_added": "13275843005434884",
+               "date_modified": "13275843111986557",
+               "guid": "14ff123c-e139-49d3-b23f-4516d05fe88e",
+               "id": "8",
+               "name": ".php",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13275843005431622",
+            "date_modified": "13275843005434911",
+            "guid": "0ce61dbb-de12-4912-9d6c-df957275c23b",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13275838716155614",
+         "date_modified": "13275843005432018",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13276010125058197",
+                  "guid": "6d7be9eb-3128-4ef2-b157-1dc9e58d6406",
+                  "id": "17",
+                  "name": "BrowserDownloadsView - The Portable Freeware Collection",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.portablefreeware.com/index.php?id=2916"
+               }, {
+                  "date_added": "13276010125058411",
+                  "guid": "04eab16e-b8f8-4d35-9e4a-aecf4e7d32d5",
+                  "id": "18",
+                  "name": "Textosaurus - The Portable Freeware Collection",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.portablefreeware.com/index.php?id=2921"
+               }, {
+                  "date_added": "13276010125058539",
+                  "guid": "6d442b6d-e490-4433-8f91-80203ba1539f",
+                  "id": "19",
+                  "name": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle/related"
+               } ],
+               "date_added": "13276010125057541",
+               "date_modified": "13276010125058539",
+               "guid": "cb360869-529f-4137-a0e8-2b0f46e1241d",
+               "id": "16",
+               "name": "2021-09-13 #1",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13276010125056994",
+            "date_modified": "13276010125057573",
+            "guid": "4ad0bcf9-30e2-4994-893e-9066ebbcf856",
+            "id": "15",
+            "name": "Saved Sessions",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13275838716155617",
+         "date_modified": "13276010125057186",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13275838716155618",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

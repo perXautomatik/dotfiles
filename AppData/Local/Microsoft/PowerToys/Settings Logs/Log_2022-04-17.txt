@@ -1,0 +1,25 @@
+INFO: 18:26:29.6122264
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+ERROR: 23:26:46.6634879
+    [Method]: CurrentDomain_UnhandledException [Class]: Program
+    Unhandled exception
+Exception of type 'System.OutOfMemoryException' was thrown.
+Inner exception: 
+
+Stack trace: 
+   at System.Windows.Input.StylusWisp.WispLogic.OnScreenMeasurementsChanged()
+   at System.Windows.Input.StylusWisp.WispLogic.HandleMessage(WindowMessage msg, IntPtr wParam, IntPtr lParam)
+   at System.Windows.SystemResources.SystemThemeFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+INFO: 23:26:46.6758189
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 23:26:46.6761976
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null

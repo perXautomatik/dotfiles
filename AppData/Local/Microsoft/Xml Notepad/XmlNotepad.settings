@@ -1,0 +1,52 @@
+﻿<Settings>
+  <FindMode>False</FindMode>
+  <IndentLevel>2</IndentLevel>
+  <SchemaCache />
+  <WindowBounds>130; 130; 752; 563</WindowBounds>
+  <Language />
+  <NewLineChars>\r\n</NewLineChars>
+  <XmlDiffIgnoreComments>False</XmlDiffIgnoreComments>
+  <XmlDiffIgnorePI>False</XmlDiffIgnorePI>
+  <AutoFormatLongLines>False</AutoFormatLongLines>
+  <NoByteOrderMark>False</NoByteOrderMark>
+  <TreeViewSize>526</TreeViewSize>
+  <MaximumValueLength>32767</MaximumValueLength>
+  <XmlDiffIgnoreXmlDecl>False</XmlDiffIgnoreXmlDecl>
+  <UpdateEnabled>True</UpdateEnabled>
+  <AppRegistered>False</AppRegistered>
+  <FileName>D:\Unsorted\BcompareSessions\BCSessions.xml</FileName>
+  <SearchWholeWord>False</SearchWholeWord>
+  <RecentFiles>
+    <Uri>D:\Unsorted\BcompareSessions\BCCommands.xml</Uri>
+    <Uri>D:\Unsorted\BcompareSessions\BCSessions.xml</Uri>
+  </RecentFiles>
+  <SearchRegex>False</SearchRegex>
+  <SearchSize>0; 0</SearchSize>
+  <Font>Microsoft Sans Serif; 8,25pt</Font>
+  <XmlDiffIgnoreNamespaces>False</XmlDiffIgnoreNamespaces>
+  <IgnoreDTD>False</IgnoreDTD>
+  <IndentChar>Space</IndentChar>
+  <XmlDiffIgnoreChildOrder>False</XmlDiffIgnoreChildOrder>
+  <AutoFormatOnSave>True</AutoFormatOnSave>
+  <UpdateFrequency>10675199.02:48:05.4775807</UpdateFrequency>
+  <SearchXPath>False</SearchXPath>
+  <XmlDiffIgnorePrefixes>False</XmlDiffIgnorePrefixes>
+  <TaskListSize>90</TaskListSize>
+  <LastUpdateCheck />
+  <Colors>
+    <PI>Purple</PI>
+    <ContainerBackground>AliceBlue</ContainerBackground>
+    <Element>0; 64; 128</Element>
+    <Attribute>Maroon</Attribute>
+    <Comment>Green</Comment>
+    <Background>White</Background>
+    <CDATA>Gray</CDATA>
+    <Text>Black</Text>
+  </Colors>
+  <SearchMatchCase>False</SearchMatchCase>
+  <XmlDiffIgnoreDtd>False</XmlDiffIgnoreDtd>
+  <SearchWindowLocation>0; 0</SearchWindowLocation>
+  <MaximumLineLength>10000</MaximumLineLength>
+  <XmlDiffIgnoreWhitespace>False</XmlDiffIgnoreWhitespace>
+  <UpdateLocation />
+</Settings>

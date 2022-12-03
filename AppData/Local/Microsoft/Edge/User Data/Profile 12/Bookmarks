@@ -1,0 +1,81 @@
+{
+   "checksum": "34c9acd76b29db80a2b804f4fb1e2eee",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13274871031943366",
+                  "guid": "fc9a4aa8-ee59-4d4d-aed2-58dd25d0253a",
+                  "id": "9",
+                  "name": "[2021-08-31 10:10:31] - How to Find Your PC Motherboard Model and Serial Number",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.partitionwizard.com/partitionmagic/what-motherboard-do-i-have-020.html"
+               } ],
+               "date_added": "13274871031930491",
+               "date_modified": "13274871031943366",
+               "guid": "bff7d8c5-b3c2-4cac-ac8c-e946dd7b97ee",
+               "id": "7",
+               "name": "partitionwizard.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274871031944845",
+                  "guid": "0a576d88-ebff-4f7c-9a79-190b87c9112f",
+                  "id": "10",
+                  "name": "[2021-08-31 10:10:31] - How to Find Your PC Motherboard Model and Serial Number",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.partitionwizard.com/partitionmagic/what-motherboard-do-i-have-020.html"
+               } ],
+               "date_added": "13274871031931447",
+               "date_modified": "13274871031944845",
+               "guid": "88108ae3-feb3-43dc-9659-a5bf1faf6e8e",
+               "id": "8",
+               "name": ".html",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13274871031921088",
+            "date_modified": "13274871031931483",
+            "guid": "1672284d-cba8-4d66-be5f-de55eabca508",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13274870952560827",
+         "date_modified": "13274871031921586",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13274870952560829",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13274870952560831",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

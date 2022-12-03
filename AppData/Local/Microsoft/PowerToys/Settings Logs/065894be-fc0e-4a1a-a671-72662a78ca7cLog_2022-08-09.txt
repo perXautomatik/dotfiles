@@ -1,0 +1,37 @@
+INFO: 23:28:53.3751790
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 00:14:37.8032863
+    [Method]: Callback [Class]: StartHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 00:14:37.9974714
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 02:20:03.6339631
+    [Method]: <OnStartup>b__5_0 [Class]: <>c
+    PowerToys Runner exited. Exiting ColorPicker
+ERROR: 02:20:04.4171372
+    [Method]: CurrentDomain_UnhandledException [Class]: Program
+    Unhandled exception
+Unable to load DLL 'vcruntime140_cor3.dll' or one of its dependencies: Det går inte att hitta den angivna modulen. (0x8007007E)
+Inner exception: 
+
+Stack trace: 
+   at __std_type_info_destroy_list(__type_info_node* )
+   at __scrt_uninitialize_type_info()
+   at _app_exit_callback()
+   at <CrtImplementationDetails>.LanguageSupport.DomainUnload(Object A_0, EventArgs A_1)
+   at <CrtImplementationDetails>.ModuleUninitializer.SingletonDomainUnload(Object source, EventArgs arguments)
+   at System.AppContext.OnProcessExit()
+INFO: 02:20:04.4215109
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 02:20:04.4219408
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 02:20:04.4832029
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 02:20:04.4846775
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
