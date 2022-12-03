@@ -1,0 +1,1251 @@
+{
+   "checksum": "e73a6ed4145538d46c12dcde7e88a521",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13274958532235429",
+                  "guid": "5649507a-f171-42e7-adb6-e51a4a35f8d7",
+                  "id": "7",
+                  "name": "[2021-09-01 10:28:52] - Open Source Text Processing Project: TextRank | TextProcessing | A Text Processing Portal for Humans",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://textprocessing.org/open-source-text-processing-project-textrank"
+               } ],
+               "date_added": "13274958532231862",
+               "date_modified": "13274958532235429",
+               "guid": "89b3c79b-d9d2-45bd-8011-7747f3fca9b0",
+               "id": "6",
+               "name": "textprocessing.org",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274958553697131",
+                  "guid": "f5a57b45-9a23-4bb0-9beb-6c2e07e0f36f",
+                  "id": "9",
+                  "name": "[2021-09-01 10:29:13] - pytextrank · PyPI",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://pypi.org/project/pytextrank/"
+               } ],
+               "date_added": "13274958553695838",
+               "date_modified": "13274958553697131",
+               "guid": "c2ff4f5f-867c-4790-b608-5614b075c776",
+               "id": "8",
+               "name": "pypi.org",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274958554093566",
+                  "guid": "b5d00699-e5ce-4cbd-8ea9-d5038be56f51",
+                  "id": "12",
+                  "name": "[2021-09-01 10:29:14] - textrank package - RDocumentation",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.rdocumentation.org/packages/textrank/versions/0.3.1"
+               } ],
+               "date_added": "13274958554077529",
+               "date_modified": "13274958554093566",
+               "guid": "b662e1e7-71d7-44f4-90bb-f43e7a6074c9",
+               "id": "10",
+               "name": "rdocumentation.org",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274958554093892",
+                  "guid": "cb4d5f51-905d-411d-8a2f-488aa8ca17c0",
+                  "id": "13",
+                  "name": "[2021-09-01 10:29:14] - textrank package - RDocumentation",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.rdocumentation.org/packages/textrank/versions/0.3.1"
+               } ],
+               "date_added": "13274958554080263",
+               "date_modified": "13274958554093892",
+               "guid": "d7d21a75-8e52-4245-9bdc-13190637f9af",
+               "id": "11",
+               "name": ".1",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274958566455912",
+                  "guid": "6612d26e-5d95-4283-ad70-b65ad61636a9",
+                  "id": "16",
+                  "name": "[2021-09-01 10:29:26] - HDPLEX 800W DC-ATX with 16V-63VDC Input",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://hdplex.com/hdplex-800w-dc-atx-with-16v-63vdc-input.html"
+               } ],
+               "date_added": "13274958566455319",
+               "date_modified": "13274958566455912",
+               "guid": "4411530c-e36b-4f8d-b681-556a46861a10",
+               "id": "14",
+               "name": "hdplex.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274958566458361",
+                  "guid": "f37f0f49-ebb2-49cc-8e59-fb12601636cf",
+                  "id": "17",
+                  "name": "[2021-09-01 10:29:26] - HDPLEX 800W DC-ATX with 16V-63VDC Input",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://hdplex.com/hdplex-800w-dc-atx-with-16v-63vdc-input.html"
+               } ],
+               "date_added": "13274958566455497",
+               "date_modified": "13274958566458361",
+               "guid": "e1fb1b86-11eb-4556-b159-202eb012e43a",
+               "id": "15",
+               "name": ".html",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274971689776547",
+                  "guid": "17a6e5f5-5d63-4217-9acd-a157a22afcf8",
+                  "id": "35",
+                  "name": "[2021-09-01 14:08:09] - virtualization load balancing - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=virtualization+load+balancing&cvid=978a8f0ea61b483f869c6e1a9b2389ad&aqs=edge..69i57.9728j0j1&FORM=ANAB01&PC=U531"
+               }, {
+                  "date_added": "13274971702028419",
+                  "guid": "3acee135-b13c-4889-b05c-1eda5ce02167",
+                  "id": "36",
+                  "name": "[2021-09-01 14:08:22] - virtualization load balancing - Bing images",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/images/search?q=virtualization+load+balancing&FORM=HDRSC2"
+               }, {
+                  "date_added": "13274971702545127",
+                  "guid": "d048544d-e7a0-4397-9382-ac979f9dc5c5",
+                  "id": "37",
+                  "name": "[2021-09-01 14:08:22] - virtualization load balancing - Bing images",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/images/search?q=virtualization+load+balancing&form=HDRSC2&first=1&tsc=ImageBasicHover"
+               }, {
+                  "date_added": "13274971746693095",
+                  "guid": "266d234e-b16f-4915-8773-bfe727f4fa24",
+                  "id": "38",
+                  "name": "[2021-09-01 14:09:06] - virtualization load balancing - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=virtualization+load+balancing&FORM=HDRSC1"
+               }, {
+                  "date_added": "13274971770778628",
+                  "guid": "49765fa3-2ed2-44ae-91ad-d0b0f0cc45f6",
+                  "id": "41",
+                  "name": "[2021-09-01 14:09:30] - cluster computing load balance - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=cluster+computing+load+balance&cvid=ea416061388d4a2495a4f78cc40e2ce5&aqs=edge..69i57.5328j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13274971966868950",
+                  "guid": "3a9a4fb1-ab01-424e-8232-647ff643119b",
+                  "id": "46",
+                  "name": "[2021-09-01 14:12:46] - cluster computing running singular os - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=cluster+computing+running+singular+os&cvid=15ea8cc98ab144028d1e5a01f835f3af&aqs=edge..69i57.9904j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13274974411302386",
+                  "guid": "64fe214b-dcf5-4de3-9e3c-fe402ce30271",
+                  "id": "56",
+                  "name": "[2021-09-01 14:53:31] - source control structured data - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=source+control+structured+data&cvid=321660842d3b483bafc35853cad7d506&aqs=edge..69i57.5287j0j1&pglt=2083&FORM=ANSPA1&PC=U531"
+               }, {
+                  "date_added": "13274974463693820",
+                  "guid": "35ccd56a-6e53-4cde-9a81-c8ff9ab24bb5",
+                  "id": "59",
+                  "name": "[2021-09-01 14:54:23] - version control structured data - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=version+control+structured+data&cvid=63a4fb49cd17483d945066ae35ea71a2&aqs=edge..69i57.6631j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13274975071713569",
+                  "guid": "ac150223-b92c-455c-88eb-1d98e3581332",
+                  "id": "70",
+                  "name": "[2021-09-01 15:04:31] - git dealing with lists - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=git+dealing+with+lists&cvid=569bce23af2940a69ab1a2145012e5a5&aqs=edge..69i57.10520j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276006400492497",
+                  "guid": "8692ba3a-bb6f-4a6b-b45e-d52dc257e7a2",
+                  "id": "79",
+                  "name": "[2021-09-13 13:33:20] - portable json orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=portable+json+orm&cvid=d47c81df394945a9a114ea0b693f3cef&aqs=edge..69i57.9201j0j1&pglt=2083&FORM=ANSPA1&PC=U531"
+               }, {
+                  "date_added": "13276006513829416",
+                  "guid": "a8a841f7-a90b-46b5-a38e-14a899262360",
+                  "id": "82",
+                  "name": "[2021-09-13 13:35:13] - docker npm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=docker+npm&cvid=29d3cb037b454bb698b69afeb0dab7b1&aqs=edge.0.0l9.11484j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276006704701970",
+                  "guid": "e9ebe0c3-6272-42b3-85ee-df1d3e1e9fc5",
+                  "id": "85",
+                  "name": "[2021-09-13 13:38:24] - minimal json orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=minimal+json+orm&cvid=96672a3b56fd4a90b981728d1a47dc9d&aqs=edge..69i57.8051j0j4&FORM=ANAB01&PC=U531"
+               }, {
+                  "date_added": "13276006806100495",
+                  "guid": "fa1ebb1a-42e1-4150-8008-16b69efb44ea",
+                  "id": "89",
+                  "name": "[2021-09-13 13:40:06] - powershell json orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powershell+json+orm&cvid=5f3cea12edda4253861bdb2d44418004&aqs=edge..69i57j0l8.6045j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276006919071560",
+                  "guid": "c820443c-870d-4b97-8c02-93198c1d10b3",
+                  "id": "91",
+                  "name": "[2021-09-13 13:41:59] - ps1 json orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=ps1+json+orm&cvid=e9635035022f4c03a2b45e3b46f79105&aqs=edge..69i57.36853j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276006963679752",
+                  "guid": "e6dcbc93-26de-4951-98ee-62beb6db4eb7",
+                  "id": "96",
+                  "name": "[2021-09-13 13:42:43] - powershell orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powershell+orm&cvid=a26aa7c7b2e94ae183b59a97899a3a1e&aqs=edge..69i57j0l6j69i60j69i65.3217j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276007350139007",
+                  "guid": "01f8c9eb-05d1-4007-b562-7ba339abb1f3",
+                  "id": "101",
+                  "name": "[2021-09-13 13:49:10] - json to xcel xcel to json - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=json+to+xcel+xcel+to+json&cvid=aeadcf970f794a93a50d0eb229b45130&aqs=edge..69i57.10301j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276007368334472",
+                  "guid": "ed0707cf-b234-4107-94ce-8d20631541c8",
+                  "id": "106",
+                  "name": "[2021-09-13 13:49:28] - powershell json orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powershell%20json%20orm&FORM=ANNSH1&refig=889b102f4d604b9cbc60d982c9a67fe3&msnews=1"
+               }, {
+                  "date_added": "13276009063524708",
+                  "guid": "7557529a-7345-4584-bb89-389d23e1dc12",
+                  "id": "107",
+                  "name": "[2021-09-13 14:17:43] - powerquery excel - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powerquery+excel&cvid=c049290902af4a4391fb332d17485757&aqs=edge..69i57j0l8.8364j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276009230142525",
+                  "guid": "0d459d86-b267-4f23-b886-7c4f3d9d94d6",
+                  "id": "110",
+                  "name": "[2021-09-13 14:20:30] - excel json powerquery - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=excel+json+powerquery&cvid=3fbbcd61639f4427884d10bbf37e7818&aqs=edge..69i57.6434j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               } ],
+               "date_added": "13274971689776066",
+               "date_modified": "13276009230142525",
+               "guid": "6aeaed3a-73d2-4fb8-a7ba-df36f86878ca",
+               "id": "34",
+               "name": "bing.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274971762133261",
+                  "guid": "916b958f-6734-499c-8694-af35fb4f6c7f",
+                  "id": "40",
+                  "name": "[2021-09-01 14:09:22] - Server Virtualization 3.0 And Load Balancing | Network Computing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.networkcomputing.com/data-centers/server-virtualization-30-and-load-balancing"
+               } ],
+               "date_added": "13274971762132939",
+               "date_modified": "13274971762133261",
+               "guid": "58dcc6e4-84f2-480c-b4d9-04884925f098",
+               "id": "39",
+               "name": "networkcomputing.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274971781882576",
+                  "guid": "156df119-3b56-4f62-a45f-ad7d601082d8",
+                  "id": "44",
+                  "name": "[2021-09-01 14:09:41] - https://ijcrt.org/papers/IJCRT1813165.pdf",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://ijcrt.org/papers/IJCRT1813165.pdf"
+               } ],
+               "date_added": "13274971781882263",
+               "date_modified": "13274971781882576",
+               "guid": "a06265c4-4245-4c5f-9b81-ef6704ef4f40",
+               "id": "42",
+               "name": "ijcrt.org",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274971781883519",
+                  "guid": "f4ed1d59-bdd0-4570-b435-e738533ef8bd",
+                  "id": "45",
+                  "name": "[2021-09-01 14:09:41] - https://ijcrt.org/papers/IJCRT1813165.pdf",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://ijcrt.org/papers/IJCRT1813165.pdf"
+               }, {
+                  "date_added": "13274974472337142",
+                  "guid": "30f23b2a-24ec-4aef-b71e-a118bd04aea6",
+                  "id": "61",
+                  "name": "[2021-09-01 14:54:32] - https://publications.lib.chalmers.se/records/fulltext/219831/219831.pdf",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://publications.lib.chalmers.se/records/fulltext/219831/219831.pdf"
+               } ],
+               "date_added": "13274971781882441",
+               "date_modified": "13274974472337142",
+               "guid": "5536531a-e5f7-403f-b28d-23cb6cebec81",
+               "id": "43",
+               "name": ".pdf",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274971978527112",
+                  "guid": "981e41f9-b86f-4c5b-aaa3-813f000ce585",
+                  "id": "48",
+                  "name": "[2021-09-01 14:12:58] - How does one cluster multiple machines to act as one to run multiple virtual machines on this single-seeming machine? - Server Fault",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://serverfault.com/questions/415003/how-does-one-cluster-multiple-machines-to-act-as-one-to-run-multiple-virtual-mac"
+               } ],
+               "date_added": "13274971978526696",
+               "date_modified": "13274971978527112",
+               "guid": "ad7fd5fe-abec-4454-a643-5a7e83f2a612",
+               "id": "47",
+               "name": "serverfault.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274974419197786",
+                  "guid": "5789492e-8bb5-40f7-b1d7-0432a1864123",
+                  "id": "58",
+                  "name": "[2021-09-01 14:53:39] - Data Source Controls",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.c-sharpcorner.com/UploadFile/bc1c71/data-source-controls/"
+               } ],
+               "date_added": "13274974419197480",
+               "date_modified": "13274974419197786",
+               "guid": "61f14af8-2888-4c2e-ab92-d68b2650c660",
+               "id": "57",
+               "name": "c-sharpcorner.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274974472338608",
+                  "guid": "6394b896-6ac1-45ef-bec0-e960aaf07365",
+                  "id": "62",
+                  "name": "[2021-09-01 14:54:32] - https://publications.lib.chalmers.se/records/fulltext/219831/219831.pdf",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://publications.lib.chalmers.se/records/fulltext/219831/219831.pdf"
+               } ],
+               "date_added": "13274974472336867",
+               "date_modified": "13274974472338608",
+               "guid": "e22a1c44-2178-415e-9c6e-fa70af23960a",
+               "id": "60",
+               "name": "publications.lib.chalmers.se",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274975035957989",
+                  "guid": "0151a2fd-9e0a-4662-be30-254aff3e72be",
+                  "id": "64",
+                  "name": "[2021-09-01 15:03:55] - sh - Tree of inheritance of Git branches - Stack Overflow",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/49478015/tree-of-inheritance-of-git-branches"
+               } ],
+               "date_added": "13274975035956904",
+               "date_modified": "13274975035957989",
+               "guid": "ab1653dd-9e7c-40ba-a4c4-204710ada6b5",
+               "id": "63",
+               "name": "stackoverflow.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276005911209367",
+                  "guid": "3a8a11c3-11df-46d8-a814-116483cd6a0c",
+                  "id": "78",
+                  "name": "[2021-09-13 13:25:11] - Json-Orm - feature suggestion - GitHub - CheetahChrome/Json-Orm: JSON Based ORM on SQL Server",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/CheetahChrome/JSON-ORM"
+               }, {
+                  "date_added": "13276006729875322",
+                  "guid": "1db40845-2ffa-4d08-b46d-83407b51c033",
+                  "id": "88",
+                  "name": "[2021-09-13 13:38:49] - GitHub - abhi2434/jsonorm",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/abhi2434/jsonorm"
+               } ],
+               "date_added": "13276005911208506",
+               "date_modified": "13276006729875322",
+               "guid": "2dafe707-9fe0-4a7e-8743-fc550ddc5393",
+               "id": "77",
+               "name": "github.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276006444499714",
+                  "guid": "274c0e39-31b3-4e65-8ca6-292c4941e9e5",
+                  "id": "81",
+                  "name": "[2021-09-13 13:34:04] - TypeORM - Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://typeorm.io/#/"
+               } ],
+               "date_added": "13276006444499191",
+               "date_modified": "13276006444499714",
+               "guid": "fdfdb7b2-5f0c-4f79-ad20-a06d8b591881",
+               "id": "80",
+               "name": "typeorm.io",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276006531246763",
+                  "guid": "f5b9ce83-c6f3-45d4-aca1-c56589114b98",
+                  "id": "84",
+                  "name": "[2021-09-13 13:35:31] - Dockerizing a Node.js web app | Node.js",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://nodejs.org/en/docs/guides/nodejs-docker-webapp/"
+               } ],
+               "date_added": "13276006531233363",
+               "date_modified": "13276006531246763",
+               "guid": "2fff36ba-542c-4826-a6de-6d7b3deaa390",
+               "id": "83",
+               "name": "nodejs.org",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276006715432603",
+                  "guid": "62311be7-ac0d-4dfb-bff4-2971a3510ae9",
+                  "id": "87",
+                  "name": "[2021-09-13 13:38:35] - minimal json orm - Sök på Google",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=minimal+json+orm&cvid=96672a3b56fd4a90b981728d1a47dc9d&aqs=edge..69i57.8051j0j4&FORM=ANAB01&PC=U531"
+               }, {
+                  "date_added": "13276006839166588",
+                  "guid": "329d5afa-858a-4efc-9424-cc4d8f661a1a",
+                  "id": "90",
+                  "name": "[2021-09-13 13:40:39] - powershell json orm - Sök på Google",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=powershell+json+orm&cvid=5f3cea12edda4253861bdb2d44418004&aqs=edge..69i57j0l8.6045j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               } ],
+               "date_added": "13276006715429938",
+               "date_modified": "13276006839166588",
+               "guid": "5f107c34-30a1-4ddb-a39a-744b1c5733f9",
+               "id": "86",
+               "name": "google.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276006954765647",
+                  "guid": "39088a46-50d7-49c4-a767-16f8b63aaaea",
+                  "id": "94",
+                  "name": "[2021-09-13 13:42:34] - Object-Relational Mapping (ORM) with JSON Services Entities in Java",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.cdata.com/kb/tech/json-jdbc-hibernate.rst"
+               } ],
+               "date_added": "13276006954763644",
+               "date_modified": "13276006954765647",
+               "guid": "1e55d538-0eb2-4fa3-ad8a-2aa939256fd1",
+               "id": "92",
+               "name": "cdata.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276006954768099",
+                  "guid": "1273403a-330f-4990-b4d1-db6cd94a41db",
+                  "id": "95",
+                  "name": "[2021-09-13 13:42:34] - Object-Relational Mapping (ORM) with JSON Services Entities in Java",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.cdata.com/kb/tech/json-jdbc-hibernate.rst"
+               } ],
+               "date_added": "13276006954764943",
+               "date_modified": "13276006954768099",
+               "guid": "2b8e7b1e-c526-475d-828b-512f1a6c2747",
+               "id": "93",
+               "name": ".rst",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276006973442759",
+                  "guid": "09428b28-96b7-4b31-a528-eebd312a995c",
+                  "id": "98",
+                  "name": "[2021-09-13 13:42:53] - Is there any ORM library available for Powershell? : PowerShell",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/PowerShell/comments/c8b5ca/is_there_any_orm_library_available_for_powershell/"
+               } ],
+               "date_added": "13276006973439032",
+               "date_modified": "13276006973442759",
+               "guid": "a353a403-0755-495c-8f75-6d2bfb898168",
+               "id": "97",
+               "name": "reddit.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276007185453894",
+                  "guid": "9e28e838-d6d3-4a36-865b-af6ce77ad715",
+                  "id": "100",
+                  "name": "[2021-09-13 13:46:25] - New tab",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://ntp.msn.com/edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&prerender=1"
+               } ],
+               "date_added": "13276007185452697",
+               "date_modified": "13276007185453894",
+               "guid": "af00aed1-c296-4112-b352-62b7d5f7260e",
+               "id": "99",
+               "name": "ntp.msn.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276007358529128",
+                  "guid": "54c6d184-4c37-4a13-a81f-0f02bb623228",
+                  "id": "104",
+                  "name": "[2021-09-13 13:49:18] - How to Convert JSON to Excel Using Power Query | Excel Unlocked",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://excelunlocked.com/convert-json-to-excel#:~:text=Follow%20the%20undermentioned%20steps%20to%20import%20or%20extract,file.%20Select%20it%20and%20click%20on%20%E2%80%98Import%E2%80%99%20button."
+               } ],
+               "date_added": "13276007358528141",
+               "date_modified": "13276007358529128",
+               "guid": "8380e479-b7c5-4a10-810e-b5e56e4a43e4",
+               "id": "102",
+               "name": "excelunlocked.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276007358532425",
+                  "guid": "06a06242-f39f-4a94-add3-14b972f299ef",
+                  "id": "105",
+                  "name": "[2021-09-13 13:49:18] - How to Convert JSON to Excel Using Power Query | Excel Unlocked",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://excelunlocked.com/convert-json-to-excel#:~:text=Follow%20the%20undermentioned%20steps%20to%20import%20or%20extract,file.%20Select%20it%20and%20click%20on%20%E2%80%98Import%E2%80%99%20button."
+               }, {
+                  "date_added": "13276009238184381",
+                  "guid": "4a5bc62e-3a06-4ec1-afe1-82957e4f01d6",
+                  "id": "112",
+                  "name": "[2021-09-13 14:20:38] - How to Parse Custom JSON Data using Excel - The Excel Club",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://theexcelclub.com/how-to-parse-custom-json-data-using-excel/#:~:text=Power%20query%20is%20a%20magic%20excel%20tool%20that,table.%20Select%20%E2%80%98to%20table%E2%80%99%20from%20the%20available%20option."
+               } ],
+               "date_added": "13276007358528338",
+               "date_modified": "13276009238184381",
+               "guid": "ed805543-dd94-42de-8882-8bb344f10e28",
+               "id": "103",
+               "name": ".",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276009068260782",
+                  "guid": "540457ec-0407-4052-b4e9-d9ff71cc47b9",
+                  "id": "109",
+                  "name": "[2021-09-13 14:17:48] - Excel | Microsoft Power Query",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://powerquery.microsoft.com/en-us/excel/"
+               } ],
+               "date_added": "13276009068259351",
+               "date_modified": "13276009068260782",
+               "guid": "f23abb1f-7fd7-4335-8bfb-72389d8ba3b5",
+               "id": "108",
+               "name": "powerquery.microsoft.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276009238212441",
+                  "guid": "6fa01c37-a2fd-4c41-a3cb-177a7c28582d",
+                  "id": "113",
+                  "name": "[2021-09-13 14:20:38] - How to Parse Custom JSON Data using Excel - The Excel Club",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://theexcelclub.com/how-to-parse-custom-json-data-using-excel/#:~:text=Power%20query%20is%20a%20magic%20excel%20tool%20that,table.%20Select%20%E2%80%98to%20table%E2%80%99%20from%20the%20available%20option."
+               } ],
+               "date_added": "13276009238183622",
+               "date_modified": "13276009238212441",
+               "guid": "1a8cae9d-7e58-4e91-b5fa-0cd635c7518b",
+               "id": "111",
+               "name": "theexcelclub.com",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276009369963226",
+                  "guid": "8dc8978d-1638-4a50-b8e4-acc66859417f",
+                  "id": "134",
+                  "name": "[2021-09-13 14:22:49] - Working with JSON data in PowerShell - Scripting Blog",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://devblogs.microsoft.com/scripting/working-with-json-data-in-powershell/"
+               } ],
+               "date_added": "13276009369962759",
+               "date_modified": "13276009369963226",
+               "guid": "bef5deaf-81bc-4009-a16c-214471e6c148",
+               "id": "133",
+               "name": "devblogs.microsoft.com",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13274958532225374",
+            "date_modified": "13276009369962850",
+            "guid": "2a213ba2-338a-4570-83d3-0ba6c984a0e6",
+            "id": "5",
+            "name": "AutoBookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13274958423385924",
+         "date_modified": "13274958532225981",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13274958701403892",
+                  "guid": "a09c88cc-50b7-4b95-b1d9-e032174f10c5",
+                  "id": "20",
+                  "name": "New tab",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "edge://newtab/"
+               }, {
+                  "date_added": "13274958701404058",
+                  "guid": "cd16b701-4262-4c9a-a3d9-21230fc8042c",
+                  "id": "21",
+                  "name": "Folderwise Bookmarks: Search & Sessions - Chrome Web Store",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/folderwise-bookmarks-sear/lcabfbidcbbfdfmonhonidjgcgdnfhle/related"
+               }, {
+                  "date_added": "13274958701404245",
+                  "guid": "1de3035c-9767-4ec4-84c8-ad812b86e79a",
+                  "id": "22",
+                  "name": "HDPLEX 800W DC-ATX with 16V-63VDC Input",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://hdplex.com/hdplex-800w-dc-atx-with-16v-63vdc-input.html"
+               }, {
+                  "date_added": "13274958701404384",
+                  "guid": "50aaa571-2a71-48b3-9cc2-9398614e7d91",
+                  "id": "23",
+                  "name": "autobookmarks - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=autobookmarks&cvid=fc0cd266922e4dbfb7d44a015317c782&aqs=edge..69i57j0l8.5926j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13274958701404517",
+                  "guid": "33e75005-b028-48a6-9ee6-805927fe4b33",
+                  "id": "24",
+                  "name": "AutoBookmarks - Chrome Web Store",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://chrome.google.com/webstore/detail/autobookmarks/lcchihcbfbaedlagdpaemgbpjapiihpo/related"
+               }, {
+                  "date_added": "13274958701404667",
+                  "guid": "b86d3874-e31b-4091-a0dd-d01e8126bb18",
+                  "id": "25",
+                  "name": "portable textrank - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=portable+textrank&cvid=4681bde407544dca9764853438fbaf60&aqs=edge..69i57.5384j0j4&PC=U531&first=11&FORM=PORE"
+               }, {
+                  "date_added": "13274958701404833",
+                  "guid": "de56693c-dd1d-4506-a977-a5875211cc89",
+                  "id": "26",
+                  "name": "pytextrank · PyPI",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://pypi.org/project/pytextrank/"
+               }, {
+                  "date_added": "13274958701404952",
+                  "guid": "0ded7060-3e08-43d3-bf92-93791af7847e",
+                  "id": "27",
+                  "name": "textrank package - RDocumentation",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.rdocumentation.org/packages/textrank/versions/0.3.1"
+               }, {
+                  "date_added": "13274958701405076",
+                  "guid": "59ce9a83-d0df-45f6-8245-e619f04a62fa",
+                  "id": "28",
+                  "name": "503 Service Unavailable",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://softston.com/app/textrank-for-pc-windows/"
+               }, {
+                  "date_added": "13274958701405228",
+                  "guid": "e503148b-be54-4f84-8498-4af601dee02f",
+                  "id": "29",
+                  "name": "Keyword and Sentence Extraction with TextRank (pytextrank) - David Ten",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://xang1234.github.io/textrank/"
+               }, {
+                  "date_added": "13274958701405354",
+                  "guid": "f1212cb2-fa28-4158-95e4-fd4e9db93433",
+                  "id": "30",
+                  "name": "KeywordExtraction - feature suggestion - WuLC/KeywordExtraction: Implementation of algorithm in keyword extraction,including TextRank,TF-IDF and the combination of both",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/WuLC/KeywordExtraction"
+               }, {
+                  "date_added": "13274958701405485",
+                  "guid": "f96137d2-1de7-4cb7-9ffb-a016c8a3dbc7",
+                  "id": "31",
+                  "name": "Text_Summerization - feature suggestion - AliMorty/Text_Summerization: In this project, we used the page rank algorithm to extract important sentences as an extractive summary. We used word2vec representation of words to calculate word similarities.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/AliMorty/Text_Summerization"
+               }, {
+                  "date_added": "13274958701405624",
+                  "guid": "dfbefe1e-2c90-48be-ba6e-884fbe89abc3",
+                  "id": "32",
+                  "name": "Open Source Text Processing Project: TextRank | TextProcessing | A Text Processing Portal for Humans",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://textprocessing.org/open-source-text-processing-project-textrank"
+               }, {
+                  "date_added": "13274958701405750",
+                  "guid": "5ebc3080-d49c-4f7b-962a-434df52ec940",
+                  "id": "33",
+                  "name": "AutoBookmarks",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "chrome-extension://lcchihcbfbaedlagdpaemgbpjapiihpo/options.html"
+               } ],
+               "date_added": "13274958701403108",
+               "date_modified": "13274958701405750",
+               "guid": "11901353-4550-4af0-b5e2-8d1d0f9ebb5b",
+               "id": "19",
+               "name": "2021-09-01 #1",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274973004018651",
+                  "guid": "cdf95674-b492-40a5-9b0b-4936c88aa1f8",
+                  "id": "50",
+                  "name": "virtualization load balancing - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=virtualization+load+balancing&FORM=HDRSC1"
+               }, {
+                  "date_added": "13274973004018944",
+                  "guid": "21ff2d5f-6aeb-47c9-b864-32981651eacd",
+                  "id": "51",
+                  "name": "Server Virtualization 3.0 And Load Balancing | Network Computing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.networkcomputing.com/data-centers/server-virtualization-30-and-load-balancing"
+               }, {
+                  "date_added": "13274973004019173",
+                  "guid": "93ad0371-8296-47c8-bd7e-14b2b4baead2",
+                  "id": "52",
+                  "name": "cluster computing load balance - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=cluster+computing+load+balance&cvid=ea416061388d4a2495a4f78cc40e2ce5&aqs=edge..69i57.5328j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13274973004019397",
+                  "guid": "63c4faae-655d-43d5-ba67-5771cba17714",
+                  "id": "53",
+                  "name": "IJCRT1813165.pdf",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://ijcrt.org/papers/IJCRT1813165.pdf"
+               }, {
+                  "date_added": "13274973004019571",
+                  "guid": "d7f23a7e-5b41-4556-97ca-5187c25ecf3f",
+                  "id": "54",
+                  "name": "cluster computing running singular os - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=cluster+computing+running+singular+os&cvid=15ea8cc98ab144028d1e5a01f835f3af&aqs=edge..69i57.9904j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13274973004019823",
+                  "guid": "df00387b-2b85-4b8e-9570-8894b523f119",
+                  "id": "55",
+                  "name": "How does one cluster multiple machines to act as one to run multiple virtual machines on this single-seeming machine? - Server Fault",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://serverfault.com/questions/415003/how-does-one-cluster-multiple-machines-to-act-as-one-to-run-multiple-virtual-mac"
+               } ],
+               "date_added": "13274973004017967",
+               "date_modified": "13274973004019823",
+               "guid": "a16143f3-bf1d-4a5d-9462-288d8bf823a7",
+               "id": "49",
+               "name": "2021-09-01 #2",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274975048130064",
+                  "guid": "44770e29-c92b-4c8a-87d3-c66ad03c4004",
+                  "id": "66",
+                  "name": "source control structured data - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=source+control+structured+data&cvid=321660842d3b483bafc35853cad7d506&aqs=edge..69i57.5287j0j1&pglt=2083&FORM=ANSPA1&PC=U531"
+               }, {
+                  "date_added": "13274975048130258",
+                  "guid": "90230b8f-1edb-475e-ac16-25dd887e46f3",
+                  "id": "67",
+                  "name": "Data Source Controls",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.c-sharpcorner.com/UploadFile/bc1c71/data-source-controls/"
+               }, {
+                  "date_added": "13274975048130380",
+                  "guid": "726cc281-b7cd-467e-b124-9dc8d1fcc8af",
+                  "id": "68",
+                  "name": "version control structured data - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=version+control+structured+data&cvid=63a4fb49cd17483d945066ae35ea71a2&aqs=edge..69i57.6631j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13274975048130514",
+                  "guid": "0a9745b2-e7ad-4d5a-b3f8-6fea0f6c05f0",
+                  "id": "69",
+                  "name": "Master Thesis:",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://publications.lib.chalmers.se/records/fulltext/219831/219831.pdf"
+               } ],
+               "date_added": "13274975048129522",
+               "date_modified": "13274975048130514",
+               "guid": "c0c6c58e-c0a6-4704-a9fc-413bb9900529",
+               "id": "65",
+               "name": "2021-09-01 #3",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274983543722084",
+                  "guid": "0e12da53-aeb7-425c-b91a-9c77360f6ce6",
+                  "id": "72",
+                  "name": "sh - Tree of inheritance of Git branches - Stack Overflow",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/49478015/tree-of-inheritance-of-git-branches"
+               } ],
+               "date_added": "13274983543721429",
+               "date_modified": "13274983543722084",
+               "guid": "f29a0331-b9a8-4cb6-bd84-a990da8fb5bd",
+               "id": "71",
+               "name": "2021-09-01 #4",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13274983564677155",
+                  "guid": "1d31f3a3-1ecc-4282-b2fa-de0bb2a7e731",
+                  "id": "74",
+                  "name": "git dealing with lists - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=git+dealing+with+lists&cvid=569bce23af2940a69ab1a2145012e5a5&aqs=edge..69i57.10520j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13274983564677349",
+                  "guid": "7ec4f349-6ae8-4566-9e13-613bd497f635",
+                  "id": "75",
+                  "name": "New tab",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "edge://newtab/"
+               } ],
+               "date_added": "13274983564676695",
+               "date_modified": "13274983564677349",
+               "guid": "3abcf304-46e3-4070-8fbd-85c6da2069a1",
+               "id": "73",
+               "name": "2021-09-01 #5",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276009343270512",
+                  "guid": "252782df-9c02-4d1c-9aab-0cbd255c497c",
+                  "id": "115",
+                  "name": "How to Convert JSON to Excel Using Power Query | Excel Unlocked",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://excelunlocked.com/convert-json-to-excel#:~:text=Follow%20the%20undermentioned%20steps%20to%20import%20or%20extract,file.%20Select%20it%20and%20click%20on%20%E2%80%98Import%E2%80%99%20button."
+               }, {
+                  "date_added": "13276009343270801",
+                  "guid": "be4060e4-5fe7-443e-99bd-63573ff07d20",
+                  "id": "116",
+                  "name": "powerquery excel - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powerquery+excel&cvid=c049290902af4a4391fb332d17485757&aqs=edge..69i57j0l8.8364j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276009343270982",
+                  "guid": "51fca5d1-0824-4eba-8320-5231ac1875e9",
+                  "id": "117",
+                  "name": "Excel | Microsoft Power Query",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://powerquery.microsoft.com/en-us/excel/"
+               }, {
+                  "date_added": "13276009343271141",
+                  "guid": "94b395e8-c86c-4e10-aef4-8e3a4d45e267",
+                  "id": "118",
+                  "name": "excel json powerquery - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=excel+json+powerquery&cvid=3fbbcd61639f4427884d10bbf37e7818&aqs=edge..69i57.6434j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276009343271332",
+                  "guid": "4a74f99a-b8cc-4896-a886-f07fd1efe57b",
+                  "id": "119",
+                  "name": "How to Parse Custom JSON Data using Excel - The Excel Club",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://theexcelclub.com/how-to-parse-custom-json-data-using-excel/#:~:text=Power%20query%20is%20a%20magic%20excel%20tool%20that,table.%20Select%20%E2%80%98to%20table%E2%80%99%20from%20the%20available%20option."
+               } ],
+               "date_added": "13276009343269860",
+               "date_modified": "13276009343271332",
+               "guid": "1821121b-03aa-410e-ae25-b82abf4d39f4",
+               "id": "114",
+               "name": "2021-09-13 #1",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276009360030596",
+                  "guid": "510d571e-68d1-44d3-846b-672bbeb73461",
+                  "id": "121",
+                  "name": "New tab",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "edge://newtab/"
+               }, {
+                  "date_added": "13276009360030855",
+                  "guid": "df49a3d5-81f2-46f2-a390-d0f5f6bba839",
+                  "id": "122",
+                  "name": "Json-Orm - feature suggestion - GitHub - CheetahChrome/Json-Orm: JSON Based ORM on SQL Server",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/CheetahChrome/JSON-ORM"
+               }, {
+                  "date_added": "13276009360031052",
+                  "guid": "2d0fbd95-e2fa-4643-b0f3-47173d0f5172",
+                  "id": "123",
+                  "name": "portable json orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=portable+json+orm&cvid=d47c81df394945a9a114ea0b693f3cef&aqs=edge..69i57.9201j0j1&pglt=2083&FORM=ANSPA1&PC=U531"
+               }, {
+                  "date_added": "13276009360031217",
+                  "guid": "06bf6147-c43b-412c-9665-b89a654da716",
+                  "id": "124",
+                  "name": "TypeORM - Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://typeorm.io/#/"
+               }, {
+                  "date_added": "13276009360031422",
+                  "guid": "75ec45a3-0dd7-46ec-a49b-86853a80f85e",
+                  "id": "125",
+                  "name": "AutoBookmarks",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "chrome-extension://lcchihcbfbaedlagdpaemgbpjapiihpo/options.html"
+               }, {
+                  "date_added": "13276009360031700",
+                  "guid": "e1ed20b9-1c77-4252-9a3e-41d364f187d2",
+                  "id": "126",
+                  "name": "jsonorm - feature suggestion - GitHub - abhi2434/jsonorm",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://github.com/abhi2434/jsonorm"
+               }, {
+                  "date_added": "13276009360031858",
+                  "guid": "1f8a4ac6-654f-4cbb-94fe-401d733f5a31",
+                  "id": "127",
+                  "name": "powershell json orm - Sök på Google",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=powershell+json+orm&cvid=5f3cea12edda4253861bdb2d44418004&aqs=edge..69i57j0l8.6045j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276009360032036",
+                  "guid": "df04a0a6-f2c4-4318-965e-78dde0158bba",
+                  "id": "128",
+                  "name": "ps1 json orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=ps1+json+orm&cvid=e9635035022f4c03a2b45e3b46f79105&aqs=edge..69i57.36853j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276009360032189",
+                  "guid": "b8ce5927-1397-4231-8d4c-b0bc068b74a2",
+                  "id": "129",
+                  "name": "Object-Relational Mapping (ORM) with JSON Services Entities in Java",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.cdata.com/kb/tech/json-jdbc-hibernate.rst"
+               }, {
+                  "date_added": "13276009360032346",
+                  "guid": "e2e4b087-43d9-42d8-b5e4-2466e0aff17f",
+                  "id": "130",
+                  "name": "powershell orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powershell+orm&cvid=a26aa7c7b2e94ae183b59a97899a3a1e&aqs=edge..69i57j0l6j69i60j69i65.3217j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               }, {
+                  "date_added": "13276009360032500",
+                  "guid": "8e5174fc-57f8-48c4-a951-c33fb30a4c89",
+                  "id": "131",
+                  "name": "Is there any ORM library available for Powershell? : PowerShell",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/PowerShell/comments/c8b5ca/is_there_any_orm_library_available_for_powershell/"
+               }, {
+                  "date_added": "13276009360032650",
+                  "guid": "89f99cc1-c034-48a4-9e99-f1c1217af463",
+                  "id": "132",
+                  "name": "json to xcel xcel to json - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=json+to+xcel+xcel+to+json&cvid=aeadcf970f794a93a50d0eb229b45130&aqs=edge..69i57.10301j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               } ],
+               "date_added": "13276009360030146",
+               "date_modified": "13276009360032650",
+               "guid": "1812cf16-a3bd-4454-a717-19b7691efe9e",
+               "id": "120",
+               "name": "2021-09-13 #2",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276009384275905",
+                  "guid": "500d3be0-c866-4cb6-9175-69494c6eda1e",
+                  "id": "136",
+                  "name": "powershell json orm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=powershell%20json%20orm&FORM=ANNSH1&refig=889b102f4d604b9cbc60d982c9a67fe3&msnews=1"
+               } ],
+               "date_added": "13276009384275375",
+               "date_modified": "13276009384275905",
+               "guid": "cfa4334a-4c0c-44bc-9afb-3454d9743322",
+               "id": "135",
+               "name": "2021-09-13 #3",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276009395843530",
+                  "guid": "ef4b2e32-8b8b-45e6-80b3-435dc32953c3",
+                  "id": "138",
+                  "name": "Dockerizing a Node.js web app | Node.js",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://nodejs.org/en/docs/guides/nodejs-docker-webapp/"
+               } ],
+               "date_added": "13276009395842920",
+               "date_modified": "13276009395843530",
+               "guid": "2ddf78b5-f763-4e6b-9265-572aba540700",
+               "id": "137",
+               "name": "2021-09-13 #4",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13276009414326698",
+                  "guid": "74bbac2b-cf94-4686-9714-48d2bb6d4c11",
+                  "id": "140",
+                  "name": "docker npm - Bing",
+                  "show_icon": false,
+                  "source": "extension",
+                  "type": "url",
+                  "url": "https://www.bing.com/search?q=docker+npm&cvid=29d3cb037b454bb698b69afeb0dab7b1&aqs=edge.0.0l9.11484j0j1&pglt=2083&FORM=ANNTA1&PC=U531"
+               } ],
+               "date_added": "13276009414326278",
+               "date_modified": "13276009414326698",
+               "guid": "dfcaf8e3-bd29-48f0-9f40-bebf0704f1a9",
+               "id": "139",
+               "name": "2021-09-13 #5",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13274958701401953",
+            "date_modified": "13276009414326330",
+            "guid": "f12547a2-ed97-4efd-862b-ea4ef62c0d02",
+            "id": "18",
+            "name": "Saved Sessions",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13274958423385926",
+         "date_modified": "13274958701402177",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13274958423385928",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

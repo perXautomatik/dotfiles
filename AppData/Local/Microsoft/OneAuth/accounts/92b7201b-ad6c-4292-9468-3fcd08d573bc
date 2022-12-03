@@ -1,0 +1,16 @@
+{
+  "account_hints": "[\"christoffer.broback@edu.gotland.se\"]",
+  "account_type": "AAD",
+  "additional_properties": "{\n  \"aud\": \"ab9b8c07-8f02-4f72-87fa-80105867a763\",\n  \"email\": \"christoffer.broback@edu.gotland.se\",\n  \"exp\": \"1648567813\",\n  \"iat\": \"1648563913\",\n  \"iss\": \"https://login.microsoftonline.com/bd973045-39a9-435a-84ad-24f2bcc1eb5b/v2.0\",\n  \"nbf\": \"1648563913\",\n  \"nonce\": \"3d3ac72c-a8de-4231-a12e-2a76291bdb7a\",\n  \"oid\": \"92b7201b-ad6c-4292-9468-3fcd08d573bc\",\n  \"preferred_username\": \"christoffer.broback@edu.gotland.se\",\n  \"puid\": \"10033FFFA22F948F\",\n  \"rh\": \"0.AS8ARTCXvak5WkOErSTyvMHrWweMm6sCj3JPh_qAEFhnp2MvALc.\",\n  \"sub\": \"Xeh28VLomiXQ6c3JFkESJkhx22-_oUn6rudlAAntGwU\",\n  \"tid\": \"bd973045-39a9-435a-84ad-24f2bcc1eb5b\",\n  \"ver\": \"2.0\",\n  \"wam_account_ids\": \"{\\\"ab9b8c07-8f02-4f72-87fa-80105867a763\\\":\\\"u:92b7201b-ad6c-4292-9468-3fcd08d573bc.bd973045-39a9-435a-84ad-24f2bcc1eb5b\\\"}\"\n}",
+  "authority": "https://login.microsoftonline.com/bd973045-39a9-435a-84ad-24f2bcc1eb5b",
+  "display_name": "Christoffer Brobäck",
+  "first_name": "Christoffer",
+  "home_account_id": "92b7201b-ad6c-4292-9468-3fcd08d573bc.bd973045-39a9-435a-84ad-24f2bcc1eb5b",
+  "id": "92b7201b-ad6c-4292-9468-3fcd08d573bc",
+  "last_name": "Brobäck",
+  "login_name": "christoffer.broback@edu.gotland.se",
+  "provider_id": "92b7201b-ad6c-4292-9468-3fcd08d573bc",
+  "realm": "bd973045-39a9-435a-84ad-24f2bcc1eb5b",
+  "realm_name": "Region Gotland",
+  "sovereignty": "Global"
+}
