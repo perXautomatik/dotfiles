@@ -7,8 +7,16 @@ Local/Google/Chrome/User Data/Profile 1/Web Data
 Local/Google/Chrome/User Data/Profile 1/heavy_ad_intervention_opt_out.db
 Local/Google/Chrome/User Data/Profile 1/Favicons
 /Roaming/Vortex/Code Cache/
-/local
-/localLow
-/Roaming
+*Cache/
+Cache*/
 /Roaming/Vortex/Cache
 /Roaming/Path of Exile/Minimap
+*.svg
+*.png
+*.jpg
+*.dll
+*.ico
+MachineKeys
+*.zip
+*.exe
+__folder_managed_by_vortex
