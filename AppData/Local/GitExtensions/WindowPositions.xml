@@ -274,24 +274,6 @@
     <WindowPosition>
       <Rect>
         <Location>
-          <X>351</X>
-          <Y>325</Y>
-        </Location>
-        <Size>
-          <Width>740</Width>
-          <Height>224</Height>
-        </Size>
-        <X>351</X>
-        <Y>325</Y>
-        <Width>740</Width>
-        <Height>224</Height>
-      </Rect>
-      <State>Normal</State>
-      <Name>FormCheckoutBranch</Name>
-    </WindowPosition>
-    <WindowPosition>
-      <Rect>
-        <Location>
           <X>646</X>
           <Y>341</Y>
         </Location>
@@ -436,6 +418,24 @@
     <WindowPosition>
       <Rect>
         <Location>
+          <X>0</X>
+          <Y>0</Y>
+        </Location>
+        <Size>
+          <Width>476</Width>
+          <Height>525</Height>
+        </Size>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>476</Width>
+        <Height>525</Height>
+      </Rect>
+      <State>Normal</State>
+      <Name>FormResetCurrentBranch</Name>
+    </WindowPosition>
+    <WindowPosition>
+      <Rect>
+        <Location>
           <X>756</X>
           <Y>364</Y>
         </Location>
@@ -454,20 +454,20 @@
     <WindowPosition>
       <Rect>
         <Location>
-          <X>0</X>
-          <Y>0</Y>
+          <X>439</X>
+          <Y>126</Y>
         </Location>
         <Size>
-          <Width>476</Width>
-          <Height>525</Height>
+          <Width>740</Width>
+          <Height>224</Height>
         </Size>
-        <X>0</X>
-        <Y>0</Y>
-        <Width>476</Width>
-        <Height>525</Height>
+        <X>439</X>
+        <Y>126</Y>
+        <Width>740</Width>
+        <Height>224</Height>
       </Rect>
       <State>Normal</State>
-      <Name>FormResetCurrentBranch</Name>
+      <Name>FormCheckoutBranch</Name>
     </WindowPosition>
   </WindowPositions>
 </WindowPositionList>
