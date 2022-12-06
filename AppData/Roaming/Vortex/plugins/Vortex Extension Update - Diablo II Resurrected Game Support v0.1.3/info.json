@@ -1,0 +1,10 @@
+{
+  "name": "Diablo II Resurrected Game Support",
+  "author": "Nagev",
+  "version": "0.1.3",
+  "description": "Adds Vortex game support for Diablo II Resurrected",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3.7z",
+  "bundled": false,
+  "modId": 296
+}

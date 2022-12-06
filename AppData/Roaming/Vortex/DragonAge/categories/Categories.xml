@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categoryManager fileVersion="0.1.0.0">
+  <categoryList>
+    <category path="Unassigned" ID="0">
+      <name>Unassigned</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Default - I forgot to set this" ID="38">
+      <name>Default - I forgot to set this</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Crafting" ID="19">
+      <name>Crafting</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Creatures" ID="3">
+      <name>Creatures</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Animation" ID="4">
+      <name>Animation</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Armour" ID="5">
+      <name>Armour</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Audio" ID="6">
+      <name>Audio</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Cheats and God Items" ID="7">
+      <name>Cheats and God Items</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Cities, Towns and Villages" ID="8">
+      <name>Cities, Towns and Villages</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Clothing" ID="9">
+      <name>Clothing</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Companions" ID="10">
+      <name>Companions</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Locations: Dungeons" ID="11">
+      <name>Locations: Dungeons</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Environmental Changes" ID="12">
+      <name>Environmental Changes</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Gameplay Effects and Changes" ID="13">
+      <name>Gameplay Effects and Changes</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Face and Hair" ID="14">
+      <name>Face and Hair</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Items" ID="15">
+      <name>Items</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Items and Objects (for the world)" ID="16">
+      <name>Items and Objects (for the world)</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Locations" ID="18">
+      <name>Locations</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Magic" ID="20">
+      <name>Magic</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Miscellaneous" ID="22">
+      <name>Miscellaneous</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Models and Textures" ID="23">
+      <name>Models and Textures</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\New Buildings" ID="25">
+      <name>New Buildings</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\New Lands" ID="24">
+      <name>New Lands</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\NPCs" ID="26">
+      <name>NPCs</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Quests and Adventures" ID="27">
+      <name>Quests and Adventures</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Races and Classes" ID="28">
+      <name>Races and Classes</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Saved Games" ID="29">
+      <name>Saved Games</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Locations: Stores and Taverns" ID="21">
+      <name>Locations: Stores and Taverns</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Combat, Skills, Magic, and Leveling" ID="30">
+      <name>Combat, Skills, Magic, and Leveling</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Stealth" ID="31">
+      <name>Stealth</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\User Interface" ID="32">
+      <name>User Interface</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Utilities" ID="33">
+      <name>Utilities</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Videos and Trailers" ID="34">
+      <name>Videos and Trailers</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Visuals and Graphics" ID="35">
+      <name>Visuals and Graphics</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Weapons" ID="36">
+      <name>Weapons</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\DragonAge\Mods\Weapons and Armour" ID="37">
+      <name>Weapons and Armour</name>
+    </category>
+    <category path="Dragon Age: Origins" ID="2">
+      <name>Dragon Age: Origins</name>
+    </category>
+    <category path="Modders Resources and Tutorials" ID="39">
+      <name>Modders Resources and Tutorials</name>
+    </category>
+    <category path="Overhauls" ID="40">
+      <name>Overhauls</name>
+    </category>
+    <category path="Bug Fixes" ID="43">
+      <name>Bug Fixes</name>
+    </category>
+    <category path="ReShade Preset" ID="44">
+      <name>ReShade Preset</name>
+    </category>
+  </categoryList>
+</categoryManager>

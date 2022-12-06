@@ -1,0 +1,10 @@
+{
+  "name": "Portal 2 Support",
+  "author": "AtomicTEM",
+  "version": "1.1.0",
+  "description": "Adds mod support to Portal 2.",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Portal 2 Support v1.1.0.7z",
+  "bundled": false,
+  "modId": 109
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Support for S.T.A.L.K.E.R. Clear Sky",
+  "author": "Wyrm",
+  "version": "0.0.6",
+  "description": "Extension that adds unofficial support for S.T.A.L.K.E.R.: Clear Sky to Vortex.",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Support for S.T.A.L.K.E.R. Clear Sky v0.0.6.7z",
+  "bundled": false,
+  "modId": 185
+}

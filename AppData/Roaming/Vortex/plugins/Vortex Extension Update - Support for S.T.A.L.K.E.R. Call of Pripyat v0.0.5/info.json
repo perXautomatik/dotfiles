@@ -1,0 +1,10 @@
+{
+  "name": "Support for S.T.A.L.K.E.R. Call of Pripyat",
+  "author": "Wyrm",
+  "version": "0.0.5",
+  "description": "Extension that adds unofficial support for S.T.A.L.K.E.R.: Call of Pripyat to Vortex.",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Support for S.T.A.L.K.E.R. Call of Pripyat v0.0.5.7z",
+  "bundled": false,
+  "modId": 186
+}

@@ -1,0 +1,1105 @@
+[
+    {
+        "name": "4estGimp - M8r98a4f2's Complex Item Sorter Enhancements",
+        "game": "fallout4",
+        "modId": "51307",
+        "fileId": 221534,
+        "source": "nexus"
+    },
+    {
+        "name": "4estGimp - Raider Overhaul ONE - All Files - No AWKCR",
+        "game": "fallout4",
+        "modId": "51658",
+        "fileId": 215481,
+        "source": "nexus"
+    },
+    {
+        "name": "Phoenix Lab (Astoundingly Awesome Tales) Magazine Retexture",
+        "game": "fallout4",
+        "modId": "47143",
+        "fileId": 190260,
+        "source": "nexus"
+    },
+    {
+        "name": "Phoenix Lab (Grognak the Barbarian) Magazine Retexture",
+        "game": "fallout4",
+        "modId": "47129",
+        "fileId": 190138,
+        "source": "nexus"
+    },
+    {
+        "name": "Phoenix Lab (Wasteland Survival Guide) Magazine Retexture",
+        "game": "fallout4",
+        "modId": "47188",
+        "fileId": 190496,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "47327",
+        "fileId": "47327",
+        "source": "nexus"
+    },
+    {
+        "name": "Adult magazine billboards and posters",
+        "game": "fallout4",
+        "modId": "3234",
+        "fileId": 9881,
+        "source": "nexus"
+    },
+    {
+        "name": "Allow to use workbench during combat",
+        "game": "fallout4",
+        "modId": "17020",
+        "fileId": 68121,
+        "source": "nexus"
+    },
+    {
+        "name": "Another Ad Posters Replacement",
+        "game": "fallout4",
+        "modId": "38478",
+        "fileId": 156685,
+        "source": "nexus"
+    },
+    {
+        "name": "Atom Bomb Pinups Paintings",
+        "game": "fallout4",
+        "modId": "4258",
+        "fileId": 116335,
+        "source": "nexus"
+    },
+    {
+        "name": "Automatic Save",
+        "game": "fallout4",
+        "modId": "10920",
+        "fileId": 55549,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "46340",
+        "fileId": "46340",
+        "source": "nexus"
+    },
+    {
+        "name": "Be Exceptional - Skills and Perk Overhaul",
+        "game": "fallout4",
+        "modId": "28222",
+        "fileId": "28222",
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "26375",
+        "fileId": "26375",
+        "source": "nexus"
+    },
+    {
+        "name": "Better Manufacturing",
+        "game": "fallout4",
+        "modId": 26375,
+        "fileId": 177213,
+        "source": "nexus"
+    },
+    {
+        "name": "Better Power Armor - A Power Armor Overhaul",
+        "game": "fallout4",
+        "modId": "7515",
+        "fileId": 77463,
+        "source": "nexus"
+    },
+    {
+        "name": "Better Weapon Scrap",
+        "game": "fallout4",
+        "modId": "30562",
+        "fileId": 215079,
+        "source": "nexus"
+    },
+    {
+        "name": "Bobble Girl Loading Screen",
+        "game": "fallout4",
+        "modId": "32044",
+        "fileId": 130684,
+        "source": "nexus"
+    },
+    {
+        "name": "BodySlide and Outfit Studio",
+        "game": "fallout4",
+        "modId": "25",
+        "fileId": 214951,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "12099",
+        "fileId": 205433,
+        "source": "nexus"
+    },
+    {
+        "name": "Breakable Doors",
+        "game": "fallout4",
+        "modId": "53552",
+        "fileId": 213814,
+        "source": "nexus"
+    },
+    {
+        "name": "Breaking ammo",
+        "game": "fallout4",
+        "modId": "29487",
+        "fileId": 120500,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "47359",
+        "fileId": "47359",
+        "source": "nexus"
+    },
+    {
+        "name": "Buildable Power Armor Frames",
+        "game": "fallout4",
+        "modId": "6698",
+        "fileId": 72719,
+        "source": "nexus"
+    },
+    {
+        "name": "CBBE with Mutilation (Support Bodyslide)",
+        "game": "fallout4",
+        "modId": "11425",
+        "fileId": 45114,
+        "source": "nexus"
+    },
+    {
+        "name": "Classy Chassis Outfits - Foxy Factions",
+        "game": "fallout4",
+        "modId": "35581",
+        "fileId": 184564,
+        "source": "nexus"
+    },
+    {
+        "name": "Classy Chassis Outfits - Vulgar Villains",
+        "game": "fallout4",
+        "modId": "35584",
+        "fileId": 200912,
+        "source": "nexus"
+    },
+    {
+        "name": "Capital Wasteland Raider Pack",
+        "game": "fallout4",
+        "modId": "50007",
+        "fileId": 201225,
+        "source": "nexus"
+    },
+    {
+        "name": "Calendar 2022 - 2077 Vault-Tec",
+        "game": "fallout4",
+        "modId": "56578",
+        "fileId": 223980,
+        "source": "nexus"
+    },
+    {
+        "name": "Carpentry - Cut and create wooden objects (Unsupported)",
+        "game": "fallout4",
+        "modId": "36604",
+        "fileId": 150315,
+        "source": "nexus"
+    },
+    {
+        "name": "Church of Atom Overhaul",
+        "game": "fallout4",
+        "modId": "26173",
+        "fileId": 107177,
+        "source": "nexus"
+    },
+    {
+        "name": "Commonwealth Cuts v2.5.1 Vulpine Race Patch",
+        "game": "fallout4",
+        "modId": "40241",
+        "fileId": 162823,
+        "source": "nexus"
+    },
+    {
+        "name": "Condition Boy",
+        "game": "fallout4",
+        "modId": "56602",
+        "fileId": 223944,
+        "source": "nexus"
+    },
+    {
+        "name": "Conquest - Build New Settlements and Camping",
+        "game": "fallout4",
+        "modId": "12511",
+        "fileId": 61311,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "27479",
+        "fileId": "27479",
+        "source": "nexus"
+    },
+    {
+        "name": "Custom Race Headwear Refits",
+        "game": "fallout4",
+        "modId": "51163",
+        "fileId": 217992,
+        "source": "nexus"
+    },
+    {
+        "name": "DC and West Coast Supermutants",
+        "game": "fallout4",
+        "modId": "49680",
+        "fileId": 200006,
+        "source": "nexus"
+    },
+    {
+        "name": "Diversified Weapon Modifications",
+        "game": "fallout4",
+        "modId": "4585",
+        "fileId": 16910,
+        "source": "nexus"
+    },
+    {
+        "name": "Earlier Pipe Weapon Mods",
+        "game": "fallout4",
+        "modId": "34922",
+        "fileId": 142002,
+        "source": "nexus"
+    },
+    {
+        "name": "Equipment and Crafting Overhaul (ECO)",
+        "game": "fallout4",
+        "modId": "55503",
+        "fileId": 222254,
+        "source": "nexus"
+    },
+    {
+        "name": "Equipment and Crafting Overhaul (ECO)",
+        "game": "fallout4",
+        "modId": "55503",
+        "fileId": 221708,
+        "source": "nexus"
+    },
+    {
+        "name": "Erotic Paintings",
+        "game": "fallout4",
+        "modId": "4064",
+        "fileId": 12770,
+        "source": "nexus"
+    },
+    {
+        "name": "Extended Dialogue Interface",
+        "game": "fallout4",
+        "modId": "27216",
+        "fileId": "27216",
+        "source": "nexus"
+    },
+    {
+        "name": "FO4Edit",
+        "game": "fallout4",
+        "modId": "2737",
+        "fileId": 221103,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "10283",
+        "fileId": "10283",
+        "source": "nexus"
+    },
+    {
+        "name": "Immersive Burning Molotovs and Flamers",
+        "game": "fallout4",
+        "modId": "34084",
+        "fileId": 139274,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "48958",
+        "fileId": "48958",
+        "source": "nexus"
+    },
+    {
+        "name": "FallUI - Inventory and Vault Girl Mod Patch",
+        "game": "fallout4",
+        "modId": "52760",
+        "fileId": 210896,
+        "source": "nexus"
+    },
+    {
+        "name": "Unofficial FallUI Compatibility Patches",
+        "game": "fallout4",
+        "modId": "53101",
+        "fileId": 212152,
+        "source": "nexus"
+    },
+    {
+        "name": "Fallout 1 2 NV Music Replacement for Fallout 4",
+        "game": "fallout4",
+        "modId": "55812",
+        "fileId": 221628,
+        "source": "nexus"
+    },
+    {
+        "name": "FallUI - Item Sorter Mod",
+        "game": "fallout4",
+        "modId": "49656",
+        "fileId": 210424,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "35382",
+        "fileId": "35382",
+        "source": "nexus"
+    },
+    {
+        "name": "More Realistic Fire Behavior",
+        "game": "fallout4",
+        "modId": "30246",
+        "fileId": "30246",
+        "source": "nexus"
+    },
+    {
+        "name": "More Realistic Fire Behavior",
+        "game": "fallout4",
+        "modId": "30246",
+        "fileId": 123624,
+        "source": "nexus"
+    },
+    {
+        "name": "Food Scrap - Get Syringes from Stimpaks and more",
+        "game": "fallout4",
+        "modId": "13514",
+        "fileId": 55296,
+        "source": "nexus"
+    },
+    {
+        "name": "Realistic Adhesive Deluxe",
+        "game": "fallout4",
+        "modId": "31367",
+        "fileId": 127905,
+        "source": "nexus"
+    },
+    {
+        "name": "Gil Elvgren - Pinup Better Pictures v2.0",
+        "game": "fallout4",
+        "modId": "1679",
+        "fileId": 10835,
+        "source": "nexus"
+    },
+    {
+        "name": "Automatron Rebooted",
+        "game": "fallout4",
+        "modId": "44425",
+        "fileId": 184235,
+        "source": "nexus"
+    },
+    {
+        "name": "Gunner Outfit Pack (STANDALONE)",
+        "game": "fallout4",
+        "modId": "43686",
+        "fileId": 224380,
+        "source": "nexus"
+    },
+    {
+        "name": "More Human Raider - Gunner - Triggermen - BoS Soldier - Loot",
+        "game": "fallout4",
+        "modId": "50575",
+        "fileId": 219407,
+        "source": "nexus"
+    },
+    {
+        "name": "NPC Body Meshes and Textures",
+        "game": "fallout4",
+        "modId": "30823",
+        "fileId": 126470,
+        "source": "nexus"
+    },
+    {
+        "name": "Jax's Incremental Save Manager",
+        "game": "fallout4",
+        "modId": "13584",
+        "fileId": 53845,
+        "source": "nexus"
+    },
+    {
+        "name": "Karna's Nude Magazine Backs",
+        "game": "fallout4",
+        "modId": "29328",
+        "fileId": 130850,
+        "source": "nexus"
+    },
+    {
+        "name": "Karna's Trash Redemption",
+        "game": "fallout4",
+        "modId": "29402",
+        "fileId": 120223,
+        "source": "nexus"
+    },
+    {
+        "name": "The Trash Bash",
+        "game": "fallout4",
+        "modId": "56453",
+        "fileId": 223491,
+        "source": "nexus"
+    },
+    {
+        "name": "Nude Magazines in Fallout",
+        "game": "fallout4",
+        "modId": "2606",
+        "fileId": 7893,
+        "source": "nexus"
+    },
+    {
+        "name": "Lexington Interiors",
+        "game": "fallout4",
+        "modId": "19120",
+        "fileId": 83465,
+        "source": "nexus"
+    },
+    {
+        "name": "LooksMenu",
+        "game": "fallout4",
+        "modId": "6",
+        "fileId": 194291,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "4380",
+        "fileId": "4380",
+        "source": "nexus"
+    },
+    {
+        "name": "Loot Vision - Highlight Unlooted Corpses",
+        "game": "fallout4",
+        "modId": "27349",
+        "fileId": "27349",
+        "source": "nexus"
+    },
+    {
+        "name": "Lost World - Immersive Soundtrack Replacer",
+        "game": "fallout4",
+        "modId": "56265",
+        "fileId": 223004,
+        "source": "nexus"
+    },
+    {
+        "name": "Lupines - Wolf Race",
+        "game": "fallout4",
+        "modId": "50529",
+        "fileId": 203073,
+        "source": "nexus"
+    },
+    {
+        "name": "Manufacturing Extended Addon -- Combo-Butcher",
+        "game": "fallout4",
+        "modId": "17392",
+        "fileId": 70514,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "18345",
+        "fileId": "18345",
+        "source": "nexus"
+    },
+    {
+        "name": "Manufacturing Extended expanded",
+        "game": "fallout4",
+        "modId": 18345,
+        "fileId": 98203,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "15429",
+        "fileId": "15429",
+        "source": "nexus"
+    },
+    {
+        "name": "Galen's Realistic Misc Item Weights and Breakdowns",
+        "game": "fallout4",
+        "modId": "13883",
+        "fileId": 55110,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "21497",
+        "fileId": "21497",
+        "source": "nexus"
+    },
+    {
+        "name": "Molotov Crafting Redone",
+        "game": "fallout4",
+        "modId": "49357",
+        "fileId": 198750,
+        "source": "nexus"
+    },
+    {
+        "name": "More Clothes and Textures",
+        "game": "fallout4",
+        "modId": "40315",
+        "fileId": 192498,
+        "source": "nexus"
+    },
+    {
+        "name": "NPCs Travel - MCM Settings Menu",
+        "game": "fallout4",
+        "modId": "56311",
+        "fileId": 223155,
+        "source": "nexus"
+    },
+    {
+        "name": "NUCLEAR Nude",
+        "game": "fallout4",
+        "modId": "1608",
+        "fileId": "1608",
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "30140",
+        "fileId": "30140",
+        "source": "nexus"
+    },
+    {
+        "name": "Photographic Pin-up Paintings",
+        "game": "fallout4",
+        "modId": "2307",
+        "fileId": 6863,
+        "source": "nexus"
+    },
+    {
+        "name": "PhyOp - Overhauled Optimized Textures",
+        "game": "fallout4",
+        "modId": "27038",
+        "fileId": "27038",
+        "source": "nexus"
+    },
+    {
+        "name": "Pin Up Personal Paintings (50)",
+        "game": "fallout4",
+        "modId": "21402",
+        "fileId": 87622,
+        "source": "nexus"
+    },
+    {
+        "name": "Pip-Boy PinUp Sexy Girls by Moltes",
+        "game": "fallout4",
+        "modId": "1388",
+        "fileId": 3864,
+        "source": "nexus"
+    },
+    {
+        "name": "Place Everywhere",
+        "game": "fallout4",
+        "modId": "9424",
+        "fileId": "9424",
+        "source": "nexus"
+    },
+    {
+        "name": "Power Armor to the People (Power Armored Enemies - Legendary Power Armor)",
+        "game": "fallout4",
+        "modId": "50819",
+        "fileId": 219940,
+        "source": "nexus"
+    },
+    {
+        "name": "PrivateProfileRedirector F4 - Faster game start (INI file cacher)",
+        "game": "fallout4",
+        "modId": 33947,
+        "fileId": 204423,
+        "source": "nexus"
+    },
+    {
+        "name": "Raider Overhaul WIP",
+        "game": "fallout4",
+        "modId": "9103",
+        "fileId": "9103",
+        "source": "nexus"
+    },
+    {
+        "name": "Randomized Attachment Project",
+        "game": "fallout4",
+        "modId": "56599",
+        "fileId": 223941,
+        "source": "nexus"
+    },
+    {
+        "name": "Remove Weapon Mods",
+        "game": "fallout4",
+        "modId": "10267",
+        "fileId": 40013,
+        "source": "nexus"
+    },
+    {
+        "name": "Resources Expanded (Base) - More and different scrap items (Not maintained)",
+        "game": "fallout4",
+        "modId": "37501",
+        "fileId": 158377,
+        "source": "nexus"
+    },
+    {
+        "name": "Global Stash (Connect all Workshops and Workbenches) by SKK",
+        "game": "fallout4",
+        "modId": "41511",
+        "fileId": "41511",
+        "source": "nexus"
+    },
+    {
+        "name": "Auto OMOD Stripper from SKK",
+        "game": "fallout4",
+        "modId": "43830",
+        "fileId": 177549,
+        "source": "nexus"
+    },
+    {
+        "name": "Random Encounter Manager by SKK",
+        "game": "fallout4",
+        "modId": "42081",
+        "fileId": 205476,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "5320",
+        "fileId": "5320",
+        "source": "nexus"
+    },
+    {
+        "name": "Scrap Throwables",
+        "game": "fallout4",
+        "modId": "49810",
+        "fileId": 200513,
+        "source": "nexus"
+    },
+    {
+        "name": "Sewing Kit - Be a clothier (Unsupported)",
+        "game": "fallout4",
+        "modId": "36726",
+        "fileId": 149895,
+        "source": "nexus"
+    },
+    {
+        "name": "Simple Clothing Keywords",
+        "game": "fallout4",
+        "modId": "50146",
+        "fileId": 219206,
+        "source": "nexus"
+    },
+    {
+        "name": "Splinterz - Breakable Wooden Doors",
+        "game": "fallout4",
+        "modId": "21521",
+        "fileId": 89621,
+        "source": "nexus"
+    },
+    {
+        "name": "Synth Overhaul - C.A.S.T",
+        "game": "fallout4",
+        "modId": "9525",
+        "fileId": 128981,
+        "source": "nexus"
+    },
+    {
+        "name": "Syringer Rebalanced",
+        "game": "fallout4",
+        "modId": "25672",
+        "fileId": 104840,
+        "source": "nexus"
+    },
+    {
+        "name": "Syringer Weapon Rework - (Correct ESP uploaded) - Mav's Marvelous Mods",
+        "game": "fallout4",
+        "modId": "34248",
+        "fileId": 139365,
+        "source": "nexus"
+    },
+    {
+        "name": "Uncommon Crafting",
+        "game": "fallout4",
+        "modId": "22960",
+        "fileId": 93767,
+        "source": "nexus"
+    },
+    {
+        "name": "MyTweaks - Unlevelled Mods (More Randomised Weapons and Armour)",
+        "game": "fallout4",
+        "modId": "22975",
+        "fileId": 93828,
+        "source": "nexus"
+    },
+    {
+        "name": "Unofficial Fallout 4 Patch",
+        "game": "fallout4",
+        "modId": "4598",
+        "fileId": 209596,
+        "source": "nexus"
+    },
+    {
+        "name": "Updated ICONLIBS2 for DEF_UI",
+        "game": "fallout4",
+        "modId": "13957",
+        "fileId": "13957",
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "14182",
+        "fileId": "14182",
+        "source": "nexus"
+    },
+    {
+        "name": "VIS-G and Not-Scrap Item Tweaks by Vanguard",
+        "game": "fallout4",
+        "modId": "44264",
+        "fileId": 178883,
+        "source": "nexus"
+    },
+    {
+        "name": "Vault Girl Mod - Neo's FOMOD Version",
+        "game": "fallout4",
+        "modId": "38220",
+        "fileId": "38220",
+        "source": "nexus"
+    },
+    {
+        "name": "Vulpine Power Armor Tail Fix",
+        "game": "fallout4",
+        "modId": "42712",
+        "fileId": 173165,
+        "source": "nexus"
+    },
+    {
+        "name": "Vulpine Race NPC Replacer - Base Game and DLC",
+        "game": "fallout4",
+        "modId": "50139",
+        "fileId": 204721,
+        "source": "nexus"
+    },
+    {
+        "name": "Vulpine Race",
+        "game": "fallout4",
+        "modId": "34387",
+        "fileId": 209617,
+        "source": "nexus"
+    },
+    {
+        "name": "Wasteland Workshop - SK Patch",
+        "game": "fallout4",
+        "modId": "12122",
+        "fileId": 48210,
+        "source": "nexus"
+    },
+    {
+        "name": "Weapon Disarm",
+        "game": "fallout4",
+        "modId": "18979",
+        "fileId": "18979",
+        "source": "nexus"
+    },
+    {
+        "name": "The Weapon Mods Mod",
+        "game": "fallout4",
+        "modId": "6707",
+        "fileId": 34778,
+        "source": "nexus"
+    },
+    {
+        "name": "Weapons Framework Beta",
+        "game": "fallout4",
+        "modId": "49318",
+        "fileId": 207470,
+        "source": "nexus"
+    },
+    {
+        "name": "Workshop Framework",
+        "game": "fallout4",
+        "modId": "35004",
+        "fileId": "35004",
+        "source": "nexus"
+    },
+    {
+        "name": "Workshop Plus",
+        "game": "fallout4",
+        "modId": "35005",
+        "fileId": "35005",
+        "source": "nexus"
+    },
+    {
+        "name": "ENB Helper for Fallout 4",
+        "game": "fallout4",
+        "modId": "56566",
+        "fileId": 223845,
+        "source": "nexus"
+    },
+    {
+        "game": "fallout4",
+        "modId": "f4se",
+        "fileId": "f4se",
+        "source": "nexus"
+    },
+    {
+        "name": "Syringer Ammunition Expanded",
+        "game": "fallout4",
+        "modId": "29093",
+        "fileId": 119150,
+        "source": "nexus"
+    },
+    {
+        "name": "xSE PluginPreloader F4",
+        "game": "fallout4",
+        "modId": "33946",
+        "fileId": "33946",
+        "source": "nexus"
+    },
+    {
+        "name": "Caliente's Beautiful Bodies Enhancer -CBBE-",
+        "game": "fallout4",
+        "modId": "15",
+        "fileId": "15",
+        "source": "nexus"
+    },
+    {
+        "name": "Gunner Outfit Extreme Overhaul",
+        "game": "fallout4",
+        "modId": "56719",
+        "fileId": 224387,
+        "source": "nexus"
+    },
+    {
+        "name": "More Gunners",
+        "game": "fallout4",
+        "modId": "53494",
+        "fileId": 213744,
+        "source": "nexus"
+    },
+    {
+        "name": "More Outfit Variations",
+        "game": "fallout4",
+        "modId": "27925",
+        "fileId": 147604,
+        "source": "nexus"
+    },
+    {
+        "name": "Murdering Chainsaw",
+        "game": "fallout4",
+        "modId": "12102",
+        "fileId": 59727,
+        "source": "nexus"
+    },
+    {
+        "name": "DLC Leveled List Integration",
+        "game": "fallout4",
+        "modId": "13868",
+        "fileId": 73701,
+        "source": "nexus"
+    },
+    {
+        "name": "Simple Inventory Improvements",
+        "game": "fallout4",
+        "modId": "1",
+        "fileId": 16999,
+        "source": "nexus"
+    },
+    {
+        "name": "Diversified Weapon Modifications",
+        "game": "fallout4",
+        "modId": "4585",
+        "fileId": 16910,
+        "source": "nexus"
+    },
+    {
+        "name": "Fusion Core Eject Removal",
+        "game": "fallout4",
+        "modId": "8226",
+        "fileId": 30529,
+        "source": "nexus"
+    },
+    {
+        "name": "More Weapon Scrap",
+        "game": "fallout4",
+        "modId": "6699",
+        "fileId": 26901,
+        "source": "nexus"
+    },
+    {
+        "name": "Chain Armor CBBE-Bodyslide",
+        "game": "fallout4",
+        "modId": "7405",
+        "fileId": 26703,
+        "source": "nexus"
+    },
+    {
+        "name": "Standalone Customizable Female Enemy Bodies - CBBE",
+        "game": "fallout4",
+        "modId": "15370",
+        "fileId": 61497,
+        "source": "nexus"
+    },
+    {
+        "name": "Allow to use workbench during combat",
+        "game": "fallout4",
+        "modId": "17020",
+        "fileId": 68121,
+        "source": "nexus"
+    },
+    {
+        "name": "Better Mod Descriptions",
+        "game": "fallout4",
+        "modId": "4760",
+        "fileId": 56523,
+        "source": "nexus"
+    },
+    {
+        "name": "Classic Old School XP Gain Sound - Fallout 4",
+        "game": "fallout4",
+        "modId": "10635",
+        "fileId": 41477,
+        "source": "nexus"
+    },
+    {
+        "name": "Commonwealth Chemistry Expanded",
+        "game": "fallout4",
+        "modId": "2514",
+        "fileId": 46082,
+        "source": "nexus"
+    },
+    {
+        "name": "People are Strangers",
+        "game": "fallout4",
+        "modId": "12488",
+        "fileId": 50120,
+        "source": "nexus"
+    },
+    {
+        "name": "Free Weapon Downgrades",
+        "game": "fallout4",
+        "modId": "2073",
+        "fileId": 72716,
+        "source": "nexus"
+    },
+    {
+        "name": "A Tree Grows In Boston",
+        "game": "fallout4",
+        "modId": "18234",
+        "fileId": 73612,
+        "source": "nexus"
+    },
+    {
+        "name": "Home Despot - Component Inventory in Local and Linked Workshops",
+        "game": "fallout4",
+        "modId": "17596",
+        "fileId": 88236,
+        "source": "nexus"
+    },
+    {
+        "name": "Raider Overhaul WIP",
+        "game": "fallout4",
+        "modId": "9103",
+        "fileId": 84260,
+        "source": "nexus"
+    },
+    {
+        "name": "Companion Status HUD",
+        "game": "fallout4",
+        "modId": "20310",
+        "fileId": 84387,
+        "source": "nexus"
+    },
+    {
+        "name": "Lucky's Interesting Tips",
+        "game": "fallout4",
+        "modId": "5470",
+        "fileId": 54324,
+        "source": "nexus"
+    },
+    {
+        "name": "PrivateProfileRedirector F4 - Faster game start (INI file cacher)",
+        "game": "fallout4",
+        "modId": "33947",
+        "fileId": "33947",
+        "source": "nexus"
+    },
+    {
+        "name": "Anatomically Correct Feral Ghouls",
+        "game": "fallout4",
+        "modId": "37348",
+        "fileId": 151832,
+        "source": "nexus"
+    },
+    {
+        "name": "NPCs Protected Not Essential",
+        "game": "fallout4",
+        "modId": "8812",
+        "fileId": 33796,
+        "source": "nexus"
+    },
+    {
+        "name": "Important NPC Essential Edition",
+        "game": "fallout4",
+        "modId": "45042",
+        "fileId": 181921,
+        "source": "nexus"
+    },
+    {
+        "name": "Icebreaker - Settlements - Settler Dialogue Overhaul",
+        "game": "fallout4",
+        "modId": "25972",
+        "fileId": 117802,
+        "source": "nexus"
+    },
+    {
+        "name": "Mostly Female NPC's",
+        "game": "fallout4",
+        "modId": "4916",
+        "fileId": 18522,
+        "source": "nexus"
+    },
+    {
+        "name": "Named NPC Protection",
+        "game": "fallout4",
+        "modId": "22160",
+        "fileId": 140980,
+        "source": "nexus"
+    },
+    {
+        "name": "Mama Mutie",
+        "game": "fallout4",
+        "modId": "30406",
+        "fileId": 124198,
+        "source": "nexus"
+    },
+    {
+        "name": "More Spawns",
+        "game": "fallout4",
+        "modId": "4253",
+        "fileId": 42701,
+        "source": "nexus"
+    },
+    {
+        "name": "Fallout 4 Configuration Tool - By Bilago",
+        "game": "fallout4",
+        "modId": "102",
+        "fileId": 71172,
+        "source": "nexus"
+    },
+    {
+        "name": "Diversified Weapon Modifications",
+        "game": "fallout4",
+        "modId": "4585",
+        "fileId": 16910,
+        "source": "nexus"
+    },
+    {
+        "name": "Take Your Cores",
+        "game": "fallout4",
+        "modId": "14773",
+        "fileId": 58788,
+        "source": "nexus"
+    }
+]

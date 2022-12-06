@@ -1,0 +1,10 @@
+{
+  "name": "Game: Stardew Valley",
+  "author": "Pathoschild",
+  "version": "0.2.7",
+  "description": "Support for Stardew Valley",
+  "type": "game",
+  "path": "C:\\Users\\dator\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Stardew Valley v0.2.7.7z",
+  "bundled": false,
+  "id": "game-stardewvalley"
+}

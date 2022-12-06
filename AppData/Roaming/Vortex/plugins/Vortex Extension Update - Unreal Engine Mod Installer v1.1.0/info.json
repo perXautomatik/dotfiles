@@ -1,0 +1,10 @@
+{
+  "name": "Unreal Engine Mod Installer",
+  "author": "Pickysaurus",
+  "version": "1.1.0",
+  "description": "A generic installer for Unreal Engine games. Configurable using the details pane of your game extension.",
+  "type": null,
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Unreal Engine Mod Installer v1.1.0.7z",
+  "bundled": false,
+  "modId": 153
+}

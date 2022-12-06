@@ -1,0 +1,10 @@
+{
+  "name": "EasyNPC Launcher",
+  "author": "focustense",
+  "version": "0.1.7",
+  "description": "Vortex support for the EasyNPC overhauling tool for Skyrim Special Edition. Provides mod information to the tool so that face previews and build checks work correctly.",
+  "type": null,
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - EasyNPC Launcher v0.1.7.7z",
+  "bundled": false,
+  "modId": 265
+}

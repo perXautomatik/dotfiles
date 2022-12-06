@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<installLog fileVersion="0.5.0.0">
+  <modList>
+    <mod path="Dummy Mod: ORIGINAL_VALUE" key="yoojl1w5">
+      <version machineVersion="0.0"></version>
+      <name>ORIGINAL_VALUE</name>
+      <installDate>2018-02-10 21:05:01</installDate>
+    </mod>
+  </modList>
+  <dataFiles />
+  <iniEdits />
+  <gameSpecificEdits />
+</installLog>

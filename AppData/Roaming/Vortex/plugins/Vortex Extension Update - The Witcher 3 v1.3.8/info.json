@@ -1,0 +1,10 @@
+{
+  "name": "Game: The Witcher 3",
+  "author": "Black Tree Gaming Ltd.",
+  "version": "1.3.8",
+  "description": "Support for The Witcher 3",
+  "type": "game",
+  "path": "C:\\Users\\dator\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - The Witcher 3 v1.3.8.7z",
+  "bundled": false,
+  "id": "game-witcher3"
+}
