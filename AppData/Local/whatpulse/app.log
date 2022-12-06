@@ -459,3 +459,8 @@
 06-12-2022 02:17:44.727  INFO Successfully uploaded the button heatmap. 
 06-12-2022 02:17:44.820  INFO Successfully uploaded the button apps heatmap. 
 06-12-2022 02:17:44.913  INFO Successfully uploaded the keycombination apps heatmap. 
+06-12-2022 02:31:06.520  INFO Started download of Network Port Description Database.. 
+06-12-2022 02:31:11.191  INFO Writing downloaded Network Port Description Database into:  "C:/Users/chris/AppData/Local/WhatPulse/network-ports.csv" 
+06-12-2022 02:31:11.193  INFO Successfully downlaoded updated network port descriptions. 
+06-12-2022 02:31:11.194  INFO Finished downloading Network Port Description database! 
+06-12-2022 02:31:11.238  INFO Read file 'network-ports.csv' for port (TCP/UDP) translations. Read 5756 lines, added 5586 tcp and 5453 udp records. 

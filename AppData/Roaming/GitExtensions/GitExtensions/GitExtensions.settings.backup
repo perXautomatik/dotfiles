@@ -2,6 +2,14 @@
 <dictionary>
   <item>
     <key>
+      <string>autostash</string>
+    </key>
+    <value>
+      <string>false</string>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>AvailableEncodings</string>
     </key>
     <value>
@@ -146,6 +154,14 @@
   </item>
   <item>
     <key>
+      <string>FormPullAction</string>
+    </key>
+    <value>
+      <string>Rebase</string>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>FormSubmodules.splitContainer1_Distance</string>
     </key>
     <value>
@@ -221,14 +237,7 @@
       <string>lastCommitMessage</string>
     </key>
     <value>
-      <string>PrincesConquestFileFormat
-
-Merge branch 'PortableWork' of U:/PortableApplauncher/PortableApps/2. fileOrganization/PortableApps/Beyond Compare 4 into PortableWork
-
-# Conflicts:
-#	BCState.xml
-
-</string>
+      <string>etc</string>
     </value>
   </item>
   <item>
