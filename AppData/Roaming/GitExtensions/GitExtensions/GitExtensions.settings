@@ -2,6 +2,14 @@
 <dictionary>
   <item>
     <key>
+      <string>autostash</string>
+    </key>
+    <value>
+      <string>false</string>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>AvailableEncodings</string>
     </key>
     <value>
@@ -61,7 +69,7 @@
       <string>CommitDialog.splitMain_Distance</string>
     </key>
     <value>
-      <string>397</string>
+      <string>403</string>
     </value>
   </item>
   <item>
@@ -146,6 +154,14 @@
   </item>
   <item>
     <key>
+      <string>FormPullAction</string>
+    </key>
+    <value>
+      <string>Rebase</string>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>FormSubmodules.splitContainer1_Distance</string>
     </key>
     <value>
@@ -221,7 +237,7 @@
       <string>lastCommitMessage</string>
     </key>
     <value>
-      <string>ignore improved</string>
+      <string>etc</string>
     </value>
   </item>
   <item>
