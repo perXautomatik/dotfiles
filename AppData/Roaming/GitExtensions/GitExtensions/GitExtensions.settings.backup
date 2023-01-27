@@ -69,7 +69,7 @@
       <string>CommitDialog.splitMain_Distance</string>
     </key>
     <value>
-      <string>397</string>
+      <string>403</string>
     </value>
   </item>
   <item>
@@ -154,10 +154,210 @@
   </item>
   <item>
     <key>
+      <string>FormBrowse.DiffSplitContainer_Distance</string>
+    </key>
+    <value>
+      <string>300</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.DiffSplitContainer_Dpi</string>
+    </key>
+    <value>
+      <string>96</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.DiffSplitContainer_FontSize</string>
+    </key>
+    <value>
+      <string>9</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.DiffSplitContainer_Panel1Collapsed</string>
+    </key>
+    <value>
+      <string>false</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.DiffSplitContainer_Size</string>
+    </key>
+    <value>
+      <string>643</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.FileTreeSplitContainer_Distance</string>
+    </key>
+    <value>
+      <string>300</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.FileTreeSplitContainer_Dpi</string>
+    </key>
+    <value>
+      <string>96</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.FileTreeSplitContainer_FontSize</string>
+    </key>
+    <value>
+      <string>9</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.FileTreeSplitContainer_Panel1Collapsed</string>
+    </key>
+    <value>
+      <string>false</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.FileTreeSplitContainer_Size</string>
+    </key>
+    <value>
+      <string>918</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.MainSplitContainer_Distance</string>
+    </key>
+    <value>
+      <string>260</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.MainSplitContainer_Dpi</string>
+    </key>
+    <value>
+      <string>96</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.MainSplitContainer_FontSize</string>
+    </key>
+    <value>
+      <string>9</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.MainSplitContainer_Panel1Collapsed</string>
+    </key>
+    <value>
+      <string>false</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.MainSplitContainer_Size</string>
+    </key>
+    <value>
+      <string>1186</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RevisionsSplitContainer_Distance</string>
+    </key>
+    <value>
+      <string>343</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RevisionsSplitContainer_Dpi</string>
+    </key>
+    <value>
+      <string>96</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RevisionsSplitContainer_FontSize</string>
+    </key>
+    <value>
+      <string>9</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RevisionsSplitContainer_Panel1Collapsed</string>
+    </key>
+    <value>
+      <string>false</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RevisionsSplitContainer_Size</string>
+    </key>
+    <value>
+      <string>920</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RightSplitContainer_Distance</string>
+    </key>
+    <value>
+      <string>165</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RightSplitContainer_Dpi</string>
+    </key>
+    <value>
+      <string>96</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RightSplitContainer_FontSize</string>
+    </key>
+    <value>
+      <string>9</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RightSplitContainer_Panel1Collapsed</string>
+    </key>
+    <value>
+      <string>false</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>FormBrowse.RightSplitContainer_Size</string>
+    </key>
+    <value>
+      <string>400</string>
+    </value>
+  </item>
+  <item>
+    <key>
       <string>FormPullAction</string>
     </key>
     <value>
-      <string>Rebase</string>
+      <string>Merge</string>
     </value>
   </item>
   <item>
@@ -210,6 +410,10 @@
   &lt;Repositories&gt;
     &lt;Repository&gt;
       &lt;Anchor&gt;None&lt;/Anchor&gt;
+      &lt;Path&gt;D:\ToGit\scoopbucket-1\&lt;/Path&gt;
+    &lt;/Repository&gt;
+    &lt;Repository&gt;
+      &lt;Anchor&gt;None&lt;/Anchor&gt;
       &lt;Path&gt;C:\Users\chris\AppData\&lt;/Path&gt;
     &lt;/Repository&gt;
     &lt;Repository&gt;
@@ -237,7 +441,7 @@
       <string>lastCommitMessage</string>
     </key>
     <value>
-      <string>etc</string>
+      <string>install script</string>
     </value>
   </item>
   <item>
@@ -245,7 +449,7 @@
       <string>LastUpdateCheck</string>
     </key>
     <value>
-      <string>2022/12/02</string>
+      <string>2023/1/25</string>
     </value>
   </item>
   <item>
@@ -253,7 +457,7 @@
       <string>RecentWorkingDir</string>
     </key>
     <value>
-      <string>C:\Users\chris\AppData\</string>
+      <string>D:\ToGit\scoopbucket-1\</string>
     </value>
   </item>
   <item>
@@ -302,6 +506,14 @@
     </key>
     <value>
       <string />
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>showReflogReferences</string>
+    </key>
+    <value>
+      <string>true</string>
     </value>
   </item>
   <item>
