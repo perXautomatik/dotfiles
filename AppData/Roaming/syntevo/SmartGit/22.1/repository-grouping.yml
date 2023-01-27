@@ -1,0 +1,8 @@
+structure:
+- name: C:\Steam
+  children:
+  - {name: steamapps, path: 'C:\Steam\steamapps'}
+- name: C:\Users
+  children:
+  - {name: chris, path: 'C:\Users\chris'}
+recentlyUsed: ['C:\Steam\steamapps', 'C:\Users\chris']

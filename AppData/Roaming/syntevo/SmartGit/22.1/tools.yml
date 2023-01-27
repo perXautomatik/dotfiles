@@ -1,0 +1,42 @@
+tools:
+- id: openFile
+  name: Open File
+  fileStarter: {command: '${smartGitDir}\bin\open.exe', parameters: '${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: true
+- id: openInExplorer
+  name: Open in Explorer
+  fileStarter: {command: explorer.exe, parameters: '/e, ${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: false
+- id: openInCmd
+  name: Open in Terminal
+  fileStarter: {command: cmd.exe, parameters: '/c start pushd ${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: false
+- id: revealInExplorer
+  name: Reveal in Explorer
+  fileStarter: {command: explorer.exe, parameters: '/select, ${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+- id: editInNotepad
+  name: Edit
+  fileStarter: {command: notepad.exe, parameters: '${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: true
+- id: openGitShell
+  name: Open in Git-Shell
+  fileStarter: {command: '${gitDir}\git-bash.exe', parameters: '--cd=${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: false

@@ -1,0 +1,5 @@
+[submodule "AppData"]
+url = https://github.com/perXautomatik/AppData
+
+[submodule "AHK"]
+url = https://github.com/perXautomatik/AHK-EverydayScripts

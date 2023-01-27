@@ -1,0 +1,32 @@
+16.01.2023 15:38:55:474   [p\t: 13044\14076] ******************************* Start ********************************
+16.01.2023 15:38:55:475   [p\t: 13044\14076] LockHunter 3.4.3.146, Build date: 24.06.2021, file time: 24.06.2021 12:13 /  Professional (10.0) (Build 19044) [Win64 on X64]
+16.01.2023 15:38:55:475   [p\t: 13044\14076] Command line is: "C:\Program Files\LockHunter\LockHunter.exe Z:\Downloads\Untitled spreadsheet - Sheet1.csv"
+16.01.2023 15:38:55:476   [p\t: 13044\14076] The program doesn't have enough rights. Elevating it
+16.01.2023 15:38:55:477   [p\t: 13044\14076] Elevating with the following params: "Z:\Downloads\Untitled spreadsheet - Sheet1.csv"=LHElevatedJ8909KjUkoKUj_2=
+16.01.2023 15:38:57:652   [p\t: 13044\14076] Elevation success!
+16.01.2023 15:38:57:653   [p\t: 13044\14076] ******************************** Stop ********************************
+16.01.2023 15:38:57:695   [p\t: 15280\1264] ******************************* Start ********************************
+16.01.2023 15:38:57:697   [p\t: 15280\1264] LockHunter 3.4.3.146, Build date: 24.06.2021, file time: 24.06.2021 12:13 /  Professional (10.0) (Build 19044) [Win64 on X64]
+16.01.2023 15:38:57:697   [p\t: 15280\1264] Command line is: "C:\Program Files\LockHunter\LockHunter.exe Z:\Downloads\Untitled spreadsheet - Sheet1.csv=LHElevatedJ8909KjUkoKUj_2="
+16.01.2023 15:38:57:698   [p\t: 15280\1264] Running the program normal way
+16.01.2023 15:38:57:780   [p\t: 15280\1264] Actual DPI: 96 dpi, design DPI: 96
+16.01.2023 15:38:57:781   [p\t: 15280\1264] MainForm create is called
+16.01.2023 15:38:57:781   [p\t: 15280\1264] DeleteUnloadedShellDllFiles successfully called
+16.01.2023 15:38:57:782   [p\t: 15280\1264] Version checker is initialized
+16.01.2023 15:38:57:782   [p\t: 15280\1264] Some more initialization
+16.01.2023 15:38:57:783   [p\t: 15280\1264] Assigning the icon
+16.01.2023 15:38:57:785   [p\t: 15280\1264] Positioning main form is called
+16.01.2023 15:38:57:785   [p\t: 15280\1264] GUI settings are loaded
+16.01.2023 15:38:57:809   [p\t: 15280\1264] FormActivate is called
+16.01.2023 15:38:57:895   [p\t: 15280\1264] Refresh execute
+16.01.2023 15:38:57:952   [p\t: 15280\5152] The driver was installed successfully!
+16.01.2023 15:38:57:952   [p\t: 15280\5152] The driver has been loaded successfully!!!
+16.01.2023 15:38:58:768   [p\t: 15280\5152] The driver has been unloaded successfully
+16.01.2023 15:38:58:795   [p\t: 15280\1264] The command line is processed
+16.01.2023 15:38:58:796   [p\t: 15280\1264] Some more initialization
+16.01.2023 15:38:58:796   [p\t: 15280\1264] Version is checked
+16.01.2023 15:38:58:823   [p\t: 15280\1264] Refresh execute
+16.01.2023 15:38:58:843   [p\t: 15280\15760] The driver was installed successfully!
+16.01.2023 15:38:58:844   [p\t: 15280\15760] The driver has been loaded successfully!!!
+16.01.2023 15:38:59:662   [p\t: 15280\15760] The driver has been unloaded successfully
+16.01.2023 15:39:13:324   [p\t: 15280\1264] ******************************** Stop ********************************

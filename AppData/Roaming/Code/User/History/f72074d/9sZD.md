@@ -1,0 +1,4 @@
+ditto
+everything
+pwsh
+bcompare

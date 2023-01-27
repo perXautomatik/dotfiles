@@ -1,0 +1,14 @@
+gitRootSettingsSet:
+  rootC:\Steam\steamapps:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [few new manifests]
+    journal: {}
+  roots: ['C:\Steam\steamapps']
+pushMultiRoot: {}

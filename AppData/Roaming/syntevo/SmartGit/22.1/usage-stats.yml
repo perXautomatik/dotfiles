@@ -1,0 +1,25 @@
+header: {started: 1671318064822, uid: en4ssg7d23, licenseType: evaluation, build: 19231,
+  os: windows+10, osv: '10.0'}
+stats:
+  started: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  system.os: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  system.os.name.windows+10: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  system.os.version.windows+10/10.0: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  system.java.version.17.0.2: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  i18n.locale.<null>: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  window.wt: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  repo.opens.wt: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  repo.opens.wt.files.0-1000: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  repo.opens.wt.submodules.0: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  repo.opens.wt.config: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  repo.opens.wt.config.ignoreCase.true: {invocations: 1, invocationLast: 20221218,
+    invocationDays: 1}
+  repo.opens.wt.config.lfsEnabled.true: {invocations: 1, invocationLast: 20221218,
+    invocationDays: 1}
+  repo.opens.wt.config.evaluateLfsState.true: {invocations: 1, invocationLast: 20221218,
+    invocationDays: 1}
+  repo.opens.wt.config.actuallyEvaluateLfsState.true: {invocations: 1, invocationLast: 20221218,
+    invocationDays: 1}
+  toolbar.main.action.commit: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  action.commit: {invocations: 1, invocationLast: 20221218, invocationDays: 1}
+  action.remoteFetch: {invocations: 1, invocationLast: 20221218, invocationDays: 1}

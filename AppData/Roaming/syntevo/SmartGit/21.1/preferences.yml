@@ -1,0 +1,95 @@
+actions:
+  cleanup: {}
+  commit: {}
+  compare:
+    fileComparators:
+    - filePattern: '*'
+      compareType: 0
+      externalFileCompare: {}
+  conflictSolver:
+    conflictSolvers:
+    - filePattern: '*'
+      useExternal: false
+      externalTool: {}
+  stash: {}
+  initCommitMessage: initial commit
+logSettings:
+  filterConfiguration: {}
+comparePreviewSettings: {}
+dateFormat: {}
+defaultViewSettings:
+  compareSettings:
+    textSettings: {whitespaces: 0}
+git:
+  maxCount: 3
+  alternatives: []
+ssh: {}
+deepGit2: {}
+globalTextComponentSettings:
+  font: {}
+  actions: {}
+  syntaxHighlightingSettings:
+    entries:
+    - {language: ANTLR4, pattern: '*.g4'}
+    - {language: Basic, pattern: '*.basic, *.cbm, *.vb, *.vbs'}
+    - {language: C#, pattern: '*.cs'}
+    - {language: C(++), pattern: '*.c, *.cc, *.cpp, *.cxx, *.cyc, *.h, *.ino'}
+    - {language: CMake, pattern: '*.cmake'}
+    - {language: CSS, pattern: '*.css, *.css-kw, *.css-str'}
+    - {language: Clojure, pattern: '*.clj'}
+    - {language: Cmd, pattern: '*.bat, *.cmd'}
+    - {language: Dart, pattern: '*.dart'}
+    - {language: Embedded Ruby Template, pattern: '*.erb'}
+    - {language: Go, pattern: '*.go'}
+    - {language: HTML, pattern: '*.htm, *.html, *.xhtml'}
+    - {language: InnoSetup, pattern: '*.iss'}
+    - {language: JSON, pattern: '*.json'}
+    - {language: Java, pattern: '*.java'}
+    - {language: JavaScript/TypeScript, pattern: '*.javascript, *.js, *.ts'}
+    - {language: Kotlin, pattern: '*.kt'}
+    - {language: Mumps, pattern: '*.mumps'}
+    - {language: Nim, pattern: '*.nim'}
+    - {language: Objective-C, pattern: '*.m'}
+    - {language: PHP, pattern: '*.php, *.php3, *.php4, *.php5, *.phps, *.phtml'}
+    - {language: Pascal, pattern: '*.pas, *.pascal'}
+    - {language: Perl, pattern: '*.perl, *.pl, *.pm'}
+    - {language: Properties, pattern: '*.properties'}
+    - {language: Python, pattern: '*.cv, *.py, *.python, *.pyw'}
+    - {language: Ruby, pattern: '*.rb, *.ruby'}
+    - {language: Rust, pattern: '*.rc, *.rs, *.rust'}
+    - {language: SQL, pattern: '*.sql'}
+    - {language: Scala, pattern: '*.scala'}
+    - {language: Shell Script, pattern: '*.bash, *.bsh, *.csh, *.sh'}
+    - {language: Swift, pattern: '*.swift'}
+    - {language: V, pattern: '*.v'}
+    - {language: VHDL '93, pattern: '*.vhd, *.vhdl'}
+    - {language: XML, pattern: '*.csproj, *.mxml, *.storyboard, *.xib, *.xml'}
+    - {language: Yaml, pattern: '*.yaml, *.yml'}
+  colors.light: {color-annotation: 11564032, color-attrib-name: 255, color-attrib-value: 32768,
+    color-comment: 8421504, color-pragma: 8547840, color-invalid: 16727871, color-keyword: 32768,
+    color-literal: 255, color-plain-text: 0, color-punctuation: 16721920, color-identifier: 0,
+    color-string: 12583104, color-tag: 128, color-type: 4227200}
+  colors.dark: {color-annotation: 13092749, color-attrib-name: 9291719, color-attrib-value: 12558303,
+    color-comment: 8421504, color-pragma: 13876905, color-invalid: 16744319, color-keyword: 10733475,
+    color-literal: 11184853, color-plain-text: 12566463, color-punctuation: 12561045,
+    color-identifier: 12632256, color-string: 14002901, color-tag: 10274701, color-type: 11513807}
+  colors.useDark: false
+listx: {}
+project: {}
+uiSettings: {}
+vcsRecords: {}
+updateCheck: {}
+updateCheckDg: {}
+proxy: {}
+spellCheck:
+  dictionaries:
+  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\Program
+      Files\SmartGit\dictionaries\en_US.dic'}
+  deleted: false
+  activeDictionary: 0
+lastUsedVersion: '21.1'
+firstUsedTime: 1671317825874
+tempDirs: ['C:\Users\chris\AppData\Local\Temp\smartgit8780956890910081628', 'C:\Users\chris\AppData\Local\Temp\e4j274E.tmp_dir1671317819']
+warnForMissingMasterPassword: false
+sendStacktraces2: true
+sendUsageStats: true

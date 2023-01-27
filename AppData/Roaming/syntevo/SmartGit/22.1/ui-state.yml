@@ -1,0 +1,21 @@
+bounds:
+- {key: project, x: 171, y: 35, width: 1024, height: 621}
+- {key: welcome}
+- {key: git.commit, width: 630, height: 550}
+- {key: output}
+conflictSolverFrame: {}
+indexEditorFrame: {}
+columns:
+  project.files.git: {}
+  project.files.git.wt: {}
+  project.files.git.index: {}
+gitViewFileFilter: {}
+deepGitUiConfiguration: {}
+confirmations: {}
+repositoriesToReopen: []
+project.files.git.separateWtIndex: false
+gitProjectLayout.main: (([+2x3:directories ][+1x2:branches ])(([+7x2:files ][-3x1:message
+  ])[+10x2:changes ]([+3x1:outgoing ][-3x1:output ])))
+log.wtIndex.onDemand: true
+lastRepositoryPath: C:\Steam\steamapps
+commit.expandOptions: false
