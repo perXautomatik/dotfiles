@@ -1,0 +1,10 @@
+{
+  "name": "xEdit Cleaning Extension",
+  "author": "Pickysaurus",
+  "version": "1.0.12",
+  "description": "A useful extension for Vortex which allows you to use xEdit's \"Quick Auto Clean\" function on any GameBryo plugins in your load order.",
+  "type": null,
+  "path": "C:\\Users\\chris\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - xEdit Cleaning Extension v1.0.12.7z",
+  "bundled": false,
+  "modId": 61
+}
