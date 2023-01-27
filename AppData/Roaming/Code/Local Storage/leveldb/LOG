@@ -1,2 +1,3 @@
-2022/12/03-07:23:39.337 67bc Creating DB C:\Users\chris\AppData\Roaming\Code\Local Storage\leveldb since it was missing.
-2022/12/03-07:23:39.352 67bc Reusing MANIFEST C:\Users\chris\AppData\Roaming\Code\Local Storage\leveldb/MANIFEST-000001
+2023/01/25-13:15:12.541 299c Reusing MANIFEST C:\Users\chris\AppData\Roaming\Code\Local Storage\leveldb/MANIFEST-000001
+2023/01/25-13:15:12.542 299c Recovering log #3
+2023/01/25-13:15:12.545 299c Reusing old log C:\Users\chris\AppData\Roaming\Code\Local Storage\leveldb/000003.log 
