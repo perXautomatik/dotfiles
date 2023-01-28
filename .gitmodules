@@ -1,3 +1,5 @@
+[submodule ".DataGrip2019.3"]
+	url = https://github.com/perXautomatik/DatagripSettings.git
 [submodule "Local/LOOT/FalloutNV"]
 	branch = --
 	path = Local/LOOT/FalloutNV
@@ -36,6 +38,9 @@
 [submodule "Roaming/Opera Software/Opera GX Stable/_side_profiles"]
 	branch = --
 	path = Roaming/Opera Software/Opera GX Stable/_side_profiles
+[submodule "Roaming/Scooter Software/Beond Compare 4"]
+	path = Roaming/Scooter Software/Beond Compare 4
+	url = https://github.com/perXautomatik/BeondCompare4.git
 [submodule "Roaming/Scooter Software/Beyond Compare 4"]
 	path = Roaming/Scooter Software/Beyond Compare 4
 	url = https://github.com/perXautomatik/BeondCompare4.git
