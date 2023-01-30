@@ -14,7 +14,7 @@ actions:
   stash: {}
 logSettings:
   filterConfiguration: {}
-comparePreviewSettings: {selectCompareTypeAutomatically: true, compareType: working-tree-vs-index}
+comparePreviewSettings: {selectCompareTypeAutomatically: true}
 dateFormat: {}
 defaultViewSettings:
   compareSettings:
@@ -80,8 +80,8 @@ globalTextComponentSettings:
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt}
 uiSettings: {}
-vcsRecords: {lastGitUsage: 1677082334595}
-updateCheck: {prevCheckTime: 1677077712000, checkedBuild: 19259}
+vcsRecords: {lastGitUsage: 1675086427678}
+updateCheck: {prevCheckTime: 1675070256283, checkedBuild: 19255}
 updateCheckDg: {}
 proxy: {}
 spellCheck:
@@ -92,7 +92,7 @@ spellCheck:
   activeDictionary: 0
 lastUsedVersion: '22.1'
 firstUsedTime: 1671317825874
-tempDirs: ['C:\Users\chris\AppData\Local\Temp\smartgit4855630793893333639', 'C:\Users\chris\AppData\Local\Temp\e4jF9C4.tmp_dir1677081899']
+tempDirs: ['C:\Users\chris\AppData\Local\Temp\smartgit10504530931269191372', 'C:\Users\chris\AppData\Local\Temp\e4j25F2.tmp_dir1675070231']
 warnForMissingMasterPassword: false
 sendStacktraces2: true
 sendUsageStats: true
