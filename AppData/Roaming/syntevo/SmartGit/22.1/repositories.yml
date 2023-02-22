@@ -11,29 +11,10 @@ gitRootSettingsSet:
     commitNotes:
       commitNotesHistory: [manifest modifications, few new manifests]
     journal: {}
-  roots: ['B:\ToGit\Projectfolder\VisualStudio\213c939651e0bef7612b2f910909a21d\WPFSample',
-    ~, ~\source\repos\AutoLotConsoleApp, ~\AppData, ~\AppData\Roaming\Microsoft\Windows\PowerShell,
-    'B:\Users\chris', 'B:\ToGit\Vortex', 'B:\ToGit\Vortex\fallout3\masterlist', 'B:\ToGit\Vortex\fallout4\masterlist',
-    'B:\ToGit\Vortex\falloutnv\masterlist', ~\AppData\Roaming\Vortex, 'B:\ToGit',
-    'B:\ToGit\scoopbucket-presist', 'B:\ToGit\scoopbucket-presist\AHK', 'B:\ToGit\scoopbucket-presist\AdvancedRenamer',
-    'B:\ToGit\scoopbucket-presist\AppData', 'B:\ToGit\scoopbucket-presist\BeondCompare4',
-    'B:\ToGit\scoopbucket-presist\Cherrytree', 'B:\ToGit\scoopbucket-presist\Datagrip',
-    'B:\ToGit\scoopbucket-presist\Ditto', 'B:\ToGit\scoopbucket-presist\Everything',
-    'B:\ToGit\scoopbucket-presist\Git', 'B:\ToGit\scoopbucket-presist\OtherVersionControlledText',
-    'B:\ToGit\scoopbucket-presist\PortableProgramSuit', 'B:\ToGit\scoopbucket-presist\PowerShellCmdHist',
-    'B:\ToGit\scoopbucket-presist\Powershell', 'B:\ToGit\scoopbucket-presist\portableAppsPlatform',
-    'B:\ToGit\scoopbucket-presist\steamapps', 'B:\ToGit\scoopbucket-presist\xEditScripts',
-    'B:\ToGit\CSharpVisualStudio\repos\Wpf-Upgift 1\WpfApp1', 'B:\ToGit\scoopbucket-1',
-    'B:\ToGit\projectFolderBare', 'B:\ToGit\Projectfolder', 'B:\ToGit\Projectfolder\VisualStudio\8691414\WpfApp1',
-    'B:\ToGit\Projectfolder\VisualStudio\borås\upgift1', 'B:\ToGit\Projectfolder\SparseCheckout\test-git-partial-clone-big-small',
-    'B:\ToGit\Projectfolder\ps1\CsharpI', 'B:\ToGit\Projectfolder\ps1\git\add_submodule',
-    'B:\ToGit\Projectfolder\VisualStudio\7327483', 'B:\ToGit\Projectfolder\VisualStudio\3714794',
-    'B:\ToGit\Projectfolder\VisualStudio\213c939651e0bef7612b2f910909a21d', 'B:\ToGit\Projectfolder\VisualStudio',
-    'B:\ToGit\chris', 'B:\ToGit\chris\gitconfig', 'B:\Users\chris\AppData', ~\Documents,
-    ~\gitconfig, ~\source\repos\WPF-Samples, ~\source\repos\WindowsFormsControlLibrary1,
-    ~\source\repos\upg11, ~\source\repos\karlstad3, ~\source\repos\DataBindingDemoSparse,
-    ~\source\repos\DataBindingDemo, ~\source\repos\Borås2-DatabaserExempel, ~\source\repos\Boras2-DatabaserExempel,
-    ~\OneDrive\Documents, ~\AppData\Roaming\Scooter Software\Beyond Compare 4, ~\AppData\Roaming\Everything]
+  roots: [~\AppData, ~\AppData\Roaming\Everything, ~\AppData\Roaming\Microsoft\Windows\PowerShell,
+    ~\AppData\Roaming\Scooter Software\Beyond Compare 4, ~\AppData\Roaming\Vortex,
+    ~\AppData\Roaming\Vortex\fallout3\masterlist, ~\AppData\Roaming\Vortex\fallout4\masterlist,
+    ~\AppData\Roaming\Vortex\falloutnv\masterlist]
   rootD:\ToGit\scoopbucket-1:
     databaseCleanup: {}
     log:
@@ -78,7 +59,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [submodule, etc, FactorioSaves, unignored, messing bout
+      commitNotesHistory: [etc, submodule, FactorioSaves, unignored, messing bout
           gitignore for itch, itch ignore pattern, itch Openshell, settings, saves]
     journal: {}
   rootC:\Users\chris\AppData\Roaming\Scooter Software\Beyond Compare 4:
@@ -442,7 +423,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [initial]
+      commitNotesHistory: [ryv, initial]
     journal: {}
   rootB:\ToGit\scoopbucket-presist:
     databaseCleanup: {}
@@ -653,7 +634,8 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [ps1, very raw, etc]
     journal: {}
   rootB:\ToGit\Projectfolder\VisualStudio\8691414\WpfApp1:
     databaseCleanup: {}
@@ -693,7 +675,8 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [etc]
     journal: {}
   rootB:\ToGit\Projectfolder\ps1\git\add_submodule:
     databaseCleanup: {}
@@ -897,5 +880,28 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory: [current loppy state, initial]
+    journal: {}
+  rootC:\Users\chris\source\repos:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [additions, sudmodules]
+      commitNotes: etc
+    journal: {}
+  rootB:\ToGit\chris\AppData:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [etc]
     journal: {}
 pushMultiRoot: {}

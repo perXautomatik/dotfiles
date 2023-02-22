@@ -80,8 +80,8 @@ globalTextComponentSettings:
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt}
 uiSettings: {}
-vcsRecords: {lastGitUsage: 1677075699063}
-updateCheck: {prevCheckTime: 1676909117092, checkedBuild: 19255}
+vcsRecords: {lastGitUsage: 1677086732355}
+updateCheck: {prevCheckTime: 1677077712000, checkedBuild: 19259}
 updateCheckDg: {}
 proxy: {}
 spellCheck:
@@ -92,7 +92,7 @@ spellCheck:
   activeDictionary: 0
 lastUsedVersion: '22.1'
 firstUsedTime: 1671317825874
-tempDirs: ['C:\Users\chris\AppData\Local\Temp\smartgit10031554799076387356', 'C:\Users\chris\AppData\Local\Temp\e4j189C.tmp_dir1676822710']
+tempDirs: ['C:\Users\chris\AppData\Local\Temp\smartgit10504143111393947759', 'C:\Users\chris\AppData\Local\Temp\e4j8F1F.tmp_dir1677086460']
 warnForMissingMasterPassword: false
 sendStacktraces2: true
 sendUsageStats: true

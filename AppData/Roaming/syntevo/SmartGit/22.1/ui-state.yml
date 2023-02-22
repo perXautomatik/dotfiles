@@ -1,36 +1,22 @@
 bounds:
-- {key: project, x: 231, y: 208, width: 976, height: 621, state: 1}
+- {key: project, x: 225, y: 42, width: 978, height: 640, state: 1}
 - {key: welcome}
 - {key: git.commit, width: 1051, height: 688, x: 86, y: 19}
 - {key: output}
 - {key: log, x: 62, y: 116, width: 978, height: 652, state: 1}
 - {key: git.stage, width: 500, height: 309}
-- {key: compare, x: 225, y: 42, width: 978, height: 640}
+- {key: compare, x: 205, y: 28, width: 978, height: 640}
 - {key: git.discard, width: 500, height: 309}
 - {key: git.ignore.file}
 - {key: rename}
+- {key: conflictSolver, x: 225, y: 42, width: 978, height: 640}
+- {key: git.stashSave, width: 500, height: 309}
 conflictSolverFrame: {}
 indexEditorFrame: {}
 columns:
   project.files.git:
-    columnNames: "Name\tState\tRelative Directory\tIndex State\tRelative Path\tExt.\t\
-      LFS\tLast Changed On\tRenamed From\tSize\tWorking Tree State"
-    visibleColumnNames: "Index State\tName\tRelative Directory\tRelative Path\tState"
-    columnWidths:
-    - {id: Name, width: 200, width2x: 0}
-    - {id: State, width: 75, width2x: 0}
-    - {id: Relative Directory, width: 300, width2x: 0}
-    - {id: Index State, width: 72, width2x: 0}
-    - {id: Relative Path, width: 500, width2x: 0}
-    sortOrders:
-    - {id: Relative Directory, reverse: false}
-    - {id: Relative Path, reverse: false}
-    - {id: State, reverse: false}
-    - {id: Index State, reverse: true}
-    - {id: Name, reverse: false}
-  project.files.git.wt:
-    columnNames: "Name\tState\tRelative Directory\tExt.\tLFS\tLast Changed On\tRelative\
-      \ Path\tRenamed From\tSize"
+    columnNames: "Name\tState\tRelative Directory\tExt.\tIndex State\tLFS\tLast Changed\
+      \ On\tRelative Path\tRenamed From\tSize\tWorking Tree State"
     visibleColumnNames: "Name\tRelative Directory\tState"
     columnWidths:
     - {id: Name, width: 200, width2x: 0}
@@ -39,18 +25,36 @@ columns:
     - {id: Relative Path, width: 500, width2x: 0}
     sortOrders:
     - {id: Name, reverse: false}
+    - {id: State, reverse: true}
     - {id: Relative Directory, reverse: false}
+  project.files.git.wt:
+    columnNames: "Name\tState\tRelative Directory\tExt.\tSize\tLFS\tLast Changed On\t\
+      Relative Path\tRenamed From"
+    visibleColumnNames: "Ext.\tName\tRelative Directory\tSize\tState"
+    columnWidths:
+    - {id: Name, width: 200, width2x: 0}
+    - {id: State, width: 189, width2x: 0}
+    - {id: Relative Directory, width: 300, width2x: 0}
+    - {id: Ext., width: 33, width2x: 0}
+    - {id: Size, width: 61, width2x: 0}
+    - {id: Relative Path, width: 500, width2x: 0}
+    sortOrders:
+    - {id: State, reverse: false}
+    - {id: Relative Directory, reverse: true}
+    - {id: Name, reverse: false}
+    - {id: Size, reverse: true}
+    - {id: Ext., reverse: false}
   project.files.git.index:
     columnNames: "Name\tState\tRelative Directory\tExt.\tRelative Path\tRenamed From"
     visibleColumnNames: "Name\tRelative Directory\tState"
     columnWidths:
     - {id: Name, width: 200, width2x: 0}
-    - {id: State, width: 75, width2x: 0}
+    - {id: State, width: 78, width2x: 0}
     - {id: Relative Directory, width: 300, width2x: 0}
     - {id: Relative Path, width: 500, width2x: 0}
     sortOrders:
-    - {id: Name, reverse: false}
     - {id: Relative Directory, reverse: false}
+    - {id: Name, reverse: false}
   log.comments:
     columnNames: "Author\tText\tPath\tDate\tAssignee\tCommit"
     visibleColumnNames: "Assignee\tAuthor\tDate\tPath\tText"
@@ -115,20 +119,21 @@ columns:
     sortOrders:
     - {id: Name, reverse: false}
     - {id: Relative Directory, reverse: false}
-gitViewFileFilter: {viewRecursive: true, viewFromSubmodules: true, viewIgnoredFiles: false,
-  viewRenameSources: false, viewSkipped: false, viewUnversionedFiles: true, viewUnchangedFiles: false,
+gitViewFileFilter: {viewRecursive: true, viewFromSubmodules: false, viewIgnoredFiles: false,
+  viewRenameSources: true, viewSkipped: true, viewUnversionedFiles: true, viewUnchangedFiles: false,
   viewUnchangedAssumed: false}
 deepGitUiConfiguration: {}
 confirmations: {git.push: true, sync: true, modifyCommit: true, modifyContinue: true,
-  rebase.continue: true, commit.amend.replaceWarning: true}
+  rebase.continue: true, commit.amend.replaceWarning: true, exit.showConfirmation: true,
+  close.unpushedCommits: true, conflictSolver.showConflictWarning: true}
 repositoriesToReopen:
-- window: log
-  repositories: ['B:\Users\chris']
+- window: wt
+  repositories: ['B:\ToGit\chris\AppData']
 project.files.git.separateWtIndex: true
-gitProjectLayout.main: (([+331x575:directories ][+331x76:branches ])(([+970x397:files
-  ][-3x1:message ])[+970x161:changes ]([+970x90:outgoing ][-3x1:output ])))
+gitProjectLayout.main: (([+221x550:directories ][+221x101:branches ])(([+1080x397:files
+  ][-3x1:message ])[+1080x161:changes ]([+1080x90:outgoing ][-3x1:output ])))
 log.wtIndex.onDemand: true
-lastRepositoryPath: C:\Users\chris\AppData\Roaming\Everything
+lastRepositoryPath: B:\ToGit\Projectfolder
 commit.expandOptions: false
 log.files.git.separateWtIndex: true
 gitLogRootLayout.main: (([+259x325:repositories ][+259x326:branches ])(([+618x490:graph
