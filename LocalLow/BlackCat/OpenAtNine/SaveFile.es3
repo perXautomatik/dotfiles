@@ -1,0 +1,35 @@
+{
+	"PlayerData" : {
+		"__type" : "PlayerData,Assembly-CSharp",
+		"value" : {
+			"totalGameTime" : 252,
+			"unlockPackList" : [
+				
+			],
+			"playerName" : null,
+			"level" : 2,
+			"rep" : 0,
+			"roomId" : [
+				401,408,0,0,0,0
+			],
+			"unlockCharacterList" : [
+				{
+					"id" : 201,
+					"level" : 1,
+					"xp" : 0,
+					"lustRank" : 1,
+					"lustXP" : 0
+				},{
+					"id" : 202,
+					"level" : 1,
+					"xp" : 0,
+					"lustRank" : 1,
+					"lustXP" : 0
+				}
+			],
+			"ownedItem" : {
+			},
+			"coin" : 0
+		}
+	}
+}

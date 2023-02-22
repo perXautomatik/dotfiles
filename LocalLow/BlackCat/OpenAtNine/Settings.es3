@@ -1,0 +1,12 @@
+{
+	"PlayerSettings" : {
+		"__type" : "PlayerSettings,Assembly-CSharp",
+		"value" : {
+			"resolution" : 0,
+			"musicVolume" : 1,
+			"soundVolume" : 1,
+			"voiceVolume" : 1,
+			"language" : 0
+		}
+	}
+}
