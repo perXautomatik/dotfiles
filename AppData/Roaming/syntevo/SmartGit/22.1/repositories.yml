@@ -33,7 +33,7 @@ gitRootSettingsSet:
     ~\gitconfig, ~\source\repos\WPF-Samples, ~\source\repos\WindowsFormsControlLibrary1,
     ~\source\repos\upg11, ~\source\repos\karlstad3, ~\source\repos\DataBindingDemoSparse,
     ~\source\repos\DataBindingDemo, ~\source\repos\Borås2-DatabaserExempel, ~\source\repos\Boras2-DatabaserExempel,
-    ~\OneDrive\Documents]
+    ~\OneDrive\Documents, ~\AppData\Roaming\Scooter Software\Beyond Compare 4, ~\AppData\Roaming\Everything]
   rootD:\ToGit\scoopbucket-1:
     databaseCleanup: {}
     log:
@@ -78,7 +78,8 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [saves, module, modified, modifications, etc]
+      commitNotesHistory: [submodule, etc, FactorioSaves, unignored, messing bout
+          gitignore for itch, itch ignore pattern, itch Openshell, settings, saves]
     journal: {}
   rootC:\Users\chris\AppData\Roaming\Scooter Software\Beyond Compare 4:
     databaseCleanup: {}
@@ -88,7 +89,8 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [etc]
     journal: {}
   rootC:\Users\chris\AppData\Roaming\Vortex\fallout3\masterlist:
     databaseCleanup: {}
@@ -128,7 +130,8 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [ConsoleHistory]
     journal: {}
   rootD:\ToGit\Vortex\fallout3\masterlist:
     databaseCleanup: {}
@@ -427,7 +430,8 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [Loppy current state]
+      commitNotesHistory: [etc, gitignore, state backups, falloutnv, Loppy current
+          state]
     journal: {}
   rootB:\ToGit:
     databaseCleanup: {}
@@ -882,5 +886,16 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory: [etc]
+    journal: {}
+  rootC:\Users\chris\AppData\Roaming\Everything:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [current loppy state, initial]
     journal: {}
 pushMultiRoot: {}
