@@ -11,10 +11,29 @@ gitRootSettingsSet:
     commitNotes:
       commitNotesHistory: [manifest modifications, few new manifests]
     journal: {}
-  roots: ['C:\Steam\steamapps', 'D:\ToGit\scoopbucket-1', 'D:\ToGit\Vortex', ~, ~\AppData,
-    ~\AppData\Roaming\Scooter Software\Beyond Compare 4, ~\AppData\Roaming\Vortex\fallout3\masterlist,
-    ~\AppData\Roaming\Vortex\fallout4\masterlist, ~\AppData\Roaming\Vortex\falloutnv\masterlist,
-    ~\AppData\Roaming\Microsoft\Windows\PowerShell]
+  roots: ['B:\ToGit\Projectfolder\VisualStudio\213c939651e0bef7612b2f910909a21d\WPFSample',
+    ~, ~\source\repos\AutoLotConsoleApp, ~\AppData, ~\AppData\Roaming\Microsoft\Windows\PowerShell,
+    'B:\Users\chris', 'B:\ToGit\Vortex', 'B:\ToGit\Vortex\fallout3\masterlist', 'B:\ToGit\Vortex\fallout4\masterlist',
+    'B:\ToGit\Vortex\falloutnv\masterlist', ~\AppData\Roaming\Vortex, 'B:\ToGit',
+    'B:\ToGit\scoopbucket-presist', 'B:\ToGit\scoopbucket-presist\AHK', 'B:\ToGit\scoopbucket-presist\AdvancedRenamer',
+    'B:\ToGit\scoopbucket-presist\AppData', 'B:\ToGit\scoopbucket-presist\BeondCompare4',
+    'B:\ToGit\scoopbucket-presist\Cherrytree', 'B:\ToGit\scoopbucket-presist\Datagrip',
+    'B:\ToGit\scoopbucket-presist\Ditto', 'B:\ToGit\scoopbucket-presist\Everything',
+    'B:\ToGit\scoopbucket-presist\Git', 'B:\ToGit\scoopbucket-presist\OtherVersionControlledText',
+    'B:\ToGit\scoopbucket-presist\PortableProgramSuit', 'B:\ToGit\scoopbucket-presist\PowerShellCmdHist',
+    'B:\ToGit\scoopbucket-presist\Powershell', 'B:\ToGit\scoopbucket-presist\portableAppsPlatform',
+    'B:\ToGit\scoopbucket-presist\steamapps', 'B:\ToGit\scoopbucket-presist\xEditScripts',
+    'B:\ToGit\CSharpVisualStudio\repos\Wpf-Upgift 1\WpfApp1', 'B:\ToGit\scoopbucket-1',
+    'B:\ToGit\projectFolderBare', 'B:\ToGit\Projectfolder', 'B:\ToGit\Projectfolder\VisualStudio\8691414\WpfApp1',
+    'B:\ToGit\Projectfolder\VisualStudio\borås\upgift1', 'B:\ToGit\Projectfolder\SparseCheckout\test-git-partial-clone-big-small',
+    'B:\ToGit\Projectfolder\ps1\CsharpI', 'B:\ToGit\Projectfolder\ps1\git\add_submodule',
+    'B:\ToGit\Projectfolder\VisualStudio\7327483', 'B:\ToGit\Projectfolder\VisualStudio\3714794',
+    'B:\ToGit\Projectfolder\VisualStudio\213c939651e0bef7612b2f910909a21d', 'B:\ToGit\Projectfolder\VisualStudio',
+    'B:\ToGit\chris', 'B:\ToGit\chris\gitconfig', 'B:\Users\chris\AppData', ~\Documents,
+    ~\gitconfig, ~\source\repos\WPF-Samples, ~\source\repos\WindowsFormsControlLibrary1,
+    ~\source\repos\upg11, ~\source\repos\karlstad3, ~\source\repos\DataBindingDemoSparse,
+    ~\source\repos\DataBindingDemo, ~\source\repos\Borås2-DatabaserExempel, ~\source\repos\Boras2-DatabaserExempel,
+    ~\OneDrive\Documents]
   rootD:\ToGit\scoopbucket-1:
     databaseCleanup: {}
     log:
@@ -35,7 +54,8 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [masterlists]
     journal: {}
   rootC:\Users\chris:
     databaseCleanup: {}
@@ -45,7 +65,8 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [ryv, etc]
     journal: {}
   rootC:\Users\chris\AppData:
     databaseCleanup: {}
@@ -109,5 +130,758 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes: {}
+    journal: {}
+  rootD:\ToGit\Vortex\fallout3\masterlist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\Vortex\fallout4\masterlist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\Vortex\falloutnv\masterlist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [persist adaption]
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\AHK:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\AdvancedRenamer:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\AppData:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\BeondCompare4:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\Cherrytree:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\Datagrip:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\Ditto:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\Everything:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\Git:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\OtherVersionControlledText:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\PortableProgramSuit:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\PowerShellCmdHist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\Powershell:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\portableAppsPlatform:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\steamapps:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\ToGit\scoopbucket-presist\xEditScripts:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\VisualStudio\borås\upgift1\CSharp-Borås-Inlämning1:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - |
+        copy from "chapter 25 - windows Presentation fundation (Wpf) 2" page 46
+        menu items
+      - '...'
+    journal: {}
+  rootB:\ToGit\Projectfolder\VisualStudio\213c939651e0bef7612b2f910909a21d\WPFSample:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\AutoLotConsoleApp:
+    databaseCleanup: {}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\tref://HEAD", extendedRoots: ''}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\Users\chris:
+    databaseCleanup: {}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\tref://HEAD", extendedRoots: ''}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotes: additions
+      commitNotesHistory: [additions]
+    journal: {}
+  rootB:\ToGit\Vortex:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Vortex\fallout3\masterlist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Vortex\fallout4\masterlist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Vortex\falloutnv\masterlist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\AppData\Roaming\Vortex:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [Loppy current state]
+    journal: {}
+  rootB:\ToGit:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [initial]
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [etc]
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\AHK:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\AdvancedRenamer:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\AppData:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\BeondCompare4:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\Cherrytree:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\Datagrip:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\Ditto:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\Everything:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\Git:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\OtherVersionControlledText:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\PortableProgramSuit:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\PowerShellCmdHist:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\Powershell:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\portableAppsPlatform:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\steamapps:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-presist\xEditScripts:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\CSharpVisualStudio\repos\Wpf-Upgift 1\WpfApp1:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\scoopbucket-1:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\projectFolderBare:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\VisualStudio\8691414\WpfApp1:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\VisualStudio\borås\upgift1:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\SparseCheckout\test-git-partial-clone-big-small:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\ps1\CsharpI:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\ps1\git\add_submodule:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\VisualStudio\7327483:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\VisualStudio\3714794:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\VisualStudio\213c939651e0bef7612b2f910909a21d:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\Projectfolder\VisualStudio:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [initial]
+    journal: {}
+  rootB:\ToGit\chris:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ToGit\chris\gitconfig:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\Users\chris\AppData:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\Documents:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\gitconfig:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\WPF-Samples:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\WindowsFormsControlLibrary1:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\upg11:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\karlstad3:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\DataBindingDemoSparse:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\DataBindingDemo:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\Borås2-DatabaserExempel:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\source\repos\Boras2-DatabaserExempel:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\OneDrive\Documents:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [etc]
     journal: {}
 pushMultiRoot: {}

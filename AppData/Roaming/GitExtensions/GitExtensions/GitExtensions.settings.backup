@@ -410,6 +410,10 @@
   &lt;Repositories&gt;
     &lt;Repository&gt;
       &lt;Anchor&gt;None&lt;/Anchor&gt;
+      &lt;Path&gt;D:\ToGit\scoopbucket-1\.git\&lt;/Path&gt;
+    &lt;/Repository&gt;
+    &lt;Repository&gt;
+      &lt;Anchor&gt;None&lt;/Anchor&gt;
       &lt;Path&gt;D:\ToGit\scoopbucket-1\&lt;/Path&gt;
     &lt;/Repository&gt;
     &lt;Repository&gt;

@@ -229,7 +229,7 @@
       <string>FormBrowse.FileTreeSplitContainer_Size</string>
     </key>
     <value>
-      <string>918</string>
+      <string>643</string>
     </value>
   </item>
   <item>
@@ -269,7 +269,7 @@
       <string>FormBrowse.MainSplitContainer_Size</string>
     </key>
     <value>
-      <string>1186</string>
+      <string>948</string>
     </value>
   </item>
   <item>
@@ -277,7 +277,7 @@
       <string>FormBrowse.RevisionsSplitContainer_Distance</string>
     </key>
     <value>
-      <string>343</string>
+      <string>349</string>
     </value>
   </item>
   <item>
@@ -309,7 +309,7 @@
       <string>FormBrowse.RevisionsSplitContainer_Size</string>
     </key>
     <value>
-      <string>920</string>
+      <string>682</string>
     </value>
   </item>
   <item>
@@ -317,7 +317,7 @@
       <string>FormBrowse.RightSplitContainer_Distance</string>
     </key>
     <value>
-      <string>165</string>
+      <string>274</string>
     </value>
   </item>
   <item>

@@ -30,3 +30,24 @@
 16.01.2023 15:38:58:844   [p\t: 15280\15760] The driver has been loaded successfully!!!
 16.01.2023 15:38:59:662   [p\t: 15280\15760] The driver has been unloaded successfully
 16.01.2023 15:39:13:324   [p\t: 15280\1264] ******************************** Stop ********************************
+03.02.2023 10:53:16:092   [p\t: 27120\23464] ******************************* Start ********************************
+03.02.2023 10:53:16:093   [p\t: 27120\23464] LockHunter 3.4.3.146, Build date: 24.06.2021, file time: 24.06.2021 12:13 /  Professional (10.0) (Build 19044) [Win64 on X64]
+03.02.2023 10:53:16:093   [p\t: 27120\23464] Command line is: "C:\Program Files\LockHunter\LockHunter.exe C:\Users\chris\AppData\Roaming\Opera Software\Opera GX Stable\_side_profiles\Dts_102.0.1245.44_efault"
+03.02.2023 10:53:16:095   [p\t: 27120\23464] Running the program normal way
+03.02.2023 10:53:16:261   [p\t: 27120\23464] Actual DPI: 96 dpi, design DPI: 96
+03.02.2023 10:53:16:261   [p\t: 27120\23464] MainForm create is called
+03.02.2023 10:53:16:262   [p\t: 27120\23464] DeleteUnloadedShellDllFiles successfully called
+03.02.2023 10:53:16:263   [p\t: 27120\23464] Version checker is initialized
+03.02.2023 10:53:16:265   [p\t: 27120\23464] Some more initialization
+03.02.2023 10:53:16:267   [p\t: 27120\23464] Assigning the icon
+03.02.2023 10:53:16:275   [p\t: 27120\23464] Positioning main form is called
+03.02.2023 10:53:16:277   [p\t: 27120\23464] GUI settings are loaded
+03.02.2023 10:53:16:335   [p\t: 27120\23464] FormActivate is called
+03.02.2023 10:53:16:456   [p\t: 27120\23464] Refresh execute
+03.02.2023 10:53:16:536   [p\t: 27120\11216] The driver was installed successfully!
+03.02.2023 10:53:16:536   [p\t: 27120\11216] The driver has been loaded successfully!!!
+03.02.2023 10:53:18:107   [p\t: 27120\11216] The driver has been unloaded successfully
+03.02.2023 10:53:18:155   [p\t: 27120\23464] The command line is processed
+03.02.2023 10:53:18:156   [p\t: 27120\23464] Some more initialization
+03.02.2023 10:53:18:156   [p\t: 27120\23464] Version is checked
+03.02.2023 10:53:18:233   [p\t: 27120\23464] ******************************** Stop ********************************
