@@ -119,7 +119,7 @@ gitViewFileFilter: {viewRecursive: true, viewFromSubmodules: false, viewIgnoredF
   viewUnchangedAssumed: false}
 deepGitUiConfiguration: {}
 confirmations: {git.push: true, sync: true, modifyCommit: true, modifyContinue: true,
-  rebase.continue: true}
+  rebase.continue: true, commit.amend.replaceWarning: true}
 repositoriesToReopen:
 - window: log
   repositories: ['B:\Users\chris']

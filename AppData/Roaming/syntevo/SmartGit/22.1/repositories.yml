@@ -78,8 +78,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [etc]
-      commitNotes: etc
+      commitNotesHistory: [saves, module, modified, modifications, etc]
     journal: {}
   rootC:\Users\chris\AppData\Roaming\Scooter Software\Beyond Compare 4:
     databaseCleanup: {}
