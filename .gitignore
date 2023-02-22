@@ -15,6 +15,9 @@ Cache*/
 *.png
 *.jpg
 *.dll
+*.dmp
+*.exe
+*.html
 *.ico
 MachineKeys
 *.zip
@@ -89,7 +92,28 @@ Local/Microsoft/PowerToys/*/Logs/
 Logs/
 Cookies
 .usage
+/Roaming/Everything/*.db
+/Roaming/Path of Exile/Minimap
+/Roaming/Path of Exile/ShaderCacheD3D11
+/Roaming/Vortex/Cache
+/Roaming/Vortex/Code Cache/
+__folder_managed_by_vortex
+00/
+ApplicationInsights
+AutofillStates
+Cache
+Cache*/
+Code Cache/
+collectionsSQLite
+Cookies
 Cookies-journal
+CURRENT
+CurrentDatabase_400.wmdb
+Discord-1.0.9004-full.nupkg
+easyanticheat_wow64_x64.eac
+Edge Shopping
+Edge Wallet/
+Extensions
 Favicons
 Favicons-journal
 load_statistics.db-shm
@@ -113,9 +137,25 @@ manifest.fingerprint
 Local/Comms/UnistoreDB/store.jfm
 Local/Comms/UnistoreDB/store.vol
 Local/Comms/UnistoreDB/tmp.edb
+Local/Google/Chrome/User Data/AutofillStates/
+Local/Google/Chrome/User Data/Profile 1/Favicons
+Local/Google/Chrome/User Data/Profile 1/heavy_ad_intervention_opt_out.db
+Local/Google/Chrome/User Data/Profile 1/README
+Local/Google/Chrome/User Data/Profile 1/Translate Ranker Model
+Local/Google/Chrome/User Data/Profile 1/Trusted Vault
+Local/Google/Chrome/User Data/Profile 1/Web Data
+Local/JetBrains/DataGrip2022.1/
+Local/Microsoft/ApplicationInsights/
 Local/Microsoft/Edge/User Data/Default/Sessions/Session_13314511183716392
 Local/Microsoft/Edge/User Data/Default/Sessions/Tabs_13313507043888599
+Local/Microsoft/Edge/User Data/Edge Shopping/
 Local/Microsoft/Edge/User Data/Profile 1/Sessions/Session_13314295046834347
 Local/Microsoft/Edge/User Data/Profile 1/Sessions/Tabs_13314236006496655
+Local/Microsoft/Office
+Local/Microsoft/PowerToys/*/Logs/
+Local/Microsoft/VSCommon/
+Local/Microsoft/Windows/Explorer/thumbcache*
+Local/Microsoft/Windows/PowerShell/ISE
+Local/Microsoft/Windows/Safety/
 Local/Microsoft/Windows/UsrClass.dat.LOG1
 Local/Microsoft/Windows/UsrClass.dat.LOG2
