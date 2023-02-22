@@ -1,0 +1,9 @@
+# you can skip this first one if it is not already excluded by prior patterns
+/*
+!apps/
+
+apps/*
+!apps/*/
+
+apps/*/*
+!apps/*/.itch/
