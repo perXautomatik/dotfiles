@@ -1,8 +1,3 @@
-[submodule ".DataGrip2019.3"]
-	url = https://github.com/perXautomatik/DatagripSettings.git
-[submodule "Roaming/JetBrains"]
-	path = Roaming/JetBrains
-	url = https://github.com/perXautomatik/Datagrip-UserFolder
 [submodule "Local/LOOT/FalloutNV"]
 	branch = --
 	path = Local/LOOT/FalloutNV
@@ -41,16 +36,10 @@
 [submodule "Roaming/Opera Software/Opera GX Stable/_side_profiles"]
 	branch = --
 	path = Roaming/Opera Software/Opera GX Stable/_side_profiles
-[submodule "Roaming/Scooter Software/Beond Compare 4"]
-	path = Roaming/Scooter Software/Beond Compare 4
-	url = https://github.com/perXautomatik/BeondCompare4.git
 [submodule "Roaming/Scooter Software/Beyond Compare 4"]
 	path = Roaming/Scooter Software/Beyond Compare 4
 	url = https://github.com/perXautomatik/BeondCompare4.git
-[submodule "Roaming/Vortex/fallout3/masterlist"]
-	path = Roaming/Vortex/fallout3/masterlist
-	url = https://github.com/loot/fallout3.git
-[submodule "Roaming/Vortex/fallout4/masterlist"]
-	path = Roaming/Vortex/fallout4/masterlist
-[submodule "Roaming/Vortex/falloutnv/masterlist"]
-	path = Roaming/Vortex/falloutnv/masterlist
+
+[submodule "Roaming/Vortex"]
+	path = Roaming/Vortex
+	url = https://github.com/perXautomatik/AppData.git
