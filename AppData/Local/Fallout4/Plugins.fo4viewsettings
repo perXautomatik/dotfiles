@@ -1,13 +1,13 @@
 [frmMain]
-pnlNavWidth=671
-vstNavColumnWidth0=318
-vstNavColumnWidth1=141
-vstNavColumnWidth2=191
-WindowState=0
-Left=83
-Top=40
-Width=1557
-Height=934
+pnlNavWidth=1001
+vstNavColumnWidth0=510
+vstNavColumnWidth1=205
+vstNavColumnWidth2=265
+WindowState=2
+Left=-8
+Top=-8
+Width=1936
+Height=1056
 DontBackup=1
 
 [Init]
@@ -59,22 +59,23 @@ UDRSetMSTT=1
 UDRSetMSTTValue=27
 
 [DeveloperMessage]
-LastShownOn=44604
-Version=4000300
+LastShownOn=44632
+Version=4000400
 
 [Usage]
-TotalTime=2.64618055555547
-EditWarnCount=27
+TotalTime=3.1881944444441
+EditWarnCount=39
 
 [ModGroups]
-Selection=bodyshapesFurruy,cbfusion,Cco,comchem,customhh,ESSENTIAL,ffnpc,ffo,ffvulpin,foNpc,Headgear,MurphySupreeem,playerOtter,RaiderOverHaulPowerArmour,SupreemMuti,"Unofficial Fallout 4 Patch - All",VulgarHeadgear
+Selection=armsolt,bodyshapesFurruy,Cco,chsa,customhh,EcoArmour,EcoSmith,ESSENTIAL,ff,ffnpc,ffo,foNpc,FurryBody,furryHeadgear,furryUnofficial,Headgear,luckyUnoficial,m8rAKeywords,m8tunoficial,MurphySupreeem,patchesz,RaiderOverHaulPowerArmour,raiders,SupreemMuti,"Unofficial Fallout 4 Patch - All",upatch,VulgarHeadgear,örl
 
 [View]
-LastUsedScript=AAA FyTy - Show FormID
+LastUsedScript=Edid\Dank_ModifyStrings
 IncludeScriptsFromSubDir=1
 HodeNoConflict=1
-ColumnWidth=1
+ColumnWidth=3
 LastUsedFilter=
+StickViewNodeLabel=FULL - Name
 
 [frmViewElements]
 WindowState=0
@@ -84,8 +85,8 @@ Width=644
 Height=403
 
 [Filter]
-ConflictAll=0
-ConflictThis=0
+ConflictAll=1
+ConflictThis=1
 ByInjectStatus=0
 InjectStatus=1
 NotReachableStatus=1
@@ -94,14 +95,14 @@ ReferencesInjectedStatus=1
 ByEditorID=0
 EditorID=
 ByName=0
-Name=
+Name=Chest
 ByBaseEditorID=0
 BaseEditorID=
 ByBaseName=0
 BaseName=
 ScaledActors=0
-BySignature=0
-Signatures=
+BySignature=1
+Signatures=ARMO
 ByBaseSignature=0
 BaseSignatures=ARMO,BOOK,CMPO,INGR,KEYM,LVLI,MISC,WEAP
 ByPersistent=0
@@ -142,8 +143,8 @@ ctConflictLoses=1
 
 [frmLegend]
 WindowState=0
-Left=222
-Top=989
+Left=368
+Top=342
 Width=1313
 Height=226
 
@@ -197,4 +198,7 @@ SnoozeDate=44381
 [NexusMods]
 SnoozeVersion=4.0.4
 SnoozeDate=44593
+
+[External]
+CompareCommandLine=D:\PortableApplauncher\Apps\.free\bCompare\BCompare.exe %1 %2
 

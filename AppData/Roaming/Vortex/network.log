@@ -1,146 +1,158 @@
-success - (1644340810893) getModInfo (1, site) from once
-success - (1644340810925) setKey () from updateKey
-success - (1644340811291) getTrackedMods () from fetch
-success - (1644340813535) getGames () from retrieveNexusGames
-success - (1644340813745) getFileByMD5 (8ceb7a64ea925c41ce68408d7222d0aa, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340813812) getFileByMD5 (08f7d25035492e159792111671c98e0a, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340813818) getOwnIssues () from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7458:81
-success - (1644340814034) getFileByMD5 (9e5648c9d3aa2e1d6f7842de7de79e7d, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340814265) getFileByMD5 (c8ae7aa1878853e45f21bb4d44e26dfa, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340814266) getFileByMD5 (cdf9cbe2100166b8f50f24c67235bd83, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340817717) getFileByMD5 (e946d14bdc23d9e9fbbd648ddeda628b, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340817718) getFileByMD5 (dacd5300e33e909242b98e62cb1be7d7, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340817720) getFileByMD5 (6bd864378075447dc3dee5b3e15dacad, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340817832) getFileByMD5 (f9216ec332d43c6e3790e8b5bf2ca2c2, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644340818045) getFileByMD5 (301b0cd12ce5725a8193431fb3c17abf, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644663581801) getOwnIssues () from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7458:81
-success - (1644663710160) getModInfo (57741, fallout4) from startDownload
-success - (1644663710296) getFileInfo (57741, 228754, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644663710673) getDownloadURLs (57741, 228754, CQ63_y5iQyfHiIrbQatYfA, 1644836500, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644663713242) getModInfo (57741, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644663713614) getFileInfo (57741, 228754, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644663728765) getFileByMD5 (d3b661e20a79b3db9c6d81f5fa7b2470, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644663728827) getFileByMD5 (8d3265b4efe50dea2f0e3664c8e2cf76, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644663728833) getFileByMD5 (d50015619f415247fc3104eb041efdb9, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644663728836) getFileByMD5 (fd0d4aca6c5099d7acb79d3fe1b74817, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644663728861) getFileByMD5 (57ec0882fd3322b01e5c8e432a337847, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644663728866) getFileByMD5 (0058f207921dc8da45c1a988e68acfe8, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664041970) getModInfo (57516, fallout4) from startDownload
-success - (1644664042127) getFileInfo (57516, 227343, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644664042461) getDownloadURLs (57516, 227343, Q_fhS8IVFmyPWyimny5JMQ, 1644836833, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644664045097) getModInfo (57516, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644664045266) getFileInfo (57516, 227343, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644664064270) getModInfo (57516, fallout4) from startDownload
-success - (1644664064419) getFileInfo (57516, 227345, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644664064679) getDownloadURLs (57516, 227345, SGnouSogPJwsrOk-Wb3fqw, 1644836855, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644664067265) getModInfo (57516, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644664067439) getFileInfo (57516, 227345, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644664084583) getModInfo (57516, fallout4) from startDownload
-success - (1644664084723) getFileInfo (57516, 227355, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644664084988) getDownloadURLs (57516, 227355, qmBiMQ1J0MLiSnrh7Nxoyw, 1644836876, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644664087822) getModInfo (57516, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644664087985) getFileInfo (57516, 227355, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644664109443) getModInfo (57516, fallout4) from startDownload
-success - (1644664109583) getFileInfo (57516, 227346, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644664109855) getDownloadURLs (57516, 227346, 1Y-bni-HVV7TfjyxPdmYkg, 1644836900, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644664112475) getModInfo (57516, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644664112645) getFileInfo (57516, 227346, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644664115145) getFileByMD5 (a7a9ca57aa32d88178a231684c036f08, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664117298) getFileByMD5 (b4feda008c093128667ab6dc219b516b, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664117924) getFileByMD5 (398613a0ea935761d7db781bb5f2672c, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664118907) getFileByMD5 (d4d21b79345508533f129c2375612ae1, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664120043) getFileByMD5 (a46796c95bc0bd5ab1d5c8eb10fd8331, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664123567) getModInfo (57516, fallout4) from retrieveModInfo
-success - (1644664123640) getModInfo (57516, fallout4) from retrieveModInfo
-success - (1644664123710) getModInfo (57741, fallout4) from retrieveModInfo
-success - (1644664123785) getModInfo (57516, fallout4) from retrieveModInfo
-success - (1644664123855) getModInfo (57516, fallout4) from retrieveModInfo
-success - (1644664139403) getModInfo (57516, fallout4) from startDownload
-success - (1644664139548) getFileInfo (57516, 227349, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644664139845) getDownloadURLs (57516, 227349, NzldPK7RwO1TxkCqY9Q-hQ, 1644836930, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644664143405) getModInfo (57516, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644664143685) getFileInfo (57516, 227349, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644664168350) getFileByMD5 (b3cedcaaf9bf34e6fbff539a37e6ba1b, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664172379) getModInfo (57516, fallout4) from retrieveModInfo
-success - (1644664197156) getFileByMD5 (4cf8c350946140ecbddf6bc67d7ff5ab, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664197157) getFileByMD5 (fc1a40d20260ea7243d4082e2c6079a9, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664197246) getFileByMD5 (1e3dc6b981e2a171ee13171e280a91b0, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664203887) getFileByMD5 (8632b204564fc3c15418382ac0228645, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664203888) getFileByMD5 (7b65ab7ea865f8d37215e8ce0acd3c9c, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664203889) getFileByMD5 (8632b204564fc3c15418382ac0228645, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664206112) getFileByMD5 (0e188737c556bea4c78e668ff0268229, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664206116) getFileByMD5 (8457d2fa1e8b43f54fbb6449120e7df1, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664206119) getFileByMD5 (40475032242d03ba8c212811fb7c5413, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664206123) getFileByMD5 (9b0f6a7a37b9c5a4f0e116a1968a1695, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664206131) getFileByMD5 (8ff5be4dbd8469e8bbe41b3f276178d3, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664206140) getFileByMD5 (a5bc89b09f243e1935a45c753609578e, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664206159) getFileByMD5 (3e9638139b7f60cdb488876d6a19e4e5, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664206162) getFileByMD5 (f6384c563e23d7a556be5f64b53dd202, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664210893) getFileByMD5 (166755ceacf651ace2bf8e3ed48b470e, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664215217) getFileByMD5 (ef6082a42c7a85c6372786fb0a6e42c6, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664221235) getFileByMD5 (f8d46ce638f98afdd918b77ffa2e5aca, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664221236) getFileByMD5 (390a467db40e35542152ae874a2dba75, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664226998) getFileByMD5 (62d0d5e200f12dee7479fbb977e578d7, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664227000) getFileByMD5 (1781a0ac69b8a0cb952fdabb7cb84a2d, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664227000) getFileByMD5 (539b8868e963daa563e888d472d2374d, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664227001) getFileByMD5 (d456855c157b07fc4686a7acafa8b821, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664227002) getFileByMD5 (5eca798020ed5f480c7497b048c7c7a6, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664227003) getFileByMD5 (bcad367d48b9348644768910628576a6, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664227059) getFileByMD5 (4fe4f348881faefc7a362d79d3131654, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664227059) getFileByMD5 (ae70020fec5df6e7107083abed362356, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664227105) getFileByMD5 (a96dc3b71354de0adc846ac7d13109f8, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664280632) getFileByMD5 (dd694da817d45aa6675d8fec3ef8d6af, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664307157) getFileByMD5 (acd143652e9ca36a58137f91a8b252af, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664315834) getFileByMD5 (971ad6b3c1bec2ae6c35205ee32d612e, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664508710) getModInfo (15466, fallout4) from startDownload
-success - (1644664508847) getFileInfo (15466, 168156, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644664509208) getDownloadURLs (15466, 168156, VOD2P7OWiagxLLWz1hxC1w, 1644837297, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644664560209) getModInfo (15466, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644664560423) getFileInfo (15466, 168156, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644664561847) getFileByMD5 (c929ddc4cc93ab00279956e35ca82887, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664562127) getFileByMD5 (f7d26f80c49cbe98bcd8e6b511f2afe9, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664562649) getFileByMD5 (eb920ea13ac73ae5c05c93004e0549c6, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664567361) getFileByMD5 (3bbe19bad085450638b83abe643a2b0a, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664567362) getFileByMD5 (b9415772e9975011f64fedb09378a9f5, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664567741) getFileByMD5 (55c6dfc6c0614e7be1777007e2855bb5, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664567741) getFileByMD5 (4903db6eaabee9192d45dde9bad32af8, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664568431) getFileByMD5 (ab079417dc12a52f80561f1c30d4f112, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664568431) getFileByMD5 (3d4993dea484182643da9460ac795f53, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664599858) getFileByMD5 (8b17fbe97cf40038c2bbac1e278a5dca, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644664778131) getModInfo (15466, fallout4) from retrieveModInfo
-success - (1644664826199) getModInfo (40315, fallout4) from startDownload
-success - (1644664826356) getFileInfo (40315, 192498, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644664828097) getDownloadURLs (40315, 192498, MmdGg_46U9XHrSR-aqAi0Q, 1644837617, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644664831635) getModInfo (40315, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644664832030) getFileInfo (40315, 192498, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644664924482) getModInfo (22431, fallout4) from startDownload
-success - (1644664924588) getFileInfo (22431, 96360, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:2540:114
-success - (1644664927735) getModInfo (22431, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7447:97
-success - (1644664927873) getFileInfo (22431, 96360, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7448:23
-success - (1644665175919) getDownloadURLs (22431, 96360, wd-mgDtemaWcnnSPv-QhgQ, 1644837714, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7212:53
-success - (1644665214865) getModInfo (40315, fallout4) from retrieveModInfo
-success - (1644665775424) getFileByMD5 (1d14146a8682ffc8065aeda6541a77ad, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644665813646) getModInfo (22431, fallout4) from retrieveModInfo
-success - (1644666065420) getFileByMD5 (d129e15d28f2eccf54d2961443a74688, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666068239) getFileByMD5 (683fd8ef2866c80829970f3282efe858, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666068247) getFileByMD5 (d049e2b36c41cbce966af7da582aa830, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073179) getFileByMD5 (42cee9f567c5f368918c90781598fdf6, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073180) getFileByMD5 (7479d63ccf280861eb7cfbca11973b95, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073294) getFileByMD5 (0fe5bdde7e3b3424bbe1355483e75137, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073378) getFileByMD5 (936a3b888e44fb6ef8d3af3c8dbdd51e, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073379) getFileByMD5 (086b9766cac9f00535307fc5f8efade9, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073381) getFileByMD5 (c5ac9a94b013195aa7006265ca9f99b3, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073382) getFileByMD5 (a89fc33a982f816e0725dc38663eb230, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073860) getFileByMD5 (4e5b4940b42f3e569ea874c35aad8111, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073862) getFileByMD5 (2cc7a55572aaa2a55303d3d22ed96477, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073864) getFileByMD5 (1be3733f03aafa11c93ccb86777eb324, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073882) getFileByMD5 (2b30ca354372d8c99ba4ce46a4698268, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073884) getFileByMD5 (41eb7494cacaef5dfa2dc00e7d3be84a, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073918) getFileByMD5 (30093d1363fdfb2f1d7972b982aabfa0, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073920) getFileByMD5 (a0231230590f35ce109c9ee7a8dbbb75, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666073964) getFileByMD5 (6af146b3987288ccded055bebdab41d7, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666510349) getFileByMD5 (15a02713001aa9f26d5eac31c293b43b, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666528743) getFileByMD5 (068c60b99739cc21f4098cddd78be496, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666545837) getFileByMD5 (14ba6ded3497c8b3706b8185a768c789, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666545838) getFileByMD5 (594d928916cc65f0e282567426e8c05c, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
-success - (1644666582606) getFileByMD5 (57ded411f9e8c3ea1dadd4228f9d1a05, fallout4) from D:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:7123:67
+success - (1648069231971) getModInfo (1, site) from once
+success - (1648069232174) setKey () from updateKey
+success - (1648069232533) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069232825) getTrackedMods () from fetch
+success - (1648069233198) fileHashes ([object Object], b6148a56db144a465d693c2cf5f24f13,eb063798f48cb714b876942f5f7ae7bb,58a39dcd1c73c970d3128d70bcfc2db9,c862bd645ec2893d171f0179205666ef,6f81ca8cdaf4030b39a7f72b2f183544,6f81ca8cdaf4030b39a7f72b2f183544,eb063798f48cb714b876942f5f7ae7bb,58a39dcd1c73c970d3128d70bcfc2db9,b6148a56db144a465d693c2cf5f24f13,c862bd645ec2893d171f0179205666ef) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069443561) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069535449) getFileInfo (21, 1383, site) from getInfo
+success - (1648069535788) getModInfo (21, site) from getInfo
+success - (1648069535949) getDownloadURLs (21, 1383, 8kH2CvyVZuTpMFT3m5_lvA, 1648242328, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069536965) fileHashes ([object Object], c3d1d75b04c08d4050021b8fc6351790) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069539118) getModInfo (21, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069539223) getFileInfo (21, 1383, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069605751) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069606011) getGameInfo (fallout3) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:6277:152
+success - (1648069611003) getGameInfo (newvegas) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:6277:152
+success - (1648069611071) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069631096) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069642406) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069642410) getGameInfo (witcher2) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:6277:152
+success - (1648069699840) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069709160) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069722057) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069761861) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648069807611) fileHashes ([object Object], c06ac0aa5f78334642c93fa12f3670a0) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069873789) getFileInfo (288, 1319, site) from getInfo
+success - (1648069874045) getModInfo (288, site) from getInfo
+success - (1648069874237) getDownloadURLs (288, 1319, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069875340) fileHashes ([object Object], a422e04680c18f4158e078e0a3801003) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069877573) getModInfo (288, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069877717) getFileInfo (288, 1319, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069883555) getModInfo (270, site) from getInfo
+success - (1648069883634) getFileInfo (270, 1129, site) from getInfo
+success - (1648069883805) getDownloadURLs (270, 1129, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069884834) fileHashes ([object Object], a759618726c8f252634fd6b95c048e24) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069887041) getModInfo (270, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069887157) getFileInfo (270, 1129, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069897421) getFileInfo (151, 678, site) from getInfo
+success - (1648069897471) getModInfo (151, site) from getInfo
+success - (1648069897685) getDownloadURLs (151, 678, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069899696) getModInfo (151, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069899805) getFileInfo (151, 678, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069900288) fileHashes ([object Object], e77bd381d21e07c9d6175c0c79159a74) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069907238) getModInfo (148, site) from getInfo
+success - (1648069907252) getFileInfo (148, 937, site) from getInfo
+success - (1648069907416) getDownloadURLs (148, 937, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069908903) fileHashes ([object Object], cb3dff4cc3415c8ec9b3e1c002e14233) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069911053) getModInfo (148, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069911162) getFileInfo (148, 937, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069911383) getFileInfo (152, 685, site) from getInfo
+success - (1648069911390) getModInfo (152, site) from getInfo
+success - (1648069911566) getDownloadURLs (152, 685, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069912592) fileHashes ([object Object], 8228bfee7458c15e6bdc3b87ff4c2871) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069912873) getFileInfo (145, 960, site) from getInfo
+success - (1648069912900) getModInfo (145, site) from getInfo
+success - (1648069913050) getDownloadURLs (145, 960, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069914297) fileHashes ([object Object], afdd6face95bb6fa04a4f158bc61f048) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069916460) getModInfo (152, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069916477) getModInfo (145, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069916579) getFileInfo (145, 960, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069916589) getFileInfo (152, 685, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069919667) getModInfo (224, site) from getInfo
+success - (1648069919667) getFileInfo (224, 998, site) from getInfo
+success - (1648069919847) getDownloadURLs (224, 998, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069920855) fileHashes ([object Object], 94c71f4ab945104cc5bb2b6919cefa2c) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069923032) getModInfo (224, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069923223) getFileInfo (224, 998, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069934686) getFileInfo (12, 42, site) from getInfo
+success - (1648069934742) getModInfo (12, site) from getInfo
+success - (1648069934926) getDownloadURLs (12, 42, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069937244) fileHashes ([object Object], 98e8273ddb57be5b14adcd818d6f4e2c) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069939086) getFileInfo (182, 935, site) from getInfo
+success - (1648069939153) getModInfo (182, site) from getInfo
+success - (1648069939337) getDownloadURLs (182, 935, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069940354) fileHashes ([object Object], 317e3ed2344618f52c349f662a08026e) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069942521) getModInfo (12, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069942527) getModInfo (182, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069942647) getFileInfo (182, 935, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069942693) getFileInfo (12, 42, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069949700) getFileInfo (275, 1270, site) from getInfo
+success - (1648069949962) getModInfo (275, site) from getInfo
+success - (1648069950254) getDownloadURLs (275, 1270, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069951290) fileHashes ([object Object], 96b181261f0da1077b88e43d3219984d) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069953435) getModInfo (275, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069953591) getFileInfo (275, 1270, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069964868) getFileInfo (225, 1070, site) from getInfo
+success - (1648069964955) getModInfo (225, site) from getInfo
+success - (1648069965122) getDownloadURLs (225, 1070, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069966167) fileHashes ([object Object], 0fabfd51b7562650ad84545cace4673c) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069968547) getModInfo (225, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069968652) getFileInfo (225, 1070, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069995501) getFileInfo (260, 1095, site) from getInfo
+success - (1648069995511) getModInfo (260, site) from getInfo
+success - (1648069995706) getDownloadURLs (260, 1095, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648069996735) fileHashes ([object Object], 758c0f7b83ace446fa4cb4edcc7b5f82) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648069998899) getModInfo (260, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648069999021) getFileInfo (260, 1095, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648069999887) getFileInfo (155, 888, site) from getInfo
+success - (1648069999910) getModInfo (155, site) from getInfo
+success - (1648070000084) getDownloadURLs (155, 888, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648070001358) fileHashes ([object Object], 8d6462c212e8d04ff6c07433f7d16251) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648070003579) getModInfo (155, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648070003740) getFileInfo (155, 888, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648070006053) getFileInfo (88, 1415, site) from getInfo
+success - (1648070006100) getModInfo (88, site) from getInfo
+success - (1648070006250) getDownloadURLs (88, 1415, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648070007226) fileHashes ([object Object], cdfce22e622d12c5280367155e5d0c54) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648070009393) getModInfo (88, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648070009508) getFileInfo (88, 1415, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648070010817) getFileInfo (25, 71, site) from getInfo
+success - (1648070010834) getModInfo (25, site) from getInfo
+success - (1648070011019) getDownloadURLs (25, 71, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648070012969) fileHashes ([object Object], 96acf760b0180c46941f3968773c68cf) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648070015133) getModInfo (25, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648070015282) getFileInfo (25, 71, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648071733235) getFileInfo (61, 1117, site) from getInfo
+success - (1648071734522) getModInfo (61, site) from getInfo
+success - (1648071735848) getDownloadURLs (61, 1117, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648071736841) fileHashes ([object Object], d726a7e0526df0829711b5c1263963bf) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648071738807) getFileInfo (67, 970, site) from getInfo
+success - (1648071738821) getModInfo (67, site) from getInfo
+success - (1648071738994) getDownloadURLs (67, 970, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648071740057) fileHashes ([object Object], 9cc95e64ade524c8e17db08e40bfd53b) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648071742207) getModInfo (61, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648071742237) getModInfo (67, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648071742335) getFileInfo (67, 970, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648071742341) getFileInfo (61, 1117, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648071749679) getFileInfo (114, 1240, site) from getInfo
+success - (1648071749752) getModInfo (114, site) from getInfo
+success - (1648071749921) getDownloadURLs (114, 1240, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648071751041) fileHashes ([object Object], 07a72a52f113f6f345369c21516e6743) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648071753205) getModInfo (114, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648071753309) getFileInfo (114, 1240, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648071760009) getFileInfo (80, 516, site) from getInfo
+success - (1648071760023) getModInfo (80, site) from getInfo
+success - (1648071760204) getDownloadURLs (80, 516, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648071761176) fileHashes ([object Object], 325430e6ed6858e70fcde241025780a3) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648071763327) getModInfo (80, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648071763427) getFileInfo (80, 516, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648071764715) getFileInfo (84, 372, site) from getInfo
+success - (1648071764720) getModInfo (84, site) from getInfo
+success - (1648071764867) getDownloadURLs (84, 372, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648071765978) fileHashes ([object Object], 0821cb0665aeb18338fcbee414e07202) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648071768150) getModInfo (84, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648071768270) getFileInfo (84, 372, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648071853479) getModInfo (210, site) from getInfo
+success - (1648071853493) getFileInfo (210, 1388, site) from getInfo
+success - (1648071853639) getDownloadURLs (210, 1388, , , site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5983:71
+success - (1648071854499) fileHashes ([object Object], bedf32a65e9284cc6fd02063b866c406) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\modmeta-db\lib\moddb.js:198:33
+success - (1648071856654) getModInfo (210, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5788:97
+success - (1648071856898) getFileInfo (210, 1388, site) from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5789:23
+success - (1648071892355) setKey () from updateKey
+success - (1648071892389) getModInfo (1, site) from once
+success - (1648071893591) getTrackedMods () from fetch
+success - (1648071893867) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648071973126) setKey () from updateKey
+success - (1648071973144) getModInfo (1, site) from once
+success - (1648071973304) getOwnIssues () from C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:5801:195
+success - (1648071973382) getTrackedMods () from fetch
