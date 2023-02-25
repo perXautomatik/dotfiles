@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentProperties Version="19.0.9.10834">
+  <Property>
+    <Name>DebugState</Name>
+    <Value>&lt;DebuggerConfig&gt;&lt;DebuggerState uid="NativeDataMapper"&gt;&amp;lt;?xml version="1.0" encoding="utf-16"?&amp;gt;
+&amp;lt;DataMapperDebuggerState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&amp;gt;
+  &amp;lt;DebuggerStartupTimeout&amp;gt;15&amp;lt;/DebuggerStartupTimeout&amp;gt;
+  &amp;lt;DebuggerShutdownTimeout&amp;gt;15&amp;lt;/DebuggerShutdownTimeout&amp;gt;
+  &amp;lt;GenerationItem&amp;gt;Application&amp;lt;/GenerationItem&amp;gt;
+  &amp;lt;ProjectGuid&amp;gt;514a74fe-c2f1-4821-8ed0-28d460a7b468&amp;lt;/ProjectGuid&amp;gt;
+  &amp;lt;SampleProjectGuid&amp;gt;44af184d-d846-4cef-8757-f65e426903fd&amp;lt;/SampleProjectGuid&amp;gt;
+  &amp;lt;ApplicationName&amp;gt;DataTransformationApp&amp;lt;/ApplicationName&amp;gt;
+  &amp;lt;ProjectName&amp;gt;DataTransformation&amp;lt;/ProjectName&amp;gt;
+  &amp;lt;ProjectNamespace&amp;gt;DataTransformation&amp;lt;/ProjectNamespace&amp;gt;
+  &amp;lt;ProjectFolder&amp;gt;Project&amp;lt;/ProjectFolder&amp;gt;
+  &amp;lt;DetailedLogging&amp;gt;false&amp;lt;/DetailedLogging&amp;gt;
+  &amp;lt;DotNetDevEnv&amp;gt;VS2019&amp;lt;/DotNetDevEnv&amp;gt;
+  &amp;lt;DotNetPlatform&amp;gt;DotNet472&amp;lt;/DotNetPlatform&amp;gt;
+&amp;lt;/DataMapperDebuggerState&amp;gt;&lt;/DebuggerState&gt;&lt;/DebuggerConfig&gt;</Value>
+  </Property>
+</DocumentProperties>
