@@ -1,0 +1,10 @@
+{
+  "name": "Support for S.T.A.L.K.E.R. Shadow of Chernobyl",
+  "author": "Wyrm",
+  "version": "0.0.8",
+  "description": "Extension that adds unofficial support for S.T.A.L.K.E.R.: Shadow of Chernobyl to Vortex.",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Support for S.T.A.L.K.E.R. Shadow of Chernobyl v0.0.8.7z",
+  "bundled": false,
+  "modId": 78
+}

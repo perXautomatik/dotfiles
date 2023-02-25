@@ -1,0 +1,13 @@
+
+town_event_outcast.sprite.png
+size: 149,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 32 copy
+  rotate: false
+  xy: 2, 2
+  size: 145, 214
+  orig: 145, 214
+  offset: 0, 0
+  index: -1

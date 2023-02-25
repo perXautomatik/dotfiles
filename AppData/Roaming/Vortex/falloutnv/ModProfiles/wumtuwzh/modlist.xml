@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<virtualModActivator fileVersion="0.3.0.0">
+  <modList>
+    <modInfo modId="57248" downloadId="" updatedDownloadId="" modName="Big Mountain Transportalponder Teleport Fix" modFileName="Transportalponder Fix and Companions-57248-1-0.zip" modNewFileName="" modFilePath="E:\Games\Nexus Mod Manager\FalloutNV\Mods" FileVersion="1.0">
+      <fileLink realPath="Transportalponder Fix and Companions-57248-1-0\TransportalponderFixandCompanions.esp" virtualPath="TransportalponderFixandCompanions.esp">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+    </modInfo>
+    <modInfo modId="" downloadId="" updatedDownloadId="" modName="Elianora's Awesomised Sink 1.3-56162-1-3" modFileName="Elianora's Awesomised Sink 1.3-56162-1-3.rar" modNewFileName="" modFilePath="E:\Games\Nexus Mod Manager\FalloutNV\Mods" FileVersion="">
+      <fileLink realPath="Elianora's Awesomised Sink 1.3-56162-1-3\TheSinkRemodel.esp" virtualPath="TheSinkRemodel.esp">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="Elianora's Awesomised Sink 1.3-56162-1-3\TheSinkRemodel.bsa" virtualPath="TheSinkRemodel.bsa">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+    </modInfo>
+    <modInfo modId="" downloadId="" updatedDownloadId="" modName="Sortomatic Addon by kingharvest-56162-sortomatic" modFileName="Sortomatic Addon by kingharvest-56162-sortomatic.rar" modNewFileName="" modFilePath="E:\Games\Nexus Mod Manager\FalloutNV\Mods" FileVersion="">
+      <fileLink realPath="Sortomatic Addon by kingharvest-56162-sortomatic\unnamed.png" virtualPath="unnamed.png">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="Sortomatic Addon by kingharvest-56162-sortomatic\SinkRemodelSortomatic.esp" virtualPath="SinkRemodelSortomatic.esp">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+    </modInfo>
+    <modInfo modId="" downloadId="" updatedDownloadId="" modName="Sortomatic_v1_3-41142-1-3" modFileName="Sortomatic_v1_3-41142-1-3.7z" modNewFileName="" modFilePath="E:\Games\Nexus Mod Manager\FalloutNV\Mods" FileVersion="">
+      <fileLink realPath="Sortomatic_v1_3-41142-1-3\Sortomatic.esm" virtualPath="Sortomatic.esm">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+    </modInfo>
+    <modInfo modId="" downloadId="" updatedDownloadId="" modName="BrotherhoodHouseAlliance_1-1-37729-1-1" modFileName="BrotherhoodHouseAlliance_1-1-37729-1-1.zip" modNewFileName="" modFilePath="E:\Games\Nexus Mod Manager\FalloutNV\Mods" FileVersion="">
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_000021CC_1.ogg" virtualPath="Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_000021CC_1.ogg">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_000021CC_2.ogg" virtualPath="Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_000021CC_2.ogg">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_000021CC_3.ogg" virtualPath="Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_000021CC_3.ogg">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_000021CD_1.ogg" virtualPath="Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_000021CD_1.ogg">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_00002790_1.ogg" virtualPath="Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_00002790_1.ogg">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_00002792_1.ogg" virtualPath="Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_00002792_1.ogg">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_00002A72_1.ogg" virtualPath="Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_00002A72_1.ogg">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_00002A72_2.ogg" virtualPath="Sound\Voice\Brotherhood and House Alliance.esp\creatureuniquemrhouse\VDialogueM_VDialogueMrHous_00002A72_2.ogg">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+      <fileLink realPath="BrotherhoodHouseAlliance_1-1-37729-1-1\Brotherhood and House Alliance.esp" virtualPath="Brotherhood and House Alliance.esp">
+        <linkPriority>0</linkPriority>
+        <isActive>True</isActive>
+      </fileLink>
+    </modInfo>
+  </modList>
+</virtualModActivator>

@@ -1,0 +1,1216 @@
+Sun, 10 Jul 2022 17:36:22 GMT - debug: checking if state db needs to be upgraded
+Sun, 10 Jul 2022 17:36:22 GMT - debug: updating state backups
+Sun, 10 Jul 2022 17:36:24 GMT - debug: setting up extended store
+Sun, 10 Jul 2022 17:36:24 GMT - info: set extension version name=game-witcher3, info={"name":"Game: The Witcher 3","author":"Black Tree Gaming Ltd.","version":"1.4.18","description":"Support for The Witcher 3","bundled":true}
+Sun, 10 Jul 2022 17:36:24 GMT - info: set extension version name=game-x4foundations, info={"name":"Game: X4: Foundations","author":"Homonoia Studios Ltd.","version":"1.0.3","description":"Support for X4: Foundations","bundled":true}
+Sun, 10 Jul 2022 17:36:24 GMT - info: set extension version name=game-bladeandsorcery, info={"name":"Game: Blade & Sorcery","author":"Black Tree Gaming Ltd.","version":"0.2.14","description":"Support for Blade & Sorcery","bundled":true}
+Sun, 10 Jul 2022 17:36:29 GMT - info: state backup created ms=5510, size=15493699
+Sun, 10 Jul 2022 17:36:29 GMT - debug: once extension=nexus_integration
+Sun, 10 Jul 2022 17:36:29 GMT - debug: once extension=updater
+Sun, 10 Jul 2022 17:36:29 GMT - debug: once extension=recovery
+Sun, 10 Jul 2022 17:36:29 GMT - debug: once extension=gamebryo-plugin-management
+Sun, 10 Jul 2022 17:36:30 GMT - debug: once done
+Sun, 10 Jul 2022 17:36:30 GMT - debug: checking admin rights
+Sun, 10 Jul 2022 17:36:30 GMT - debug: checking if migration is required
+Sun, 10 Jul 2022 17:36:30 GMT - debug: setting up error handlers
+Sun, 10 Jul 2022 17:36:30 GMT - debug: starting user interface
+Sun, 10 Jul 2022 17:36:30 GMT - debug: creating main window
+Sun, 10 Jul 2022 17:36:30 GMT - info: Epic games launcher not found error=Unknown error
+Sun, 10 Jul 2022 17:36:30 GMT - debug: renderer process started pid=56232
+Sun, 10 Jul 2022 17:36:31 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Baldur's Gate 3 v1.0.5
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Bayonetta - Vortex Extension v0.9.0, loadTime=95, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:31 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Blade & Sorcery v0.2.8
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Borderlands 2 User Extension v1.0.0, loadTime=93, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Builtin Mod Browser v1.0.4.1, loadTime=106, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Clear Update v1.0.2, loadTime=85, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Compare Profiles v0.0.2, loadTime=93, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Compare Profiles v0.0.2.1, loadTime=97, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Copy Mod Page Link v0.0.1, loadTime=195, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Developer Tools v1.0.0, loadTime=84, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:31 GMT - debug: loaded extension name=Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3, loadTime=95, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - Don't Starve Together Support v1.1.1, loadTime=98, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - DOOM (2016) Support v1.0.1, loadTime=122, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Dragon Age 2 v1.0.1
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - Fable Anniversary Vortex Extension v1.0.1, loadTime=93, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Fallout 3 v1.0.2
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Fallout_ New Vegas v1.0.1
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - Modlist Backup v0.3.2, loadTime=93, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - Modlist Backup v0.3.2.1, loadTime=149, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - More MO2 like Vortex Theme v1.5
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Stardew Valley v0.2.7
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - The Witcher 3 v1.3.8
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Torchlight II v1.0.1
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - Unreal Engine Mod Installer v1.1.0, loadTime=71, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Valheim Support v1.0.20
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - Valheim Support v1.0.22, loadTime=103, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - Vortex Showcase v0.2.1, loadTime=89, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - World of Tanks v1.0.1
+Sun, 10 Jul 2022 17:36:32 GMT - debug: extension directory contains no index.js file extensionPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - X4_ Foundations v1.0.2
+Sun, 10 Jul 2022 17:36:32 GMT - debug: loaded extension name=Vortex Extension Update - xEdit Cleaning Extension v1.0.12, loadTime=95, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=Vortex Extension Update - xEdit Cleaning Extension v1.0.12.1, loadTime=96, location=C:\Users\Användaren\AppData\Roaming\Vortex\plugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=changelog-dashlet, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=collections, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=common-interpreters, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=documentation, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=extension-dashlet, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=feedback, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=fnis-integration, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-7daystodie, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-ahatintime, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-baldursgate3, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-battletech, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-bladeandsorcery, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-bloodstainedritualofthenight, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-breakingwheel, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-codevein, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-conanexiles, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-daggerfallunity, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-darkestdungeon, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-darksouls, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-darksouls2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-dawnofman, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-divinityoriginalsin2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-dmc5, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-dragonage, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-dragonage2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-dragons-dogma, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-elex, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-enderal, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-factorio, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-fallout3, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-fallout4, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-fallout4vr, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-falloutnv, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-galciv3, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-gardenpaws, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-greedfall, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-grimdawn, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-grimrock, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-kenshi, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-kerbalspaceprogram, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-kingdomcome-deliverance, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-masterchiefcollection, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-microsoftflightsimulator, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-monster-hunter-world, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-morrowind, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-mount-and-blade, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-mount-and-blade2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-nehrim, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-neverwinter-nights, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-neverwinter-nights2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-nomanssky, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-oblivion, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-oni, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-pathfinderkingmaker, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-pathfinderwrathoftherighteous, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-pillarsofeternity2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-prisonarchitect, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-re2remake, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-re3remake, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-rimworld, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-sekiro, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-shadowrunreturns, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-sims3, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-sims4, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-skyrim, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-skyrimse, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-skyrimvr, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-spyroreignitedtrilogy, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-starbound, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-stardewvalley, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-stateofdecay, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-subnautica, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-subnauticabelowzero, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-survivingmars, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-sw-kotor, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-teamfortress2, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-teso, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-torchlight2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-totalwarthreekingdoms, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-untitledgoose, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-vtmbloodlines, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-warthunder, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-witcher, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-witcher2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-witcher3, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-wolcen, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-worldoftanks, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-x4foundations, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-xcom2, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=game-xrebirth, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamebryo-archive-check, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamebryo-archive-invalidation, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamebryo-ba2-support, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamebryo-bsa-support, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamebryo-plugin-indexlock, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamebryo-plugin-management, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamebryo-savegame-management, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamebryo-test-settings, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gameinfo-steam, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamestore-gog, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamestore-origin, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamestore-uplay, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gamestore-xbox, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=gameversion-hash, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=issue-tracker, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=local-gamesettings, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=meta-editor, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=mo-import, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=mod-content, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=mod-dependency-manager, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=mod-highlight, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=mod-report, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=modtype-bepinex, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=modtype-dinput, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=modtype-dragonage, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=modtype-enb, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=modtype-gedosato, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=modtype-harmony-patcher, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=modtype-umm, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=mtframework-arc-support, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=new-file-monitor, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=nmm-import-tool, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=open-directory, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=quickbms-support, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=re-engine-wrapper, loadTime=1, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=script-extender-error-check, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=script-extender-installer, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=test-gameversion, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=test-setup, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=theme-switcher, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - debug: loaded extension name=titlebar-launcher, loadTime=0, location=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins
+Sun, 10 Jul 2022 17:36:33 GMT - info: outdated extensions numOutdated=0
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=settings_interface, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\settings_interface
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=settings_application, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\settings_application
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=about_dialog, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\about_dialog
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=diagnostics_files, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\diagnostics_files
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=dashboard, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\dashboard
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=starter_dashlet, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\starter_dashlet
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=firststeps_dashlet, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\firststeps_dashlet
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=mod_load_order, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\mod_load_order
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=file_based_loadorder, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\file_based_loadorder
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=mod_management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\mod_management
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=category_management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\category_management
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=profile_management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\profile_management
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=nexus_integration, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\nexus_integration
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=download_management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\download_management
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=gameversion_management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\gameversion_management
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=gamemode_management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\gamemode_management
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=announcement_dashlet, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\announcement_dashlet
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=symlink_activator, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\symlink_activator
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=symlink_activator_elevate, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\symlink_activator_elevate
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=hardlink_activator, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\hardlink_activator
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=move_activator, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\move_activator
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=null_activator, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\null_activator
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=updater, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\updater
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=installer_fomod, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\installer_fomod
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=installer_nested_fomod, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\installer_nested_fomod
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=instructions_overlay, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\instructions_overlay
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=harmony_injector, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\harmony_injector
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=settings_metaserver, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\settings_metaserver
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=test_runner, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\test_runner
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=extension_manager, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\extension_manager
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=ini_prep, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\ini_prep
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=news_dashlet, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\news_dashlet
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=sticky_mods, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\sticky_mods
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=browser, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\browser
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=recovery, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\recovery
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=file_preview, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\file_preview
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=tool_variables_base, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\tool_variables_base
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=history_management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\history_management
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=analytics, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\analytics
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=onboarding_dashlet, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\extensions\onboarding_dashlet
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=Vortex Extension Update - Bayonetta - Vortex Extension v0.9.0, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Bayonetta - Vortex Extension v0.9.0
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=Vortex Extension Update - Borderlands 2 User Extension v1.0.0, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Borderlands 2 User Extension v1.0.0
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=Vortex Extension Update - Builtin Mod Browser v1.0.4.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1
+Sun, 10 Jul 2022 17:36:33 GMT - warn: couldn't initialize extension name=Vortex Extension Update - Builtin Mod Browser v1.0.4.1, err=Cannot find module 'react-bootstrap'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html, stack=Error: Cannot find module 'react-bootstrap'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at i._resolveFilename (node:electron/js2c/renderer_init:33:1095)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at i._load (node:electron/js2c/renderer_init:33:356)
+    at Function._load (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:9254:187)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at Module.require (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:8837:13)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at react-bootstrap (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js:658:18)
+    at __webpack_require__ (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js:21:30)
+    at ./src/BrowseView.tsx (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js:509:53)
+    at __webpack_require__ (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js:21:30)
+    at ./src/index.ts (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js:598:22)
+    at __webpack_require__ (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js:21:30)
+    at \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Builtin Mod Browser v1.0.4.1\index.js:85:18
+Sun, 10 Jul 2022 17:36:33 GMT - info: init extension name=Vortex Extension Update - Clear Update v1.0.2, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Clear Update v1.0.2
+Sun, 10 Jul 2022 17:36:34 GMT - info: init extension name=Vortex Extension Update - Compare Profiles v0.0.2, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Compare Profiles v0.0.2
+Sun, 10 Jul 2022 17:36:34 GMT - info: init extension name=Vortex Extension Update - Compare Profiles v0.0.2.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Compare Profiles v0.0.2.1
+Sun, 10 Jul 2022 17:36:35 GMT - info: init extension name=Vortex Extension Update - Copy Mod Page Link v0.0.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Copy Mod Page Link v0.0.1
+Sun, 10 Jul 2022 17:36:35 GMT - info: init extension name=Vortex Extension Update - Developer Tools v1.0.0, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Developer Tools v1.0.0
+Sun, 10 Jul 2022 17:36:35 GMT - info: init extension name=Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3
+Sun, 10 Jul 2022 17:36:36 GMT - warn: couldn't initialize extension name=Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3, err=Cannot find module 'redux-act'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html, stack=Error: Cannot find module 'redux-act'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at i._resolveFilename (node:electron/js2c/renderer_init:33:1095)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at i._load (node:electron/js2c/renderer_init:33:356)
+    at Function._load (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:9254:187)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at Module.require (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:8837:13)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at redux-act (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js:23356:18)
+    at __webpack_require__ (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js:21:30)
+    at ./src/index.ts (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js:22553:21)
+    at __webpack_require__ (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js:21:30)
+    at \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js:85:18
+    at Object.<anonymous> (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js:88:10)
+    at Object.<anonymous> (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Diablo II Resurrected Game Support v0.1.3\index.js:23450:3)
+Sun, 10 Jul 2022 17:36:36 GMT - info: init extension name=Vortex Extension Update - Don't Starve Together Support v1.1.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Don't Starve Together Support v1.1.1
+Sun, 10 Jul 2022 17:36:36 GMT - info: init extension name=Vortex Extension Update - DOOM (2016) Support v1.0.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - DOOM (2016) Support v1.0.1
+Sun, 10 Jul 2022 17:36:36 GMT - warn: couldn't initialize extension name=Vortex Extension Update - DOOM (2016) Support v1.0.1, err=Cannot find module 'bluebird'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - DOOM (2016) Support v1.0.1\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html, stack=Error: Cannot find module 'bluebird'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - DOOM (2016) Support v1.0.1\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at i._resolveFilename (node:electron/js2c/renderer_init:33:1095)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at i._load (node:electron/js2c/renderer_init:33:356)
+    at Function._load (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:9254:187)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at Module.require (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:8837:13)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - DOOM (2016) Support v1.0.1\index.js:1:173)
+    at Object.<anonymous> (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - DOOM (2016) Support v1.0.1\index.js:112:3)
+    at Module._compile (node:internal/modules/cjs/loader:1118:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+Sun, 10 Jul 2022 17:36:36 GMT - info: init extension name=Vortex Extension Update - Fable Anniversary Vortex Extension v1.0.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Fable Anniversary Vortex Extension v1.0.1
+Sun, 10 Jul 2022 17:36:36 GMT - info: init extension name=Vortex Extension Update - Modlist Backup v0.3.2, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Modlist Backup v0.3.2
+Sun, 10 Jul 2022 17:36:36 GMT - info: init extension name=Vortex Extension Update - Modlist Backup v0.3.2.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Modlist Backup v0.3.2.1
+Sun, 10 Jul 2022 17:36:36 GMT - info: init extension name=Vortex Extension Update - Unreal Engine Mod Installer v1.1.0, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Unreal Engine Mod Installer v1.1.0
+Sun, 10 Jul 2022 17:36:37 GMT - info: init extension name=Vortex Extension Update - Valheim Support v1.0.22, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Valheim Support v1.0.22
+Sun, 10 Jul 2022 17:36:37 GMT - warn: couldn't initialize extension name=Vortex Extension Update - Valheim Support v1.0.22, err=Cannot find module 'bluebird'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Valheim Support v1.0.22\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html, stack=Error: Cannot find module 'bluebird'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Valheim Support v1.0.22\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at i._resolveFilename (node:electron/js2c/renderer_init:33:1095)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at i._load (node:electron/js2c/renderer_init:33:356)
+    at Function._load (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:9254:187)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at Module.require (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:8837:13)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Valheim Support v1.0.22\index.js:34:36)
+    at Object.<anonymous> (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Valheim Support v1.0.22\index.js:514:3)
+    at Module._compile (node:internal/modules/cjs/loader:1118:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+Sun, 10 Jul 2022 17:36:37 GMT - info: init extension name=Vortex Extension Update - Vortex Showcase v0.2.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Vortex Showcase v0.2.1
+Sun, 10 Jul 2022 17:36:37 GMT - warn: couldn't initialize extension name=Vortex Extension Update - Vortex Showcase v0.2.1, err=Cannot find module 'redux-act'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html, stack=Error: Cannot find module 'redux-act'
+Require stack:
+- \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\node_modules\vortex-run\lib\index.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js
+- C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\index.html
+    at Module._resolveFilename (node:internal/modules/cjs/loader:940:15)
+    at i._resolveFilename (node:electron/js2c/renderer_init:33:1095)
+    at Module._load (node:internal/modules/cjs/loader:785:27)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at i._load (node:electron/js2c/renderer_init:33:356)
+    at Function._load (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:9254:187)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at Module.require (C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\renderer.js:8837:13)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at redux-act (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js:11758:18)
+    at __webpack_require__ (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js:21:30)
+    at ./src/store.ts (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js:11291:21)
+    at __webpack_require__ (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js:21:30)
+    at ./src/index.ts (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js:10727:17)
+    at __webpack_require__ (\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js:21:30)
+    at \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Vortex Showcase v0.2.1\index.js:85:18
+Sun, 10 Jul 2022 17:36:37 GMT - info: init extension name=Vortex Extension Update - xEdit Cleaning Extension v1.0.12, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - xEdit Cleaning Extension v1.0.12
+Sun, 10 Jul 2022 17:36:37 GMT - info: init extension name=Vortex Extension Update - xEdit Cleaning Extension v1.0.12.1, path=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - xEdit Cleaning Extension v1.0.12.1
+Sun, 10 Jul 2022 17:36:37 GMT - info: init extension name=changelog-dashlet, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\changelog-dashlet
+Sun, 10 Jul 2022 17:36:37 GMT - info: init extension name=collections, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\collections
+Sun, 10 Jul 2022 17:36:37 GMT - info: init extension name=common-interpreters, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\common-interpreters
+Sun, 10 Jul 2022 17:36:37 GMT - info: init extension name=documentation, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\documentation
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=extension-dashlet, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\extension-dashlet
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=feedback, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\feedback
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=fnis-integration, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\fnis-integration
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-7daystodie, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-7daystodie
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-ahatintime, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-ahatintime
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-baldursgate3, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-baldursgate3
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-battletech, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-battletech
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-bladeandsorcery, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-bladeandsorcery
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-bloodstainedritualofthenight, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-bloodstainedritualofthenight
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-breakingwheel, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-breakingwheel
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-codevein, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-codevein
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-conanexiles, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-conanexiles
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-daggerfallunity, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-daggerfallunity
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-darkestdungeon, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-darkestdungeon
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-darksouls, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-darksouls
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-darksouls2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-darksouls2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-dawnofman, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-dawnofman
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-divinityoriginalsin2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-divinityoriginalsin2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-dmc5, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-dmc5
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-dragonage, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-dragonage
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-dragonage2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-dragonage2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-dragons-dogma, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-dragons-dogma
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-elex, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-elex
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-enderal, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-enderal
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-factorio, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-factorio
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-fallout3, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-fallout3
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-fallout4, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-fallout4
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-fallout4vr, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-fallout4vr
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-falloutnv, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-falloutnv
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-galciv3, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-galciv3
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-gardenpaws, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-gardenpaws
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-greedfall, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-greedfall
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-grimdawn, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-grimdawn
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-grimrock, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-grimrock
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-kenshi, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-kenshi
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-kerbalspaceprogram, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-kerbalspaceprogram
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-kingdomcome-deliverance, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-kingdomcome-deliverance
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-masterchiefcollection, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-masterchiefcollection
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-microsoftflightsimulator, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-microsoftflightsimulator
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-monster-hunter-world, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-monster-hunter-world
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-morrowind, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-morrowind
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-mount-and-blade, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-mount-and-blade
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=Mount and Blade II Bannerlord support-90-0-1-1-1585574611, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-mount-and-blade2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-nehrim, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-nehrim
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-neverwinter-nights, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-neverwinter-nights
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-neverwinter-nights2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-neverwinter-nights2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-nomanssky, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-nomanssky
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-oblivion, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-oblivion
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-oni, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-oni
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-pathfinderkingmaker, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-pathfinderkingmaker
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-pathfinderwrathoftherighteous, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-pathfinderwrathoftherighteous
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-pillarsofeternity2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-pillarsofeternity2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-prisonarchitect, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-prisonarchitect
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-re2remake, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-re2remake
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-re3remake, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-re3remake
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-rimworld, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-rimworld
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-sekiro, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-sekiro
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-shadowrunreturns, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-shadowrunreturns
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-sims3, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-sims3
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-sims4, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-sims4
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-skyrim, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-skyrim
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-skyrimse, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-skyrimse
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-skyrimvr, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-skyrimvr
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-spyroreignitedtrilogy, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-spyroreignitedtrilogy
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-starbound, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-starbound
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-stardewvalley, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-stardewvalley
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-stateofdecay, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-stateofdecay
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-subnautica, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-subnautica
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-subnauticabelowzero, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-subnauticabelowzero
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-survivingmars, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-survivingmars
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-sw-kotor, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-sw-kotor
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-teamfortress2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-teamfortress2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-teso, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-teso
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-torchlight2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-torchlight2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-totalwarthreekingdoms, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-totalwarthreekingdoms
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-untitledgoose, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-untitledgoose
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-vtmbloodlines, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-vtmbloodlines
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-warthunder, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-warthunder
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-witcher, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-witcher
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-witcher2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-witcher2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-witcher3, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-witcher3
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-wolcen, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-wolcen
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-worldoftanks, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-worldoftanks
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-x4foundations, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-x4foundations
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-xcom2, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-xcom2
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=game-xrebirth, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-xrebirth
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamebryo-archive-check, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-archive-check
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamebryo-archive-invalidation, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-archive-invalidation
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamebryo-ba2-support, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-ba2-support
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamebryo-bsa-support, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-bsa-support
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamebryo-plugin-indexlock, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-plugin-indexlock
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamebryo-plugin-management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-plugin-management
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamebryo-savegame-management, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-savegame-management
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamebryo-test-settings, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-test-settings
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gameinfo-steam, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gameinfo-steam
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamestore-gog, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamestore-gog
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamestore-origin, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamestore-origin
+Sun, 10 Jul 2022 17:36:38 GMT - info: [gamestore-origin] Origin launcher not found error=Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamestore-uplay, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamestore-uplay
+Sun, 10 Jul 2022 17:36:38 GMT - info: [gamestore-uplay] uplay launcher not found error=Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gamestore-xbox, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamestore-xbox
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=gameversion-hash, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gameversion-hash
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=issue-tracker, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\issue-tracker
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=local-gamesettings, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\local-gamesettings
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=meta-editor, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\meta-editor
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=mo-import, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mo-import
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=mod-content, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-content
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=mod-dependency-manager, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-dependency-manager
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=mod-highlight, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-highlight
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=mod-report, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-report
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=modtype-bepinex, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\modtype-bepinex
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=modtype-dinput, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\modtype-dinput
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=modtype-dragonage, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\modtype-dragonage
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=modtype-enb, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\modtype-enb
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=modtype-gedosato, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\modtype-gedosato
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=modtype-harmony-patcher, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\modtype-harmony-patcher
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=modtype-umm, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\modtype-umm
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=mtframework-arc-support, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mtframework-arc-support
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=new-file-monitor, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\new-file-monitor
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=nmm-import-tool, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\nmm-import-tool
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=open-directory, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\open-directory
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=quickbms-support, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\quickbms-support
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=re-engine-wrapper, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\re-engine-wrapper
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=script-extender-error-check, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\script-extender-error-check
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=script-extender-installer, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\script-extender-installer
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=test-gameversion, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\test-gameversion
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=test-setup, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\test-setup
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=theme-switcher, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\theme-switcher
+Sun, 10 Jul 2022 17:36:38 GMT - info: init extension name=titlebar-launcher, path=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\titlebar-launcher
+Sun, 10 Jul 2022 17:36:38 GMT - debug: all extensions compatible
+Sun, 10 Jul 2022 17:36:38 GMT - info: all extensions initialized
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=primary-tool, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=valid-activator, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=valid-activator, eventType=settings-changed
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=validate-staging-folder, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=validate-staging-folder, eventType=settings-changed
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=verify-mod-transfers, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=verify-downloads-transfers, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=net-current, eventType=startup
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=net-current-harmony, eventType=startup
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=controlled-folder-access, eventType=startup
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=fnis-integration, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=tw3-mod-limit-breach, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=tw3-mod-limit-breach, eventType=mod-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=incompatible-mod-archives, eventType=plugins-changed
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=archive-backdate, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=plugins-locked, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=master-missing, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=master-missing, eventType=plugins-changed
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=rules-unfulfilled, eventType=loot-info-updated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=invalid-userlist, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=missing-groups, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=exceeded-plugin-limit, eventType=plugins-changed
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=oblivion-fonts, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=skyrim-fonts, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=xbox-incorrectly-set, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=redundant-file-overrides, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=bepinex-config-test, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=doorstop-config-test, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=misconfigured-script-extender, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=game-version, eventType=gamemode-activated
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=game-version, eventType=mod-installed
+Sun, 10 Jul 2022 17:36:38 GMT - debug: register test id=uninstall-entry, eventType=startup
+Sun, 10 Jul 2022 17:36:38 GMT - debug: renderer connected to store
+Sun, 10 Jul 2022 17:36:38 GMT - debug: window created
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting up tray icon
+Sun, 10 Jul 2022 17:36:38 GMT - debug: removing splash screen
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=settings_interface
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=file_based_loadorder
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=mod_management
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=category_management
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=profile_management
+Sun, 10 Jul 2022 17:36:38 GMT - debug: refresh profile gameId=falloutnv, id=r118K7Aq9, lastActivated=1657462988413, enabled=true, enabledTime=1657465627371, enabled=true, enabledTime=1657465190859, enabled=true, enabledTime=1657468728018, enabled=true, enabledTime=1657465598458, enabled=true, enabledTime=1657465587016, enabled=true, enabledTime=1657468823430, enabled=true, enabledTime=1657465023130, enabled=true, enabledTime=1657468788314, enabled=true, enabledTime=1657468557372, enabled=true, enabledTime=1657465443842, enabled=true, enabledTime=1657465703315, enabled=true, enabledTime=1657465311757, enabled=true, enabledTime=1657465335142, enabled=true, enabledTime=1657468559762, enabled=true, enabledTime=1657468429716, enabled=true, enabledTime=1657465130116, enabled=true, enabledTime=1657465417951, enabled=true, enabledTime=1657468641912, enabled=true, enabledTime=1657465860189, enabled=true, enabledTime=1657468813861, enabled=true, enabledTime=1657468821918, enabled=true, enabledTime=1657468575667, enabled=true, enabledTime=1657468714421, enabled=true, enabledTime=1657468605966, enabled=true, enabledTime=1657468709955, enabled=true, enabledTime=1657468784506, enabled=true, enabledTime=1657465344594, enabled=true, enabledTime=1657465347657, enabled=true, enabledTime=1657468820572, enabled=true, enabledTime=1657466023801, enabled=true, enabledTime=1657468440112, enabled=true, enabledTime=1657468626988, enabled=true, enabledTime=1657468716871, enabled=true, enabledTime=1657456218713, enabled=true, enabledTime=1657468576411, enabled=true, enabledTime=1657465762882, enabled=true, enabledTime=1657468495353, enabled=true, enabledTime=1657465609482, enabled=true, enabledTime=1657468812709, enabled=true, enabledTime=1657468631496, enabled=true, enabledTime=1657468778966, enabled=true, enabledTime=1657468623625, enabled=true, enabledTime=1657468825738, enabled=true, enabledTime=1657465675225, enabled=true, enabledTime=1657468818991, enabled=true, enabledTime=1657468750406, enabled=true, enabledTime=1657465183227, enabled=true, enabledTime=1657465337722, enabled=true, enabledTime=1657465374882, enabled=true, enabledTime=1657468444657, enabled=true, enabledTime=1657468442780, enabled=true, enabledTime=1657468449845, enabled=true, enabledTime=1657468611370, enabled=true, enabledTime=1657468536420, enabled=true, enabledTime=1657468817534, enabled=true, enabledTime=1657468786136, enabled=true, enabledTime=1657468757279, enabled=true, enabledTime=1657468771657, enabled=true, enabledTime=1657468786947, enabled=true, enabledTime=1657468427638, enabled=true, enabledTime=1657465506941, enabled=true, enabledTime=1657468752479, enabled=true, enabledTime=1657468753052, enabled=true, enabledTime=1657468756250, enabled=true, enabledTime=1657468573547, enabled=true, enabledTime=1657465553723, enabled=true, enabledTime=1657468821176, enabled=true, enabledTime=1657464990589, enabled=true, enabledTime=1657468726611, enabled=true, enabledTime=1657468719362, enabled=true, enabledTime=1657468499406, enabled=true, enabledTime=1657468606745, enabled=true, enabledTime=1657468578602, enabled=true, enabledTime=1657468644132, enabled=true, enabledTime=1657468729782, enabled=true, enabledTime=1657468715328, enabled=true, enabledTime=1657468728751, enabled=true, enabledTime=1657468625261, enabled=true, enabledTime=1657468626302, enabled=true, enabledTime=1657468454025, enabled=true, enabledTime=1657465349688, enabled=true, enabledTime=1657468751788, enabled=true, enabledTime=1657468561893, enabled=true, enabledTime=1657468609650, enabled=true, enabledTime=1657468612039, enabled=true, enabledTime=1657468556212, enabled=true, enabledTime=1657468554749, enabled=true, enabledTime=1657468502455, enabled=true, enabledTime=1657465620718, enabled=true, enabledTime=1657468812055, enabled=true, enabledTime=1657468629450, enabled=true, enabledTime=1657468649275, enabled=true, enabledTime=1657468776564, enabled=true, enabledTime=1657468660693, enabled=true, enabledTime=1657468608521, enabled=true, enabledTime=1657468773769, enabled=true, enabledTime=1657468755585, enabled=true, enabledTime=1657465339361, enabled=true, enabledTime=1657468777269, enabled=true, enabledTime=1657465815263, enabled=true, enabledTime=1657465340843, enabled=true, enabledTime=1657468574844, enabled=true, enabledTime=1657466021831, enabled=true, enabledTime=1657468727328, enabled=true, enabledTime=1657465480411, enabled=true, enabledTime=1657468770010, enabled=true, enabledTime=1657468562930, enabled=true, enabledTime=1657468772851, enabled=true, enabledTime=1657468437327, enabled=true, enabledTime=1657468641283, enabled=true, enabledTime=1657468782474, enabled=true, enabledTime=1657468814490, enabled=true, enabledTime=1657468434772, enabled=true, enabledTime=1657465498319, enabled=true, enabledTime=1657468661791, enabled=true, enabledTime=1657468451995, enabled=true, enabledTime=1657465141176, enabled=true, enabledTime=1657465474877, enabled=true, enabledTime=1657468725940, enabled=true, enabledTime=1657468552936, enabled=true, enabledTime=1657468503873, enabled=true, enabledTime=1657468826570, enabled=true, enabledTime=1657468787695, enabled=true, enabledTime=1657468774679, enabled=true, enabledTime=1657468775925, enabled=true, enabledTime=1657468775312, enabled=true, enabledTime=1657468819815, enabled=true, enabledTime=1657468643309, enabled=true, enabledTime=1657468624370, enabled=true, enabledTime=1657468781688, enabled=true, enabledTime=1657468558826, enabled=true, enabledTime=1657468628662, enabled=true, enabledTime=1657465748204, enabled=true, enabledTime=1657468579280, enabled=true, enabledTime=1657468574278, enabled=true, enabledTime=1657468607568, enabled=true, enabledTime=1657468713812, enabled=true, enabledTime=1657468751078, enabled=true, enabledTime=1657468725186, enabled=true, enabledTime=1657468799813, enabled=true, enabledTime=1657468713105, enabled=true, enabledTime=1657468627867, enabled=true, enabledTime=1657465415928, enabled=true, enabledTime=1657465673618, enabled=true, enabledTime=1657468431636, enabled=true, enabledTime=1657468800912, enabled=true, enabledTime=1657468824312, enabled=true, enabledTime=1657468815863, enabled=true, enabledTime=1657468754700, name=Default
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=nexus_integration
+Sun, 10 Jul 2022 17:36:38 GMT - info: init api key isUndefined=true
+Sun, 10 Jul 2022 17:36:38 GMT - info: assigning api key isUndefined=false
+Sun, 10 Jul 2022 17:36:38 GMT - info: register protocol protocol=nxm
+Sun, 10 Jul 2022 17:36:38 GMT - info: fixing mod meta info count=0
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=download_management
+Sun, 10 Jul 2022 17:36:38 GMT - info: deregister protocol
+Sun, 10 Jul 2022 17:36:38 GMT - info: deregister protocol
+Sun, 10 Jul 2022 17:36:38 GMT - info: register protocol protocol=http
+Sun, 10 Jul 2022 17:36:38 GMT - info: register protocol protocol=https
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=gameversion_management
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=gamemode_management
+Sun, 10 Jul 2022 17:36:38 GMT - info: reloading game store games steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:38 GMT - debug: change game mode newGameId=falloutnv
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setup game mode falloutnv
+Sun, 10 Jul 2022 17:36:38 GMT - debug: resolving Steam game paths
+Sun, 10 Jul 2022 17:36:38 GMT - debug: set game mode newMode=falloutnv
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=announcement_dashlet
+Sun, 10 Jul 2022 17:36:38 GMT - info: [gamestore-xbox] xbox store unignored entries: 31
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=symlink_activator_elevate
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=nwn, err=Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=neverwinter2, err=Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=worldoftanks, err=Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=thesims3, err=Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=thesims4, err=Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=witcher2, err=Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=untitledgoosegame, err=Game entry not found
+Sun, 10 Jul 2022 17:36:38 GMT - debug: found steam install folders steamPaths=[d:/steamv, D:\\SteamV, M:\\SteamLibrary]
+Sun, 10 Jul 2022 17:36:38 GMT - debug: reading steam install folder steamPath=d:/steamv
+Sun, 10 Jul 2022 17:36:38 GMT - debug: got steam manifests manifests=[appmanifest_228980.acf, appmanifest_262060.acf]
+Sun, 10 Jul 2022 17:36:38 GMT - debug: reading steam install folder steamPath=D:\\SteamV
+Sun, 10 Jul 2022 17:36:38 GMT - debug: got steam manifests manifests=[appmanifest_228980.acf, appmanifest_262060.acf]
+Sun, 10 Jul 2022 17:36:38 GMT - debug: reading steam install folder steamPath=M:\\SteamLibrary
+Sun, 10 Jul 2022 17:36:38 GMT - debug: got steam manifests manifests=[appmanifest_1113680.acf, appmanifest_22380.acf, appmanifest_460790.acf, appmanifest_47810.acf]
+Sun, 10 Jul 2022 17:36:38 GMT - info: discovering relative tools M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 17:36:38 GMT - debug: sync to profile profilePath=C:\Users\Användaren\AppData\Roaming\Vortex\falloutnv\profiles\r118K7Aq9, sourceFiles=[C:\Users\Användaren\AppData\Local\falloutnv\plugins.txt, C:\Users\Användaren\AppData\Local\falloutnv\loadorder.txt]
+Sun, 10 Jul 2022 17:36:38 GMT - info: done reading steam libraries
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=battletech, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=darksouls, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=darksouls2, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=devilmaycry5, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=galacticcivilizations3, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=gardenpaws, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=greedfall, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=kenshi, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=kerbalspaceprogram, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=oxygennotincluded, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=pathfinderkingmaker, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=prisonarchitect, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=residentevil32020, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=sekiro, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=wolcenlordsofmayhem, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=fableanniversary, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=ahatintime, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=elex, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=teamfortress2, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=totalwarthreekingdoms, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: Game entry not found pattern=629730, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=breakingwheel, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=dragonsdogma, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=factorio, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=grimrock, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=mountandblade, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=mbwarband, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=mbwithfireandsword, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=nwnee, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=nomanssky, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=teso, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=warthunder, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=xrebirth, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=divinityoriginalsin2, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=divinityoriginalsin2definitiveedition, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=enderal, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=fallout4vr, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=grimdawn, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=monsterhunterworld, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=shadowrunreturns, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=skyrim, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=dawnofman, err=WinApiException: Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=residentevil22019, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=kotor, err=WinApiException: Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=kotor2, err=WinApiException: Unknown error
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=kingdomcomedeliverance, err=Game entry not found
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=survivingmars, err=Game entry not found
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=witcher, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=stateofdecay, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:38 GMT - debug: Game entry not found pattern=22330 - 900883, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:38 GMT - debug: game not found id=bladeandsorcery, err=Game entry not found
+Sun, 10 Jul 2022 17:36:38 GMT - info: found game name=Darkest Dungeon, location=d:\steamv\steamapps\common\DarkestDungeon
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=updater
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=test_runner
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=extension_manager
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=ini_prep
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=sticky_mods
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=browser
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=file_preview
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=analytics
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=Vortex Extension Update - Compare Profiles v0.0.2
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=ref-profile, filePath=\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Compare Profiles v0.0.2\style.scss
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=Vortex Extension Update - Compare Profiles v0.0.2.1
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=ref-profile, filePath=\\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Compare Profiles v0.0.2.1\style.scss
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=Vortex Extension Update - Copy Mod Page Link v0.0.1
+Sun, 10 Jul 2022 17:36:38 GMT - debug: initialising your new extension!
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=Vortex Extension Update - xEdit Cleaning Extension v1.0.12
+Sun, 10 Jul 2022 17:36:38 GMT - info: read font \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - xEdit Cleaning Extension v1.0.12/xediticon.svg
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=Vortex Extension Update - xEdit Cleaning Extension v1.0.12.1
+Sun, 10 Jul 2022 17:36:38 GMT - info: read font \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - xEdit Cleaning Extension v1.0.12.1/xediticon.svg
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=changelog-dashlet
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=changelog, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\changelog-dashlet\changelog.scss
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=collections
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=collections, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\collections\style.scss
+Sun, 10 Jul 2022 17:36:38 GMT - info: read font C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\collections\icons.svg
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=documentation
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=documentation, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\documentation\documentation.scss
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=extension-dashlet
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=extensions-dashlet, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\extension-dashlet\extensions-dashlet.scss
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=feedback
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=feedback, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\feedback\feedback.scss
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=fnis-integration
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-baldursgate3
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-battletech
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-bladeandsorcery
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-divinityoriginalsin2
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-galciv3
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-greedfall
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-kingdomcome-deliverance
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-masterchiefcollection
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=masterchiefstyle, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-masterchiefcollection\masterchief.scss
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-morrowind
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=Mount and Blade II Bannerlord support-90-0-1-1-1585574611
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-pathfinderwrathoftherighteous
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-pillarsofeternity2
+Sun, 10 Jul 2022 17:36:38 GMT - debug: setting stylesheet key=game-pillarsofeternity2, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-pillarsofeternity2\stylesheet.scss
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-stardewvalley
+Sun, 10 Jul 2022 17:36:38 GMT - debug: once extension=game-untitledgoose
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=game-witcher3
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=gamebryo-archive-invalidation
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=gamebryo-plugin-indexlock
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=gamebryo-plugin-management
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=BethesdaSoftworks.SkyrimSE-PC, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=BethesdaSoftworks.TESOblivion-PC, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=borderlands2, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=322330, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=440900, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=15543 - 1238040, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=Chickadee - 261550 - 1802539526 - 1564781494, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=1184370 - 1207187357, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=200710 - 1958228073, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=299990, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=602410, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=251570, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=1456460669 - 1086940, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=692850, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=678960, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=22300 - 22370 - 1454315831, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=976730 - Microsoft.Chelan, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=Microsoft.FlightSimulator - 1250410, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=1014940, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=560130 - VersusEvil.PillarsofEternity2-PC, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=611670, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=996580, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=413150 - 1453375253, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=1495134320 - 1207664663 - 1207664643 - 1640424747 - 499450 - 292030, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: tool not found id=xcom2-devtools, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: tool not found id=XCom2-WarOfTheChosen\XComGame\Mods-devtools, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=skyrimse, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=oblivion, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=borderlands2, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=dontstarvetogether, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=conanexiles, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=mountandblade2bannerlord, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=pathfinderwrathoftherighteous, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=torchlight2, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=7daystodie, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=baldursgate3, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=bloodstainedritualofthenight, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=codevein, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=halothemasterchiefcollection, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=microsoftflightsimulator, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=nehrim, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=skyrimvr, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=spyroreignitedtrilogy, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=witcher3, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=dragonage2, err=Unknown error
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=pillarsofeternity2, err=Not in Steam library
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=Fallout 3.*, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=268500 - 1482002159 - 3be3c4d681bc46b3b8b26c5df3ae0a18, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: Game entry not found pattern=268500 - 1482002159 - 3be3c4d681bc46b3b8b26c5df3ae0a18, availableStores=steam, epic, gog, origin, uplay, xbox
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=fallout3, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=xcom2, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=xcom2-wotc, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game not found id=stardewvalley, err=Game entry not found
+Sun, 10 Jul 2022 17:36:39 GMT - info: found game name=Bayonetta, location=M:\SteamLibrary\steamapps\common\Bayonetta
+Sun, 10 Jul 2022 17:36:39 GMT - info: found game name=Dragon Age: Origins, location=M:\SteamLibrary\steamapps\common\Dragon Age Ultimate Edition
+Sun, 10 Jul 2022 17:36:39 GMT - info: discovering relative tools M:\SteamLibrary\steamapps\common\Bayonetta
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=plugin-management, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-plugin-management\plugin_management.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=gamebryo-savegame-management
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=savegame-management, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-savegame-management\savegame_management.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=gamebryo-test-settings
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=gameversion-hash
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=issue-tracker
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=issue-tracker, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\issue-tracker\issue_tracker.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=local-gamesettings
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=meta-editor
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=meta-editor, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\meta-editor\metaeditor.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=mo-import
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=mo-import, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mo-import\mo-import.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=mod-content
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=mod-content, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-content\mod-content.scss
+Sun, 10 Jul 2022 17:36:39 GMT - info: read font C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-content\icons.svg
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=mod-dependency-manager
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=dependency-manager, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-dependency-manager\dependency-manager.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=mod-highlight
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=mod-highlight, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-highlight\mod-highlight.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=mod-report
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=modtype-bepinex
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=modtype-gedosato
+Sun, 10 Jul 2022 17:36:39 GMT - info: [modtype-gedosato] GeDoSaTo not installed
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=modtype-harmony-patcher
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=modtype-umm
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=new-file-monitor
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=nmm-import-tool
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=nmm-import-tool, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\nmm-import-tool\import-tool.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=open-directory
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=quickbms-support
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=re-engine-wrapper
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=script-extender-error-check
+Sun, 10 Jul 2022 17:36:39 GMT - debug: setting stylesheet key=script-extender-error-check, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\script-extender-error-check\style.scss
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=script-extender-installer
+Sun, 10 Jul 2022 17:36:39 GMT - debug: once extension=theme-switcher
+Sun, 10 Jul 2022 17:36:39 GMT - info: discovering relative tools M:\SteamLibrary\steamapps\common\Dragon Age Ultimate Edition
+Sun, 10 Jul 2022 17:36:39 GMT - info: discovering relative tools d:\steamv\steamapps\common\DarkestDungeon
+Sun, 10 Jul 2022 17:36:39 GMT - info: remove disappeared games
+Sun, 10 Jul 2022 17:36:39 GMT - info: [gamebryo-plugin-management] Attempting to create a game handle with game path "M:\SteamLibrary\steamapps\common\Fallout New Vegas" and local path "C:\Users\Användaren\AppData\Local\falloutnv"
+Sun, 10 Jul 2022 17:36:39 GMT - info: [gamebryo-plugin-management] Initialising load order data for game of type 3 at: M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 17:36:39 GMT - debug: running checks event=settings-changed, count=2
+Sun, 10 Jul 2022 17:36:39 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 17:36:39 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 17:36:39 GMT - debug: all checks completed event=settings-changed
+Sun, 10 Jul 2022 17:36:39 GMT - debug: game discovery found invalid game path gameName=Bayonetta, path=M:\SteamLibrary\steamapps\common\Bayonetta
+Sun, 10 Jul 2022 17:36:40 GMT - warn: [feedback] Failed to check for native dumps ENOENT: no such file or directory, scandir 'C:\Users\Användaren\AppData\Roaming\Vortex\temp\Vortex Crashes\reports'
+Sun, 10 Jul 2022 17:36:40 GMT - info: extension list outdated, will update
+Sun, 10 Jul 2022 17:36:40 GMT - info: downloading extension list url=https://raw.githubusercontent.com/Nexus-Mods/Vortex/announcements/extensions_1_4.json
+Sun, 10 Jul 2022 17:36:40 GMT - debug: slow initialization extension=theme-switcher, elapsed=1068
+Sun, 10 Jul 2022 17:36:40 GMT - debug: once extension=titlebar-launcher
+Sun, 10 Jul 2022 17:36:40 GMT - debug: setting stylesheet key=titlebar-launcher, filePath=C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\titlebar-launcher\titlebar-launcher.scss
+Sun, 10 Jul 2022 17:36:40 GMT - debug: once done
+Sun, 10 Jul 2022 17:36:40 GMT - info: activating language lang=en
+Sun, 10 Jul 2022 17:36:41 GMT - debug: using cached css cached=[functions, variables, details, thirdparty, desktop, \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Compare Profiles v0.0.2.1\style.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\changelog-dashlet\changelog.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\collections\style.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\documentation\documentation.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\extension-dashlet\extensions-dashlet.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\feedback\feedback.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-masterchiefcollection\masterchief.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-pillarsofeternity2\stylesheet.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-plugin-management\plugin_management.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-savegame-management\savegame_management.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\issue-tracker\issue_tracker.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\meta-editor\metaeditor.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mo-import\mo-import.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-content\mod-content.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-dependency-manager\dependency-manager.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-highlight\mod-highlight.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\nmm-import-tool\import-tool.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\script-extender-error-check\style.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\titlebar-launcher\titlebar-launcher.scss, style], stylesheets=[functions, variables, details, thirdparty, desktop, \\100.84.7.151\NetBackup\Vortex Mods\plugins\Vortex Extension Update - Compare Profiles v0.0.2.1\style.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\changelog-dashlet\changelog.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\collections\style.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\documentation\documentation.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\extension-dashlet\extensions-dashlet.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\feedback\feedback.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-masterchiefcollection\masterchief.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\game-pillarsofeternity2\stylesheet.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-plugin-management\plugin_management.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\gamebryo-savegame-management\savegame_management.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\issue-tracker\issue_tracker.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\meta-editor\metaeditor.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mo-import\mo-import.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-content\mod-content.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-dependency-manager\dependency-manager.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\mod-highlight\mod-highlight.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\nmm-import-tool\import-tool.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\script-extender-error-check\style.scss, C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar.unpacked\bundledPlugins\titlebar-launcher\titlebar-launcher.scss, style]
+Sun, 10 Jul 2022 17:36:41 GMT - debug: updating css cache, just to be sure
+Sun, 10 Jul 2022 17:36:41 GMT - debug: running checks event=settings-changed, count=2
+Sun, 10 Jul 2022 17:36:41 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 17:36:41 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 17:36:41 GMT - debug: all checks completed event=settings-changed
+Sun, 10 Jul 2022 17:36:41 GMT - info: css result
+Sun, 10 Jul 2022 17:36:41 GMT - debug: style rendered successfully
+Sun, 10 Jul 2022 17:36:41 GMT - debug: render with language language=en
+Sun, 10 Jul 2022 17:36:41 GMT - info: read font C:\Program Files\Black Tree Gaming Ltd\Vortex\resources\app.asar\assets\fonts\icons.svg
+Sun, 10 Jul 2022 17:36:42 GMT - debug: running checks event=startup, count=4
+Sun, 10 Jul 2022 17:36:43 GMT - debug: extension list received
+Sun, 10 Jul 2022 17:36:43 GMT - debug: all checks completed event=startup
+Sun, 10 Jul 2022 17:36:44 GMT - info: sass compiled in 1322ms
+Sun, 10 Jul 2022 17:36:44 GMT - info: extensions can be updated updateable=[Game: Baldur's Gate 3 v1.0.5 -> Game: Baldur's Gate 3 v1.1.7, Game: Blade & Sorcery v0.2.8 -> Game: Blade & Sorcery v0.2.13, Game: Stardew Valley v0.2.7 -> Game: Stardew Valley v0.2.8, Game: The Witcher 3 v1.3.8 -> Game: The Witcher 3 v1.4.16, Game: World of Tanks v1.0.1 -> Game: World of Tanks v1.0.2, Game: X4: Foundations v1.0.2 -> Game: X4: Foundations v1.0.3]
+Sun, 10 Jul 2022 17:36:44 GMT - info: css updated
+Sun, 10 Jul 2022 17:36:44 GMT - info: potential match M:\SteamLibrary\steamapps\common\Fallout New Vegas\FalloutNV.exe
+Sun, 10 Jul 2022 17:36:44 GMT - info: potential match M:\SteamLibrary\steamapps\common\Fallout New Vegas\nvse_loader.exe
+Sun, 10 Jul 2022 17:36:44 GMT - info: set channel channel=beta, manual=false
+Sun, 10 Jul 2022 17:36:44 GMT - info: checking for vortex update
+Sun, 10 Jul 2022 17:36:45 GMT - debug: file hash calculated fileName=Vortex Extension Update - Blade & Sorcery v0.2.13.7z, md5Hash=b26a4711acb7681bbca613118d0d21b9, fileSize=74828
+Sun, 10 Jul 2022 17:36:45 GMT - debug: file hash calculated fileName=Vortex Extension Update - X4_ Foundations v1.0.3.7z, md5Hash=836ff454cdf95fe8d4200b543488423a, fileSize=34964
+Sun, 10 Jul 2022 17:36:45 GMT - debug: file hash calculated fileName=Vortex Extension Update - World of Tanks v1.0.2.7z, md5Hash=93b627ae6d2095330f81f600d1511fb7, fileSize=28533
+Sun, 10 Jul 2022 17:36:45 GMT - debug: file hash calculated fileName=Vortex Extension Update - Stardew Valley v0.2.8.7z, md5Hash=69ec49fe9f71e81181cffa0f6c4915fa, fileSize=53662
+Sun, 10 Jul 2022 17:36:45 GMT - info: no update available
+Sun, 10 Jul 2022 17:36:45 GMT - info: completed update check
+Sun, 10 Jul 2022 17:36:46 GMT - debug: sync to profile complete
+Sun, 10 Jul 2022 17:36:46 GMT - debug: running checks event=profile-did-change, count=0
+Sun, 10 Jul 2022 17:36:46 GMT - debug: all checks completed event=profile-did-change
+Sun, 10 Jul 2022 17:36:46 GMT - debug: file hash calculated fileName=Vortex Extension Update - The Witcher 3 v1.4.16.7z, md5Hash=ea7eed379c660729e482be2d4e39e0b2, fileSize=170240
+Sun, 10 Jul 2022 17:36:46 GMT - debug: file hash calculated fileName=Vortex Extension Update - Baldur's Gate 3 v1.1.7.7z, md5Hash=1a92bc88124752571ded7b02c53a68fe, fileSize=927501
+Sun, 10 Jul 2022 17:36:46 GMT - debug: [gamebryo-plugin-management] synching plugins pluginsPath=C:\Users\Användaren\AppData\Local\falloutnv
+Sun, 10 Jul 2022 17:36:46 GMT - debug: [gamebryo-plugin-management] deserialize format=original, pluginsFile=C:\Users\Användaren\AppData\Local\falloutnv\plugins.txt, loadOrderFile=C:\Users\Användaren\AppData\Local\falloutnv\loadorder.txt
+Sun, 10 Jul 2022 17:36:47 GMT - debug: running checks event=plugins-changed, count=3
+Sun, 10 Jul 2022 17:39:45 GMT - warn: warning notification message=Missing Masters
+Sun, 10 Jul 2022 17:39:45 GMT - debug: all checks completed event=plugins-changed
+Sun, 10 Jul 2022 17:39:45 GMT - debug: initialised
+Sun, 10 Jul 2022 17:39:45 GMT - debug: updated estimate searchPath=M:\SteamLibrary\steamapps\common\Fallout New Vegas, estimatedDirectories=13422247.096, seenDirectories=1174, topLevelTotal=2, processedTL=1
+Sun, 10 Jul 2022 17:39:45 GMT - debug: updated estimate searchPath=M:\SteamLibrary\steamapps\common\Fallout New Vegas, estimatedDirectories=10738035.026800001, seenDirectories=1175, topLevelTotal=2, processedTL=2
+Sun, 10 Jul 2022 17:39:45 GMT - info: changed game mode newMode=falloutnv
+Sun, 10 Jul 2022 17:39:45 GMT - debug: gamemode activated falloutnv
+Sun, 10 Jul 2022 17:39:45 GMT - debug: [mod-dependency-manager] game mode activated, updating conflict info gameMode=falloutnv
+Sun, 10 Jul 2022 17:39:46 GMT - info: sorting mods modCount=148
+Sun, 10 Jul 2022 17:39:46 GMT - debug: running checks event=gamemode-activated, count=20
+Sun, 10 Jul 2022 17:39:46 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 17:39:46 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 17:39:46 GMT - warn: warning notification message=Missing Masters
+Sun, 10 Jul 2022 17:39:48 GMT - info: [script-extender-error-check] Failed to check for script extender errors ENOENT: no such file or directory, stat 'M:\SteamLibrary\steamapps\common\Fallout New Vegas\nvse.log'
+Sun, 10 Jul 2022 17:39:48 GMT - info: [script-extender-error-check] Failed to check for script extender errors ENOENT: no such file or directory, stat 'M:\SteamLibrary\steamapps\common\Fallout New Vegas\nvse_editor.log'
+Sun, 10 Jul 2022 17:39:49 GMT - info: [gamebryo-plugin-management] updated loot masterlist
+Sun, 10 Jul 2022 17:39:49 GMT - info: done sorting mods elapsed=3.1, numRules=1
+Sun, 10 Jul 2022 17:39:51 GMT - info: downloads missing meta information dlIds=[B1Gctk_rdsc, B1bZd1dHOo9, rJAlOJOBusq, S1xrE0Fuoq, SJWSECF_o5, HJMHNAYuoc, B1QHNRKuo9, H1PECt_s5, SJxwVAYuo5]
+Sun, 10 Jul 2022 17:39:51 GMT - info: removing previous versions of the extension previousVersions=[game-x4foundations], newPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - X4_ Foundations v1.0.3.7z, paths=[C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - X4_ Foundations v1.0.2]
+Sun, 10 Jul 2022 17:39:51 GMT - info: removing previous versions of the extension previousVersions=[game-stardewvalley], newPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Stardew Valley v0.2.8.7z, paths=[C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Stardew Valley v0.2.7]
+Sun, 10 Jul 2022 17:39:51 GMT - debug: done querying info archiveIds=[B1Gctk_rdsc, B1bZd1dHOo9, rJAlOJOBusq, S1xrE0Fuoq, SJWSECF_o5, HJMHNAYuoc, B1QHNRKuo9, H1PECt_s5, SJxwVAYuo5]
+Sun, 10 Jul 2022 17:39:51 GMT - info: removing previous versions of the extension previousVersions=[game-witcher3], newPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - The Witcher 3 v1.4.16.7z, paths=[C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - The Witcher 3 v1.3.8]
+Sun, 10 Jul 2022 17:39:51 GMT - info: removing previous versions of the extension previousVersions=[game-baldursgate3], newPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Baldur's Gate 3 v1.1.7.7z, paths=[C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Baldur's Gate 3 v1.0.5]
+Sun, 10 Jul 2022 17:39:51 GMT - info: removing previous versions of the extension previousVersions=[game-worldoftanks], newPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - World of Tanks v1.0.2.7z, paths=[C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - World of Tanks v1.0.1]
+Sun, 10 Jul 2022 17:39:51 GMT - info: removing previous versions of the extension previousVersions=[game-bladeandsorcery], newPath=C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Blade & Sorcery v0.2.13.7z, paths=[C:\Users\Användaren\AppData\Roaming\Vortex\plugins\Vortex Extension Update - Blade & Sorcery v0.2.8]
+Sun, 10 Jul 2022 17:39:51 GMT - debug: [mod-dependency-manager] check conflicts and rules gameMode=falloutnv
+Sun, 10 Jul 2022 17:39:51 GMT - info: [gamebryo-plugin-management] Loading the current load order state.
+Sun, 10 Jul 2022 17:40:07 GMT - debug: [gamebryo-plugin-management] requesting plugin info 0=realistic wildlife.esp, 1=agilityspeed.esp, 2=armorpadding.esp, 3=autoscof.esp, 4=buy or steal.esp, 5=combat-paclassicstatsscaling.esp, 6=meleecleave.esp, 7=cpcn_aidmenu.esp, 8=automated reloading bench.esp, 9=rbx.esm, 10=coverofdarkness.esp, 11=crafting alike items.esp, 12=craft overhaul 1.1.esp, 13=dlc weapon integration.esp, 14=owbtransportalponder.esp, 15=dustsurvivorpack.esp, 16=bouncing natural breasts.esp, 17=lfox bottle that water.esp, 18=blood transfusion.esp, 19=extremely degraded weapons and armor of killed npcs.esp, 20=maintenanceenergy.esp, 21=yamspinupparade.esp, 22=fnv diagnostics.esp, 23=f4staticpatch.esp, 24=brotherhood and house alliance.esp, 25=faster terminals.esp, 26=female characters fallout new vegas part10.esp, 27=female characters fallout new vegas part9.esp, 28=maintenancecqc.esp, 29=female-lobotomites.esp, 30=fiendswithoutenergyweapons.esp, 31=moddable unique weps.esp, 32=food scraps.esp, 33=fyty - moveable statics to items clean.esm, 34=fyty - companion framework.esp, 35=fyty - robotician.esp, 36=convenient fast travel markers.esp, 37=expandedcraftingfromtheeastcoast.esp, 38=clean-quicksave.esp, 39=hireandrecruit2.esp, 40=fpsweaponwheel.esp, 41=map_icon_overhaul.esp, 42=improved raiders.esp, 43=xfo - 9a - enemies - ai revamp.esp, 44=xfo - 9da - enemies - npc healing - low.esp, 45=xfo - 9db - enemies - npc healing - med.esp, 46=xfo - 9dc - enemies - npc healing - high.esp, 47=intimacyoverhaul_v1.0.esm, 48=inventory search.esp, 49=fo4_ingredients.esm, 50=jip improved recipe menu.esp, 51=endless warfare.esm, 52=ashensmetalarmourcomponentpack.esp, 53=female characters fallout new vegas part1.esp, 54=female characters fallout new vegas part2.esp, 55=female characters fallout new vegas part3.esp, 56=female characters fallout new vegas part4.esp, 57=female characters fallout new vegas part5.esp, 58=female characters fallout new vegas part6.esp, 59=female characters fallout new vegas part7.esp, 60=female characters fallout new vegas part8.esp, 61=maintenance.esp, 62=karmic murder nvse.esp, 63=hud extended - ambient temperature.esp, 64=hud extended.esp, 65=lessintrusivekillcam.esp, 66=headslots.esp, 67=looteverything_fordlcsupport.esp, 68=bigemptydisharmony.esp, 69=live as a scavenger.esp, 70=iws-core-civilians.esp, 71=iws-core-guards.esp, 72=iws-core-patrols.esp, 73=iws-core.esm, 74=iws-dm.esp, 75=iws-hh.esp, 76=iws-lr.esp, 77=iws-owb.esp, 78=jip minimap.esp, 79=morecookingwithdlc.esp, 80=livres plus utiles - more useful books.esp, 81=scrapper.esp, 82=npcleveloverhaul.esp, 83=npcssprint.esp, 84=npcsuseammo-more ammo.esp, 85=npcsuseammo.esp, 86=junkroundsplus.esp, 87=justvisualobjectives.esp, 88=nvmorecactuswater.esp, 89=newvegasraiders 1.1.esp, 90=1nivvslarmors.esp, 91=karmic balance.esp, 92=legionlorefriendly.esp, 93=fo4crafting.esp, 94=ownerless trash.esp, 95=livedismember.esp, 96=pickcompanionarmorandweapons.esp, 97=lootmenu.esp, 98=player combat priority.esp, 99=massive object ownership revamp merged.esp, 100=impact.esp, 101=primary needs hud.esm, 102=medtektraumakit_edisleado.esp, 103=misc items recipes v1.1.esp, 104=jip companions command & control.esp, 105=mod loot - 1. really rare.esp, 106=mod loot - 2. reasonably rare.esp, 107=mod loot - 3. a bit common.esp, 108=mod loot - 4. just plain cheating.esp, 109=mod loot - 5. pretty common.esp, 110=retrievablethrowables.esp, 111=mojave arsenal.esp, 112=rocketsouvenirnolongeraquestitem.esp, 113=root 'n loot.esp, 114=scrapelectronicitems.esp, 115=sarcasticoffensiveloadingscreens-ttw.esp, 116=sarcasticoffensiveloadingscreens.esp, 117=scrapandrepair.esp, 118=mojave raiders.esp, 119=nvinteriors_core.esm, 120=simple reputation and disguises.esp, 121=sinkremodelsortomatic.esp, 122=takeyourtime.esp, 123=the mod configuration menu.esp, 124=mapmarkers.esp, 125=practicemakesperfect.esp, 126=radar.esp, 127=unofficial patch nvse.esp, 128=wastelandencounters.esm, 129=unequipbrokenarmor.esp, 130=the wasteland recycler-all (plus chem weights).esp, 131=water overhaul.esp, 132=updatedwearglassesandmasks.esp, 133=hitownership.esp, 134=bobbypin_quest_item.esp, 135=quick grenade hotkey.esp, 136=realistic_repair_nv.esp, 137=roberts_newvegas.esp, 138=escape_rope.esp, 139=true wasteland economy.esp, 140=aworldofpain(preview).esm, 141=combatarmourpartswithmerchant.esp, 142=skill bonus misc. items - complete edition.esp, 143=weapon mod expansion.esm, 144=weapon mod expansion.esp, 145=weaponmodsexpanded.esp, 146=caravanpack.esm, 147=classicpack.esm, 148=deadmoney.esm, 149=falloutnv.esm, 150=gunrunnersarsenal.esm, 151=honesthearts.esm, 152=lonesomeroad.esm, 153=mercenarypack.esm, 154=oldworldblues.esm, 155=tribalpack.esm
+Sun, 10 Jul 2022 17:40:11 GMT - debug: running checks event=settings-changed, count=2
+Sun, 10 Jul 2022 17:40:11 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 17:40:11 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 17:40:11 GMT - debug: all checks completed event=settings-changed
+Sun, 10 Jul 2022 17:40:15 GMT - debug: running checks event=settings-changed, count=2
+Sun, 10 Jul 2022 17:40:15 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 17:40:15 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 17:40:15 GMT - debug: all checks completed event=settings-changed
+Sun, 10 Jul 2022 17:41:05 GMT - debug: all checks completed event=gamemode-activated
+Sun, 10 Jul 2022 17:41:06 GMT - debug: [gamebryo-plugin-management] sorting plugins finished elapsedMS=68653
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] Loading 156 plugins using 12 threads, with up to 13 plugins per thread.
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] Sorting groups according to their load after data
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] Current load order: 
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FalloutNV.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		DeadMoney.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		HonestHearts.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		OldWorldBlues.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		LonesomeRoad.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		GunRunnersArsenal.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		ClassicPack.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		MercenaryPack.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		TribalPack.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		CaravanPack.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FyTy - Moveable Statics To Items Clean.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IntimacyOverhaul_v1.0.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		NVInteriors_Core.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Primary Needs HUD.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		RBX.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Endless Warfare.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IWS-Core.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		AWorldOfPain(Preview).esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FO4_ingredients.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Weapon Mod Expansion.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		WastelandEncounters.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		MaintenanceEnergy.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		MaintenanceCQC.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Player Combat Priority.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		map_icon_overhaul.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Escape_Rope.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Combat-PAClassicStatsScaling.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		AgilitySpeed.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		bobbypin_quest_item.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		F4StaticPatch.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		HitOwnership.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Massive Object Ownership Revamp Merged.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FO4Crafting.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Root 'n Loot.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		NPCLevelOverhaul.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		ScrapElectronicItems.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FNV Diagnostics.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		LiveDismember.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		NPCsSprint.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		HireAndRecruit2.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		RetrievableThrowables.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		JustVisualObjectives.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Quick Grenade Hotkey.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Livres plus utiles - More Useful Books.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Buy or Steal.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		JIP MiniMap.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Karmic Murder NVSE.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		TakeYourTime.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Extremely Degraded Weapons and Armor of Killed NPCs.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		UnequipBrokenArmor.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		JIP Improved Recipe Menu.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		female-lobotomites.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		LootMenu.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		PracticeMakesPerfect.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part3.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		The Wasteland Recycler-All (Plus Chem Weights).esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		YamsPinupParade.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Mojave Raiders.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part1.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Scrapper.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		WeaponModsExpanded.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part7.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		LegionLoreFriendly.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Realistic_Repair_NV.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Craft Overhaul 1.1.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		MoreCookingWithDLC.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FyTy - Companion Framework.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FyTy - Robotician.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Skill Bonus Misc. Items - Complete Edition.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		DustSurvivorPack.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Mojave Arsenal.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Water Overhaul.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		1nivVSLArmors.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Automated Reloading Bench.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Bouncing Natural Breasts.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Convenient Fast Travel Markers.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		CombatArmourPartsWithMerchant.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Brotherhood and House Alliance.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		SarcasticOffensiveLoadingScreens-TTW.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		SarcasticOffensiveLoadingScreens.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Simple Reputation and Disguises.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		LootEverything_ForDlcSupport.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		AshensMetalArmourComponentPack.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		NewVegasRaiders 1.1.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Improved Raiders.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		updatedWearGlassesandMasks.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		OWBTransportalPonder.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		The Mod Configuration Menu.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FPSWeaponWheel.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Realistic Wildlife.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Faster Terminals.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		LessIntrusiveKillCam.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		NPCsUseAmmo-More Ammo.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Weapon Mod Expansion.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		NPCsUseAmmo.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		LFox Bottle That Water.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		CPCN_AidMenu.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		BigEmptyDisharmony.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		NVmorecactuswater.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		crafting alike items.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		HUD Extended - Ambient Temperature.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		HUD Extended.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IWS-Core-Civilians.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IWS-Core-Guards.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IWS-Core-Patrols.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IWS-DM.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IWS-HH.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IWS-LR.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IWS-OWB.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		XFO - 9a - Enemies - AI revamp.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		XFO - 9da - Enemies - NPC Healing - low.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		XFO - 9db - Enemies - NPC Healing - med.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		XFO - 9dc - Enemies - NPC Healing - high.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Mod Loot - 1. Really Rare.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Mod Loot - 2. Reasonably Rare.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Mod Loot - 3. A Bit Common.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Mod Loot - 4. Just Plain Cheating.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Mod Loot - 5. Pretty Common.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		PickCompanionArmorandWeapons.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		DLC Weapon Integration.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part9.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part10.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Radar.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part2.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part4.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part5.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part6.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Female Characters Fallout New Vegas part8.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		JIP Companions Command & Control.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Misc Items Recipes v1.1.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		RocketSouvenirNoLongerAQuestItem.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		FiendsWithoutEnergyWeapons.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Roberts_NewVegas.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		medtektraumakit_edisleado.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		AutoSCOF.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		SinkRemodelSortomatic.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Blood Transfusion.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Live as a scavenger.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Ownerless Trash.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		IMPACT.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Moddable Unique Weps.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Clean-QuickSave.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		ScrapAndRepair.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		HeadSlots.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Karmic Balance.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		True Wasteland Economy.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Unofficial Patch NVSE.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		MeleeCleave.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		JunkRoundsPlus.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		ExpandedCraftingFromTheEastCoast.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Inventory Search.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		MapMarkers.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		CoverOfDarkness.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Food Scraps.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		Maintenance.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 		ArmorPadding.esp
+Sun, 10 Jul 2022 17:41:06 GMT - debug: running checks event=plugins-changed, count=3
+Sun, 10 Jul 2022 17:41:06 GMT - warn: warning notification message=Missing Masters
+Sun, 10 Jul 2022 17:41:06 GMT - debug: all checks completed event=plugins-changed
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] Calculated order: 
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FalloutNV.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	DeadMoney.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	HonestHearts.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	OldWorldBlues.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	LonesomeRoad.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	GunRunnersArsenal.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	ClassicPack.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	MercenaryPack.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	TribalPack.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	CaravanPack.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FyTy - Moveable Statics To Items Clean.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IntimacyOverhaul_v1.0.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	NVInteriors_Core.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Primary Needs HUD.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	RBX.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Endless Warfare.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IWS-Core.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	AWorldOfPain(Preview).esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FO4_ingredients.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Weapon Mod Expansion.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	WastelandEncounters.esm
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	MaintenanceEnergy.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	MaintenanceCQC.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Player Combat Priority.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	map_icon_overhaul.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Escape_Rope.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Combat-PAClassicStatsScaling.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	AgilitySpeed.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	bobbypin_quest_item.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	F4StaticPatch.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	HitOwnership.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Massive Object Ownership Revamp Merged.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FO4Crafting.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Root 'n Loot.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	NPCLevelOverhaul.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	ScrapElectronicItems.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FNV Diagnostics.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	LiveDismember.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	NPCsSprint.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	HireAndRecruit2.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	RetrievableThrowables.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	JustVisualObjectives.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Quick Grenade Hotkey.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Livres plus utiles - More Useful Books.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Buy or Steal.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	JIP MiniMap.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Karmic Murder NVSE.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	TakeYourTime.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Extremely Degraded Weapons and Armor of Killed NPCs.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	UnequipBrokenArmor.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	JIP Improved Recipe Menu.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	female-lobotomites.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	LootMenu.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	PracticeMakesPerfect.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part3.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	The Wasteland Recycler-All (Plus Chem Weights).esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	YamsPinupParade.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Mojave Raiders.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part1.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Scrapper.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	WeaponModsExpanded.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part7.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	LegionLoreFriendly.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Realistic_Repair_NV.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Craft Overhaul 1.1.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	MoreCookingWithDLC.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FyTy - Companion Framework.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FyTy - Robotician.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Skill Bonus Misc. Items - Complete Edition.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	DustSurvivorPack.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Mojave Arsenal.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Water Overhaul.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	1nivVSLArmors.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Automated Reloading Bench.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Bouncing Natural Breasts.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Convenient Fast Travel Markers.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	CombatArmourPartsWithMerchant.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Brotherhood and House Alliance.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	SarcasticOffensiveLoadingScreens-TTW.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	SarcasticOffensiveLoadingScreens.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Simple Reputation and Disguises.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	LootEverything_ForDlcSupport.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	AshensMetalArmourComponentPack.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	NewVegasRaiders 1.1.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Improved Raiders.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	updatedWearGlassesandMasks.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	OWBTransportalPonder.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	The Mod Configuration Menu.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FPSWeaponWheel.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Realistic Wildlife.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Faster Terminals.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	LessIntrusiveKillCam.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	NPCsUseAmmo-More Ammo.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Weapon Mod Expansion.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	NPCsUseAmmo.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	LFox Bottle That Water.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	CPCN_AidMenu.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	BigEmptyDisharmony.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	NVmorecactuswater.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	crafting alike items.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	HUD Extended - Ambient Temperature.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	HUD Extended.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IWS-Core-Civilians.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IWS-Core-Guards.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IWS-Core-Patrols.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IWS-DM.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IWS-HH.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IWS-LR.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IWS-OWB.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	XFO - 9a - Enemies - AI revamp.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	XFO - 9da - Enemies - NPC Healing - low.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	XFO - 9db - Enemies - NPC Healing - med.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	XFO - 9dc - Enemies - NPC Healing - high.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Mod Loot - 1. Really Rare.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Mod Loot - 2. Reasonably Rare.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Mod Loot - 3. A Bit Common.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Mod Loot - 4. Just Plain Cheating.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Mod Loot - 5. Pretty Common.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	PickCompanionArmorandWeapons.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	DLC Weapon Integration.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part9.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part10.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Radar.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part2.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part4.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part5.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part6.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Female Characters Fallout New Vegas part8.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	JIP Companions Command & Control.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Misc Items Recipes v1.1.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	RocketSouvenirNoLongerAQuestItem.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	FiendsWithoutEnergyWeapons.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Roberts_NewVegas.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	medtektraumakit_edisleado.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	AutoSCOF.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	SinkRemodelSortomatic.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Blood Transfusion.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Live as a scavenger.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Ownerless Trash.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	IMPACT.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Moddable Unique Weps.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Clean-QuickSave.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	ScrapAndRepair.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	HeadSlots.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Karmic Balance.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	True Wasteland Economy.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Unofficial Patch NVSE.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	MeleeCleave.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	JunkRoundsPlus.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	ExpandedCraftingFromTheEastCoast.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Inventory Search.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	MapMarkers.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	CoverOfDarkness.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Food Scraps.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	Maintenance.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] 	ArmorPadding.esp
+Sun, 10 Jul 2022 17:41:06 GMT - info: [gamebryo-plugin-management] Loading the current load order state.
+Sun, 10 Jul 2022 17:41:07 GMT - info: [gamebryo-plugin-management] Loading 156 plugins using 12 threads, with up to 13 plugins per thread.
+Sun, 10 Jul 2022 17:41:08 GMT - debug: running checks event=loot-info-updated, count=1
+Sun, 10 Jul 2022 17:41:08 GMT - warn: warning notification message=Plugin dependencies unfulfilled
+Sun, 10 Jul 2022 17:41:08 GMT - debug: all checks completed event=loot-info-updated
+Sun, 10 Jul 2022 18:36:33 GMT - info: state backup created ms=3923, size=15493697
+Sun, 10 Jul 2022 18:49:11 GMT - debug: running checks event=settings-changed, count=2
+Sun, 10 Jul 2022 18:49:11 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 18:49:11 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 18:49:11 GMT - debug: all checks completed event=settings-changed
+Sun, 10 Jul 2022 18:49:42 GMT - debug: running checks event=settings-changed, count=2
+Sun, 10 Jul 2022 18:49:42 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 18:49:42 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 18:49:42 GMT - debug: all checks completed event=settings-changed
+Sun, 10 Jul 2022 18:50:51 GMT - debug: running checks event=settings-changed, count=2
+Sun, 10 Jul 2022 18:50:51 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 18:50:51 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 18:50:51 GMT - debug: all checks completed event=settings-changed
+Sun, 10 Jul 2022 18:51:40 GMT - debug: running checks event=settings-changed, count=2
+Sun, 10 Jul 2022 18:51:40 GMT - debug: [checking staging folder] gameMode=falloutnv
+Sun, 10 Jul 2022 18:51:40 GMT - debug: [checking staging folder] stagingPath=M:\VortexMods, vortexPath=C:\Program Files\Black Tree Gaming Ltd\Vortex, gamePath=M:\SteamLibrary\steamapps\common\Fallout New Vegas
+Sun, 10 Jul 2022 18:51:40 GMT - debug: all checks completed event=settings-changed
+Sun, 10 Jul 2022 18:51:43 GMT - info: Vortex closing
+Sun, 10 Jul 2022 18:51:43 GMT - info: clean application end

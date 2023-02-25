@@ -1,0 +1,10 @@
+{
+  "name": "Game: Baldur's Gate 3",
+  "author": "Black Tree Gaming Ltd.",
+  "version": "1.0.5",
+  "description": "Support for Baldur's Gate 3 (Early Access)",
+  "type": "game",
+  "path": "C:\\Users\\dator\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Baldur's Gate 3 v1.0.5.7z",
+  "bundled": false,
+  "id": "game-baldursgate3"
+}

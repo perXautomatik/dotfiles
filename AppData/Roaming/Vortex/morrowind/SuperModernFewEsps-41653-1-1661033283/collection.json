@@ -1,0 +1,1155 @@
+{
+  "info": {
+    "author": "PerAutomatik",
+    "authorUrl": "",
+    "name": "SuperModernFewEsps",
+    "description": "",
+    "domainName": "morrowind",
+    "gameVersions": [
+      "1.6.0.1820"
+    ]
+  },
+  "mods": [
+    {
+      "name": "4NM_Alchemy",
+      "version": "5.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 47062,
+        "fileId": 1000026938,
+        "md5": "cfe9521f3b0d8b660b376f8cde505f64",
+        "fileSize": 717936,
+        "logicalFilename": "4NM_Alchemy",
+        "updatePolicy": "prefer",
+        "tag": "i2I7f2QFQ"
+      },
+      "author": "Archimag",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "4NM_Training",
+      "version": "5.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 47035,
+        "fileId": 1000016859,
+        "md5": "f0ceeab3974f884676603fc3890a0faf",
+        "fileSize": 5819,
+        "logicalFilename": "4NM_Training",
+        "updatePolicy": "prefer",
+        "tag": "YWJpJr-td8"
+      },
+      "author": "Archimag",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Alchemical Knowledge",
+      "version": "1.3.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 49036,
+        "fileId": 1000028115,
+        "md5": "9978d2195e2a10e14926f511e9334f28",
+        "fileSize": 8538,
+        "logicalFilename": "Alchemical Knowledge",
+        "updatePolicy": "prefer",
+        "tag": "Um1cY5ePiw"
+      },
+      "author": "VitruvianGuar",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Argonian Anatomy",
+      "version": "1.2.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 50101,
+        "fileId": 1000032416,
+        "md5": "740cbaf3b9f0fb5b74a17e3213cc74b8",
+        "fileSize": 225483,
+        "logicalFilename": "Argonian Anatomy",
+        "updatePolicy": "prefer",
+        "tag": "bM9tyeaaLT"
+      },
+      "author": "C3pa - QwertyQuit - HedgeHog12",
+      "details": {
+        "category": "Animations"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Better Bodies",
+      "version": "2.2.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 42399,
+        "fileId": 1000000097,
+        "md5": "b5b2afc6575858e64950daba88b61214",
+        "fileSize": 6874136,
+        "logicalFilename": "Better Bodies",
+        "updatePolicy": "prefer",
+        "tag": "n8iXaCo9ep"
+      },
+      "choices": {
+        "options": [
+          {
+            "name": "Options",
+            "groups": [
+              {
+                "name": "Options",
+                "choices": [
+                  {
+                    "name": "Nude",
+                    "idx": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "fomod"
+      },
+      "author": "Psychodog Studios",
+      "details": {
+        "category": "Models and Textures"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Better Clothes Complete",
+      "version": "0.0.0-Complete",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 47549,
+        "fileId": 1000029209,
+        "md5": "942927a1de366d4c6171946c28a360e6",
+        "fileSize": 87765303,
+        "logicalFilename": "Better Clothes Complete",
+        "updatePolicy": "prefer",
+        "tag": "dl86_s689N"
+      },
+      "author": "Better Clothes team and other authors who provided fixes and further versions",
+      "details": {
+        "category": "Items, Objects, and Clothes"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Better Dialogue Font",
+      "version": "1.1.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 36873,
+        "fileId": 74900,
+        "md5": "1f7e41ceba685b470a0a6726c5339f46",
+        "fileSize": 32327,
+        "logicalFilename": "Better Dialogue Font",
+        "updatePolicy": "prefer",
+        "tag": "cFJhJxNIoK"
+      },
+      "author": "Hrnchamd",
+      "details": {
+        "category": "Miscellaneous"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Better Heads",
+      "version": "1.1.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 42226,
+        "fileId": 90583,
+        "md5": "452b64967e0ba6003e300836cf818b4c",
+        "fileSize": 11174415,
+        "logicalFilename": "Better Heads",
+        "updatePolicy": "prefer",
+        "tag": "PbqW2vHvu9"
+      },
+      "author": "Gorg and Arathrax",
+      "details": {
+        "category": "Models and Textures"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Better_Clothes",
+      "version": "1.1.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 42262,
+        "fileId": 90673,
+        "md5": "a3a6a1db24d02cc808dc9e933502e7d0",
+        "fileSize": 15644082,
+        "logicalFilename": "Better_Clothes",
+        "updatePolicy": "prefer",
+        "tag": "b2rk-pteqb"
+      },
+      "author": "PsychoDog Team",
+      "details": {
+        "category": "Items, Objects, and Clothes"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Book Worm",
+      "version": "1.4.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 46851,
+        "fileId": 1000026054,
+        "md5": "646e587fffabbe5ad2ab7ff1f40341a9",
+        "fileSize": 1780,
+        "logicalFilename": "Book Worm",
+        "updatePolicy": "prefer",
+        "tag": "J418ZRkxjt"
+      },
+      "author": "Merlord",
+      "details": {
+        "category": "User Interface"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Companion Health Bars MWSE Lua Script",
+      "version": "0.4.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 46136,
+        "fileId": 1000027573,
+        "md5": "66254d86a23668a2b5d7f36eaf5b22e5",
+        "fileSize": 5751,
+        "logicalFilename": "Companion Health Bars MWSE Lua Script",
+        "updatePolicy": "prefer",
+        "tag": "Y0__2ynWce"
+      },
+      "author": "mesafoo",
+      "details": {
+        "category": "Companions"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Continue",
+      "version": "1.6.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 45952,
+        "fileId": 1000017779,
+        "md5": "076d18a432f84d2122db49a6cdb1a283",
+        "fileSize": 12707,
+        "logicalFilename": "Continue",
+        "updatePolicy": "prefer",
+        "tag": "NkXC33KPaQ"
+      },
+      "author": "Petethegoat",
+      "details": {
+        "category": "Utilities"
+      },
+      "phase": 0
+    },
+    {
+      "name": "DRIP - Dynamic Randomised Item Properties - DRIP",
+      "version": "1.0.13",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 51242,
+        "fileId": 1000031620,
+        "md5": "991217325a3b0277b4d08e41b148499b",
+        "fileSize": 239295,
+        "logicalFilename": "DRIP",
+        "updatePolicy": "prefer",
+        "tag": "C4gK0__nbW"
+      },
+      "author": "Merlord",
+      "details": {
+        "category": "Weapons and Armour"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Easy Escort v1.3",
+      "version": "1.3.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 45712,
+        "fileId": 1000025816,
+        "md5": "9ceedd91fbe3de997b19b4073fe18637",
+        "fileSize": 7718,
+        "logicalFilename": "Easy Escort v1.3",
+        "updatePolicy": "prefer",
+        "tag": "aOfcd1pWMM"
+      },
+      "author": "NullCascade",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Graphic Herbalism (Main File)",
+      "version": "1.3.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 43140,
+        "fileId": 1000003254,
+        "md5": "0fea18a614d55e47f59832c40a074a8a",
+        "fileSize": 464062,
+        "logicalFilename": "Graphic Herbalism (Main File)",
+        "updatePolicy": "prefer",
+        "tag": "hz4pFxQdoE"
+      },
+      "author": "ManaUser",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Graphic Herbalism MWSE - OpenMW",
+      "version": "0.0.0-1.04",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 46599,
+        "fileId": 1000014601,
+        "md5": "b02e82959e842872f7ba2fc76a4c406f",
+        "fileSize": 4047614,
+        "logicalFilename": "Graphic Herbalism MWSE - OpenMW",
+        "updatePolicy": "prefer",
+        "tag": "EpqwqYLHWv"
+      },
+      "author": "Stuporstar and Greatness7",
+      "details": {
+        "category": "Immersion"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Less Aggressive Creatures",
+      "version": "1.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 48292,
+        "fileId": 1000019121,
+        "md5": "6589ec55c185ae1c731e553b31d4507b",
+        "fileSize": 1107,
+        "logicalFilename": "Less Aggressive Creatures",
+        "updatePolicy": "prefer",
+        "tag": "VqlAW8do_yn"
+      },
+      "author": "Merlord",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Less Lame Leveled Spawns v1.0.0",
+      "version": "1.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 51059,
+        "fileId": 1000030329,
+        "md5": "9a0654a5c08f4872c91298b53812e954",
+        "fileSize": 5007,
+        "logicalFilename": "Less Lame Leveled Spawns v1.0.0",
+        "updatePolicy": "prefer",
+        "tag": "ZUrsCBbfEVh"
+      },
+      "author": "NullCascade",
+      "details": {
+        "category": "Bug Fixes"
+      },
+      "phase": 0
+    },
+    {
+      "name": "MCP Skunk Works - MCP beta",
+      "version": "2.5.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 26348,
+        "fileId": 1000026787,
+        "md5": "7f1a68f723a124a495ecd0ec28bfc41d",
+        "fileSize": 514334,
+        "logicalFilename": "MCP beta",
+        "updatePolicy": "prefer",
+        "tag": "qvLU7rXOKoB"
+      },
+      "author": "classified",
+      "details": {
+        "category": "Miscellaneous",
+        "type": "dinput"
+      },
+      "phase": 0
+    },
+    {
+      "name": "MGE XE Installer",
+      "version": "0.14.3",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 41102,
+        "fileId": 1000032422,
+        "md5": "a623018ee1fe65f2ea714eadc956008b",
+        "fileSize": 36354051,
+        "logicalFilename": "MGE XE Installer",
+        "updatePolicy": "prefer",
+        "tag": "WOxKaov0XOO"
+      },
+      "author": "Hrnchamd",
+      "details": {
+        "category": "Utilities",
+        "type": "dinput"
+      },
+      "phase": 0
+    },
+    {
+      "name": "MWSE-Update for Nightly Builds",
+      "version": "0.0.0-nightly-builds",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 45468,
+        "fileId": 1000025607,
+        "md5": "32c71156a47d5a8701ce2f3461600a21",
+        "fileSize": 396999,
+        "logicalFilename": "MWSE-Update for Nightly Builds",
+        "updatePolicy": "prefer",
+        "tag": "ldfwvDqCKy8"
+      },
+      "author": "MWSE Team",
+      "details": {
+        "category": "Utilities",
+        "type": "dinput"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Morrowind Zombie Apocalypse V1.6.4 - MWZ v1.4",
+      "version": "1.4.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 50579,
+        "fileId": 1000031655,
+        "md5": "b9b192d3fbc1042881296eb01ddbe244",
+        "fileSize": 23190262,
+        "logicalFilename": "MWZ v1.4",
+        "updatePolicy": "prefer",
+        "tag": "s4Kn7tnQSlc"
+      },
+      "author": "Jawohlca",
+      "details": {
+        "category": "Overhauls"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Marksman Rebalanced",
+      "version": "1.1.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 46715,
+        "fileId": 1000014400,
+        "md5": "6e2c0aad43182c45fe116a7381f05dc3",
+        "fileSize": 2118,
+        "logicalFilename": "Marksman Rebalanced",
+        "updatePolicy": "prefer",
+        "tag": "89L_E4QqVmy"
+      },
+      "author": "Merlord",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "MoreBetterClothes",
+      "version": "0.0.0-",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 36406,
+        "fileId": 73296,
+        "md5": "7e7fbc466cd287881082b836ca5bdc98",
+        "fileSize": 3586068,
+        "logicalFilename": "MoreBetterClothes",
+        "updatePolicy": "prefer",
+        "tag": "Qyco1LzVThP"
+      },
+      "author": "Plangkye",
+      "details": {
+        "category": "Items, Objects, and Clothes"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Morrowind Code Patch",
+      "version": "2.4.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 19510,
+        "fileId": 1000007846,
+        "md5": "4ddd3e1d773503c202fc41e6f9822974",
+        "fileSize": 6946292,
+        "logicalFilename": "Morrowind Code Patch",
+        "updatePolicy": "prefer",
+        "tag": "c4jNtDpkWW9"
+      },
+      "author": "Hrnchamd",
+      "details": {
+        "category": "Utilities",
+        "type": "dinput"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Next Generation Combat",
+      "version": "1.2.2",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 46993,
+        "fileId": 1000027467,
+        "md5": "b94d5153b886e345e0d8cc226348cfbf",
+        "fileSize": 27588,
+        "logicalFilename": "Next Generation Combat",
+        "updatePolicy": "prefer",
+        "tag": "UMwS0HKWj2g"
+      },
+      "author": "Aracelliy",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Notifications",
+      "version": "1.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 48600,
+        "fileId": 1000019971,
+        "md5": "79fa42421d555442763f6e8ed86897eb",
+        "fileSize": 1092,
+        "logicalFilename": "Notifications",
+        "updatePolicy": "prefer",
+        "tag": "18vWCXE3_BV"
+      },
+      "author": "Stripes",
+      "details": {
+        "category": "User Interface"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Onion - Layered Accessories",
+      "version": "3.3.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 50352,
+        "fileId": 1000032353,
+        "md5": "29c60fad5f4c0b5da85a3a37783289a6",
+        "fileSize": 4863,
+        "logicalFilename": "Onion - Layered Accessories",
+        "updatePolicy": "prefer",
+        "tag": "9mi-bBdDK0n"
+      },
+      "author": "Safebox - requested by RuffinVangarr",
+      "details": {
+        "category": "Modders Resources and Tutorials"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Pincushion",
+      "version": "1.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 46862,
+        "fileId": 1000014768,
+        "md5": "e8f35bf56549c5c4ad7f5a5601a4de9f",
+        "fileSize": 5100,
+        "logicalFilename": "Pincushion",
+        "updatePolicy": "prefer",
+        "tag": "fJM33Ms_fe_"
+      },
+      "author": "Hrnchamd",
+      "details": {
+        "category": "Immersion"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Quickloot",
+      "version": "0.0.0-2.01",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 46283,
+        "fileId": 1000023949,
+        "md5": "fee65be7b2c572454f071cd70cf18875",
+        "fileSize": 11099,
+        "logicalFilename": "Quickloot",
+        "updatePolicy": "prefer",
+        "tag": "-KEGOMDPTAm"
+      },
+      "author": "mort",
+      "details": {
+        "category": "Gameplay"
+      },
+      "phase": 0
+    },
+    {
+      "name": "SafetyInNumbers",
+      "version": "1.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 50370,
+        "fileId": 1000027628,
+        "md5": "cb22d49cb9c3a8c701e3e4b52cc84d22",
+        "fileSize": 652,
+        "logicalFilename": "SafetyInNumbers",
+        "updatePolicy": "prefer",
+        "tag": "IG7BWRcP5hB"
+      },
+      "author": "Stripes",
+      "details": {
+        "category": "Immersion"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Selection Details v1.2",
+      "version": "1.2.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 51095,
+        "fileId": 1000030997,
+        "md5": "6bca9c1f2d0dd3fb9739f1b1dd7886fd",
+        "fileSize": 6832,
+        "logicalFilename": "Selection Details v1.2",
+        "updatePolicy": "prefer",
+        "tag": "luiUcKQDBUE"
+      },
+      "author": "NullCascade",
+      "details": {
+        "category": "User Interface"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Seph's Enemy Bars",
+      "version": "1.5.2",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 50577,
+        "fileId": 1000028649,
+        "md5": "3e537616619839a783b93055f2c73ffe",
+        "fileSize": 8450,
+        "logicalFilename": "Seph's Enemy Bars",
+        "updatePolicy": "prefer",
+        "tag": "MIcKWTWDr2b"
+      },
+      "author": "Sephumbra",
+      "details": {
+        "category": "User Interface"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Seph's HUD Customizer",
+      "version": "2.1.1",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 50588,
+        "fileId": 1000029058,
+        "md5": "45ac21f09fa7dd412ced790adc44e94d",
+        "fileSize": 14606,
+        "logicalFilename": "Seph's HUD Customizer",
+        "updatePolicy": "prefer",
+        "tag": "QrDih-UL2pG"
+      },
+      "author": "Sephumbra",
+      "details": {
+        "category": "User Interface"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Seph's Library",
+      "version": "1.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 50708,
+        "fileId": 1000029050,
+        "md5": "ec004a706d186f3bafb114cb59f8c582",
+        "fileSize": 14659,
+        "logicalFilename": "Seph's Library",
+        "updatePolicy": "prefer",
+        "tag": "Z_2dIbDjDV7"
+      },
+      "author": "Sephumbra",
+      "details": {
+        "category": "Miscellaneous"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Skyrim UI Overhaul",
+      "version": "1.3.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 43039,
+        "fileId": 1000002321,
+        "md5": "37f3b343f3dcf1e1d64b4b7df3f48193",
+        "fileSize": 201659,
+        "logicalFilename": "Skyrim UI Overhaul",
+        "updatePolicy": "prefer",
+        "tag": "iTk2ArK8zHD"
+      },
+      "author": "Mikeandike",
+      "details": {
+        "category": "User Interface"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Supreme Follower System",
+      "version": "2.4.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 45599,
+        "fileId": 1000030142,
+        "md5": "53b6f1993dd14304e3f915a24434e207",
+        "fileSize": 52643,
+        "logicalFilename": "Supreme Follower System",
+        "updatePolicy": "prefer",
+        "tag": "3UIyI9RX5ao"
+      },
+      "author": "Wanderra",
+      "details": {
+        "category": "Companions"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Tamriel Data (Vanilla)",
+      "version": "8.0.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 44537,
+        "fileId": 1000022546,
+        "md5": "7f0831d1e005d2df7db3bcaadd006c48",
+        "fileSize": 573953949,
+        "logicalFilename": "Tamriel Data (Vanilla)",
+        "updatePolicy": "prefer",
+        "tag": "aUUHK5zvbJT"
+      },
+      "author": "CrossProjectCoordination",
+      "details": {
+        "category": "Modders Resources and Tutorials"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Tamriel Rebuilt",
+      "version": "0.0.0-21.01",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 42145,
+        "fileId": 1000022805,
+        "md5": "abe5b7d7341f1b49696675bdd1e53d0c",
+        "fileSize": 68130051,
+        "logicalFilename": "Tamriel Rebuilt",
+        "updatePolicy": "prefer",
+        "tag": "-hjWl8SpvEv"
+      },
+      "author": "Tamriel Rebuilt Team",
+      "details": {
+        "category": "New Lands"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Vurts Bitter Coast Tree II v1dot1",
+      "version": "0.0.0-",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 37489,
+        "fileId": 87142,
+        "md5": "aa29f6af538cbf3aab2b4312e10836cf",
+        "fileSize": 17823824,
+        "logicalFilename": "Vurts Bitter Coast Tree II v1dot1",
+        "updatePolicy": "prefer",
+        "tag": "aMO_6QC_C2N"
+      },
+      "author": "vurt",
+      "details": {
+        "category": "Models and Textures"
+      },
+      "phase": 0
+    },
+    {
+      "name": "Watch the Skies 4.1.0",
+      "version": "4.1.0",
+      "optional": false,
+      "domainName": "morrowind",
+      "source": {
+        "type": "nexus",
+        "modId": 48636,
+        "fileId": 1000032069,
+        "md5": "8289957cae546269a29ed52715789776",
+        "fileSize": 37357415,
+        "logicalFilename": "Watch the Skies 4.1.0",
+        "updatePolicy": "prefer",
+        "tag": "zPmNd5Zhrcc"
+      },
+      "author": "tewlwolow",
+      "details": {
+        "category": "Models and Textures"
+      },
+      "phase": 0
+    }
+  ],
+  "modRules": [
+    {
+      "type": "before",
+      "reference": {
+        "fileExpression": "4NM_MENU-48912-2-1-1652871745",
+        "fileMD5": "f118382c63f6cd58bfee99c4dedb8ec2",
+        "versionMatch": "2.1.0",
+        "logicalFileName": "4NM_MENU"
+      },
+      "source": {
+        "fileExpression": "4NM_Alchemy-47062-5-0-1632322141",
+        "fileMD5": "cfe9521f3b0d8b660b376f8cde505f64",
+        "versionMatch": "*",
+        "logicalFileName": "4NM_Alchemy"
+      }
+    },
+    {
+      "type": "before",
+      "reference": {
+        "fileExpression": "MoreBetterClothes-36406-1",
+        "fileMD5": "7e7fbc466cd287881082b836ca5bdc98",
+        "versionMatch": "*",
+        "logicalFileName": "MoreBetterClothes"
+      },
+      "source": {
+        "fileExpression": "Better Clothes Complete-47549-Complete-1644253814",
+        "fileMD5": "942927a1de366d4c6171946c28a360e6",
+        "versionMatch": "*",
+        "logicalFileName": "Better Clothes Complete"
+      }
+    },
+    {
+      "type": "before",
+      "reference": {
+        "fileExpression": "The Undead-43030-5-0",
+        "fileMD5": "13b18eeafbc71960436262c2247fa1c6",
+        "versionMatch": "5.0.0",
+        "logicalFileName": "The Undead"
+      },
+      "source": {
+        "fileExpression": "Better Clothes Complete-47549-Complete-1644253814",
+        "fileMD5": "942927a1de366d4c6171946c28a360e6",
+        "versionMatch": "*",
+        "logicalFileName": "Better Clothes Complete"
+      }
+    },
+    {
+      "type": "after",
+      "reference": {
+        "fileExpression": "Better_Clothes-42262-1-1",
+        "fileMD5": "a3a6a1db24d02cc808dc9e933502e7d0",
+        "versionMatch": "*",
+        "logicalFileName": "Better_Clothes"
+      },
+      "source": {
+        "fileExpression": "Better Clothes Complete-47549-Complete-1644253814",
+        "fileMD5": "942927a1de366d4c6171946c28a360e6",
+        "versionMatch": "*",
+        "logicalFileName": "Better Clothes Complete"
+      }
+    },
+    {
+      "type": "before",
+      "reference": {
+        "fileExpression": "Morrowind Comes Alive-6006-8-2",
+        "fileMD5": "88803f36977b1a7a31ab3923b4d76e30",
+        "versionMatch": "8.2.0",
+        "logicalFileName": "Morrowind Comes Alive"
+      },
+      "source": {
+        "fileExpression": "Better Heads-42226-1-1",
+        "fileMD5": "452b64967e0ba6003e300836cf818b4c",
+        "versionMatch": "*",
+        "logicalFileName": "Better Heads"
+      }
+    },
+    {
+      "type": "before",
+      "reference": {
+        "fileExpression": "The Undead-43030-5-0",
+        "fileMD5": "13b18eeafbc71960436262c2247fa1c6",
+        "versionMatch": "5.0.0",
+        "logicalFileName": "The Undead"
+      },
+      "source": {
+        "fileExpression": "Better Heads-42226-1-1",
+        "fileMD5": "452b64967e0ba6003e300836cf818b4c",
+        "versionMatch": "*",
+        "logicalFileName": "Better Heads"
+      }
+    },
+    {
+      "type": "before",
+      "reference": {
+        "fileExpression": "Graphic Herbalism MWSE - OpenMW-46599-1-04-1558643353",
+        "fileMD5": "b02e82959e842872f7ba2fc76a4c406f",
+        "versionMatch": "*",
+        "logicalFileName": "Graphic Herbalism MWSE - OpenMW"
+      },
+      "source": {
+        "fileExpression": "Graphic Herbalism (Main File)-43140-1-3a",
+        "fileMD5": "0fea18a614d55e47f59832c40a074a8a",
+        "versionMatch": "*",
+        "logicalFileName": "Graphic Herbalism (Main File)"
+      }
+    },
+    {
+      "type": "after",
+      "reference": {
+        "fileExpression": "Morrowind Code Patch-19510-2-4",
+        "fileMD5": "4ddd3e1d773503c202fc41e6f9822974",
+        "versionMatch": "*",
+        "logicalFileName": "Morrowind Code Patch"
+      },
+      "source": {
+        "fileExpression": "MCP beta-26348-2-5beta19-1631467698",
+        "fileMD5": "7f1a68f723a124a495ecd0ec28bfc41d",
+        "versionMatch": "*",
+        "logicalFileName": "MCP beta"
+      }
+    },
+    {
+      "type": "before",
+      "reference": {
+        "fileExpression": "The Undead-43030-5-0",
+        "fileMD5": "13b18eeafbc71960436262c2247fa1c6",
+        "versionMatch": "5.0.0",
+        "logicalFileName": "The Undead"
+      },
+      "source": {
+        "fileExpression": "MoreBetterClothes-36406-1",
+        "fileMD5": "7e7fbc466cd287881082b836ca5bdc98",
+        "versionMatch": "*",
+        "logicalFileName": "MoreBetterClothes"
+      }
+    }
+  ],
+  "tools": [],
+  "loadOrder": [
+    {
+      "id": "Morrowind.esm",
+      "enabled": true,
+      "name": "Morrowind.esm"
+    },
+    {
+      "id": "Tribunal.esm",
+      "enabled": true,
+      "name": "Tribunal.esm"
+    },
+    {
+      "id": "Bloodmoon.esm",
+      "enabled": true,
+      "name": "Bloodmoon.esm"
+    },
+    {
+      "id": "Better Heads Tribunal addon.esm",
+      "enabled": false,
+      "name": "Better Heads Tribunal addon.esm",
+      "modId": "Better Heads-42226-1-1"
+    },
+    {
+      "id": "Better Heads Bloodmoon addon.esm",
+      "enabled": false,
+      "name": "Better Heads Bloodmoon addon.esm",
+      "modId": "Better Heads-42226-1-1"
+    },
+    {
+      "id": "Next Generation Combat.esp",
+      "enabled": false,
+      "name": "Next Generation Combat.esp",
+      "modId": "Next Generation Combat-46993-1-2-2-1634723267"
+    },
+    {
+      "id": "Better Bodies.esp",
+      "enabled": true,
+      "name": "Better Bodies.esp",
+      "modId": "Better Bodies-42399-2-2"
+    },
+    {
+      "id": "Better Heads.esm",
+      "enabled": true,
+      "name": "Better Heads.esm",
+      "modId": "Better Heads-42226-1-1"
+    },
+    {
+      "id": "Tamriel_Data.esm",
+      "enabled": false,
+      "name": "Tamriel_Data.esm",
+      "modId": "Tamriel Data (Vanilla)-44537-8-0-1610744227"
+    },
+    {
+      "id": "Vurt's BC Tree Replacer II.ESP",
+      "enabled": true,
+      "name": "Vurt's BC Tree Replacer II.ESP",
+      "modId": "Vurts Bitter Coast Tree II v1dot1-37489-1"
+    },
+    {
+      "id": "SFS - 2.4.ESP",
+      "enabled": true,
+      "name": "SFS - 2.4.ESP",
+      "modId": "Supreme Follower System-45599-2-4-1650194744"
+    },
+    {
+      "id": "More Better Clothes.ESP",
+      "enabled": true,
+      "name": "More Better Clothes.ESP",
+      "modId": "MoreBetterClothes-36406-1"
+    },
+    {
+      "id": "Graphic Herbalism.esp",
+      "enabled": true,
+      "name": "Graphic Herbalism.esp",
+      "modId": "Graphic Herbalism (Main File)-43140-1-3a"
+    },
+    {
+      "id": "SFS - Rogues.ESP",
+      "enabled": false,
+      "name": "SFS - Rogues.ESP",
+      "modId": "Supreme Follower System-45599-2-4-1650194744"
+    },
+    {
+      "id": "4NM_TRAINING_Russian.ESP",
+      "enabled": false,
+      "name": "4NM_TRAINING_Russian.ESP",
+      "modId": "4NM_Training-47035-5-0-1578834472"
+    },
+    {
+      "id": "4NM_TRAINING_English.ESP",
+      "enabled": true,
+      "name": "4NM_TRAINING_English.ESP",
+      "modId": "4NM_Training-47035-5-0-1578834472"
+    },
+    {
+      "id": "Better Clothes Complete.ESP",
+      "enabled": true,
+      "name": "Better Clothes Complete.ESP",
+      "modId": "Better Clothes Complete-47549-Complete-1644253814"
+    },
+    {
+      "id": "Next Generation Combat - Hand To Hand Fixes.esp",
+      "enabled": true,
+      "name": "Next Generation Combat - Hand To Hand Fixes.esp",
+      "modId": "Next Generation Combat-46993-1-2-2-1634723267"
+    },
+    {
+      "id": "MWZ.ESP",
+      "enabled": true,
+      "name": "MWZ.ESP",
+      "modId": "MWZ v1.4-50579-V1-4-1655306719"
+    },
+    {
+      "id": "TR_Mainland.esm",
+      "enabled": false,
+      "name": "TR_Mainland.esm",
+      "modId": "Tamriel Rebuilt-42145-21-01-1612120551"
+    }
+  ]
+}

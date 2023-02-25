@@ -1,0 +1,10 @@
+{
+  "name": "Game: Fallout 3",
+  "author": "Black Tree Gaming Ltd.",
+  "version": "1.0.2",
+  "description": "Support for Fallout 3",
+  "type": "game",
+  "path": "C:\\Users\\dator\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Fallout 3 v1.0.2.7z",
+  "bundled": false,
+  "id": "game-fallout3"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Fable Anniversary Vortex Extension",
+  "author": "xOneManLegacy",
+  "version": "1.0.1",
+  "description": "WIP Extension for vortex to enable support for Fable Anniversary",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Fable Anniversary Vortex Extension v1.0.1.7z",
+  "bundled": false,
+  "modId": 84
+}

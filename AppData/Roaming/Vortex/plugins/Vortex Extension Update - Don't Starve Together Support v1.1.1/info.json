@@ -1,0 +1,10 @@
+{
+  "name": "Don't Starve Together Support",
+  "author": "Pickysaurus",
+  "version": "1.1.1",
+  "description": "Adds support for Don't Starve Together to Vortex",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Don't Starve Together Support v1.1.1.7z",
+  "bundled": false,
+  "modId": 223
+}

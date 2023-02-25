@@ -13,6 +13,11 @@ plugins:
       - furryfallout.esp
       - synth overhaul.esp
       - synth overhaul - no level requirements patch.esp
+      - fp_familyplanningenhanced.esp
+      - ccofoxyfactionsreplacer.esp
+      - important npcs essential edition 1.1.esp
+      - mostlyfemale.esp
+      - ccovulgarvillainsreplacer.esp
   - name: ffo-player-hyena.esp
     after:
       - vulpineplayer.esp
@@ -48,6 +53,7 @@ plugins:
   - name: customraceheadgear_ffo.esp
     after:
       - furryfalloutnpcs.esp
+      - clothingoverhaul.esp
   - name: npcs protected not essential.esp
     after:
       - important npcs essential edition 1.1.esp
@@ -57,7 +63,6 @@ plugins:
   - name: raiderspatch.esp
     after:
       - npcs protected not essential.esp
-      - furrypatch.esp
   - name: fusiongirl.esp
     after:
       - cbbe.esp
@@ -82,6 +87,7 @@ plugins:
   - name: furryfallout.esp
     after:
       - morevariedbodyshapesandskins.esp
+      - more_clothes_textures.esp
   - name: furrymanualpatch.esp
     after:
       - raiderspatch.esp
@@ -92,6 +98,7 @@ plugins:
   - name: ffo_npc_dlc.esp
     after:
       - wolfracereplacer3.esp
+      - fp_familyplanningenhanced.esp
   - name: tobelupinized.esp
     after:
       - sad.esp
@@ -116,12 +123,10 @@ plugins:
       - 4estgimp - fallui_r88_pa_innr.esp
       - crazyearlsscrapyard.esp
       - crazyearlsscrapyard_lore.esp
+      - weapondrops.esp
   - name: m8r_item_tags_vanilla_en.esp
     after:
       - customraceheadgear.esp
-      - ccovulagarvilliansr.esp
-      - customraceheadgear_ffo.esp
-      - furrypatch.esp
       - constructionpatch.esp
       - ck-chemcraftingexpanded.esp
       - desperate raiders.esp
@@ -137,4 +142,48 @@ plugins:
       - storealljunk_seasonpassedition.esp
       - weaponmodspatch.esp
       - more weapon scrap.esp
+  - name: weapondrops.esp
+    after:
+      - eco_moreclothestextures.esp
+      - crazyearlsscrapyard_lore.esp
+      - ccovulgarvillainsreplacer.esp
+      - furrypatch.esp
+      - clothingoverhaulsp_xb1_pc.esp
+  - name: clothingoverhaul.esp
+    after: []
+  - name: ccofoxyfactionsreplacer.esp
+    after:
+      - clothingoverhaul.esp
+      - vulpinepowerarmor.esp
+      - eco_moreclothestextures.esp
+      - clothingoverhaulsp_xb1_pc.esp
+      - fusiongirl.esp
+  - name: ccovulgarvillainsreplacer.esp
+    after:
+      - ccofoxyfactionsreplacer.esp
+      - eco_moreclothestextures.esp
+      - fusiongirl.esp
+  - name: clothingoverhaulsp_xb1_pc.esp
+    after:
+      - clothingoverhaul.esp
+      - ccovulagarvilliansr.esp
+  - name: eco_moreclothestextures.esp
+    after:
+      - clothingoverhaulsp_xb1_pc.esp
+  - name: customraceheadgear.esp
+    after:
+      - clothingoverhaul.esp
+  - name: falltoxin.esp
+    after:
+      - craftpatch2.esp
+  - name: hot and horny wastelands posters.esp
+    after:
+      - eroticart.esp
+  - name: klpostersadult.esp
+    after:
+      - eroticart.esp
+      - hot and horny wastelands posters.esp
+  - name: mostlyfemale.esp
+    after:
+      - standalonecustomizablefenemybodiesstandard.esp
 groups: []

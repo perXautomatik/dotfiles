@@ -1,0 +1,10 @@
+{
+  "name": "Half-Life 2 Update Support",
+  "author": "AtomicTEM",
+  "version": "1.0.0",
+  "description": "Adds vortex support for the Half-Life 2 mod Half-Life Update and the Half-Life 2 Episodes.",
+  "type": "game",
+  "path": "C:\\Users\\Användaren\\AppData\\Roaming\\Vortex\\plugins\\Vortex Extension Update - Half-Life 2 Update Support v1.0.0.7z",
+  "bundled": false,
+  "modId": 128
+}

@@ -1,0 +1,8 @@
+globals: []
+plugins:
+  - name: a world of pain revised.esm
+    after: []
+  - name: unofficial patch nvse plus.esp
+    after:
+      - yup - npc fixes (base game + all dlc).esp
+groups: []

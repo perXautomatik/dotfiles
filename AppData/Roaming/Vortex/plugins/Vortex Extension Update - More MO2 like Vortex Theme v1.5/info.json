@@ -1,0 +1,9 @@
+{
+  "name": "More MO2 like Vortex Theme",
+  "author": "Yggdrasil75",
+  "version": "1.5",
+  "description": "so, a lot of people complain about vortex sizing issues. this will fix it.",
+  "type": "theme",
+  "bundled": false,
+  "modId": 201
+}

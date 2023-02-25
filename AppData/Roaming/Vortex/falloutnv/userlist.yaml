@@ -1,3 +1,64 @@
 globals: []
-plugins: []
+plugins:
+  - name: a world of pain revised.esm
+    after: []
+  - name: unofficial patch nvse plus.esp
+    after:
+      - yup - npc fixes (base game + all dlc).esp
+  - name: dip1.esp
+    after:
+      - diplonesome.esp
+  - name: dipblues.esp
+    after:
+      - diplonesome.esp
+      - dip1.esp
+      - t4-plugin.esp
+      - dipdead.esp
+  - name: npcs wear nsns nv.esp
+    after: []
+  - name: t4-plugin.esp
+    after:
+      - diphonest.esp
+  - name: t6m equipment replacer nv.esm
+    after: []
+  - name: t6m jeans outfit.esp
+    after:
+      - npcs wear nsns nv.esp
+  - name: t6_munnibhai_bnb.esm
+    after: []
+  - name: gunrunnersarsenal.esm
+    after:
+      - t6_munnibhai_bnb.esm
+  - name: dipdead.esp
+    after:
+      - t4-plugin.esp
+  - name: deadmoney.esm
+    after: []
+  - name: brayduck_classic.esp
+    group: Late Fixes & Changes
+  - name: the mod configuration menu.esp
+    after:
+      - pnvnvbount1.esp
+      - pnvhh.esp
+      - pnv.esp
+      - pnvprojectnevada.esp
+      - pnvprojectnevadarebalance.esp
+      - nvr3_projectnevadaequipment patch.esp
+      - project nevada - wmx.esp
+      - project nevada - dead money.esp
+      - project nevada - gun runners' arsenal.esp
+      - project nevada - honest hearts.esp
+      - project nevada - lonesome road.esp
+      - project nevada - old world blues.esp
+      - project nevada - core.esm
+      - project nevada - cyberware.esp
+      - project nevada - equipment.esm
+      - project nevada - rebalance.esp
+      - project nevada - rebalance uncapped max level.esp
+  - name: mojave raiders.esp
+    after:
+      - uncut wasteland.esp
+  - name: mojave raiders - tld patch.esp
+    after:
+      - uncut wasteland.esp
 groups: []

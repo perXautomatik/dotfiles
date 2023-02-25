@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profileManager fileVersion="0.1.0.0">
+  <profileList>
+    <profile profileId="lo3puuun" profileName="Imported_x0020_1" isDefault="0">
+      <gameModeId>DragonAge</gameModeId>
+      <modCount>67</modCount>
+      <onlineId></onlineId>
+      <onlineName></onlineName>
+      <BackupDate></BackupDate>
+      <Version>0</Version>
+      <Author></Author>
+      <isEdited>False</isEdited>
+      <WorksWithSaves>0</WorksWithSaves>
+      <isShared>0</isShared>
+    </profile>
+  </profileList>
+</profileManager>

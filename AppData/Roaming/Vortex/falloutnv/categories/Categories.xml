@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<categoryManager fileVersion="0.1.0.0">
+  <categoryList>
+    <category path="Unassigned" ID="0">
+      <name>Unassigned</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Default" ID="99">
+      <name>Default</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Animation" ID="56">
+      <name>Animation</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Armor" ID="69">
+      <name>Armor</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Bug Fixes" ID="100">
+      <name>Bug Fixes</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Buildings" ID="72">
+      <name>Buildings</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Cheats and God Items" ID="58">
+      <name>Cheats and God Items</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Clothing" ID="67">
+      <name>Clothing</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Companions" ID="73">
+      <name>Companions</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Gameplay Effects and Changes" ID="71">
+      <name>Gameplay Effects and Changes</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Guilds and Factions" ID="74">
+      <name>Guilds and Factions</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Hair and Face Models" ID="62">
+      <name>Hair and Face Models</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Miscellaneous" ID="64">
+      <name>Miscellaneous</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Models and Textures" ID="66">
+      <name>Models and Textures</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\New Lands" ID="75">
+      <name>New Lands</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\NPC" ID="76">
+      <name>NPC</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Official" ID="78">
+      <name>Official</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Poses" ID="90">
+      <name>Poses</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Quests and Adventures" ID="77">
+      <name>Quests and Adventures</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Radio stations" ID="88">
+      <name>Radio stations</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Saved Games and Characters" ID="61">
+      <name>Saved Games and Characters</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Sounds and Music" ID="70">
+      <name>Sounds and Music</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\User Interfaces" ID="63">
+      <name>User Interafaces</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Utilities" ID="59">
+      <name>Utilities</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Videos and Trailers" ID="60">
+      <name>Landscape changes</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Weapons" ID="68">
+      <name>Weapons</name>
+    </category>
+    <category path="E:\Games\Nexus Mod Manager\FalloutNV\Mods\Competition" ID="102">
+      <name>Competition</name>
+    </category>
+  </categoryList>
+</categoryManager>

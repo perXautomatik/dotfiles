@@ -1,0 +1,13 @@
+
+deovolente.sprite.dawn_fx.png
+size: 219,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ButterFly
+  rotate: false
+  xy: 2, 2
+  size: 215, 151
+  orig: 215, 151
+  offset: 0, 0
+  index: -1

@@ -19,24 +19,24 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 30,
             "activityBarWidth": 48,
-            "sideBarWidth": 699,
+            "sideBarWidth": 476,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///d%3A/ToGit/scoopbucket-1",
-            "backupPath": "C:\\Users\\chris\\AppData\\Roaming\\Code\\Backups\\c38edfa4d2a59a6b60ef63e96cb1cb80",
+            "backupPath": "C:\\Users\\chris\\AppData\\Roaming\\Code\\Backups\\1647696200858",
             "uiState": {
                 "mode": 1,
-                "x": 201,
-                "y": 43,
-                "width": 1282,
-                "height": 728
+                "x": 448,
+                "y": 156,
+                "width": 1024,
+                "height": 768
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "D:\\ToGit"
+    "pickerWorkingDir": "D:\\ToGit",
+    "lifecycle.quitAndRestart": true
 }
