@@ -94,24 +94,6 @@
     <WindowPosition>
       <Rect>
         <Location>
-          <X>542</X>
-          <Y>390</Y>
-        </Location>
-        <Size>
-          <Width>760</Width>
-          <Height>370</Height>
-        </Size>
-        <X>542</X>
-        <Y>390</Y>
-        <Width>760</Width>
-        <Height>370</Height>
-      </Rect>
-      <State>Normal</State>
-      <Name>FormRemotes</Name>
-    </WindowPosition>
-    <WindowPosition>
-      <Rect>
-        <Location>
           <X>888</X>
           <Y>368</Y>
         </Location>
@@ -252,24 +234,6 @@
       </Rect>
       <State>Normal</State>
       <Name>FormResolveConflicts</Name>
-    </WindowPosition>
-    <WindowPosition>
-      <Rect>
-        <Location>
-          <X>546</X>
-          <Y>151</Y>
-        </Location>
-        <Size>
-          <Width>1214</Width>
-          <Height>749</Height>
-        </Size>
-        <X>546</X>
-        <Y>151</Y>
-        <Width>1214</Width>
-        <Height>749</Height>
-      </Rect>
-      <State>Normal</State>
-      <Name>FormBrowse</Name>
     </WindowPosition>
     <WindowPosition>
       <Rect>
@@ -418,6 +382,42 @@
     <WindowPosition>
       <Rect>
         <Location>
+          <X>290</X>
+          <Y>210</Y>
+        </Location>
+        <Size>
+          <Width>565</Width>
+          <Height>327</Height>
+        </Size>
+        <X>290</X>
+        <Y>210</Y>
+        <Width>565</Width>
+        <Height>327</Height>
+      </Rect>
+      <State>Normal</State>
+      <Name>FormRemoteProcess</Name>
+    </WindowPosition>
+    <WindowPosition>
+      <Rect>
+        <Location>
+          <X>466</X>
+          <Y>87</Y>
+        </Location>
+        <Size>
+          <Width>600</Width>
+          <Height>329</Height>
+        </Size>
+        <X>466</X>
+        <Y>87</Y>
+        <Width>600</Width>
+        <Height>329</Height>
+      </Rect>
+      <State>Normal</State>
+      <Name>FormPush</Name>
+    </WindowPosition>
+    <WindowPosition>
+      <Rect>
+        <Location>
           <X>756</X>
           <Y>364</Y>
         </Location>
@@ -454,38 +454,56 @@
     <WindowPosition>
       <Rect>
         <Location>
-          <X>290</X>
-          <Y>210</Y>
+          <X>26</X>
+          <Y>26</Y>
         </Location>
         <Size>
-          <Width>565</Width>
-          <Height>327</Height>
+          <Width>733</Width>
+          <Height>568</Height>
         </Size>
-        <X>290</X>
-        <Y>210</Y>
-        <Width>565</Width>
-        <Height>327</Height>
+        <X>26</X>
+        <Y>26</Y>
+        <Width>733</Width>
+        <Height>568</Height>
       </Rect>
       <State>Normal</State>
-      <Name>FormRemoteProcess</Name>
+      <Name>FormCommitDiff</Name>
     </WindowPosition>
     <WindowPosition>
       <Rect>
         <Location>
-          <X>466</X>
-          <Y>87</Y>
+          <X>272</X>
+          <Y>199</Y>
         </Location>
         <Size>
-          <Width>600</Width>
-          <Height>329</Height>
+          <Width>760</Width>
+          <Height>370</Height>
         </Size>
-        <X>466</X>
-        <Y>87</Y>
-        <Width>600</Width>
-        <Height>329</Height>
+        <X>272</X>
+        <Y>199</Y>
+        <Width>760</Width>
+        <Height>370</Height>
       </Rect>
       <State>Normal</State>
-      <Name>FormPush</Name>
+      <Name>FormRemotes</Name>
+    </WindowPosition>
+    <WindowPosition>
+      <Rect>
+        <Location>
+          <X>11</X>
+          <Y>0</Y>
+        </Location>
+        <Size>
+          <Width>976</Width>
+          <Height>503</Height>
+        </Size>
+        <X>11</X>
+        <Y>0</Y>
+        <Width>976</Width>
+        <Height>503</Height>
+      </Rect>
+      <State>Normal</State>
+      <Name>FormBrowse</Name>
     </WindowPosition>
   </WindowPositions>
 </WindowPositionList>

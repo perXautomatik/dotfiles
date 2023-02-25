@@ -1,0 +1,1249 @@
+----- Catalog construction errors -----
+Error #1
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.WebTools.Publish.WebPublishService+ProjectType". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #2
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.WebTools.Publish.WebPublishService+<>c". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #3
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.WebTools.Publish.PublishService.VsWebProjectPublish+<>c". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #4
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.WebTools.Publish.PublishService.VsWebProjectPublish+<>c__DisplayClass19_0". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #5
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.WebTools.Publish.PublishService.VsWebProjectPublish+<>c__DisplayClass43_0". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #6
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.WebTools.Publish.PublishService.VsWebProjectPublish+<>c__DisplayClass46_0". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #7
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.WebTools.Publish.PublishService.VsWebProjectPublish+<ValidateConnectionAsync>d__46". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #8
+Microsoft.VisualStudio.Composition.PartDiscoveryException: ReflectionTypeLoadException while enumerating types in assembly "c:\program files\microsoft visual studio\2022\community\common7\ide\extensions\microsoft\web tools\publish\Microsoft.WebTools.Publish.dll". Results will be incomplete. ---> System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass33_0.<CreateAssemblyDiscoveryBlockChain>b__0(Assembly a)
+   --- End of inner exception stack trace ---
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+Error #9
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.Publish.Framework.Web.WebPublishRequirements.DefaultWebPublishSteps+<>c__DisplayClass4_0". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #10
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.Publish.Framework.Web.WebPublishRequirements.WebPublishRequirements+<ValidateConnectionAsync>d__33". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #11
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.Publish.Framework.Web.PublishProviders.ImportProfileVisualFactory+<>c__DisplayClass8_0". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #12
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.Publish.Framework.Web.PublishProviders.ImportProfileVisualFactory+<CreateProfileFromPublishSettingsXmlAsync>d__8". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #13
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.Publish.Framework.Web.Profiles.Actions.FullVsProfileActionProvider+<>c__DisplayClass11_0". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #14
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.Publish.Framework.Web.Profiles.Actions.FullVsProfileActionProvider+<IsSupportedAsync>d__12". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #15
+Microsoft.VisualStudio.Composition.PartDiscoveryException: Failure while scanning type "Microsoft.Publish.Framework.Web.NewFx.EditSteps.IISFTPEditStepProviderBase+<>c__DisplayClass10_0". ---> System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+   at System.RuntimeTypeHandle.GetDeclaringType(RuntimeType type)
+   at System.RuntimeType.RuntimeTypeCache.GetEnclosingType()
+   at Microsoft.VisualStudio.Composition.AttributedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.CombinedPartDiscovery.CreatePart(Type partType, Boolean typeExplicitlyRequested)
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass32_0.<CreateDiscoveryBlockChain>b__0(Type type)
+   --- End of inner exception stack trace ---
+Error #16
+Microsoft.VisualStudio.Composition.PartDiscoveryException: ReflectionTypeLoadException while enumerating types in assembly "c:\program files\microsoft visual studio\2022\community\common7\ide\extensions\microsoft\web tools\publish\Microsoft.Publish.Framework.Web.dll". Results will be incomplete. ---> System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.RuntimeModule.GetTypes()
+   at System.Reflection.Assembly.GetTypes()
+   at Microsoft.VisualStudio.Composition.PartDiscovery.<>c__DisplayClass33_0.<CreateAssemblyDiscoveryBlockChain>b__0(Assembly a)
+   --- End of inner exception stack trace ---
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework.Contracts, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Det går inte att hitta filen.
+File name: 'Microsoft.Publish.Framework, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+
+VARN: Loggningen av sammansättningsbindningen är inaktiverad.
+Du kan aktivera felloggning för sammansättningsbindningar genom att ange registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) till 1.
+Obs! Prestanda kan försämras något med felloggning för sammansättningsbindningar.
+Du kan inaktivera funktionen genom att ta bort registervärdet [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+----- CompositionError level 1 ------
+Microsoft.VisualStudio.DebuggerService.VsDebuggerRemoteServiceFactory.ctor(configurationSettings): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ICoreSettingsProvider
+    TypeIdentityName: Microsoft.Cascade.Contracts.ICoreSettingsProvider
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsDebuggerRemoteServiceFactory
+
+Microsoft.VisualStudio.DebuggerService.VsDebuggerRemoteServiceFactory.ctor(sessionManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+    TypeIdentityName: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsDebuggerRemoteServiceFactory
+
+Microsoft.VisualStudio.DebuggerService.VsDebuggerRemoteServiceFactory.ctor(errorDialogProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.Cascade.Contracts.IErrorDialogProvider
+    TypeIdentityName: Microsoft.VisualStudio.Cascade.Contracts.IErrorDialogProvider
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsDebuggerRemoteServiceFactory
+
+Microsoft.VisualStudio.DebuggerService.VsDebuggerRemoteServiceFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsDebuggerRemoteServiceFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Diagnostics.FSharpSimplifyNameDiagnosticAnalyzerService.ctor(analyzer): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Diagnostics.IFSharpSimplifyNameDiagnosticAnalyzer
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Diagnostics.IFSharpSimplifyNameDiagnosticAnalyzer
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Diagnostics.FSharpSimplifyNameDiagnosticAnalyzerService
+
+Microsoft.VisualStudio.LiveShare.ServiceBroker.AuthorizationServiceFactory.ctor(clientAccessCheck): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.IClientAccessCheck
+    TypeIdentityName: Microsoft.Cascade.Contracts.IClientAccessCheck
+but found 0.
+   part definition Microsoft.VisualStudio.LiveShare.ServiceBroker.AuthorizationServiceFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FSharpBraceMatcher.ctor(braceMatcher): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.IFSharpBraceMatcher
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.IFSharpBraceMatcher
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FSharpBraceMatcher
+
+Microsoft.CodeAnalysis.ExternalAccess.Razor.RazorDynamicFileInfoProviderWrapper.ctor(innerDynamicFileInfoProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.Razor.IRazorDynamicFileInfoProvider
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.Razor.IRazorDynamicFileInfoProvider
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.Razor.RazorDynamicFileInfoProviderWrapper
+
+Microsoft.VisualStudio.Workspace.Remote.WorkspaceLaunchServiceFactory.ctor(sessionManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.Cascade.Contracts.IVsLiveShareSessionManager
+    TypeIdentityName: Microsoft.VisualStudio.Cascade.Contracts.IVsLiveShareSessionManager
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.WorkspaceLaunchServiceFactory
+
+Microsoft.VisualStudio.Workspace.Remote.WorkspaceLaunchServiceFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.WorkspaceLaunchServiceFactory
+
+Microsoft.VisualStudio.LanguageServices.Remote.Host.CSharpLspProviderFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.Remote.Host.CSharpLspProviderFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptGoToDefinitionServiceFactory.ctor(impl): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptGoToDefinitionServiceFactoryImplementation
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptGoToDefinitionServiceFactoryImplementation
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptGoToDefinitionServiceFactory
+
+Microsoft.WebTools.Languages.Shared.VS.Adornments.DocumentColorAdornmentTaggerProvider.ctor(requestInvokerWrapper): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.LSPRequestInvokerWrapper
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.LSPRequestInvokerWrapper
+but found 0.
+   part definition Microsoft.WebTools.Languages.Shared.VS.Adornments.DocumentColorAdornmentTaggerProvider
+
+Microsoft.CodeAnalysis.ExternalAccess.Razor.RazorCSharpInterceptionMiddleLayerWrapper.ctor(razorCSharpInterceptionMiddleLayer): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.Razor.IRazorCSharpInterceptionMiddleLayer
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.Razor.IRazorCSharpInterceptionMiddleLayer
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.Razor.RazorCSharpInterceptionMiddleLayerWrapper
+
+Microsoft.VisualStudio.Workspace.Remote.FilesNavigateToItemProviderFactory.ctor(uiService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.LiveShare.ICoreVsLiveShareUIService
+    TypeIdentityName: Microsoft.VisualStudio.LiveShare.ICoreVsLiveShareUIService
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.FilesNavigateToItemProviderFactory
+
+Microsoft.VisualStudio.Workspace.Remote.FilesNavigateToItemProviderFactory.ctor(settingsProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ICoreSettingsProvider
+    TypeIdentityName: Microsoft.Cascade.Contracts.ICoreSettingsProvider
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.FilesNavigateToItemProviderFactory
+
+Microsoft.VisualStudio.Workspace.Remote.FilesNavigateToItemProviderFactory.ctor(remoteWorkspaceManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+    TypeIdentityName: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.FilesNavigateToItemProviderFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptBlockStructureService.ctor(impl): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptBlockStructureServiceImplementation
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptBlockStructureServiceImplementation
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptBlockStructureService
+
+Microsoft.VisualStudio.LanguageServices.Remote.Host.RoslynLSPProviderFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.Remote.Host.RoslynLSPProviderFactory
+
+Microsoft.VisualStudio.DebuggerService.DebuggerRemoteEventServiceFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.DebuggerRemoteEventServiceFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptBreakpointResolutionService.ctor(implementation): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptBreakpointResolutionServiceImplementation
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptBreakpointResolutionServiceImplementation
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptBreakpointResolutionService
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FSharpNavigationBarItemService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.IFSharpNavigationBarItemService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.IFSharpNavigationBarItemService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FSharpNavigationBarItemService
+
+Microsoft.CodeAnalysis.ExternalAccess.Pythia.PythiaSignatureHelpProvider.ctor(implementation): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.Pythia.Api.IPythiaSignatureHelpProviderImplementation
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.Pythia.Api.IPythiaSignatureHelpProviderImplementation
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.Pythia.PythiaSignatureHelpProvider
+
+Microsoft.VisualStudio.LanguageServices.Remote.Host.VisualBasicLspProviderFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.Remote.Host.VisualBasicLspProviderFactory
+
+Microsoft.VisualStudio.LiveShare.CustomWorkspaceService.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.LiveShare.CustomWorkspaceService
+
+Microsoft.VisualStudio.DebuggerService.LaunchDebugOperationAccessService.ctor(settingsProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ICoreSettingsProvider
+    TypeIdentityName: Microsoft.Cascade.Contracts.ICoreSettingsProvider
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.LaunchDebugOperationAccessService
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptNavigationBarItemService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptNavigationBarItemService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptNavigationBarItemService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptNavigationBarItemService
+
+Microsoft.VisualStudio.DebuggerService.VsBreakpointManagerFactory.ctor(vsWorkspaceAccessControlService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.Cascade.Contracts.IVsWorkspaceAccessControlService
+    TypeIdentityName: Microsoft.VisualStudio.Cascade.Contracts.IVsWorkspaceAccessControlService
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsBreakpointManagerFactory
+
+Microsoft.VisualStudio.DebuggerService.VsBreakpointManagerFactory.ctor(sessionManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+    TypeIdentityName: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsBreakpointManagerFactory
+
+Microsoft.VisualStudio.DebuggerService.VsBreakpointManagerFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsBreakpointManagerFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptBraceMatcher.ctor(impl): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptBraceMatcherImplementation
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptBraceMatcherImplementation
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptBraceMatcher
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FindUsages.FSharpFindUsagesService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.FindUsages.IFSharpFindUsagesService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.FindUsages.IFSharpFindUsagesService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FindUsages.FSharpFindUsagesService
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.SignatureHelp.FSharpSignatureHelpProvider.ctor(provider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.SignatureHelp.IFSharpSignatureHelpProvider
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.SignatureHelp.IFSharpSignatureHelpProvider
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.SignatureHelp.FSharpSignatureHelpProvider
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FSharpEditorFormattingService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.IFSharpEditorFormattingService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.IFSharpEditorFormattingService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FSharpEditorFormattingService
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptGoToSymbolService.ctor(impl): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptGoToSymbolServiceImplementation
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptGoToSymbolServiceImplementation
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptGoToSymbolService
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.DocumentHighlighting.FSharpDocumentHighlightsService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.DocumentHighlighting.IFSharpDocumentHighlightsService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.DocumentHighlighting.IFSharpDocumentHighlightsService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.DocumentHighlighting.FSharpDocumentHighlightsService
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Classification.FSharpClassificationService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Classification.IFSharpClassificationService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Classification.IFSharpClassificationService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Classification.FSharpClassificationService
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptFindUsagesService.ctor(underlyingService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptFindUsagesService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptFindUsagesService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptFindUsagesService
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.NavigateTo.FSharpNavigateToSearchService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.NavigateTo.IFSharpNavigateToSearchService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.NavigateTo.IFSharpNavigateToSearchService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.NavigateTo.FSharpNavigateToSearchService
+
+Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageClientFactory.ExperimentationService: expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.LiveShare.Experimentation.IExperimentationService
+    TypeIdentityName: Microsoft.VisualStudio.LiveShare.Experimentation.IExperimentationService
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageClientFactory
+
+Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageClientFactory.ctor(uiService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.LiveShare.ICoreVsLiveShareUIService
+    TypeIdentityName: Microsoft.VisualStudio.LiveShare.ICoreVsLiveShareUIService
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageClientFactory
+
+Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageClientFactory.ctor(sessionManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+    TypeIdentityName: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageClientFactory
+
+Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageClientFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageClientFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.Implementation.Debugging.FSharpBreakpointResolutionService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.Implementation.Debugging.IFSharpBreakpointResolutionService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.Implementation.Debugging.IFSharpBreakpointResolutionService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.Implementation.Debugging.FSharpBreakpointResolutionService
+
+Microsoft.VisualStudio.DesignTools.Xaml.LanguageService.ResourceResolver.XamlResourceService.ctor(projectMetadataService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.DesignTools.Xaml.LanguageService.Metadata.IProjectMetadataService
+    TypeIdentityName: Microsoft.VisualStudio.DesignTools.Xaml.LanguageService.Metadata.IProjectMetadataService
+but found 0.
+   part definition Microsoft.VisualStudio.DesignTools.Xaml.LanguageService.ResourceResolver.XamlResourceService
+
+Microsoft.VisualStudio.DesignTools.Xaml.LanguageService.ResourceResolver.XamlResourceService.ctor(projectService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.DesignTools.DesignerContract.IHostProjectService
+    TypeIdentityName: Microsoft.VisualStudio.DesignTools.DesignerContract.IHostProjectService
+but found 0.
+   part definition Microsoft.VisualStudio.DesignTools.Xaml.LanguageService.ResourceResolver.XamlResourceService
+
+Microsoft.VisualStudio.DesignTools.Xaml.LanguageService.ResourceResolver.XamlResourceService.ctor(textBufferProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.DesignTools.DesignerContract.IHostTextBufferProvider
+    TypeIdentityName: Microsoft.VisualStudio.DesignTools.DesignerContract.IHostTextBufferProvider
+but found 0.
+   part definition Microsoft.VisualStudio.DesignTools.Xaml.LanguageService.ResourceResolver.XamlResourceService
+
+Microsoft.VisualStudio.DebuggerService.StandaloneVsDebuggerHostServiceFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.StandaloneVsDebuggerHostServiceFactory
+
+Microsoft.WebTools.Languages.Shared.VS.LanguageServerClient.Workspace.RemoteWebWorkspaceFileRegistrationManager.ctor(documentMappingProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.DocumentMappingProvider
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.DocumentMappingProvider
+but found 0.
+   part definition Microsoft.WebTools.Languages.Shared.VS.LanguageServerClient.Workspace.RemoteWebWorkspaceFileRegistrationManager
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptFormattingInteractionService.ctor(implementation): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptFormattingInteractionService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptFormattingInteractionService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptFormattingInteractionService
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Diagnostics.FSharpUnusedDeclarationsDiagnosticAnalyzerService.ctor(analyzer): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Diagnostics.IFSharpUnusedDeclarationsDiagnosticAnalyzer
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Diagnostics.IFSharpUnusedDeclarationsDiagnosticAnalyzer
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Diagnostics.FSharpUnusedDeclarationsDiagnosticAnalyzerService
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FSharpGoToDefinitionService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.IFSharpGoToDefinitionService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.IFSharpGoToDefinitionService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.FSharpGoToDefinitionService
+
+Microsoft.WebTools.Languages.Shared.VS.LanguageServerClient.Workspace.RemoteWebWorkspaceService.ctor(requestInvoker): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.LSPRequestInvokerWrapper
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.LSPRequestInvokerWrapper
+but found 0.
+   part definition Microsoft.WebTools.Languages.Shared.VS.LanguageServerClient.Workspace.RemoteWebWorkspaceService
+
+Microsoft.VisualStudio.DebuggerService.DebuggerHostEventServiceFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.DebuggerHostEventServiceFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Diagnostics.FSharpUnusedOpensDiagnosticAnalyzerService.ctor(analyzer): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Diagnostics.IFSharpUnusedOpensDiagnosticAnalyzer
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Diagnostics.IFSharpUnusedOpensDiagnosticAnalyzer
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Diagnostics.FSharpUnusedOpensDiagnosticAnalyzerService
+
+Microsoft.WebTools.ProjectSystem.Publish.PublishLoader.ctor(publishService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.Web.PublishContract.IPublishContract
+    TypeIdentityName: Microsoft.VisualStudio.Web.PublishContract.IPublishContract
+but found 0.
+   part definition Microsoft.WebTools.ProjectSystem.Publish.PublishLoader
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.Implementation.Debugging.FSharpLanguageDebugInfoService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.Implementation.Debugging.IFSharpLanguageDebugInfoService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Editor.Implementation.Debugging.IFSharpLanguageDebugInfoService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Editor.Implementation.Debugging.FSharpLanguageDebugInfoService
+
+Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageServerHostServiceFactory.ctor(experimentationService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.LiveShare.Experimentation.IExperimentationService
+    TypeIdentityName: Microsoft.VisualStudio.LiveShare.Experimentation.IExperimentationService
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageServerHostServiceFactory
+
+Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageServerHostServiceFactory.ctor(settingsProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ICoreSettingsProvider
+    TypeIdentityName: Microsoft.Cascade.Contracts.ICoreSettingsProvider
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageServerHostServiceFactory
+
+Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageServerHostServiceFactory.ctor(clientAccessCheck): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.IClientAccessCheck
+    TypeIdentityName: Microsoft.Cascade.Contracts.IClientAccessCheck
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageServerHostServiceFactory
+
+Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageServerHostServiceFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.LanguageExtension.LanguageServerHostServiceFactory
+
+Microsoft.WebTools.Languages.LanguageServer.Delegation.DocumentMapping.WorkspaceEditMapper.ctor(documentMappingProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.DocumentMappingProvider
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.DocumentMappingProvider
+but found 0.
+   part definition Microsoft.WebTools.Languages.LanguageServer.Delegation.DocumentMapping.WorkspaceEditMapper
+
+Microsoft.WebTools.Languages.LanguageServer.Delegation.DocumentMapping.CompletionItemMapper.ctor(documentMappingProvider): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.DocumentMappingProvider
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.DocumentMappingProvider
+but found 0.
+   part definition Microsoft.WebTools.Languages.LanguageServer.Delegation.DocumentMapping.CompletionItemMapper
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Diagnostics.FSharpDocumentDiagnosticAnalyzerService.ctor(analyzer): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Diagnostics.IFSharpDocumentDiagnosticAnalyzer
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Diagnostics.IFSharpDocumentDiagnosticAnalyzer
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Diagnostics.FSharpDocumentDiagnosticAnalyzerService
+
+Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceCreator.ctor(uiService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.LiveShare.ICoreVsLiveShareUIService
+    TypeIdentityName: Microsoft.VisualStudio.LiveShare.ICoreVsLiveShareUIService
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceCreator
+
+Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceCreator.ctor(hostRootUpdateObserver): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.VisualStudio.Cascade.Contracts.IHostRootUpdateObserver
+    TypeIdentityName: Microsoft.VisualStudio.Cascade.Contracts.IHostRootUpdateObserver
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceCreator
+
+Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceCreator.ctor(sessionManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+    TypeIdentityName: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceCreator
+
+Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceCreator.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceCreator
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.GoToDefinition.FSharpFindDefinitionService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.GoToDefinition.IFSharpFindDefinitionService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.GoToDefinition.IFSharpFindDefinitionService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.GoToDefinition.FSharpFindDefinitionService
+
+Microsoft.VisualStudio.LanguageServices.Remote.Host.TypeScriptLspProviderFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.Remote.Host.TypeScriptLspProviderFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Structure.FSharpBlockStructureService.ctor(service): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Structure.IFSharpBlockStructureService
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.FSharp.Structure.IFSharpBlockStructureService
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.FSharp.Internal.Structure.FSharpBlockStructureService
+
+Microsoft.VisualStudio.DebuggerService.VsDebuggerHostServiceFactory.ctor(sessionManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+    TypeIdentityName: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsDebuggerHostServiceFactory
+
+Microsoft.VisualStudio.DebuggerService.VsDebuggerHostServiceFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.DebuggerService.VsDebuggerHostServiceFactory
+
+Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceExtensionFactory.ctor(liveShareSessionManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+    TypeIdentityName: Microsoft.Cascade.Contracts.ILiveShareSessionManager
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceExtensionFactory
+
+Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceExtensionFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.Workspace.Remote.RemoteWorkspaceExtensionFactory
+
+Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptLanguageDebugInfoService.ctor(implementation): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptLanguageDebugInfoServiceImplementation
+    TypeIdentityName: Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.Api.IVSTypeScriptLanguageDebugInfoServiceImplementation
+but found 0.
+   part definition Microsoft.CodeAnalysis.ExternalAccess.VSTypeScript.VSTypeScriptLanguageDebugInfoService
+
+Microsoft.VisualStudio.LanguageServices.Remote.Host.RoslynLSPSDKProviderFactory.ctor(trace): expected exactly 1 export matching constraints:
+    Contract name: VSIX
+    TypeIdentityName: System.Diagnostics.TraceSource
+but found 0.
+   part definition Microsoft.VisualStudio.LanguageServices.Remote.Host.RoslynLSPSDKProviderFactory
+
+Microsoft.WebTools.Languages.Html.VS.Commands.HtmlDelegation.HtmlWrapWithDivCommandHandler.ctor(requestInvoker): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.LSPRequestInvokerWrapper
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Shared.LSPRequestInvokerWrapper
+but found 0.
+   part definition Microsoft.WebTools.Languages.Html.VS.Commands.HtmlDelegation.HtmlWrapWithDivCommandHandler
+
+----- CompositionError level 2 ------
+Microsoft.WebTools.Languages.LanguageServer.Delegation.LanguageServerClient.CustomMessageTargets.DefaultCssLanguageServerCustomMessageTarget.ctor(remoteWebWorkspaceFileRegistrationManager): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Workspace.IRemoteWebWorkspaceFileRegistrationManager
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Workspace.IRemoteWebWorkspaceFileRegistrationManager
+ but the matching part has been invalidated.
+   part definition Microsoft.WebTools.Languages.LanguageServer.Delegation.LanguageServerClient.CustomMessageTargets.DefaultCssLanguageServerCustomMessageTarget
+
+Microsoft.WebTools.Languages.LanguageServer.Delegation.LanguageServerClient.CustomMessageTargets.DefaultCssLanguageServerCustomMessageTarget.ctor(remoteWebWorkspaceService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Workspace.IRemoteWebWorkspaceService
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Workspace.IRemoteWebWorkspaceService
+ but the matching part has been invalidated.
+   part definition Microsoft.WebTools.Languages.LanguageServer.Delegation.LanguageServerClient.CustomMessageTargets.DefaultCssLanguageServerCustomMessageTarget
+
+Microsoft.WebTools.Languages.LanguageServer.Delegation.LanguageServerClient.LanguageClients.HtmlDelegationLanguageServerClient.ctor(remoteWebWorkspaceService): expected exactly 1 export matching constraints:
+    Contract name: Microsoft.WebTools.Languages.LanguageServer.Delegation.Workspace.IRemoteWebWorkspaceService
+    TypeIdentityName: Microsoft.WebTools.Languages.LanguageServer.Delegation.Workspace.IRemoteWebWorkspaceService
+ but the matching part has been invalidated.
+   part definition Microsoft.WebTools.Languages.LanguageServer.Delegation.LanguageServerClient.LanguageClients.HtmlDelegationLanguageServerClient
+
+----------- Used assemblies -----------
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DIAGNOSTICSHUB\Microsoft.DiagnosticsHub.Runtime.dll
+ - C:\Users\chris\AppData\Local\Microsoft\VisualStudio\17.0_45d92faf\Extensions\n1iuiva0.vsy\SwapSelection.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.LanguageServer.Protocol.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\WEB\RAZOR\V3.0\Microsoft.WebTools.Languages.Razor.3.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.TeamFoundation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.VersionControl.Controls.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VC\LANGUAGESERVER\Microsoft.VisualStudio.VC.LanguageServer.dll
+ - C:\Users\chris\AppData\Local\Microsoft\VisualStudio\17.0_45d92faf\Extensions\hvxvduwj.su5\DocumentationAssistant.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\UNIT TEST EXPLORER\TESTWIEXTENSION\Microsoft.TeamFoundation.TestManagement.TestMethodAssociationExtension.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.Shared.Editor.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\XAMLDIAGNOSTICS\Microsoft.VisualStudio.DesignTools.Diagnostics.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.PackageManagement.UI.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Scaffolding\Microsoft.WebTools.Scaffolding.Core.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.Extensions.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WCF CONNECTED SERVICE\Microsoft.VisualStudio.WCF.ServiceReferences.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\DATADESIGN\Microsoft.VisualStudio.DataDesign.DataObjectGenerators.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\PROJECT\Microsoft.VisualStudio.ProjectSystem.VS.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\PROJECTSERVICES\Microsoft.VisualStudio.ProjectServices.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\DEBUGADAPTERHOST\Microsoft.VisualStudio.Debugger.VSCodeDebuggerHost.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\AILYV0BF.QZO\Microsoft.VisualStudio.Navigation.RichCodeNav.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DEBUGGER\VsDebugPresentationPackage.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\PROVIDERS\NATIVECODE\Microsoft.VisualStudio.Progression.Native.CodeProvider.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\COMMANDS\Microsoft.VisualStudio.Commands.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CLIENTDIAGNOSTICS\Microsoft.VisualStudio.ClientDiagnostics.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.Console.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.ExternalAccess.Debugger.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DEBUGGER\VsDebugCoreUI.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Razor\v4.0\Microsoft.WebTools.Languages.Razor.Core.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Package Management\Microsoft.WebTools.PackageManagement.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.ExternalAccess.AspNetCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\LIVESHARE.VSCORE\Microsoft.VisualStudio.LanguageServices.Remote.TypeScriptCollabService.VSCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\MARKDOWN\Microsoft.VisualStudio.Markdown.Core.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\SHELL\..\..\..\Microsoft.VisualStudio.Utilities.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NAVIGATETO\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Platform.VSEditor.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\ASPX\Microsoft.VisualStudio.Web.Html.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\PROJECT\Microsoft.VisualStudio.ProjectSystem.Implementation.dll
+ - C:\Users\chris\AppData\Local\Microsoft\VisualStudio\17.0_45d92faf\Extensions\zqn4lacu.oon\RainbowBraces.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\HOTRELOAD\Microsoft.VisualStudio.HotReload.Components.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.VisualStudio.Common.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CLIENTDIAGNOSTICS\APPRESPONSIVENESS\Microsoft.VisualStudio.AppResponsiveness.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\ERRORLIST\Microsoft.VisualStudio.ErrorListPkg.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.Shared.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\ProjectSystem\Microsoft.WebTools.ProjectSystem.Components.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.Git.HostingProvider.GitHub.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\PROVIDERS\SOLUTION\Microsoft.VisualStudio.Progression.VSProvider.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.TeamFoundation.Build.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.Remote.Workspaces.dll
+ - C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Common.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\WINDOWS.FORMS\Microsoft.VisualStudio.WinForms.Package.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.Git.HostingProvider.AzureDevOps.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\REFERENCEMANAGER\Microsoft.VisualStudio.ReferenceManager.Providers.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DIAGNOSTICSHUB\Microsoft.DiagnosticsHub.VisualStudio.Package.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\SHELL\..\..\..\Microsoft.VisualStudio.Shell.UI.Internal.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Language.StandardClassification.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\TEMPLATEENGINE\Microsoft.VisualStudio.TemplateEngine.Wizard.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.TeamExplorer.Navigation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.VisualStudio.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\PERFMARKERS\Microsoft.DiagnosticsHub.PerfMarkers.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Text.Logic.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.Git.Provider.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CALLHIERARCHY\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CROSSREPOSITORYSEARCH\Microsoft.VisualStudio.Platform.CrossRepositorySearch.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.VisualStudio.OnlineEnvironment.Client.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS SHARED\Microsoft.WebTools.Shared.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Publish\Microsoft.WebTools.Publish.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\CONNECTEDSERVICES\Microsoft.VisualStudio.ConnectedServices.Package2.dll
+ - C:\Users\chris\AppData\Local\Microsoft\VisualStudio\17.0_45d92faf\Extensions\v4f5vkla.mk1\InlineErrorAdornment.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.Git.Controls.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\SHELL\..\..\..\PrivateAssemblies\Microsoft.VisualStudio.Shell.Connected.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\TEMPLATEENGINE\Microsoft.VisualStudio.TemplateEngine.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.WorkItemTracking.Controls.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.TeamFoundation.VersionControl.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\INCREDIBUILDEXTENSION\IncredibuildMenu2022.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\Microsoft\SQLDB\Vsix\Microsoft.VisualStudio.Data.Tools.Delta.UI.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.CodeReview.Components.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Editor.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\LIVESHARE.VSCORE\Microsoft.VisualStudio.LiveShare.Workspace.VSCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS SHARED\Microsoft.WebTools.Shared.CPS.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NAVIGATETO\Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.VisualStudio.LanguageServices.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CROSSREPOSITORYSEARCH\Microsoft.VisualStudio.CrossRepositorySearch.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.Controls.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\LIVESHARE.VSCORE\Microsoft.VisualStudio.LiveShare.ServiceBrokerIntegration.VSCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Text.Data.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\TaskRunnerExplorer\Microsoft.WebTools.TaskRunnerExplorer.Extensions.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Scaffolding\Microsoft.AspNet.Scaffolding.EntityFramework.12.0.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Text.UI.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\LANGUAGE\GENERATETYPE\Microsoft.VisualStudio.Language.GenerateType.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\CodeGenerators\Microsoft.WebTools.CodeGenerators.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Scaffolding\Microsoft.AspNet.Scaffolding.12.0.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\LIVESHARE.VSCORE\Microsoft.VisualStudio.LanguageServices.Remote.CSharpLanguageServiceFactories.VSCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\SEARCH\Microsoft.VisualStudio.Search.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\CPUSAMPLING\Microsoft.DiagnosticsHub.CpuSampling.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CODEANALYSIS\Microsoft.VisualStudio.CodeAnalysis.VCPlugin.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VC\..\..\..\Microsoft.VisualStudio.VC.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VC\EDITOR\Microsoft.VisualC.Editor.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.TeamFoundation.SharePointReporting.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEXTMATE\Microsoft.VisualStudio.TextMate.Core.dll
+ - C:\Program Files\Microsoft Visual Studio\2022\Community\common7\ide\PrivateAssemblies\Microsoft.VisualStudio.ComponentModelHost.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.ContextManagement.Package.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.VisualBasic.EditorFeatures.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\INTERACTIVEWINDOW\Microsoft.VisualStudio.InteractiveWindow.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.EditorFeatures.Text.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.CodeReview.Controls.dll
+ - C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.DesignTools.XamlLanguageServiceBase.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\PARALLELDEBUGGER\Microsoft.VisualStudio.Debugger.Parallel.Extension.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\Microsoft\AppInsights\Core\Microsoft.VisualStudio.ApplicationInsights.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\TREENAVIGATION\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\REFERENCEMANAGER\Microsoft.VisualStudio.ReferenceManager.Dialog.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Editor.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\AZURE\Microsoft.WebTools.Azure.Client.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\Microsoft\SQLDB\Vsix\Microsoft.VisualStudio.Data.Tools.Delta.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.ExternalAccess.FSharp.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.VisualStudio.LanguageServices.LiveShare.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.TeamFoundation.Build.Controls.dll
+ - C:\Program Files\Microsoft Visual Studio\2022\Community\\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.VisualStudio.MSTest.TestWindow.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\MANAGEDPROJECTSYSTEM\Microsoft.VisualStudio.ProjectSystem.Managed.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\DEBUGGERSERVICES\Microsoft.VisualStudio.Debugger.Shared.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\Microsoft.VisualStudio.TestWindow.VSTest.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\PERFORMANCE TOOLS\Microsoft.VisualStudio.PerformanceTools.EditorIntegration.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\MICROSOFT OFFICE 365 CONNECTED SERVICE\Microsoft.VisualStudio.Office365.dll
+ - C:\Program Files\Microsoft Visual Studio\2022\Community\\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+ - C:\Users\chris\AppData\Local\Microsoft\VisualStudio\17.0_45d92faf\Extensions\hmzjtr3j.1ud\WarnAboutTODOs.dll
+ - C:\Users\chris\AppData\Local\Microsoft\VisualStudio\17.0_45d92faf\Extensions\p2yz5vme.4h0\dev17\GitDiffMargin.Impl.dll
+ - C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.HubExtensions.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DOTNETCOUNTERS\Microsoft.DiagnosticsHub.DotNetCountersTool.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\LIVESHARE.VSCORE\Microsoft.VisualStudio.LiveShare.DebuggerService.VSCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\INSTRUMENTATION\Microsoft.DiagnosticsHub.Instrumentation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.DiffBase.Internal.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\MODELBUILDER\Microsoft.ML.ModelBuilder.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Diff.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\MANAGEDPROJECTSYSTEM\Microsoft.VisualStudio.ProjectSystem.Managed.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\LIVESHARE.VSCORE\Microsoft.VisualStudio.LanguageServices.LanguageExtension.VSCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\OPENFOLDER\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\Microsoft\Windows Azure Tools\Common\Microsoft.VisualStudio.PowerShellTools.Package.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Browser Link\Microsoft.WebTools.BrowserLink.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\LIVESHARE.VSCORE\Microsoft.VisualStudio.LiveShare.CPS.VSCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Scaffolding\Microsoft.WebTools.Scaffolding.Shared.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\Microsoft\SQLDB\Vsix\Microsoft.VisualStudio.Data.Tools.SQLPDWExtensions.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\INTERACTIVEWINDOW\Microsoft.VisualStudio.VsInteractiveWindow.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.Tools.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\OPENFOLDER\Microsoft.VisualStudio.Workspace.VSIntegration.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\INSTRUMENTATION\ICECAP\Microsoft.DiagnosticsHub.IceCap.Instrumentation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.LanguageServer.Delegation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Shared\Microsoft.WebTools.Shared.Web.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\LANGUAGESERVER\Microsoft.VisualStudio.LanguageServer.Client.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Scaffolding\Microsoft.WebTools.Scaffolding.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DEBUGGER\Microsoft.VisualStudio.Debugger.TerminalLauncher.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.VisualStudio.LanguageServices.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\OPENFOLDER\Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.EditorFeatures.Wpf.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.Commenting.Presentation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\TaskRunnerExplorer\Microsoft.WebTools.TaskRunnerExplorer.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\DATADESIGN\Microsoft.VisualStudio.DataDesign.DataSourceProviders.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.Workspaces.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.Html.Editor.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\PROJECTSYSTEMQUERY\Microsoft.VisualStudio.ProjectSystem.Query.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.EditorFeatures.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Language.Intellisense.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS SHARED\Microsoft.WebTools.Shared.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\TEMPLATEENGINE\Microsoft.VisualStudio.TemplateEngine.Shared.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.TeamFoundation.NuGetCredentialProvider.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\Microsoft.VisualStudio.TestWindow.Interfaces.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.Text.UI.Wpf.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\AZURE\Microsoft.WebTools.Azure.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\EVENTSVIEWER\Microsoft.DiagnosticsHub.EventsViewerTool.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VC\PROJECT\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\PROVIDERS\LAYERDSL\Microsoft.VisualStudio.TeamArchitect.LayerDesigner.DslProvider.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.Css.Editor.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\SHELL\..\..\..\PrivateAssemblies\Microsoft.VisualStudio.CommonIDE.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\TREENAVIGATION\GRAPHPROVIDER\Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\FILEIO\Microsoft.DiagnosticsHub.FileIOTool.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\GRAPHDOCUMENTPACKAGE\Microsoft.VisualStudio.Progression.GraphControl.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Publish\Microsoft.Publish.Framework.Web.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\DEBUGGERSERVICES\Microsoft.VisualStudio.Debugger.BrokeredServices.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\Microsoft.VisualStudio.TestWindow.Internal.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CALLHIERARCHY\Microsoft.VisualStudio.Language.CallHierarchy.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.Json.Editor.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\Microsoft\Windows Azure Tools\Common\Microsoft.VisualStudio.WindowsAzure.CommonAzureTools.Package.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DOTNETOBJECTALLOC\Microsoft.DiagnosticsHub.DotNetObjectAllocation.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.ExternalAccess.Razor.dll
+ - C:\Users\chris\AppData\Local\Microsoft\VisualStudio\17.0_45d92faf\Extensions\yfjupwnf.0pn\IntroduceParameterObject.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\MODELING\17.0\Microsoft.VisualStudio.Modeling.Components.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CODEANALYSIS\..\..\..\PrivateAssemblies\StanCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\CODESENSE\FRAMEWORK\Microsoft.VisualStudio.CodeSense.Roslyn.dll
+ - C:\Users\chris\AppData\Local\Microsoft\VisualStudio\17.0_45d92faf\Extensions\x1d2uate.k1z\AutoToString.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\PROJECTSYSTEMQUERY\Microsoft.VisualStudio.ProjectSystem.Query.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\SHELL\..\..\..\PrivateAssemblies\Microsoft.VisualStudio.Dialogs.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\Microsoft.VisualStudio.TestWindow.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\33q0glsd.tbk\Roslyn.ComponentDebugger.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\XAMLLANGUAGESERVICE\Microsoft.VisualStudio.DesignTools.XamlLanguageService.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TESTWINDOW\Microsoft.VisualStudio.TestWindow.Core.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB\MVC\SCAFFOLDING\Microsoft.AspNet.Scaffolding.Mvc.5.0.dll
+ - C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.DesignTools.XamlDesignerHost.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Browser Link\Microsoft.WebTools.BrowserLink.Package.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.Merge.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.VisualStudio.LanguageServices.Xaml.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.CSharp.EditorFeatures.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\PROVIDERS\ANALYZERS\Microsoft.VisualStudio.Progression.Analyzers.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.ExternalAccess.Apex.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.PackageManagement.VisualStudio.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.CSharp.Features.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.SolutionRestoreManager.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.Features.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\SOURCEBASEDTESTDISCOVERY\Microsoft.CodeAnalysis.UnitTesting.SourceBasedTestDiscovery.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\SEARCH\Microsoft.VisualStudio.Platform.SearchProviders.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.VisualStudio.LanguageServices.CSharp.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\DATADESIGN\Microsoft.VisualStudio.DataDesign.WpfComponents.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\LANGUAGESERVER\Microsoft.VisualStudio.LanguageServer.Client.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Project\Microsoft.VisualStudio.Web.Project.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\ProjectSystem\Microsoft.WebTools.ProjectSystem.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DATABASE\Microsoft.DiagnosticsHub.DatabaseTool.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CODINGCONVENTIONS\..\..\..\PublicAssemblies\Microsoft.VisualStudio.CodingConventions.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGet.PackageManagement.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\MARKDOWN\Microsoft.VisualStudio.Markdown.Platform.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITOR\Microsoft.VisualStudio.CoreUtility.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.CodeReview.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.VisualStudio.LanguageServices.VisualBasic.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\EDITORCONFIG\COMMAND\Microsoft.VisualStudio.Templates.Editorconfig.Command.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\VBCSHARP\LANGUAGESERVICES\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\PROVIDERS\MANAGEDPROVIDER\Microsoft.VisualStudio.Progression.ManagedProvider.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.Json.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEAMFOUNDATION\TEAM EXPLORER\Microsoft.VisualStudio.TeamFoundation.WorkItemTracking.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\NUGET\NuGetConsole.Host.PowerShell.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\WEB TOOLS\Languages\Microsoft.WebTools.Languages.Html.VS.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\PLATFORM\DOTNETASYNC\Microsoft.DiagnosticsHub.DotNetAsync.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\EXTENSIONS\MICROSOFT\LIVESHARE.VSCORE\Microsoft.VisualStudio.LanguageServices.Remote.VSCore.dll
+ - C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO\2022\COMMUNITY\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\TEXTMATE\Microsoft.VisualStudio.TextMate.VSWindows.dll
+---------- Unused assemblies ----------
+ - C:\Program Files\Microsoft Visual Studio\2022\Community\\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.VisualStudio.TestWindow.CppUnitTestExtension.dll

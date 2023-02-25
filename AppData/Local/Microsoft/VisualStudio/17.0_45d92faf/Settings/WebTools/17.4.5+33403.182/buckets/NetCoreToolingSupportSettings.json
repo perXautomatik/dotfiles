@@ -1,0 +1,51 @@
+{
+  "version": "4.0",
+  "runtimes": {
+    "netcoreapp1.0": {
+      "disposition": "FullySupported"
+    },
+    "netcoreapp1.1": {
+      "disposition": "FullySupported"
+    },
+    "netcoreapp2.0": {
+      "disposition": "FullySupported"
+    },
+    "netcoreapp2.1": {
+      "disposition": "FullySupported"
+    },
+    "netcoreapp2.2": {
+      "disposition": "FullySupported"
+    },
+    "netcoreapp3.0": {
+      "disposition": "FullySupported"
+    },
+    "netcoreapp3.1": {
+      "disposition": "FullySupported"
+    },
+    "net5.0": {
+      "disposition": "FullySupported"
+    },
+    "net6.0": {
+      "disposition": "FullySupported"
+    },
+    "net7.0": {
+      "disposition": "FullySupported"
+    },
+    "*": {
+      "disposition": "Unsupported",
+      "properties": {
+        "unsupportedRuntimesInstalledFwLink": "866848"
+      }
+    }
+  },
+  "resources": {
+    "OneAspNetDialog": {
+      "OutOfSupportRuntimeSelectedText": {
+      },
+      "UnsupportedRuntimeInstalledText": {
+      },
+      "TemplateRequiresNewerVersionText": {
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "version": "4.1",
+  "runtimes": {
+    "netcoreapp1.0": {
+      "disposition": "Deprecated",
+      "properties": {
+        "learnMoreLinkId": "2100222"
+      }
+    },
+    "netcoreapp1.1": {
+      "disposition": "Deprecated",
+      "properties": {
+        "learnMoreLinkId": "2100222"
+      }
+    },
+    "netcoreapp2.0": {
+      "disposition": "Deprecated",
+      "properties": {
+        "learnMoreLinkId": "2136705"
+      }
+    },
+    "netcoreapp2.1": {
+      "disposition": "Deprecated"
+    },
+    "netcoreapp2.2": {
+      "disposition": "Deprecated"
+    },
+    "netcoreapp3.0": {
+      "disposition": "Deprecated"
+    },
+    "netcoreapp3.1": {
+      "disposition": "Deprecated"
+    },
+    "net5.0": {
+      "disposition": "Deprecated"
+    },
+    "net6.0": {
+      "disposition": "FullySupported",
+      "properties": {
+        "supportType": "LTS"
+      }
+    },
+    "net7.0": {
+      "disposition": "FullySupported",
+      "properties": {
+        "supportType": "Current"
+      }
+    },
+    "*": {
+      "disposition": "Unsupported"
+    }
+  }
+}
