@@ -1,7 +1,0 @@
-header: {started: 1671317825985}
-stats:
-  started: {invocations: 1, invocationLast: 20221217, invocationDays: 1}
-  system.os.name.windows+10: {invocations: 1, invocationLast: 20221217, invocationDays: 1}
-  system.os.version.windows+10/10.0: {invocations: 1, invocationLast: 20221217, invocationDays: 1}
-  system.java.version.11.0.8-syntevo: {invocations: 1, invocationLast: 20221217, invocationDays: 1}
-  i18n.locale.<null>: {invocations: 1, invocationLast: 20221217, invocationDays: 1}

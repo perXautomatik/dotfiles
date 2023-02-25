@@ -1,6 +1,6 @@
 actions:
   cleanup: {}
-  commit: {}
+  commit: {preferStaged: false}
   compare:
     fileComparators:
     - filePattern: '*'
@@ -12,21 +12,21 @@ actions:
       useExternal: false
       externalTool: {}
   stash: {}
-  initCommitMessage: initial commit
 logSettings:
   filterConfiguration: {}
-comparePreviewSettings: {}
+comparePreviewSettings: {selectCompareTypeAutomatically: true, compareType: working-tree-vs-index}
 dateFormat: {}
 defaultViewSettings:
   compareSettings:
     textSettings: {whitespaces: 0}
 git:
   maxCount: 3
-  alternatives: []
-ssh: {}
+  alternatives: ['${smartgit.install}\git\bin\git.exe', 'C:\Program Files\Git\cmd\git.exe']
+  executable: C:\Program Files\Git\bin\git.exe
+ssh: {useOwnSshClient: true}
 deepGit2: {}
 globalTextComponentSettings:
-  font: {}
+  font: {family: Lucida Console, size: 9}
   actions: {}
   syntaxHighlightingSettings:
     entries:
@@ -65,6 +65,9 @@ globalTextComponentSettings:
     - {language: VHDL '93, pattern: '*.vhd, *.vhdl'}
     - {language: XML, pattern: '*.csproj, *.mxml, *.storyboard, *.xib, *.xml'}
     - {language: Yaml, pattern: '*.yaml, *.yml'}
+    - {language: Crystal, pattern: '*.cr'}
+    - {language: Groovy, pattern: '*.gradle, *.groovy'}
+    - {language: Zig, pattern: '*.zig'}
   colors.light: {color-annotation: 11564032, color-attrib-name: 255, color-attrib-value: 32768,
     color-comment: 8421504, color-pragma: 8547840, color-invalid: 16727871, color-keyword: 32768,
     color-literal: 255, color-plain-text: 0, color-punctuation: 16721920, color-identifier: 0,
@@ -74,11 +77,11 @@ globalTextComponentSettings:
     color-literal: 11184853, color-plain-text: 12566463, color-punctuation: 12561045,
     color-identifier: 12632256, color-string: 14002901, color-tag: 10274701, color-type: 11513807}
   colors.useDark: false
-listx: {}
-project: {}
+listx: {uid: en4ssg7d23lk}
+project: {defaultWindowType: wt}
 uiSettings: {}
-vcsRecords: {}
-updateCheck: {}
+vcsRecords: {lastGitUsage: 1677079468955}
+updateCheck: {prevCheckTime: 1677077712000, checkedBuild: 19259}
 updateCheckDg: {}
 proxy: {}
 spellCheck:
@@ -87,9 +90,11 @@ spellCheck:
       Files\SmartGit\dictionaries\en_US.dic'}
   deleted: false
   activeDictionary: 0
-lastUsedVersion: '21.1'
+lastUsedVersion: '22.1'
 firstUsedTime: 1671317825874
-tempDirs: ['C:\Users\chris\AppData\Local\Temp\smartgit8780956890910081628', 'C:\Users\chris\AppData\Local\Temp\e4j274E.tmp_dir1671317819']
+tempDirs: ['C:\Users\chris\AppData\Local\Temp\smartgit1232006967649667503', 'C:\Users\chris\AppData\Local\Temp\e4j1201.tmp_dir1677078432']
 warnForMissingMasterPassword: false
 sendStacktraces2: true
 sendUsageStats: true
+upgradedFromVersion: '21.1'
+machineId: 37bb773b

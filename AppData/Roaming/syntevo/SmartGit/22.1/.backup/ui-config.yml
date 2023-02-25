@@ -1,9 +1,12 @@
-git:
-  projectToolBar-17:
+filterConfiguration: {regularExpressions: false}
+toolbars:
+  wt:
     items:
     - {id: fetch}
     - {id: sync}
     - {id: push}
+    - {stretching: false}
+    - {id: commit}
     - {stretching: true}
     - {id: stage}
     - {id: indexEditor}
@@ -22,7 +25,7 @@ git:
     - {stretching: false}
     - {id: merge}
     - {id: rebaseHeadTo}
-  logToolBar-18.2:
+  log.main:
     items:
     - {id: fetch}
     - {id: sync}
@@ -44,4 +47,36 @@ git:
     - {stretching: false}
     - {id: merge}
     - {id: rebaseHeadTo}
-filterConfiguration: {}
+  log.review:
+    items:
+    - {id: fetch}
+    - {id: sync}
+    - {id: push}
+    - {stretching: true}
+    - {id: stage}
+    - {id: indexEditor}
+    - {id: unstage}
+    - {stretching: false}
+    - {id: discard}
+    - {stretching: false}
+    - {id: stashSave}
+    - {id: stashApply}
+    - {stretching: true}
+    - {id: annotate}
+    - {id: investigate}
+    - {stretching: true}
+    - {id: flowContext}
+    - {stretching: false}
+    - {id: merge}
+    - {id: rebaseHeadTo}
+  log.file:
+    items:
+    - {stretching: true}
+    - {id: branchAdd}
+    - {id: branchAddTag}
+    - {stretching: false}
+    - {id: cherryPick}
+    - {id: revert}
+    - {stretching: true}
+    - {id: annotate}
+    - {id: investigate}

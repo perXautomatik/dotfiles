@@ -1,2 +1,9 @@
-readNotifications: []
-dontPublishNotifications: []
+readNotifications: [log-may-be-used-as-main-window-null, follow-us-on-twitter-null,
+  gc.autoDetach-null, credential.helper-null, hosting-provider-could-be-configured-github-null,
+  'repository-model-problem-c:/users/chris/appdata-null', 'repository-model-problem-c:/users/chris/appdata/roaming/vortex-null']
+dontPublishNotifications: [gc.autoDetach-null, follow-us-on-twitter-null, log-may-be-used-as-main-window-null,
+  credential.helper-null]
+dontPublishUntil-log-may-be-used-as-main-window-null: 1677597768110
+dontPublishUntil-follow-us-on-twitter-null: 0
+dontPublishUntil-gc.autoDetach-null: 0
+dontPublishUntil-credential.helper-null: 1677079872575

@@ -1,2 +1,35 @@
-structure: []
-recentlyUsed: []
+structure:
+- name: C:\Steam
+  children:
+  - {name: steamapps, path: 'C:\Steam\steamapps'}
+  - {name: scoopbucket-1, path: 'D:\ToGit\scoopbucket-1'}
+  - {name: Vortex, path: 'D:\ToGit\Vortex'}
+  - {name: scoopbucket-presist, path: 'D:\ToGit\scoopbucket-presist'}
+  expanded: false
+- name: C:\Users
+  children:
+  - {name: chris, path: 'C:\Users\chris'}
+  - {name: AppData, path: 'C:\Users\chris\AppData'}
+  - {name: AutoLotConsoleApp, path: 'C:\Users\chris\source\repos\AutoLotConsoleApp'}
+  - {name: Vortex, path: 'C:\Users\chris\AppData\Roaming\Vortex'}
+  - {name: Documents, path: 'C:\Users\chris\Documents'}
+  - {name: Documents, path: 'C:\Users\chris\OneDrive\Documents'}
+  - {name: Beyond Compare 4, path: 'C:\Users\chris\AppData\Roaming\Scooter Software\Beyond
+      Compare 4'}
+  - {name: Everything, path: 'C:\Users\chris\AppData\Roaming\Everything'}
+  expanded: false
+- {name: WPFSample, path: 'B:\ToGit\Projectfolder\VisualStudio\213c939651e0bef7612b2f910909a21d\WPFSample'}
+- {name: chris, path: 'B:\Users\chris'}
+- {name: VisualStudio, path: 'B:\ToGit\Projectfolder\VisualStudio'}
+- {name: Chris, path: 'B:\ToGit\chris'}
+- {name: Beyond Compare 4, path: 'B:\Users\chris\AppData\.git\modules\Roaming\Scooter
+    Software\Beyond Compare 4'}
+- {name: Vortex, path: 'B:\ToGit\Vortex\fallout3'}
+- {name: ToGit, path: 'B:\ToGit\Projectfolder'}
+recentlyUsed: ['B:\ToGit\Projectfolder', 'B:\ToGit\Vortex\fallout3', 'B:\ToGit\Projectfolder\VisualStudio',
+  'B:\Users\chris', 'C:\Users\chris\AppData', 'C:\Users\chris\AppData\Roaming\Everything',
+  'C:\Users\chris\AppData\Roaming\Scooter Software\Beyond Compare 4', 'B:\Users\chris\AppData\.git\modules\Roaming\Scooter
+    Software\Beyond Compare 4', 'C:\Users\chris', 'C:\Users\chris\OneDrive\Documents',
+  'C:\Users\chris\Documents', 'B:\ToGit\chris', 'C:\Users\chris\AppData\Roaming\Vortex',
+  'C:\Users\chris\source\repos\AutoLotConsoleApp', 'B:\ToGit\Projectfolder\VisualStudio\213c939651e0bef7612b2f910909a21d\WPFSample',
+  'D:\ToGit\scoopbucket-presist', 'D:\ToGit\scoopbucket-1', 'D:\ToGit\Vortex', 'C:\Steam\steamapps']
