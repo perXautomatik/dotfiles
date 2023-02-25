@@ -13,8 +13,7 @@
       "D:\\wslunix\\home\\",
       "D:\\ToDatabase"
   ],
-  "markdown.preview.breaks": true,
-  "editor.renderIndentGuides": false,
+"markdown.preview.breaks": true,
   "files.autoSave": "onFocusChange",
   "git.ignoreWindowsGit27Warning": true,
   "todo-tree.tree.scanMode": "current file",
@@ -46,7 +45,9 @@
   "git.autofetch": true,
   "git.autoStash": true,
   "extensions.ignoreRecomendations": false,
-  "editor.multiCursorModifier": "ctrlCmd",
+"editor.multiCursorModifier": "ctrlCmd",
+"editor.bracketPairColorization.enabled": true,
+"editor.guides.bracketPairs": "active",
   "files.associations": {
       "*.mb": "vb"
   },
@@ -75,10 +76,30 @@
   },
   
   "replacerules.rules": {
+    "un regex align": {
+        "find": "^[\\s\\t]{1,}|[\\s\\t]{1,}$|[\\s\\t]{2,}",
+        "replace": " "
+    },
+    "newLineAfterSemiColon": {
+        "find": ";",
+        "replace": ";\n"
+    },
+    "pdf bookmarkReplaceDupe": {
+        "find": "((^.*[/])\\d*([,].*)$)\\n\\2\\d*\\3",
+        "replace": "$1"
+    },
+    "Datagrip xml NameUuid": {
+        "find": "data-source (name=\"[^\"]*\") (uuid=\"[^\"]*\")",
+        "replace": "data-source $2 $1"
+    },
+    "Datagrip xml switch NameUuid": {
+        "find": "data-source (name|uuid)=(\"[^\"]*\") (name|uuid)=(\"[^\"]*\")",
+        "replace": "data-source $3=$2 $1=$4"
+    },
     "RepeatedWords Alias overshaddowing": {
-      "find": "\\(\\\\W\\(\\[\\^\\\\s\\]\\{2,\\}\\)\\)\\\\s\\\\2\\(\\\\W\\)",
-      "replace": "$1$3"
-  },
+        "find": "\\(\\\\W\\(\\[\\^\\\\s\\]\\{2,\\}\\)\\)\\\\s\\\\2\\(\\\\W\\)",
+        "replace": "$1$3"
+    },
     "Flipp Title/url to Url/title": {
         "find": "(.title.: .*,)[\n]?[ \t]*(.url.:.*,)",
         "replace": "$2$1"
@@ -163,165 +184,79 @@
         "find": "((<!--|[;'#\\/\\ ]*|^)($TAGS)|^\\ *- \\[ \\])",
         "replace": "$1"
     },
-      "AliasGsubtree": {            
-          "find": "git subtree split",
-          "replace": "Gsubtree"
-      },   
-      "AliasBranchToStream": {            
-          "find": "git branch [|] out-string -stream",
-          "replace": "BranchToStream"
-      },        
-      "AliasfilesInFolAsStream": {            
-          "find": "filesInFol [|] out-string -stream",
-          "replace": "filesInFolAsStream"
-      },
-      
-      "AliasfilesInFol": {            
-          "find": "get-childitem [|] select name",
-          "replace": "filesInFol"
-      },
-      "AliasRootNoDrive": {            
-          "find": "split-path -path [(]get-location[)] -noQualifier",
-          "replace": "RootNoDrive"
-      },
-      "AliasGitRoot": {            
-          "find": "git rev-parse --show-toplevel",
-          "replace": "GitRoot"
-      },
-      "AliasTortoiseGitProc": {            
-          "find": "C:\\\\Program Files\\\\TortoiseGit\\\\bin\\\\TortoiseGitProc\\.exe",
-          "replace": "TortoiseGitProc"
-      },
-      "AliasBSArch": {            
-          "find": "\\.\"C:\\\\Modding\\\\Fallout4\\\\fallout4\\\\Tools\\\\BSArch\\\\bsarch\\.exe\"",
-          "replace": "BSArch"
-      },
-      "AliasJsonFx": {            
-          "find": "cat 'D:\\\\OneDrive\\\\TabSessionManager - Backup\\\\EdgeBookmarksFile\\\\bookmarks' \\| \\.\\\\fx-win\\.exe",
-          "replace": "JsonFx"
-      },
-      "AliasGit": {            
-          "find": "\\.\"D:\\\\PortableApplauncher\\\\Apps\\\\\\.free\\\\GitHubDesktopPortable\\\\App\\\\GitHubDesktop\\\\app-2\\.9\\.5\\\\resources\\\\app\\\\git\\\\cmd\\\\git\\.exe\"|\"D:\\\\PortableApplauncher\\\\Apps\\\\\\.free\\\\GitHubDesktopPortable\\\\App\\\\GitHubDesktop\\\\app-2\\.9\\.5\\\\resources\\\\app\\\\git\\\\cmd\\\\git\\.exe\"",
-          "replace": "Git"
-      },
-      "AdjecendingInrement": {            
-          "find": "^(.*)$\n(\\1.*)",
-          "replace": "$2"
-      },
-      "AdjecendingInrementFluff": {            
-          "find": "^[ ]*(.*)[ ]*\n[ ]*(\\1.*)",
-          "replace": "$2"
-      },
-      "AdjecendingRepeat": {
-          "find": "^(.*)\n\\1$",
-          "replace": "$1"
-      },
-      "AdjecendingRepeatFluff": {
-          "find": "^[ ]*(.*)[ ]*\n[ ]*\\1[ ]*$",
-          "replace": "$1"
-      },
-      "UnChromeExtension": {
-          "find": "chrome-extension:[//]{2}[^\"]*&uri=",
-          "replace": ""
-      },
-      "AliasLDBSETTfiles": {            
-          "find": "\\[System\\.IO\\.File\\]::ReadLines\\('X:\\\\ToDatabase\\\\Files\\\\LDBSETTfiles\\.txt'\\) \\| Select-Object -Skip 12 \\| Select-Object -first 10",
-          "replace": "LDBSETTfiles"
-      },
-      
-      "AliasFilerAttFlytta": {            
-          "find": "Get-Content -Path ..filerAttFlytta.txt",
-          "replace": "FilerAttFlytta"
-      },
-      "AliasUDPE": {            
-          "find": "Get-NetUDPEndpoint -LocalAddress 127.0.0.1",
-          "replace": "UDPE"
-      },
-      "AliasUDPEL": {            
-          "find": "[(]UDPE[)].localPort",
-          "replace": "UDPEL"
-      },
-      "OneTAB split where url !~ url": {
-          "find": "(\n[\t ]{2,}.url.: .((chrome|chrome-extension|file|http|https):..([^/]){1,}[/]).*\n[\t ]{2,}.id.: ..*)\n[\t ]{2,}..\n[\t ]{2,}.(\n[\t ]{2,}.url.: .(?!$2).*)",
-          "replace": " $1 \n },{ \n $5"
-      },
-      "OneTAB Rm Groups where url ~ url": {
-          "find": "[\t ]{2,}(.url.: .((chrome|chrome-extension|file|http|https):..([^/]){1,}).*\n[\t ]{2,}.id.: ..*)[\t ]{2,}.[\t ]{2,}..[\t ]{2,}.id.: ..*[\t ]{2,}..[\t ]{2,}.[\t ]{2,}.createDate.: .*[\t ]{2,}.tabsMeta.: .[\t ]{2,}.[\t ]{2,}(.url.: .$2.*)",
-          "replace": "$1},{$5"
-      },
-      "OneTabMerge": {
-          "find": ".[}].\n[ \t]*.state.: .[{]..tabgroups..:.",
-          "replace": ","
-      },
-      "Flipp Title/url to Url/title": {
-          "find": "(.title.: .*,)[\n]?[ \t]*(.url.:.*,)",
-          "replace": "$2$1"
-      },
-      "Remove trailing and leading whitespace": {
-          "find": "^[ ]*(.*)[ ]*$",
-          "replace": "$1"
-      },
-      "NormalizeTabs": {
-          "find": "^[ \t]*$",
-          "replace": "^\t"
-      },
-      "todo-tree.regex.regex": {
-          "find": "((<!--|[;'#\\/\\ ]*|^)($TAGS)|^\\ *- \\[ \\])",
-          "replace": "$1"
-      },
-      "linebreakes for tabs": {
-          "find": "^(.*)\n$",
-          "replace": "$1  "
-      },
-      "Remove blank lines": {
-          "find": "\n[\t]?\n",
-          "replace": ""
-      },
-      "WrongEncodeDelete": {
-          "find": "[åöä�ÅÄÖ?]?(?=[a-zA-Z])?",
-          "replace": ""
-      },
-      "idIndex": {
-          "find": ",\n^[ ]{0,}\"index\": \"",
-          "replace": ""
-      },
-      "databaseConnection": {
-          "find": "'(.*)' as (.*)",
-          "replace": "#DataSourceSettings# #LocalDataSource: $2 #BEGIN# <data-source source=\"LOCAL\" name=\"$2\" uuid=\"b85e1ec3-7395-4f05-ac67-3ce1ace9f902\"> <database-info product=\"SQLite\" version=\"3.25.1\" jdbc-version=\"2.1\" driver-name=\"SQLite JDBC\" driver-version=\"3.25.1\" dbms=\"SQLITE\" exact-version=\"3.25.1\" exact-driver-version=\"3.25\"> <identifier-quote-string>&quot;</identifier-quote-string> </database-info> <case-sensitivity plain-identifiers=\"mixed\" quoted-identifiers=\"mixed\" /> <driver-ref>sqlite.xerial</driver-ref> <synchronize>true</synchronize> <jdbc-driver>org.sqlite.JDBC</jdbc-driver> <jdbc-url>jdbc:sqlite:$1</jdbc-url> <secret-storage>master_key</secret-storage> <auth-required>false</auth-required> <introspection-schemas>*:@</introspection-schemas> <legacy-introspector>true</legacy-introspector> <driver-properties> <property name=\"enable_load_extension\" value=\"true\" /> </driver-properties> </data-source> #END#"
-      },
-      "SurrondJson": {
-          "find": "(.*)",
-          "replace": "{\"script\":\"$1\"}"
-      },
-      "markFileDupes": {
-          "find": "(([(][0-9]][)][.]|.bak[.\"]|conflicted).*)",
-          "replace": "$1åäö"
-      },
-      "RemoveWebStart": {
-          "find": "http[s]?[:][/][/]|www.",
-          "replace": ""
-      },
-      "NewLineAfterOpeningBracket": {
-          "find": "[{]+",
-          "replace": "{\n"
-      },
-      "surroundWithTypicalErrorCheck": {
-          "find": "(.*)",
-          "replace": "onError goto $1\n $1\n onError goto 0\n\n exit sub\n \t$1:\tnote \" + $1 + Error\"\tprint error$()\tend program\n"
-      },
-      "tableNrRows": {
-          "find": "(.*)",
-          "replace": "tableInfo($1,tab_info_nrows)"
-      },
-      "newSubFunction": {
-          "find": "(.*)",
-          "replace": "Declare sub $1 \n \n sub $1 \n \n onError goto Err $1\n \n onError goto 0\n \n exit sub\n Err $1: print \" [ERROR] $1 \" & error$() resume next\n end sub\n "
-      },
-      "conflictreportToPlantuml": {
-          "find": "((<?([-]{16} (\\[((FE 0[0-6][0-9A-Z])|([0-5][0-9A-Z]))\\] (.{3,43}[.]es[pm][lrR]?) [-]{16}))\n {4,8}Overrides \\(wins conflict\\)\\:\n)(<?( {8,16}\\[((FE 0[0-6][0-9A-Z])|([0-5][0-9A-Z]))\\] .{3,43}[.]es[pm][lrR]?)\n){0,37}) {8,16}\\[((FE 0[0-6][0-9A-Z])|([0-5][0-9A-Z]))\\] (.{3,43}[.]es[pm][lrR]?)",
-          "replace": "$1$8 --|> $17"
-      }
-  },
+    "AliasGsubtree": {
+        "find": "git subtree split",
+        "replace": "Gsubtree"
+    },
+    "AliasBranchToStream": {
+        "find": "git branch [|] out-string -stream",
+        "replace": "BranchToStream"
+    },
+    "AliasfilesInFolAsStream": {
+        "find": "filesInFol [|] out-string -stream",
+        "replace": "filesInFolAsStream"
+    },
+    "AliasfilesInFol": {
+        "find": "get-childitem [|] select name",
+        "replace": "filesInFol"
+    },
+    "AliasRootNoDrive": {
+        "find": "split-path -path [(]get-location[)] -noQualifier",
+        "replace": "RootNoDrive"
+    },
+    "AliasGitRoot": {
+        "find": "git rev-parse --show-toplevel",
+        "replace": "GitRoot"
+    },
+    "AliasTortoiseGitProc": {
+        "find": "C:\\\\Program Files\\\\TortoiseGit\\\\bin\\\\TortoiseGitProc\\.exe",
+        "replace": "TortoiseGitProc"
+    },
+    "AliasBSArch": {
+        "find": "\\.\"C:\\\\Modding\\\\Fallout4\\\\fallout4\\\\Tools\\\\BSArch\\\\bsarch\\.exe\"",
+        "replace": "BSArch"
+    },
+    "AliasJsonFx": {
+        "find": "cat 'D:\\\\OneDrive\\\\TabSessionManager - Backup\\\\EdgeBookmarksFile\\\\bookmarks' \\| \\.\\\\fx-win\\.exe",
+        "replace": "JsonFx"
+    },
+    "AliasGit": {
+        "find": "\\.\"D:\\\\PortableApplauncher\\\\Apps\\\\\\.free\\\\GitHubDesktopPortable\\\\App\\\\GitHubDesktop\\\\app-2\\.9\\.5\\\\resources\\\\app\\\\git\\\\cmd\\\\git\\.exe\"|\"D:\\\\PortableApplauncher\\\\Apps\\\\\\.free\\\\GitHubDesktopPortable\\\\App\\\\GitHubDesktop\\\\app-2\\.9\\.5\\\\resources\\\\app\\\\git\\\\cmd\\\\git\\.exe\"",
+        "replace": "Git"
+    },
+    "AdjecendingInrement": {
+        "find": "^(.*)$\n(\\1.*)",
+        "replace": "$2"
+    },
+    "AdjecendingInrementFluff": {
+        "find": "^[ ]*(.*)[ ]*\n[ ]*(\\1.*)",
+        "replace": "$2"
+    },
+    "AdjecendingRepeat": {
+        "find": "^(.*)\n\\1$",
+        "replace": "$1"
+    },
+    "AdjecendingRepeatFluff": {
+        "find": "^[ ]*(.*)[ ]*\n[ ]*\\1[ ]*$",
+        "replace": "$1"
+    },
+    "AliasLDBSETTfiles": {
+        "find": "\\[System\\.IO\\.File\\]::ReadLines\\('X:\\\\ToDatabase\\\\Files\\\\LDBSETTfiles\\.txt'\\) \\| Select-Object -Skip 12 \\| Select-Object -first 10",
+        "replace": "LDBSETTfiles"
+    },
+    "AliasFilerAttFlytta": {
+        "find": "Get-Content -Path ..filerAttFlytta.txt",
+        "replace": "FilerAttFlytta"
+    },
+    "AliasUDPE": {
+        "find": "Get-NetUDPEndpoint -LocalAddress 127.0.0.1",
+        "replace": "UDPE"
+    },
+    "AliasUDPEL": {
+        "find": "[(]UDPE[)].localPort",
+        "replace": "UDPEL"
+    }
+},
   "workbench.iconTheme": "vs-seti",
   "workbench.sideBar.location": "right",
   "workspaceSidebar.depth": 4,
@@ -351,7 +286,7 @@
   "xmlTools.removeCommentsOnMinify": true,
   "xmlTools.enforcePrettySelfClosingTagOnFormat": true,
   "editor.suggestSelection": "first",
-  "editor.matchBrackets": "always",
+  "editor.matchBrackets": "never",
   "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
   "bracket-pair-colorizer-2.colors": [
       "Gold",
@@ -442,7 +377,7 @@
   "todo-tree.highlights.enabled": true,
   "csv-preview.openStdin": true,
   "csv-preview.separator": ";",
-  "sync.gist": "eb18e67484142ca0d5f0ccb5dceb4bee",
+  "sync.gist": "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",
   "merge-n-paste.pathToMergeTool": "D:\\PortableApps\\2. fileOrganization\\PortableApps\\Beyond Compare 4\\BCompare.exe %E %E %M %M",
   "open-file-from-path.matchPureFilename": true,
   "todo-tree.filtering.useBuiltInExcludes": "file excludes",
@@ -1231,7 +1166,11 @@
   "editor.suggest.shareSuggestSelections": true,
   "[plaintext]": {
   
-      "editor.quickSuggestions": true
+      "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+    }
   },
   "security.workspace.trust.untrustedFiles": "open",
   "search.useGlobalIgnoreFiles": true,
@@ -1269,5 +1208,18 @@
   ],
   "workbench.tree.renderIndentGuides": "always",
 "terminal.integrated.gpuAcceleration": "canvas",
-"editor.unicodeHighlight.ambiguousCharacters": false
+"editor.unicodeHighlight.ambiguousCharacters": false,
+"editor.guides.indentation": false,
+"powershell.pester.codeLens": false,
+"powershell.promptToUpdatePowerShell": false,
+"[powershell]": {
+    "editor.defaultFormatter": "ms-vscode.powershell-preview"
+},
+"workbench.colorTheme": "PowerShell ISE",
+"sqltools.useNodeRuntime": true,
+"redhat.telemetry.enabled": true,
+"workbench.editorAssociations": {
+    "*.bmp": "imagePreview.previewEditor",
+    "*.jpg": "imagePreview.previewEditor"
+}
 }

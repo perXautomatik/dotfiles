@@ -1,96 +1,28 @@
-/Roaming/Everything/*.db
-/Roaming/Path of Exile/ShaderCacheD3D11
-Local/Google/Chrome/User Data/Profile 1/README
-Local/Google/Chrome/User Data/Profile 1/Trusted Vault
-Local/Google/Chrome/User Data/Profile 1/Translate Ranker Model
-Local/Google/Chrome/User Data/Profile 1/Web Data
-Local/Google/Chrome/User Data/Profile 1/heavy_ad_intervention_opt_out.db
-Local/Google/Chrome/User Data/Profile 1/Favicons
-/Roaming/Vortex/Code Cache/
-*Cache/
-Cache*/
-/Roaming/Vortex/Cache
-/Roaming/Path of Exile/Minimap
-*.svg
-*.png
-*.jpg
+*.7z
+*.asar
+*.dat
+*.db
+*.db0
+*.dll
 *.dll
 *.dmp
 *.exe
 *.html
 *.ico
-MachineKeys
-*.zip
-*.exe
-__folder_managed_by_vortex
-*.dll
-*.log
-*.db
-*.7z
-leveldb/
-00/
-IndexedDB/
-*.sqlite
-*.pak
-*.asar
-Discord-1.0.9004-full.nupkg
-thumbcache_96db
-CurrentDatabase_400.wmdb
-iconcache_32db
-PluginHost_MediaStackETW-6.0.8968.616-releases_CL2016_R18-x86fre-U.etl
-*.dmp
-UrlSoceng.store
-*.msi
-collectionsSQLite
-*.dat
-thumbcache_96.db0
-*.otf
-iconcache_256db
-iconcache_32.db0
 *.jar
-easyanticheat_wow64_x64.eac
-SkypeForBusinessPlugin/
-*.db0
-TortoiseGit
-iconcache_16db
-Temp
-Spotify
-*.html
-Functional Data-wal
-Extensions
-Edge Wallet/
-Subresource Filter/
-Personal
-README.md
-LOG
-LOCK
-LOG.old
-SettingsLogs
-OneDrive
-Local/Packages/Microsoft.WindowsMaps_8wekyb3d8bbwe
-MANIFEST-000001
-CURRENT
+*.jpg
+*.jtx
+*.log
+*.msi
+*.otf
+*.pak
+*.png
+*.rar
+*.sqlite
+*.svg
 *.tmp
-Indexed DB/
-Local/Microsoft/Office
-Local/Packages/
-Local/SynologyDrive/
-Local/Programs/Opera GX/
-Local/Microsoft/Windows/Safety/
-Local/Microsoft/Windows/PowerShell/ISE
-Local/Microsoft/Windows/Explorer/thumbcache*
-Local/Microsoft/VSCommon/
-TeamsPresenceAddin
-ShortcutGuide
-Local/Microsoft/Edge/User Data/Edge Shopping/
-Local/Microsoft/ApplicationInsights/
-Local/JetBrains/DataGrip2022.1/
-hyphen-data/
-Local/Google/Chrome/User Data/AutofillStates/
-SmartScreen/
-Local/Microsoft/PowerToys/*/Logs/
-Logs/
-Cookies
+*.zip
+*Cache/
 .usage
 /Roaming/Everything/*.db
 /Roaming/Path of Exile/Minimap
@@ -116,24 +48,14 @@ Edge Wallet/
 Extensions
 Favicons
 Favicons-journal
-load_statistics.db-shm
+Functional Data-wal
+hyphen-data/
+iconcache_*
+Indexed DB/
+IndexedDB/
+leveldb/
 LICENSE
-lockfile
-Login Data
-Secure Preferences
-Translate Ranker Model
-TransportSecurity
-Web Data
-Web Data-journal
-Shortcuts
-Shortcuts-journal
-Reporting and NEL
-Safe Browsing Cookies
-Safe Browsing Cookies-journal
-manifest.json
-manifest.fingerprint
-*.rar
-*.jtx
+load_statistics.db-shm
 Local/Comms/UnistoreDB/store.jfm
 Local/Comms/UnistoreDB/store.vol
 Local/Comms/UnistoreDB/tmp.edb
@@ -159,3 +81,53 @@ Local/Microsoft/Windows/PowerShell/ISE
 Local/Microsoft/Windows/Safety/
 Local/Microsoft/Windows/UsrClass.dat.LOG1
 Local/Microsoft/Windows/UsrClass.dat.LOG2
+Local/Packages/
+Local/Packages/Microsoft.WindowsMaps_8wekyb3d8bbwe
+Local/Programs/Opera GX/
+Local/SynologyDrive/
+LOCK
+lockfile
+LOG
+LOG.old
+Login Data
+Logs/
+MachineKeys
+manifest.fingerprint
+manifest.json
+MANIFEST-000001
+mods
+modules
+OneDrive
+Personal
+PluginHost_MediaStackETW-6.0.8968.616-releases_CL2016_R18-x86fre-U.etl
+README
+README.md
+Reporting and NEL
+Safe Browsing Cookies
+Safe Browsing Cookies-journal
+Secure Preferences
+SettingsLogs
+ShaderCacheD3D11
+ShortcutGuide
+Shortcuts
+Shortcuts-journal
+SkypeForBusinessPlugin/
+SmartScreen/
+Spotify
+store.jfm
+store.vol
+Subresource Filter/
+TeamsPresenceAddin
+Temp
+thumbcache*
+thumbcache_*
+tmp.edb
+TortoiseGit
+Translate Ranker Model
+TransportSecurity
+Trusted Vault
+UrlSoceng.store
+UsrClass.dat.LOG1
+UsrClass.dat.LOG2
+Web Data
+Web Data-journal
