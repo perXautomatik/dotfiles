@@ -6,10 +6,6 @@
 	branch = --
 	path = LocalLow/Wizards Of The Coast/MTGA
 	url = https://github.com/perXautomatik/MTGArenaLog.git
-[submodule "Roaming/Everything"]
-	branch = --
-	path = Roaming/Everything
-	url = https://github.com/perXautomatik/EverythingSettings
 [submodule "Roaming/JetBrains/DataGrip2021.1"]
 	path = Roaming/JetBrains/DataGrip2021.1
 	url = https://github.com/perXautomatik/DatagripSettings.git
