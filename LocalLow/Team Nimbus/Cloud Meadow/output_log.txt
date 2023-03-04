@@ -1,0 +1,384 @@
+Initialize engine version: 2017.4.2f2 (52d9cb89b362)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4425
+Begin MonoManager ReloadAssembly
+- Completed reload, in  6.088 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.852100 ms
+GameVersion: STEAM Beta 0.1.3.1b
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2368 -> priority: 1 
+  Thread -> id: 2dc -> priority: 1 
+sexmale is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sexfemale is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+palettes is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+othersex is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+dialogueimages is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+animationmonster is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+combatrooms is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+followers is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+partyCharacterCombat is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+enemyCharacterCombat is loaded
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 6.576300 ms
+
+Unloading 14239 unused Assets to reduce memory usage. Loaded Objects now: 40702.
+Total: 49.092900 ms (FindLiveObjects: 4.604100 ms CreateObjectMapping: 3.961600 ms MarkObjects: 35.944500 ms  DeleteObjects: 4.581800 ms)
+
+Loading World 2, Slot 11...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 6.248600 ms
+
+Unloading 198 unused Assets to reduce memory usage. Loaded Objects now: 40043.
+Total: 48.630000 ms (FindLiveObjects: 4.249300 ms CreateObjectMapping: 2.119200 ms MarkObjects: 38.745400 ms  DeleteObjects: 3.514900 ms)
+
+Loading scene Farm
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 131 unused Assets to reduce memory usage. Loaded Objects now: 62531.
+Total: 74.461900 ms (FindLiveObjects: 7.287000 ms CreateObjectMapping: 4.158000 ms MarkObjects: 62.689600 ms  DeleteObjects: 0.326600 ms)
+
+Saving World 2 Slot -6
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving World 2 Slot -1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving World 2 Slot -2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 50.323400 ms
+
+Unloading 10206 unused Assets to reduce memory usage. Loaded Objects now: 40868.
+Total: 95.404400 ms (FindLiveObjects: 5.005500 ms CreateObjectMapping: 6.762700 ms MarkObjects: 59.229900 ms  DeleteObjects: 24.404500 ms)
+
+Loading scene Cloverton
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 52053.
+Total: 82.215400 ms (FindLiveObjects: 5.504400 ms CreateObjectMapping: 3.314100 ms MarkObjects: 72.929400 ms  DeleteObjects: 0.466600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 20.875700 ms
+
+Unloading 4582 unused Assets to reduce memory usage. Loaded Objects now: 43357.
+Total: 60.553800 ms (FindLiveObjects: 4.987200 ms CreateObjectMapping: 2.864700 ms MarkObjects: 34.068100 ms  DeleteObjects: 18.632900 ms)
+
+Loading scene Farm
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 2628 unused Assets to reduce memory usage. Loaded Objects now: 62536.
+Total: 113.307400 ms (FindLiveObjects: 7.628400 ms CreateObjectMapping: 4.340800 ms MarkObjects: 98.406000 ms  DeleteObjects: 2.931200 ms)
+
+StartDialogue: Fiohub
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 66183.
+Total: 88.604500 ms (FindLiveObjects: 7.545500 ms CreateObjectMapping: 5.397600 ms MarkObjects: 75.383800 ms  DeleteObjects: 0.276200 ms)
+
+FastForwarding: Year: 1 Season: Summer Day: 13 22:37 -> Year: 1 Season: Summer Day: 14 07:00 (503 minutes)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving World 2 Slot -3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving global settings
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving global settings
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving global settings
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving global settings
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 24.207000 ms
+
+Unloading 10304 unused Assets to reduce memory usage. Loaded Objects now: 41013.
+Total: 105.495700 ms (FindLiveObjects: 6.037900 ms CreateObjectMapping: 5.761700 ms MarkObjects: 69.936600 ms  DeleteObjects: 23.758300 ms)
+
+Loading scene Cloverton
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 340 unused Assets to reduce memory usage. Loaded Objects now: 52705.
+Total: 95.459300 ms (FindLiveObjects: 7.739600 ms CreateObjectMapping: 4.356300 ms MarkObjects: 82.303700 ms  DeleteObjects: 1.058700 ms)
+
+StartDialogue: GreenThumb Market Day
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 52732.
+Total: 66.261600 ms (FindLiveObjects: 5.955700 ms CreateObjectMapping: 3.246000 ms MarkObjects: 56.971900 ms  DeleteObjects: 0.087100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 52842.
+Total: 88.000700 ms (FindLiveObjects: 10.360200 ms CreateObjectMapping: 5.331600 ms MarkObjects: 72.157000 ms  DeleteObjects: 0.150200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 13.743300 ms
+
+Unloading 4906 unused Assets to reduce memory usage. Loaded Objects now: 43648.
+Total: 98.668800 ms (FindLiveObjects: 5.543500 ms CreateObjectMapping: 3.749800 ms MarkObjects: 61.393500 ms  DeleteObjects: 27.980500 ms)
+
+Loading scene Farm
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 2709 unused Assets to reduce memory usage. Loaded Objects now: 62502.
+Total: 104.822500 ms (FindLiveObjects: 7.512000 ms CreateObjectMapping: 4.555900 ms MarkObjects: 89.287900 ms  DeleteObjects: 3.465800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 54.675200 ms
+
+Unloading 9764 unused Assets to reduce memory usage. Loaded Objects now: 41150.
+Total: 95.055000 ms (FindLiveObjects: 5.762800 ms CreateObjectMapping: 8.757300 ms MarkObjects: 57.829700 ms  DeleteObjects: 22.703800 ms)
+
+Loading scene Cloverton
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 340 unused Assets to reduce memory usage. Loaded Objects now: 52842.
+Total: 92.237400 ms (FindLiveObjects: 6.945600 ms CreateObjectMapping: 4.335100 ms MarkObjects: 80.311400 ms  DeleteObjects: 0.644300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 52842.
+Total: 83.800100 ms (FindLiveObjects: 11.044000 ms CreateObjectMapping: 4.544400 ms MarkObjects: 68.064200 ms  DeleteObjects: 0.146500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 13.578400 ms
+
+Unloading 4906 unused Assets to reduce memory usage. Loaded Objects now: 43648.
+Total: 92.297200 ms (FindLiveObjects: 5.391600 ms CreateObjectMapping: 3.348500 ms MarkObjects: 56.127400 ms  DeleteObjects: 27.428600 ms)
+
+Loading scene Farm
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 2712 unused Assets to reduce memory usage. Loaded Objects now: 62586.
+Total: 104.440500 ms (FindLiveObjects: 7.421000 ms CreateObjectMapping: 7.857700 ms MarkObjects: 85.575400 ms  DeleteObjects: 3.585500 ms)
+
+Saving World 2 Slot -4
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 29.834300 ms
+
+Unloading 9761 unused Assets to reduce memory usage. Loaded Objects now: 41150.
+Total: 98.839800 ms (FindLiveObjects: 5.649000 ms CreateObjectMapping: 4.603500 ms MarkObjects: 66.670100 ms  DeleteObjects: 21.915400 ms)
+
+Loading scene Cloverton
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 340 unused Assets to reduce memory usage. Loaded Objects now: 52842.
+Total: 105.622900 ms (FindLiveObjects: 6.084800 ms CreateObjectMapping: 3.758000 ms MarkObjects: 93.959600 ms  DeleteObjects: 1.819000 ms)
+
+StartDialogue: Valpongis Market Day
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 52842.
+Total: 72.922800 ms (FindLiveObjects: 6.104600 ms CreateObjectMapping: 3.567600 ms MarkObjects: 63.057800 ms  DeleteObjects: 0.191300 ms)
+
+StartDialogue: Rekk Market Day
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 52842.
+Total: 77.682900 ms (FindLiveObjects: 6.029900 ms CreateObjectMapping: 3.817100 ms MarkObjects: 67.531800 ms  DeleteObjects: 0.302900 ms)
+
+StartDialogue: Skandr Market Day
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 52842.
+Total: 92.138500 ms (FindLiveObjects: 6.478500 ms CreateObjectMapping: 3.706000 ms MarkObjects: 81.831400 ms  DeleteObjects: 0.121500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 14.463300 ms
+
+Unloading 4905 unused Assets to reduce memory usage. Loaded Objects now: 43649.
+Total: 100.994700 ms (FindLiveObjects: 5.238600 ms CreateObjectMapping: 2.975800 ms MarkObjects: 64.586900 ms  DeleteObjects: 28.192100 ms)
+
+Loading scene Farm
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 2627 unused Assets to reduce memory usage. Loaded Objects now: 62483.
+Total: 111.863100 ms (FindLiveObjects: 7.180300 ms CreateObjectMapping: 4.149000 ms MarkObjects: 97.074200 ms  DeleteObjects: 3.458600 ms)
+
+StartDialogue: Fiohub
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 67283.
+Total: 81.047100 ms (FindLiveObjects: 6.590400 ms CreateObjectMapping: 5.023000 ms MarkObjects: 69.208700 ms  DeleteObjects: 0.224100 ms)
+
+FastForwarding: Year: 1 Season: Summer Day: 14 14:12 -> Year: 1 Season: Summer Day: 15 07:00 (1008 minutes)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving World 2 Slot -5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartDialogue: SummerEventIntro
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 67345.
+Total: 104.483400 ms (FindLiveObjects: 8.548200 ms CreateObjectMapping: 3.989000 ms MarkObjects: 91.589800 ms  DeleteObjects: 0.355400 ms)
+
+Saving World 2 Slot -6
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartDialogue: Fiohub
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 123 unused Assets to reduce memory usage. Loaded Objects now: 67799.
+Total: 91.253900 ms (FindLiveObjects: 8.422600 ms CreateObjectMapping: 3.554500 ms MarkObjects: 78.971100 ms  DeleteObjects: 0.304700 ms)
+
+FastForwarding: Year: 1 Season: Summer Day: 15 14:26 -> Year: 1 Season: Summer Day: 16 07:00 (994 minutes)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving World 2 Slot -1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 19)
+UnloadTime: 24.564900 ms
+
+Unloading 9832 unused Assets to reduce memory usage. Loaded Objects now: 41166.
+Total: 138.089200 ms (FindLiveObjects: 5.773600 ms CreateObjectMapping: 4.773500 ms MarkObjects: 57.625800 ms  DeleteObjects: 69.915400 ms)
+
+Loading scene Cloverton
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dungeon floors reset
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 9597 unused Assets to reduce memory usage. Loaded Objects now: 66574.
+Total: 113.833100 ms (FindLiveObjects: 11.822800 ms CreateObjectMapping: 5.427300 ms MarkObjects: 80.224400 ms  DeleteObjects: 16.357100 ms)
+
+StartDialogue: SummerEventHub
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 66574.
+Total: 100.773900 ms (FindLiveObjects: 19.079800 ms CreateObjectMapping: 10.055200 ms MarkObjects: 71.478100 ms  DeleteObjects: 0.160100 ms)
+
+Saving World 2 Slot -2
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving World 2 Slot 12
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

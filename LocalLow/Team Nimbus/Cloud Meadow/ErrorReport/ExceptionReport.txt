@@ -1,0 +1,21 @@
+Date (UTC): 1/19/2023 3:05:47 PM
+GameVersion: Beta 0.1.3.1b
+OS: Windows 10  (10.0.0) 64bit
+System Memory: 16251
+GPU Memory: 912
+Max Texture Size: 16384
+Resolution: 1366x768
+Processors: 4
+Message: NullReferenceException: Object reference not set to an instance of an object
+
+StackTrace:
+TeamNimbus.CloudMeadow.Monsters.OverworldMonsterNPC.HandleFarmGroupChanged (Int32 previousGroupID)
+TeamNimbus.Common.Utility.ManagedEvent`1[System.Int32].Trigger (Int32 eventData)
+TeamNimbus.CloudMeadow.Monsters.MonsterCharacterStats.AssignMonsterToNewGroup (Int32 newGroupID)
+TeamNimbus.CloudMeadow.Farm.MonsterSpot.UpdateMonsterInSpot (TeamNimbus.CloudMeadow.Monsters.MonsterCharacterStats monster)
+TeamNimbus.CloudMeadow.Farm.HomeGroupData.AddMonsterToGroup (TeamNimbus.CloudMeadow.Monsters.MonsterCharacterStats monsterToAdd)
+TeamNimbus.CloudMeadow.UI.JobBoardPastureBoardManager.TranferMonsterFromMapPlotGroupToOtherGroup (TeamNimbus.CloudMeadow.UI.SelectableCharacterIcon selectedIcon)
+TeamNimbus.CloudMeadow.UI.SelectableCharacterIcon.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData)
+UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData)
+UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor)
+UnityEngine.EventSystems.EventSystem:Update()

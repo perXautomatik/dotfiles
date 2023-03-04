@@ -1,0 +1,8 @@
+[games]
+_ = "Vortex"
+
+[managers]
+Vortex = '"C:\Program Files\Black Tree Gaming Ltd\Vortex\Vortex.exe" --download %1'
+
+[pipes]
+Vortex = "vortex_download"

@@ -1,0 +1,9 @@
+Thank you for helping us fix this issue! Using this ErrorReport folder:
+	1. Please add a description of what you were doing to the YourDescription.txt file.
+	2. If you can, please take and save any helpful screenshots to the Screenshots folder.
+	3. Zip this folder by:
+		- Selecting the folder (from parent directory)
+		- Right-clicking on it
+		- Select "Send to >"
+		- Select "Compressed (zipped) folder"
+	4. Finally send this zipped folder to us via our Discord, https://discord.com/invite/6ASAxDF, so we can fix this problem in a future build.

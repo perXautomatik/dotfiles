@@ -1,0 +1,2 @@
+2023-01-11 11:01:59: Exception Encountered: Source = c:\program files (x86)\microsoft visual studio\2019\community\common7\ide\commonextensions\microsoft\textmate\Starterkit\Extensions\csharp\snippets ; Message = Source file extension not supported for translation
+
