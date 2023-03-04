@@ -11,10 +11,10 @@ gitRootSettingsSet:
     commitNotes:
       commitNotesHistory: [manifest modifications, few new manifests]
     journal: {}
-  roots: [~\AppData, ~\AppData\Roaming\Everything, ~\AppData\Roaming\Microsoft\Windows\PowerShell,
-    ~\AppData\Roaming\Scooter Software\Beyond Compare 4, ~\AppData\Roaming\Vortex,
-    ~\AppData\Roaming\Vortex\fallout3\masterlist, ~\AppData\Roaming\Vortex\fallout4\masterlist,
-    ~\AppData\Roaming\Vortex\falloutnv\masterlist]
+  roots: [~\source\repos, ~\source\repos\WPF-Samples, ~\source\repos\WindowsFormsControlLibrary1,
+    ~\source\repos\upg11, ~\source\repos\karlstad3, ~\source\repos\DataBindingDemoSparse,
+    ~\source\repos\DataBindingDemo, ~\source\repos\Borås2-DatabaserExempel, ~\source\repos\Boras2-DatabaserExempel,
+    ~\source\repos\AutoLotConsoleApp]
   rootD:\ToGit\scoopbucket-1:
     databaseCleanup: {}
     log:
@@ -892,16 +892,5 @@ gitRootSettingsSet:
     commitNotes:
       commitNotesHistory: [additions, sudmodules]
       commitNotes: etc
-    journal: {}
-  rootB:\ToGit\chris\AppData:
-    databaseCleanup: {}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [etc]
     journal: {}
 pushMultiRoot: {}

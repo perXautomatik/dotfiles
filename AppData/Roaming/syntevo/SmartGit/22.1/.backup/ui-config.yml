@@ -1,4 +1,4 @@
-filterConfiguration: {}
+filterConfiguration: {regularExpressions: false}
 toolbars:
   wt:
     items:

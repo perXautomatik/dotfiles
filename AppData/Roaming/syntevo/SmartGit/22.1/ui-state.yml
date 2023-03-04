@@ -1,16 +1,14 @@
 bounds:
-- {key: project, x: 225, y: 42, width: 978, height: 640, state: 1}
+- {key: project, x: 101, y: 147, width: 976, height: 621, state: 1}
 - {key: welcome}
 - {key: git.commit, width: 1051, height: 688, x: 86, y: 19}
 - {key: output}
 - {key: log, x: 62, y: 116, width: 978, height: 652, state: 1}
 - {key: git.stage, width: 500, height: 309}
-- {key: compare, x: 205, y: 28, width: 978, height: 640}
+- {key: compare, x: 225, y: 42, width: 978, height: 640}
 - {key: git.discard, width: 500, height: 309}
 - {key: git.ignore.file}
 - {key: rename}
-- {key: conflictSolver, x: 225, y: 42, width: 978, height: 640}
-- {key: git.stashSave, width: 500, height: 309}
 conflictSolverFrame: {}
 indexEditorFrame: {}
 columns:
@@ -33,7 +31,7 @@ columns:
     visibleColumnNames: "Ext.\tName\tRelative Directory\tSize\tState"
     columnWidths:
     - {id: Name, width: 200, width2x: 0}
-    - {id: State, width: 189, width2x: 0}
+    - {id: State, width: 75, width2x: 0}
     - {id: Relative Directory, width: 300, width2x: 0}
     - {id: Ext., width: 33, width2x: 0}
     - {id: Size, width: 61, width2x: 0}
@@ -125,13 +123,13 @@ gitViewFileFilter: {viewRecursive: true, viewFromSubmodules: false, viewIgnoredF
 deepGitUiConfiguration: {}
 confirmations: {git.push: true, sync: true, modifyCommit: true, modifyContinue: true,
   rebase.continue: true, commit.amend.replaceWarning: true, exit.showConfirmation: true,
-  close.unpushedCommits: true, conflictSolver.showConflictWarning: true}
+  close.unpushedCommits: true}
 repositoriesToReopen:
 - window: wt
-  repositories: ['B:\ToGit\chris\AppData']
+  repositories: ['C:\Users\chris\source\repos']
 project.files.git.separateWtIndex: true
-gitProjectLayout.main: (([+221x550:directories ][+221x101:branches ])(([+1080x397:files
-  ][-3x1:message ])[+1080x161:changes ]([+1080x90:outgoing ][-3x1:output ])))
+gitProjectLayout.main: (([+221x550:directories ][+221x101:branches ])(([+1080x225:files
+  ][-3x1:message ])[+1080x333:changes ]([+1080x90:outgoing ][-3x1:output ])))
 log.wtIndex.onDemand: true
 lastRepositoryPath: B:\ToGit\Projectfolder
 commit.expandOptions: false
