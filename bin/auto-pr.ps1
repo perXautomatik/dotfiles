@@ -1,9 +1,9 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "<username>/<bucketname>:main"
+    [String]$upstream = "lukesampson/scoop-extras:master"
 )
 
-if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
+if(!$env:SCOOP_HOME) { $env:SCOOP_HOME = resolve-path (split-path (split-path (scoop which scoop))) }
 $autopr = "$env:SCOOP_HOME/bin/auto-pr.ps1"
-$dir = "$PSScriptRoot/../bucket" # checks the parent dir
-& $autopr -Dir $dir -Upstream $Upstream @Args
+$dir = "$psscriptroot/.." # checks the parent dir
+iex -command "$autopr -dir $dir -upstream $upstream $($args |% { "$_ " })"
