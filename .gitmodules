@@ -1,0 +1,36 @@
+[submodule "Documents"]
+	path = Documents
+	url = C:\\Users\\chris\\Documents
+[submodule "source/repos/AutoLotConsoleApp"]
+	path = source/repos/AutoLotConsoleApp
+	url = C:\\Users\\chris\\source\\repos\\AutoLotConsoleApp
+[submodule "source/repos/WPF-Samples"]
+	path = source/repos/WPF-Samples
+	url = https://github.com/microsoft/WPF-Samples.git
+[submodule "source/repos/WindowsFormsControlLibrary1"]
+	path = source/repos/WindowsFormsControlLibrary1
+	url = https://github.com/perXautomatik/karlstad2.git
+[submodule "source/repos/upg11"]
+	path = source/repos/upg11
+	url = https://github.com/perXautomatik/CSharp-Bor-s-Inl-mning1.git
+[submodule "source/repos/karlstad3"]
+	path = source/repos/karlstad3
+	url = C:\\Users\\chris\\source\\repos\\karlstad3
+[submodule "source/repos/DataBindingDemoSparse"]
+	path = source/repos/DataBindingDemoSparse
+	url = https://github.com/microsoft/WPF-Samples.git
+[submodule "source/repos/DataBindingDemo"]
+	path = source/repos/DataBindingDemo
+	url = https://github.com/microsoft/WPF-Samples.git
+[submodule "source/repos/Borås2-DatabaserExempel"]
+	path = source/repos/Borås2-DatabaserExempel
+	url = C:\\Users\\chris\\source\\repos\\Borås2-DatabaserExempel
+[submodule "source/repos/Boras2-DatabaserExempel"]
+	path = source/repos/Boras2-DatabaserExempel
+	url = C:\\Users\\chris\\source\\repos\\Boras2-DatabaserExempel
+[submodule "OneDrive/Documents"]
+	path = OneDrive/Documents
+	url = C:\\Users\\chris\\OneDrive\\Documents
+[submodule "source/repos"]
+	path = source/repos
+	url = C:\\Users\\chris\\source\\repos

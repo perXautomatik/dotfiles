@@ -1,0 +1,39 @@
+[include]
+	path = gitconfig/config
+[core]
+	editor = \"C:/Program Files (x86)/GitExtensions/GitExtensions.exe\" fileeditor
+[diff]
+	guitool = bc
+[difftool "bc"]
+	path = C:/Program Files/Beyond Compare 4/bcomp.exe
+	cmd = \"C:/Program Files/Beyond Compare 4/bcomp.exe\" \"$LOCAL\" \"$REMOTE\"
+[merge]
+	guitool = bc
+[mergetool "bc"]
+	path = C:/Program Files/Beyond Compare 4/bcomp.exe
+	cmd = \"C:/Program Files/Beyond Compare 4/bcomp.exe\" \"$LOCAL\" \"$REMOTE\" \"$BASE\" \"$MERGED\"
+[pull]
+	rebase = false
+[fetch]
+	prune = false
+[rebase]
+	autoStash = false
+[user]
+	name = perXautomatik
+	email = christoffer.broback@gmail.com
+[safe]
+	directory = C:/Users/chris
+	directory = B:/ToGit/chris
+	directory = C:/Users/chris/AppData/Roaming/Vortex
+	directory = B:/Users/chris
+	directory = B:/Users/chris/Documents
+	directory = C:/Users/chris/Documents
+	directory = C:/Users/chris/AppData
+	directory = C:/Users/chris/AppData/Roaming/JetBrains
+[gc]
+	autoDetach = false
+[pack]
+	SizeLimit = 100m
+	threads = 1
+	window = 0
+	windowMemory = 100m

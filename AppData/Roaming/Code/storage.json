@@ -1,0 +1,42 @@
+{
+    "telemetry.machineId": "22ad05d8523683622e57fdd02c2dd4a19ad3be7c754c7694eabd041f6b58b79c",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 699,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///d%3A/ToGit/scoopbucket-presist",
+            "backupPath": "C:\\Users\\chris\\AppData\\Roaming\\Code\\Backups\\eae79f1dae8888987bed42b7d6deb338",
+            "uiState": {
+                "mode": 1,
+                "x": 201,
+                "y": 43,
+                "width": 1282,
+                "height": 728
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "D:\\ToGit"
+}
