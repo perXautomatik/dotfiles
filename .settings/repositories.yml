@@ -12,7 +12,9 @@ gitRootSettingsSet:
   roots: [~, ~\AppData, ~\GitConfig, ~\scoop\buckets\perXautomatik, ~\scoop\buckets\okibcn_ScoopMaster,
     ~\scoop\buckets\nonportable, ~\scoop\buckets\kkzzhizhou_scoop-apps, ~\scoop\buckets\games,
     ~\Documents, 'C:\Users\chris\scoop\persist', 'C:\Users\chris\scoop\persist\Everything',
-    'C:\Users\chris\scoop\persist\Powershell']
+    'C:\Users\chris\scoop\persist\Powershell', ~\Documents\Obsidian Vault, 'C:\Users\chris\scoop\persist\AHK',
+    'C:\Users\chris\scoop\persist\AdvancedRenamer', 'C:\Users\chris\scoop\persist\PowerShellCmdHist',
+    'C:\Users\chris\scoop\persist\Scooter Software\Beyond Compare 4']
   rootB:\ToGit:
     databaseCleanup: {}
     log:
@@ -12853,7 +12855,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [loppy state]
+      commitNotesHistory: [etc, loppy state]
     journal: {}
   rootC:\Users\chris\scoop\persist\Everything:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701348126075}
@@ -12949,7 +12951,7 @@ gitRootSettingsSet:
   rootC:\Users\Användaren\Documents:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346832207}
     log:
-      rootSettings: {}
+      rootSettings: {baseRoots: "!local-branches://\tref://HEAD", extendedRoots: ''}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -12959,6 +12961,46 @@ gitRootSettingsSet:
     journal: {}
   rootC:\Users\chris\scoop\persist\Powershell:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701348128486}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\scoop\persist\AHK:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701358643895}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\scoop\persist\AdvancedRenamer:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701358644220}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\scoop\persist\PowerShellCmdHist:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701358643712}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\scoop\persist\Scooter Software\Beyond Compare 4:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701358644071}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}

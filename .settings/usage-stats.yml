@@ -1,33 +1,38 @@
 header: {started: 1701346200404, uid: 3OVVOEten4s, licenseType: foundation, build: 19285,
   os: windows+10, osv: '10.0', transferred: 1701346200404}
 stats:
-  changesview.syntax.<unknown>: {invocations: 18, invocationLast: 20231130, invocationDays: 1}
-  action.stage: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
-  repo.opens.wt: {invocations: 12, invocationLast: 20231130, invocationDays: 1}
-  repo.opens.wt.files.0-1000: {invocations: 9, invocationLast: 20231130, invocationDays: 1}
-  repo.opens.wt.submodules.0: {invocations: 11, invocationLast: 20231130, invocationDays: 1}
-  repo.opens.wt.config: {invocations: 12, invocationLast: 20231130, invocationDays: 1}
-  repo.opens.wt.config.ignoreCase.true: {invocations: 12, invocationLast: 20231130,
+  changesview.syntax.<unknown>: {invocations: 29, invocationLast: 20231130, invocationDays: 1}
+  action.stage: {invocations: 4, invocationLast: 20231130, invocationDays: 1}
+  repo.opens.wt: {invocations: 16, invocationLast: 20231130, invocationDays: 1}
+  repo.opens.wt.files.0-1000: {invocations: 13, invocationLast: 20231130, invocationDays: 1}
+  repo.opens.wt.submodules.0: {invocations: 15, invocationLast: 20231130, invocationDays: 1}
+  repo.opens.wt.config: {invocations: 16, invocationLast: 20231130, invocationDays: 1}
+  repo.opens.wt.config.ignoreCase.true: {invocations: 16, invocationLast: 20231130,
     invocationDays: 1}
-  repo.opens.wt.config.lfsEnabled.false: {invocations: 12, invocationLast: 20231130,
+  repo.opens.wt.config.lfsEnabled.false: {invocations: 16, invocationLast: 20231130,
     invocationDays: 1}
-  repo.opens.wt.config.evaluateLfsState.true: {invocations: 12, invocationLast: 20231130,
+  repo.opens.wt.config.evaluateLfsState.true: {invocations: 16, invocationLast: 20231130,
     invocationDays: 1}
-  repo.opens.wt.config.actuallyEvaluateLfsState.false: {invocations: 12, invocationLast: 20231130,
+  repo.opens.wt.config.actuallyEvaluateLfsState.false: {invocations: 16, invocationLast: 20231130,
     invocationDays: 1}
-  repo.opens.type.git: {invocations: 12, invocationLast: 20231130, invocationDays: 1}
-  action.unstage: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
+  repo.opens.type.git: {invocations: 16, invocationLast: 20231130, invocationDays: 1}
+  action.unstage: {invocations: 3, invocationLast: 20231130, invocationDays: 1}
   action.viewUnchanged: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
   action.viewUnversioned: {invocations: 1, invocationLast: 20231130, invocationDays: 1}
   action.viewRenameSource: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
   action.viewFromSubmodules: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
-  action.submoduleRegister: {invocations: 10, invocationLast: 20231130, invocationDays: 1}
+  action.submoduleRegister: {invocations: 11, invocationLast: 20231130, invocationDays: 1}
   action.viewRecursive: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
   repo.opens.wt.files.1000-10000: {invocations: 1, invocationLast: 20231130, invocationDays: 1}
   repo.opens.wt.files.10000-50000: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
-  toolbar.main.action.commit: {invocations: 3, invocationLast: 20231130, invocationDays: 1}
-  action.commit: {invocations: 3, invocationLast: 20231130, invocationDays: 1}
-  action.refresh: {invocations: 1, invocationLast: 20231130, invocationDays: 1}
-  changesview.syntax.json: {invocations: 1, invocationLast: 20231130, invocationDays: 1}
+  toolbar.main.action.commit: {invocations: 4, invocationLast: 20231130, invocationDays: 1}
+  action.commit: {invocations: 4, invocationLast: 20231130, invocationDays: 1}
+  action.refresh: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
+  changesview.syntax.json: {invocations: 2, invocationLast: 20231130, invocationDays: 1}
   action.repositorySettings: {invocations: 1, invocationLast: 20231130, invocationDays: 1}
   repo.opens.wt.submodules.2-5: {invocations: 1, invocationLast: 20231130, invocationDays: 1}
+  changesview.syntax.python: {invocations: 3, invocationLast: 20231130, invocationDays: 1}
+  log.perspective.main: {invocations: 1, invocationLast: 20231130, invocationDays: 1}
+  window.log: {invocations: 1, invocationLast: 20231130, invocationDays: 1}
+  github.refresh: {invocations: 8, invocationLast: 20231130, invocationDays: 1}
+  changesview.syntax.yaml: {invocations: 4, invocationLast: 20231130, invocationDays: 1}

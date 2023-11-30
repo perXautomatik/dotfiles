@@ -59,14 +59,14 @@ structure:
   - {name: Deployed-persist, path: 'C:\Users\chris\scoop\persist'}
   expanded: true
 - {name: Notebooks, path: 'C:\Users\Användaren\Documents\Obsidian Vault\Notebooks'}
-recentlyUsed: ['C:\Users\chris\scoop\persist', 'C:\Users\Användaren', 'C:\Users\Användaren\Documents\Obsidian
-    Vault', 'C:\Users\Användaren\Documents\Obsidian Vault\Notebooks', 'B:\ToGit\Archive\ps1',
-  \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1, 'B:\ToGit\scoopbucket-presist', 'C:\Users\CrRoot',
-  'B:\PF\chris', 'B:\PF\chris\autohotkey', 'B:\PF', 'B:\Users\chris', 'B:\PF\CSharpVisualStudio\repos',
-  'B:\PF\Modding', 'B:\PF\Modding\Diablo II ressurected', 'B:\PF\RegionGotland', 'C:\Users\CrRoot\AppData\Local\Temp\tmp7434.tmp\PowerShell',
-  'B:\PF\PowerShell', 'B:\PF\PowershellProjectFolder', 'C:\ProgramData\scoop\buckets',
+recentlyUsed: ['C:\Users\chris\scoop\persist', 'C:\Users\Användaren', 'B:\PF\PowerShell',
+  'B:\Users\chris', 'B:\Users\chris\Documents', 'C:\Users\CrRoot\AppData\Local\Temp\tmp7434.tmp\PowerShell',
+  'C:\Users\Användaren\Documents\Obsidian Vault', 'C:\Users\Användaren\Documents\Obsidian
+    Vault\Notebooks', 'B:\ToGit\Archive\ps1', \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1,
+  'B:\ToGit\scoopbucket-presist', 'C:\Users\CrRoot', 'B:\PF\chris', 'B:\PF\chris\autohotkey',
+  'B:\PF', 'B:\PF\CSharpVisualStudio\repos', 'B:\PF\Modding', 'B:\PF\Modding\Diablo
+    II ressurected', 'B:\PF\RegionGotland', 'B:\PF\PowershellProjectFolder', 'C:\ProgramData\scoop\buckets',
   'B:\GitPs1Module', 'B:\ToGit\IoT\TIG-stack', 'B:\ToGit\IoT', 'B:\PF\NewWindows3',
-  'B:\PF\NewWindows2', 'B:\PF\Archive', 'B:\Filtered', 'B:\Users\chris\Documents',
-  'B:\New folder (2)\General-ProjectFolders', 'B:\ToGit', \\Sabrina\b\ToGit\Ny mapp\projectFolderBare,
-  'G:\ToGit\projectFolderBare\scoopbucket-presist', 'G:\ToGit', 'B:\ToGit\SubmoduleFromGitmodules',
-  'B:\SteamLibrary\steamapps', 'I:\Downloads\2022\assorted']
+  'B:\PF\NewWindows2', 'B:\PF\Archive', 'B:\Filtered', 'B:\New folder (2)\General-ProjectFolders',
+  'B:\ToGit', \\Sabrina\b\ToGit\Ny mapp\projectFolderBare, 'G:\ToGit\projectFolderBare\scoopbucket-presist',
+  'G:\ToGit', 'B:\ToGit\SubmoduleFromGitmodules', 'B:\SteamLibrary\steamapps', 'I:\Downloads\2022\assorted']
