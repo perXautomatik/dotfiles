@@ -105,22 +105,22 @@ globalTextComponentSettings:
     backgroundConflict: 8400896, backgroundConflictLight: 4468512, backgroundCompactSeparator: 3947580,
     backgroundComment: 7299927, backgroundModifiedCS: 10047311, backgroundAddedCS: 5216610,
     backgroundRemovedCS: 5207193, highlightCurrentLine: false}
-  colors.useDark: true
+  colors.useDark: false
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt}
 uiSettings: {theme: auto, themeChanged: false, fileSearchPatternType: 1}
-vcsRecords: {lastGitUsage: 1693164419945}
-updateCheck: {prevCheckTime: 1693140488716, checkedBuild: 19285, mode: download, upgradeInstallation: false}
+vcsRecords: {lastGitUsage: 1700469298894}
+updateCheck: {prevCheckTime: 1700467274019, checkedBuild: 19285, mode: download, upgradeInstallation: false}
 updateCheckDg: {}
 proxy: {enabled: false, autoDetect: true}
 spellCheck:
   dictionaries:
-  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\ProgramData\scoop\apps\SmartGit\current\dictionaries\en_US.dic'}
+  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\Users\chris\scoop\apps\smartgit\current\dictionaries\en_US.dic'}
   deleted: false
   activeDictionary: 0
 lastUsedVersion: '22.1'
 firstUsedTime: 1684316673740
-tempDirs: ['C:\Users\CrRoot\AppData\Local\Temp\smartgit4301057935487575533', 'C:\Users\CrRoot\AppData\Local\Temp\e4jA8A2.tmp_dir1692910087']
+tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit7799934501923216878', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4j3144.tmp_dir1700467263']
 machineId: 41587a14
 warnForMissingMasterPassword: false
 sendStacktraces2: true

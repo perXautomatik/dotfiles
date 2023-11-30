@@ -23,7 +23,7 @@ actions:
   syncPushBeforePull: false
 logSettings:
   filterConfiguration: {}
-comparePreviewSettings: {selectCompareTypeAutomatically: false, compareType: working-tree-vs-index}
+comparePreviewSettings: {selectCompareTypeAutomatically: true, compareType: working-tree-vs-index}
 dateFormat: {datePattern: MM/dd/yyyy, timePattern: 'hh:mm a', showTimeForLastDays: true}
 defaultViewSettings:
   compareSettings:
@@ -105,22 +105,22 @@ globalTextComponentSettings:
     backgroundConflict: 8400896, backgroundConflictLight: 4468512, backgroundCompactSeparator: 3947580,
     backgroundComment: 7299927, backgroundModifiedCS: 10047311, backgroundAddedCS: 5216610,
     backgroundRemovedCS: 5207193, highlightCurrentLine: false}
-  colors.useDark: true
+  colors.useDark: false
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt}
 uiSettings: {theme: auto, themeChanged: false, fileSearchPatternType: 1}
-vcsRecords: {lastGitUsage: 1693231267121}
-updateCheck: {prevCheckTime: 1693140488716, checkedBuild: 19285, mode: download, upgradeInstallation: false}
+vcsRecords: {lastGitUsage: 1701348128490}
+updateCheck: {prevCheckTime: 1701346199129, checkedBuild: 19285, mode: download, upgradeInstallation: false}
 updateCheckDg: {}
 proxy: {enabled: false, autoDetect: true}
 spellCheck:
   dictionaries:
-  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\ProgramData\scoop\apps\SmartGit\current\dictionaries\en_US.dic'}
+  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\Users\chris\scoop\apps\smartgit\current\dictionaries\en_US.dic'}
   deleted: false
   activeDictionary: 0
 lastUsedVersion: '22.1'
 firstUsedTime: 1684316673740
-tempDirs: ['C:\Users\CrRoot\AppData\Local\Temp\smartgit18197914147273913295', 'C:\Users\CrRoot\AppData\Local\Temp\e4jA541.tmp_dir1693212688']
+tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit17867590084869978306', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4j4D5.tmp_dir1701346176']
 machineId: 41587a14
 warnForMissingMasterPassword: false
 sendStacktraces2: true
