@@ -13228,7 +13228,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\chris\scoop\persist\AHK:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701358643895}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703161971115}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -13238,7 +13238,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\chris\scoop\persist\AdvancedRenamer:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701358644220}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703162129855}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -13354,13 +13354,14 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\chris\scoop\persist\PowerShell:
-    databaseCleanup: {}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703161767168}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [state]
     journal: {}
 pushMultiRoot: {}
