@@ -9,12 +9,9 @@ gitRootSettingsSet:
     push: {}
     commitNotes: {}
     journal: {}
-  roots: [~, ~\AppData, ~\GitConfig, ~\scoop\buckets\perXautomatik, ~\scoop\buckets\okibcn_ScoopMaster,
-    ~\scoop\buckets\nonportable, ~\scoop\buckets\kkzzhizhou_scoop-apps, ~\scoop\buckets\games,
-    ~\Documents, 'C:\Users\chris\scoop\persist', 'C:\Users\chris\scoop\persist\Everything',
-    'C:\Users\chris\scoop\persist\Powershell', ~\Documents\Obsidian Vault, 'C:\Users\chris\scoop\persist\AHK',
-    'C:\Users\chris\scoop\persist\AdvancedRenamer', 'C:\Users\chris\scoop\persist\PowerShellCmdHist',
-    'C:\Users\chris\scoop\persist\Scooter Software\Beyond Compare 4']
+  roots: [~\.config, ~\.config\powershell, ~\scoop\persist, ~\scoop\persist\AHK, 'C:\Users\chris\scoop\persist',
+    'C:\Users\chris\scoop\persist\AHK', 'C:\Users\chris\scoop\persist\AdvancedRenamer',
+    'C:\Users\chris\scoop\persist\Everything', 'C:\Users\chris\scoop\persist\PowerShell']
   rootB:\ToGit:
     databaseCleanup: {}
     log:
@@ -12846,7 +12843,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\chris\scoop\persist:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701348127739}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703161652630}
     log:
       rootSettings: {baseRoots: "!remote://dotfiles\t!remote://notPushable\t!others://\t\
           !remote://win-dotfiles\tref://refs/heads/branch2\tref://HEAD", extendedRoots: '!stashes://'}
@@ -12855,7 +12852,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [etc, loppy state]
+      commitNotesHistory: [etc, merged state, loppy state]
     journal: {}
   rootC:\Users\chris\scoop\persist\Everything:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701348126075}
@@ -12876,17 +12873,18 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [tió read, n submodules]
+      commitNotesHistory: [aou, toRead, from documents branch, tió read, n submodules]
     journal: {}
   rootC:\Users\Användaren\AppData:
-    databaseCleanup: {}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701549082400}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [etc, state]
     journal: {}
   rootC:\Users\Användaren\GitConfig:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346584808}
@@ -12906,7 +12904,8 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [new to trye]
     journal: {}
   rootC:\Users\Användaren\scoop\buckets\okibcn_ScoopMaster:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346690963}
@@ -12951,13 +12950,272 @@ gitRootSettingsSet:
   rootC:\Users\Användaren\Documents:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346832207}
     log:
-      rootSettings: {baseRoots: "!local-branches://\tref://HEAD", extendedRoots: ''}
+      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
+        extendedRoots: ''}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [etc]
+      commitNotesHistory:
+      - "Merge commit 'e5ec7a7ee4e88de341b7e78afaa16d89e7937a1d' into Documents\n\n\
+        # Conflicts:\n#\t.Trash-1000/directorysizes\n#\t.Xauthority\n#\t.dendron.uuid\n\
+        #\t.directory\n#\t.dmrc\n#\t.gitignore\n#\t.gitmodules\n#\t.gtkrc-2.0\n#\t\
+        .kdiff3rc\n#\t.vivaldi_reporting_data\n#\t.wget-hsts\n#\t.xsession-errors\n\
+        #\tAomei/AbConfig.dat\n#\tApproved.choco.summary.log\n#\tApps/My Bookmark\
+        \ Collections/Sample Collection.~lc\n#\tDockerDesktop/install-log-admin.0.txt\n\
+        #\tDockerDesktop/install-log-admin.txt\n#\tDockerDesktop/service.1.txt\n#\t\
+        DockerDesktop/service.2.txt\n#\tDockerDesktop/service.3.txt\n#\tDockerDesktop/service.4.txt\n\
+        #\tDockerDesktop/service.5.txt\n#\tDockerDesktop/service.txt\n#\tDockerDesktop/tmp-d4w/host.docker.internal\n\
+        #\tErrors\n#\tEurekaLog/LinkCommander.elf\n#\tGoogle Drive/.gitconfig\n#\t\
+        Google Drive/19880309-0789, Sabrina Medrano Martinez - Anteckningar » Journalen.pdf\n\
+        #\tGoogle Drive/2021-02-13 argument.gdoc\n#\tGoogle Drive/APT/APT Mars - Sabrina.doc\n\
+        #\tGoogle Drive/APT/APT Mars - Sabrina.docx\n#\tGoogle Drive/APT/Mall för\
+        \ APT.docx\n#\tGoogle Drive/APT/Namnlös presentation.gslides\n#\tGoogle Drive/ATMA_config.ini\n\
+        #\tGoogle Drive/AomeiBR/ABNotifyToolState.ini\n#\tGoogle Drive/AomeiBR/BRFunction.ini\n\
+        #\tGoogle Drive/AomeiBR/CompleteSettings.ini\n#\tGoogle Drive/AomeiBR/CurTaskState.ini\n\
+        #\tGoogle Drive/AomeiBR/DayTime.ini\n#\tGoogle Drive/AomeiBR/EditPartion.ini\n\
+        #\tGoogle Drive/AomeiBR/Schedule.ini\n#\tGoogle Drive/AomeiBR/brlog.xml\n\
+        #\tGoogle Drive/AomeiBR/comn.ini\n#\tGoogle Drive/AomeiBR/net/Global.ini\n\
+        #\tGoogle Drive/AomeiBR/net/Serial.ini\n#\tGoogle Drive/AomeiBR/net/Token.ini\n\
+        #\tGoogle Drive/AomeiBR/tasks2.2.xml\n#\tGoogle Drive/ArrangeSync/ArrangeSync.arg\n\
+        #\tGoogle Drive/Att göra-lista.gsheet\n#\tGoogle Drive/Avfall.gdoc\n#\tGoogle\
+        \ Drive/Boostnote/boostnote.json\n#\tGoogle Drive/Boostnote/notes/1aaa6858-a4f4-4e13-a48b-f2bfd7ea9a12.cson\n\
+        #\tGoogle Drive/Boostnote/notes/5a9c6c0f-74db-476e-a6c7-ede558f912db.cson\n\
+        #\tGoogle Drive/C sharp tasks/.vs/Test/v16/.suo\n#\tGoogle Drive/C sharp tasks/Currency/.vs/Currency/DesignTimeBuild/.dtbcache.v2\n\
+        #\tGoogle Drive/C sharp tasks/Currency/.vs/Currency/v16/.suo\n#\tGoogle Drive/C\
+        \ sharp tasks/Currency/Currency.sln\n#\tGoogle Drive/C sharp tasks/Currency/Currency/Currency.csproj\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/Program.cs\n#\tGoogle Drive/C\
+        \ sharp tasks/Currency/Currency/bin/Debug/netcoreapp3.1/Currency.deps.json\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/bin/Debug/netcoreapp3.1/Currency.pdb\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/bin/Debug/netcoreapp3.1/Currency.runtimeconfig.dev.json\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/bin/Debug/netcoreapp3.1/Currency.runtimeconfig.json\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Currency.csproj.nuget.dgspec.json\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Currency.csproj.nuget.g.props\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Currency.csproj.nuget.g.targets\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Debug/netcoreapp3.1/Currency.AssemblyInfo.cs\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Debug/netcoreapp3.1/Currency.AssemblyInfoInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Debug/netcoreapp3.1/Currency.assets.cache\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Debug/netcoreapp3.1/Currency.csproj.CoreCompileInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Debug/netcoreapp3.1/Currency.csproj.FileListAbsolute.txt\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Debug/netcoreapp3.1/Currency.csprojAssemblyReference.cache\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Debug/netcoreapp3.1/Currency.genruntimeconfig.cache\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/Debug/netcoreapp3.1/Currency.pdb\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/project.assets.json\n\
+        #\tGoogle Drive/C sharp tasks/Currency/Currency/obj/project.nuget.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/.vs/HelloWorld/DesignTimeBuild/.dtbcache.v2\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/.vs/HelloWorld/v16/.suo\n#\tGoogle\
+        \ Drive/C sharp tasks/HelloWorld/HelloWorld.sln\n#\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/HelloWorld.csproj\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/Program.cs\n#\tGoogle\
+        \ Drive/C sharp tasks/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.assets.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.FileListAbsolute.txt\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/HelloWorld.csproj.nuget.dgspec.json\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/HelloWorld.csproj.nuget.g.props\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/HelloWorld.csproj.nuget.g.targets\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/project.assets.json\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld/HelloWorld/obj/project.nuget.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/.vs/HelloWorld2/DesignTimeBuild/.dtbcache.v2\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/.vs/HelloWorld2/v16/.suo\n#\tGoogle\
+        \ Drive/C sharp tasks/HelloWorld2/HelloWorld2.sln\n#\tGoogle Drive/C sharp\
+        \ tasks/HelloWorld2/HelloWorld2/Class1.cs\n#\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/HelloWorld2.csproj\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/bin/Debug/netstandard2.0/HelloWorld2.deps.json\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/bin/Debug/netstandard2.0/HelloWorld2.pdb\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/Debug/netstandard2.0/HelloWorld2.AssemblyInfo.cs\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/Debug/netstandard2.0/HelloWorld2.AssemblyInfoInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/Debug/netstandard2.0/HelloWorld2.assets.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/Debug/netstandard2.0/HelloWorld2.csproj.CoreCompileInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/Debug/netstandard2.0/HelloWorld2.csproj.FileListAbsolute.txt\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/Debug/netstandard2.0/HelloWorld2.csprojAssemblyReference.cache\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/Debug/netstandard2.0/HelloWorld2.pdb\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/HelloWorld2.csproj.nuget.dgspec.json\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/HelloWorld2.csproj.nuget.g.props\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/HelloWorld2.csproj.nuget.g.targets\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/project.assets.json\n\
+        #\tGoogle Drive/C sharp tasks/HelloWorld2/HelloWorld2/obj/project.nuget.cache\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/.vs/Lunch/DesignTimeBuild/.dtbcache.v2\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/.vs/Lunch/v16/.suo\n#\tGoogle Drive/C\
+        \ sharp tasks/Lunch/Lunch.sln\n#\tGoogle Drive/C sharp tasks/Lunch/Lunch/Lunch.csproj\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/Program.cs\n#\tGoogle Drive/C sharp\
+        \ tasks/Lunch/Lunch/bin/Debug/netcoreapp3.1/Lunch.deps.json\n#\tGoogle Drive/C\
+        \ sharp tasks/Lunch/Lunch/bin/Debug/netcoreapp3.1/Lunch.pdb\n#\tGoogle Drive/C\
+        \ sharp tasks/Lunch/Lunch/bin/Debug/netcoreapp3.1/Lunch.runtimeconfig.dev.json\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/bin/Debug/netcoreapp3.1/Lunch.runtimeconfig.json\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Debug/netcoreapp3.1/Lunch.AssemblyInfo.cs\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Debug/netcoreapp3.1/Lunch.AssemblyInfoInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Debug/netcoreapp3.1/Lunch.assets.cache\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Debug/netcoreapp3.1/Lunch.csproj.CoreCompileInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Debug/netcoreapp3.1/Lunch.csproj.FileListAbsolute.txt\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Debug/netcoreapp3.1/Lunch.csprojAssemblyReference.cache\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Debug/netcoreapp3.1/Lunch.genruntimeconfig.cache\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Debug/netcoreapp3.1/Lunch.pdb\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Lunch.csproj.nuget.dgspec.json\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Lunch.csproj.nuget.g.props\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/Lunch.csproj.nuget.g.targets\n\
+        #\tGoogle Drive/C sharp tasks/Lunch/Lunch/obj/project.assets.json\n#\tGoogle\
+        \ Drive/C sharp tasks/Lunch/Lunch/obj/project.nuget.cache\n#\tGoogle Drive/C\
+        \ sharp tasks/Test.csproj\n#\tGoogle Drive/C sharp tasks/VALUTA.txt\n#\tGoogle\
+        \ Drive/C sharp tasks/VALUTA2.txt\n#\tGoogle Drive/C sharp tasks/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache\n\
+        #\tGoogle Drive/C sharp tasks/obj/x86/Debug/Test.csprojAssemblyReference.cache\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/.vs/Ålder/DesignTimeBuild/.dtbcache.v2\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/.vs/Ålder/v16/.suo\n#\tGoogle Drive/C\
+        \ sharp tasks/Ålder/Ålder.sln\n#\tGoogle Drive/C sharp tasks/Ålder/Ålder/Program.cs\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/bin/Debug/netcoreapp3.1/Ålder.deps.json\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/bin/Debug/netcoreapp3.1/Ålder.pdb\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/bin/Debug/netcoreapp3.1/Ålder.runtimeconfig.dev.json\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/bin/Debug/netcoreapp3.1/Ålder.runtimeconfig.json\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/Debug/netcoreapp3.1/Ålder.AssemblyInfo.cs\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/Debug/netcoreapp3.1/Ålder.AssemblyInfoInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/Debug/netcoreapp3.1/Ålder.assets.cache\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/Debug/netcoreapp3.1/Ålder.csproj.CoreCompileInputs.cache\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/Debug/netcoreapp3.1/Ålder.csproj.FileListAbsolute.txt\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/Debug/netcoreapp3.1/Ålder.csprojAssemblyReference.cache\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/Debug/netcoreapp3.1/Ålder.genruntimeconfig.cache\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/Debug/netcoreapp3.1/Ålder.pdb\n\
+        #\tGoogle Drive/C sharp tasks/Ålder/Ålder/obj/project.assets.json\n#\tGoogle\
+        \ Drive/C sharp tasks/Ålder/Ålder/obj/project.nuget.cache\n#\tGoogle Drive/C\
+        \ sharp tasks/Ålder/Ålder/obj/Ålder.csproj.nuget.dgspec.json\n#\tGoogle Drive/C\
+        \ sharp tasks/Ålder/Ålder/obj/Ålder.csproj.nuget.g.props\n#\tGoogle Drive/C\
+        \ sharp tasks/Ålder/Ålder/obj/Ålder.csproj.nuget.g.targets\n#\tGoogle Drive/C\
+        \ sharp tasks/Ålder/Ålder/Ålder.csproj\n#\tGoogle Drive/Christoffer's Notebook/Christoffer's\
+        \ Notebook 1.url\n#\tGoogle Drive/Christoffer's Notebook/work 1.url\n#\tGoogle\
+        \ Drive/Customer Adviser.docx\n#\tGoogle Drive/Customer Adviser.gdoc\n#\t\
+        Google Drive/DAO Ultimate Addins Updater.log\n#\tGoogle Drive/Document.docx\n\
+        #\tGoogle Drive/Ekonomi/1. Bokföring exempel.pdf\n#\tGoogle Drive/Ekonomi/2.\
+        \ Bokföring i bokföringsbok.gdoc\n#\tGoogle Drive/Ekonomi/2. Bokföring i bokfö\
+        ringsbok.pdf\n#\tGoogle Drive/Ekonomi/3. Bokföring i kontoplan.pdf\n#\tGoogle\
+        \ Drive/Ekonomi/4. Kontoplan.pdf\n#\tGoogle Drive/Ekonomi/5. Kontering - riktiga\
+        \ verifikationer.pdf\n#\tGoogle Drive/Ekonomi/Bokföring Januari.gsheet\n#\t\
+        Google Drive/Ekonomi/Bokföring av kreditfakturor.docx\n#\tGoogle Drive/Ekonomi/Bokfö\
+        ring februari.gsheet\n#\tGoogle Drive/Ekonomi/Bokföring korrigering.pdf\n\
+        #\tGoogle Drive/Ekonomi/Bokföring mars.gsheet\n#\tGoogle Drive/Ekonomi/Ek\
+        \ ass uppgift delning kvitto.docx\n#\tGoogle Drive/Ekonomi/Inventarier - fö\
+        rbrukningsinventarier.docx\n#\tGoogle Drive/Ekonomi/Kontering.gsheet\n#\t\
+        Google Drive/Ekonomi/Kund- och..-1.docx\n#\tGoogle Drive/Ekonomi/Mervärdeskattedeklaration\
+        \ mall.pdf\n#\tGoogle Drive/Ekonomi/Moms aktuella momssatser.pdf\n#\tGoogle\
+        \ Drive/Ekonomi/Namnlöst kalkylark (1).gsheet\n#\tGoogle Drive/Ekonomi/Namnlö\
+        st kalkylark.gsheet\n#\tGoogle Drive/Ekonomi/Viktorias kiosk.pdf\n#\tGoogle\
+        \ Drive/FUNA65001820D11.PDF\n#\tGoogle Drive/Familj - Inköp matvaror.gsheet\n\
+        #\tGoogle Drive/Familj - SSP Overview.gsheet\n#\tGoogle Drive/FileList.txt\n\
+        #\tGoogle Drive/FileList.txt.bak\n#\tGoogle Drive/GameTheori/gem price calculation.xls\n\
+        #\tGoogle Drive/Google Drive.zip\n#\tGoogle Drive/Härved Ulf.gslides\n#\t\
+        Google Drive/IT-tekniker.gdoc\n#\tGoogle Drive/Important documents/ADHD_ Symptoms\
+        \ & Expression Sheet.gsheet\n#\tGoogle Drive/Important documents/CSN överklagan.gdoc\n\
+        #\tGoogle Drive/Important documents/DOC200313-20200313154838.pdf\n#\tGoogle\
+        \ Drive/Important documents/DOC200313-20200313154905.pdf\n#\tGoogle Drive/Important\
+        \ documents/DOC200313-20200313154942.pdf\n#\tGoogle Drive/Invantive/user-installer.json\n\
+        #\tGoogle Drive/Ljudinspelningar/Inspelning (5).m4a\n#\tGoogle Drive/Ljudinspelningar/Inspelning.m4a\n\
+        #\tGoogle Drive/MTG Arena.lnk\n#\tGoogle Drive/My Received Files/adresser.xls\n\
+        #\tGoogle Drive/Månadsbudget.gsheet\n#\tGoogle Drive/Namnlöst dokument.gdoc\n\
+        #\tGoogle Drive/Namnlöst kalkylark.gsheet\n#\tGoogle Drive/Neverwinter-pocket-wiki.gsheet\n\
+        #\tGoogle Drive/New Text Document (2).txt\n#\tGoogle Drive/NewProject/Cv thoughts\
+        \ and mall.csv\n#\tGoogle Drive/NewProject/NewProject.lxsopt\n#\tGoogle Drive/NewProject/NewProject.lxsproj\n\
+        #\tGoogle Drive/NewProject/Systemförvaltare.txt\n#\tGoogle Drive/Notes/Markdown\
+        \ Cheatsheet.md\n#\tGoogle Drive/Notes/Welcome to QOwnNotes.md\n#\tGoogle\
+        \ Drive/Notes/notes.sqlite\n#\tGoogle Drive/Ondskan - Recension.docx\n#\t\
+        Google Drive/Personligt valv.lnk\n#\tGoogle Drive/Playlist - Music - Mooncitygirl.gsheet\n\
+        #\tGoogle Drive/REVIDERAD PLAN FÖR SABRINA TVÅ UPPGIFTER.docx\n#\tGoogle\
+        \ Drive/Reflect/My Backup.xml\n#\tGoogle Drive/Region upplysare.gdoc\n#\t\
+        Google Drive/SCARF/Anteckningsbok för Sabrina.url\n#\tGoogle Drive/SPF-kliniska-riktlinjer-Personlighetssyndrom.pdf\n\
+        #\tGoogle Drive/SSA 1/Andraspråk, främmande språk och nya språk.gdoc\n#\t\
+        Google Drive/SSA 1/Blankett för film - Gräns.docx\n#\tGoogle Drive/SSA 1/Bortbytingen\
+        \ av Selma Lagerlöf.gdoc\n#\tGoogle Drive/SSA 1/Insändare.gdoc\n#\tGoogle\
+        \ Drive/SSA 1/Intervju.gdoc\n#\tGoogle Drive/SSA 1/Kulturkrock.gdoc\n#\tGoogle\
+        \ Drive/SSA 1/Namnlöst dokument.gdoc\n#\tGoogle Drive/SSA 1/Ondskan - Recension.gdoc\n\
+        #\tGoogle Drive/SSA 1/Planering Svenska som andraspråk 1.gdoc\n#\tGoogle Drive/SSA\
+        \ 1/Referat.gdoc\n#\tGoogle Drive/SSA 1/Reformförsök av August Srindberg.gdoc\n\
+        #\tGoogle Drive/SSA 1/Uttal.gdoc\n#\tGoogle Drive/SSA 2/Artikel.gdoc\n#\t\
+        Google Drive/SSA 2/Epok.gdoc\n#\tGoogle Drive/SSA 2/Planering Svenska som\
+        \ andraspråk 2.gdoc\n#\tGoogle Drive/SSA 2/Recensionsblankett_roman_SVA2.docx\n\
+        #\tGoogle Drive/SSA 2/Sanning med modifikation.gslides\n#\tGoogle Drive/SSA\
+        \ 2/Svenska 2 text.gdoc\n#\tGoogle Drive/SSA 2/dialekt.gdoc\n#\tGoogle Drive/SSA\
+        \ 3/ARTIKEL Therese Nilsson.docx\n#\tGoogle Drive/SSA 3/Förbjud tiggeri.gdoc\n\
+        #\tGoogle Drive/SSA 3/SVA 3 - Laleh.gdoc\n#\tGoogle Drive/SSA 3/Sanning med\
+        \ modifikation.gdoc\n#\tGoogle Drive/SVA3 RETORISKA GREPP SABRINA.docx\n#\t\
+        Google Drive/Sabrinas problem.gdoc\n#\tGoogle Drive/Samhällskunskap/Samhä\
+        llskunskap 1b/Start.docx\n#\tGoogle Drive/Samhällskunskap/Samhällskunskap\
+        \ 1b/Start.docx.gdoc\n#\tGoogle Drive/Samhällskunskap/Samhällskunskap 1b/Studieguide\
+        \ 1.docx\n#\tGoogle Drive/Samhällskunskap/Samhällskunskap 1b/Studieguide 1.docx.gdoc\n\
+        #\tGoogle Drive/Samhällskunskap/Samhällskunskap 1b/Studieguide 2.docx\n#\t\
+        Google Drive/Samhällskunskap/Samhällskunskap 1b/Studieguide 2.docx.gdoc\n\
+        #\tGoogle Drive/Samhällskunskap/Samhällskunskap 1b/Studieguide 3.docx\n#\t\
+        Google Drive/Samhällskunskap/Samhällskunskap 1b/Studieguide 3.docx.gdoc\n\
+        #\tGoogle Drive/Samhällskunskap/Samhällskunskap 1b/desktop.ini\n#\tGoogle\
+        \ Drive/Samhällskunskap/Uppdrag 2 - Samhällskunskap.gdoc\n#\tGoogle Drive/Samhä\
+        llskunskap/uppdrag1.txt\n#\tGoogle Drive/Samhällskunskap/uppdrag1styck2.txt\n\
+        #\tGoogle Drive/Santander-Consumer-Bank-invoice-300085859.pdf\n#\tGoogle Drive/Something,\
+        \ I guess/I don’t understand why I have it hard to get started.gdoc\n#\tGoogle\
+        \ Drive/Something, I guess/Namnlöst dokument.gdoc\n#\tGoogle Drive/Something,\
+        \ I guess/this used to be called something else i regretted.gdoc\n#\tGoogle\
+        \ Drive/Svenska/Recensionsblankett - låt den rätte komma in.doc\n#\tGoogle\
+        \ Drive/Svenska/Recensionsblankett_foer_romaner.docx\n#\tGoogle Drive/Svenska/Satsschema-huvudsats-o-bisats_med-fö\
+        rklaringar.pdf\n#\tGoogle Drive/Svenska/hbfacit.pdf\n#\tGoogle Drive/Tips\
+        \ to Recruitment Success v2.0.gdoc\n#\tGoogle Drive/USVFS/__shm_sink_usvfs\n\
+        #\tGoogle Drive/Union/System/Language.cs\n#\tGoogle Drive/Untitled.sh\n#\t\
+        Google Drive/Validity/ValidityService.log\n#\tGoogle Drive/Validity/WUDFHost0806192244229.etl\n\
+        #\tGoogle Drive/Video/desktop.ini\n#\tGoogle Drive/WizTree_20210925162426.csv\n\
+        #\tGoogle Drive/[14] TTWInteriorsProject_Combo.esm.txt\n#\tGoogle Drive/[20]\
+        \ Water Overhaul.esp.txt\n#\tGoogle Drive/[20] Water Overhaul.esp.txt.bak\n\
+        #\tGoogle Drive/attemptFileRame.py\n#\tGoogle Drive/dbgate-data/connections.jsonl\n\
+        #\tGoogle Drive/dbgate-data/jsl/04626260-c89d-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/0e657090-c884-11ec-927e-3714d7ed9aa6.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/17882780-c884-11ec-927e-3714d7ed9aa6.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/349d2940-c895-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/54515a30-c896-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/5c83aef0-c89c-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/7e042320-c897-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/8559c8f0-c89c-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/9a6a2cc0-c893-11ec-927e-3714d7ed9aa6.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/a21dc350-c893-11ec-927e-3714d7ed9aa6.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/b07c1ce0-c89c-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/b46c5c20-c897-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/b5853770-c89d-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/d502c1a0-c896-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/d5b62460-c89c-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/e3456690-c883-11ec-927e-3714d7ed9aa6.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/jsl/ec4bfa40-c894-11ec-bd1f-dbda18523eb8.jsonl.stats\n\
+        #\tGoogle Drive/dbgate-data/query-history.jsonl\n#\tGoogle Drive/dbgate-data/uploads/5c524ec0-c728-11ec-bb2a-05f0868feb1d.js\n\
+        #\tGoogle Drive/dbgate-data/uploads/921965c0-c728-11ec-bb2a-05f0868feb1d.js\n\
+        #\tGoogle Drive/desktop.ini\n#\tGoogle Drive/hcomm.jsonc\n#\tGoogle Drive/java_error_in_datagrip64_43496.log\n\
+        #\tGoogle Drive/local_storage_OneTab.json\n#\tGoogle Drive/playlist - music\
+        \ - solushed.gsheet\n#\tGoogle Drive/recAttempt.rec\n#\tGoogle Drive/recension\
+        \ livet efter dig.gdoc\n#\tGoogle Drive/schema.xsd.Output/SampleAppJava/SampleApp.java\n\
+        #\tGoogle Drive/schema.xsd.Output/SampleAppJava/dasda.js\n#\tGoogle Drive/schema.xsd.Output/SampleAppJava/dasda.yml\n\
+        #\tGoogle Drive/t3/dataman/mongodb/app/AppRunner/--3mkysnku52awb7yxrapw--91690795\n\
+        #\tGoogle Drive/t3/dataman/mongodb/app/AppRunner/bnrrjeye6fas6qaqgi-exa--91690795\n\
+        #\tGoogle Drive/t3/dataman/mongodb/app/AppRunner/oprhhc0pa-xcwio1rn-9ea--91690795\n\
+        #\tGoogle Drive/t3/dataman/mongodb/app/AppRunner/soduz3vqhnnja46uvu3szq--91690795\n\
+        #\tGoogle Drive/t3/dataman/mongodb/app/AppRunner/wyrg900hhjeebfxlbfe4-g--91690795\n\
+        #\tGoogle Drive/uglyPath.txt\n#\tGoogle Drive/vortexModlistBackupCurrentBroken\n\
+        #\tGoogle Drive/wkspaces/new-repository/.plastic/plastic.branchexplorer\n\
+        #\tGoogle Drive/wkspaces/new-repository/.plastic/plastic.selector\n#\tGoogle\
+        \ Drive/wkspaces/new-repository/.plastic/plastic.wktree\n#\tGoogle Drive/wkspaces/new-repository/.plastic/plastic.workspace\n\
+        #\tIISExpress/config/applicationhost.config\n#\tIISExpress/config/aspnet.config\n\
+        #\tIISExpress/config/redirection.config\n#\tJSON-CSV.COM Desktop Edition.appref-ms\n\
+        #\tKlei/OxygenNotIncluded/cloud_save_files/76561198070792349/steam_autocloud.~vdf\n\
+        #\tKlei~e5ec7a7ee4e88de341b7e78afaa16d89e7937a1d\n#\tNVIDIA Corporation/Drs/nvAppTimestamps\n\
+        #\tNVIDIA Corporation/Drs/nvdrssel.bin\n#\tNVIDIA Corporation/nvStereoInstaller/nvStInst.log\n\
+        #\tNVIDIA Corporation/nvStereoInstaller/nvStInst.old\n#\tNVIDIA Corporation/nvstapisvr/nvstapisvr.log\n\
+        #\tNVIDIA Corporation/nvstapisvr/nvstapisvr.old\n#\tNVIDIA Corporation/nvstlink.log\n\
+        #\tNew folder/AppsLauncher.exe\n#\tNew folder/TinyMacroEraseError.exe\n#\t\
+        New folder/TinyMacroTypeError.exe\n#\tNew folder/a.exp\n#\tNew folder/desktop.ini\n\
+        #\tOneQuick/OneQuick-DESKTOP-4BFM0SI-2.log\n#\tOneQuick/OneQuick-DESKTOP-4BFM0SI.log\n\
+        #\tOneQuick/OneQuick-DESKTOP-4BFM0SI.~log\n#\tOneQuick/OneQuick.~~config\n\
+        #\tOneQuick/information.~~xml\n#\tOneQuick/preference-DESKTOP-4BFM0SI.cfg\n\
+        #\tOneQuick/preference-DESKTOP-4BFM0SI.~cfg\n#\tOneQuick/preference-DESKTOP-4BFM0SI.~~cfg\n\
+        #\tOneQuick/preference.~~cfg\n#\tPowerShell~HEAD\n#\tWindowsPowerShell/Microsoft.PowerShell_profile.ps1\n\
+        #\tWindowsPowerShell/Modules/PhatGit/LICENSE\n#\thasBinInstalled.chocolatey.log\n\
+        #\tindexfile.txt"
+      - etc
     journal: {}
   rootC:\Users\chris\scoop\persist\Powershell:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701348128486}
@@ -13001,6 +13259,102 @@ gitRootSettingsSet:
     journal: {}
   rootC:\Users\chris\scoop\persist\Scooter Software\Beyond Compare 4:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701358644071}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\scoop\persist:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703161584285}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - "Merge branch 'branch2' into Presist\n\n# Conflicts:\n#\t.gitignore\n#\t.gitmodules\n\
+        #\tAHK\n#\tDatagrip\n#\tEverything\n#\tGit\n#\tJetBrains\n#\tScooter Software/Beyond\
+        \ Compare 4\n#\tflow-launcher/UserData/Cache/Image.cache\n#\tflow-launcher/UserData/Cache/UWP.cache\n\
+        #\tflow-launcher/UserData/Cache/Win32.cache\n#\tflow-launcher/UserData/Settings/History.json\n\
+        #\tflow-launcher/UserData/Settings/History.json.bak\n#\tflow-launcher/UserData/Settings/Plugins/Flow.Launcher.Plugin.Program/Settings.json\n\
+        #\tflow-launcher/UserData/Settings/Plugins/Flow.Launcher.Plugin.Program/Settings.json.bak\n\
+        #\tflow-launcher/UserData/Settings/Settings.json\n#\tflow-launcher/UserData/Settings/Settings.json.bak\n\
+        #\tflow-launcher/UserData/Settings/UserSelectedRecord.json\n#\tflow-launcher/UserData/Settings/UserSelectedRecord.json.bak"
+      commitNotes: sublime-merge
+    journal: {}
+  rootC:\Users\Användaren\scoop\persist\AHK:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703161584181}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\Dokument:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701553653296}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\scoop\buckets\extras:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701553747802}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\.config:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703161491455}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - "Merge remote-tracking branch 'remotes/win-dotfiles/Dotfiles' into ToHistoryMerge\n\
+        \n# Conflicts:\n#\tpowershell/Microsoft.PowerShell_profile.ps1\n\nSigned-off-by:\
+        \ perXautomatik <christoffer.broback@gmail.com>"
+      - reorg
+    journal: {}
+  rootC:\Users\Användaren\Documents\PowerShell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701559890316}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [Merge tag 'pastdo' into ps, aef]
+    journal: {}
+  rootC:\Users\Användaren\.config\powershell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703161507419}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\scoop\persist\PowerShell:
+    databaseCleanup: {}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}

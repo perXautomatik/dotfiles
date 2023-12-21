@@ -20,7 +20,8 @@ readNotifications: [hosting-provider-could-be-configured-github-null, needsResta
     recorder-null', 'repository-model-problem-b:/pf/chris/autohotkey/script/fork/selectedtextwithoutdisturbingclipboard-null',
   'repository-model-problem-b:/pf/chris/autohotkey/script/fork/selected item in explorer-null',
   'repository-model-problem-b:/pf/chris/autohotkey/script/fork/windowtoforeground-null',
-  'repository-model-problem-b:/pf/chris/scoop/apps/scoop/current-null']
+  'repository-model-problem-b:/pf/chris/scoop/apps/scoop/current-null', 'repository-model-problem-c:/users/användaren/documents/powershell-null',
+  'repository-model-problem-c:/users/användaren/.config-null']
 dontPublishNotifications: ['repository-git-core-ignorecase-mismatch-b:/togit/project
     shelf/archive/sql_db/ffx-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
     shelf/archive/regiongotland/utskicksstruktur/brev-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
@@ -39,4 +40,4 @@ dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit-null: 16860478
 dontPublishUntil-repository-refs-reading-many-loose-b:/pf/powershellprojectfolder/scripts-null: 1690310089540
 dontPublishUntil-repository-refs-reading-many-loose-b:/pf/powershellprojectfolder-null: 1690310092296
 dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/pf/forksdownloadedcode/google-photos-delete-tool-null: 1690313775242
-dontPublishUntil-follow-us-on-twitter-null: 1693574386870
+dontPublishUntil-follow-us-on-twitter-null: 1702158631665

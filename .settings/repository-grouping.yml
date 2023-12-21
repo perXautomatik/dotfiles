@@ -47,11 +47,9 @@ structure:
 - name: I:\ToGit
   children: []
   expanded: true
-- {name: loppy-projectFolderBare, path: \\Sabrina\b\ToGit\Ny mapp\projectFolderBare}
 - name: Scoop
   children:
   - {name: Deployed, path: 'C:\ProgramData\scoop\buckets'}
-  - {name: PowerShell, path: 'C:\Users\CrRoot\AppData\Local\Temp\tmp7434.tmp\PowerShell'}
   - {name: CrRoot, path: 'C:\Users\CrRoot'}
   - {name: scoopbucket-1, path: \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1}
   - {name: Obsidian Vault, path: 'C:\Users\Användaren\Documents\Obsidian Vault'}
@@ -59,14 +57,17 @@ structure:
   - {name: Deployed-persist, path: 'C:\Users\chris\scoop\persist'}
   expanded: true
 - {name: Notebooks, path: 'C:\Users\Användaren\Documents\Obsidian Vault\Notebooks'}
-recentlyUsed: ['C:\Users\chris\scoop\persist', 'C:\Users\Användaren', 'B:\PF\PowerShell',
-  'B:\Users\chris', 'B:\Users\chris\Documents', 'C:\Users\CrRoot\AppData\Local\Temp\tmp7434.tmp\PowerShell',
-  'C:\Users\Användaren\Documents\Obsidian Vault', 'C:\Users\Användaren\Documents\Obsidian
-    Vault\Notebooks', 'B:\ToGit\Archive\ps1', \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1,
-  'B:\ToGit\scoopbucket-presist', 'C:\Users\CrRoot', 'B:\PF\chris', 'B:\PF\chris\autohotkey',
-  'B:\PF', 'B:\PF\CSharpVisualStudio\repos', 'B:\PF\Modding', 'B:\PF\Modding\Diablo
-    II ressurected', 'B:\PF\RegionGotland', 'B:\PF\PowershellProjectFolder', 'C:\ProgramData\scoop\buckets',
-  'B:\GitPs1Module', 'B:\ToGit\IoT\TIG-stack', 'B:\ToGit\IoT', 'B:\PF\NewWindows3',
-  'B:\PF\NewWindows2', 'B:\PF\Archive', 'B:\Filtered', 'B:\New folder (2)\General-ProjectFolders',
-  'B:\ToGit', \\Sabrina\b\ToGit\Ny mapp\projectFolderBare, 'G:\ToGit\projectFolderBare\scoopbucket-presist',
+- {name: persist, path: 'C:\Users\Användaren\scoop\persist'}
+- {name: PowerShell, path: 'C:\Users\Användaren\Documents\PowerShell'}
+- {name: .config, path: 'C:\Users\Användaren\.config'}
+recentlyUsed: ['C:\Users\chris\scoop\persist', 'C:\Users\Användaren\scoop\persist',
+  'C:\Users\Användaren\.config', 'C:\Users\Användaren\Documents\PowerShell', 'C:\Users\Användaren',
+  'B:\PF\PowerShell', 'B:\Users\chris', 'B:\Users\chris\Documents', 'C:\Users\Användaren\Documents\Obsidian
+    Vault', 'C:\Users\Användaren\Documents\Obsidian Vault\Notebooks', 'B:\ToGit\Archive\ps1',
+  \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1, 'B:\ToGit\scoopbucket-presist', 'C:\Users\CrRoot',
+  'B:\PF\chris', 'B:\PF\chris\autohotkey', 'B:\PF', 'B:\PF\CSharpVisualStudio\repos',
+  'B:\PF\Modding', 'B:\PF\Modding\Diablo II ressurected', 'B:\PF\RegionGotland', 'B:\PF\PowershellProjectFolder',
+  'C:\ProgramData\scoop\buckets', 'B:\GitPs1Module', 'B:\ToGit\IoT\TIG-stack', 'B:\ToGit\IoT',
+  'B:\PF\NewWindows3', 'B:\PF\NewWindows2', 'B:\PF\Archive', 'B:\Filtered', 'B:\New
+    folder (2)\General-ProjectFolders', 'B:\ToGit', 'G:\ToGit\projectFolderBare\scoopbucket-presist',
   'G:\ToGit', 'B:\ToGit\SubmoduleFromGitmodules', 'B:\SteamLibrary\steamapps', 'I:\Downloads\2022\assorted']
