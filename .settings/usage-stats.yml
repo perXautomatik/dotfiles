@@ -1,8 +1,8 @@
 header: {started: 1701975374789, uid: 3OVVOEten4s, licenseType: foundation, build: 19285,
   os: windows+10, osv: '10.0', transferred: 1701975374789}
 stats:
-  changesview.syntax.<unknown>: {invocations: 314, invocationLast: 20231230, invocationDays: 2}
-  action.stage: {invocations: 52, invocationLast: 20231230, invocationDays: 2}
+  changesview.syntax.<unknown>: {invocations: 315, invocationLast: 20231230, invocationDays: 2}
+  action.stage: {invocations: 53, invocationLast: 20231230, invocationDays: 2}
   changesview.syntax.xml: {invocations: 11, invocationLast: 20231208, invocationDays: 1}
   toolbar.main.action.commit: {invocations: 81, invocationLast: 20231230, invocationDays: 2}
   action.commit: {invocations: 82, invocationLast: 20231230, invocationDays: 2}
@@ -22,17 +22,17 @@ stats:
   repo.opens.type.git: {invocations: 52, invocationLast: 20231230, invocationDays: 2}
   action.viewUnchanged: {invocations: 5, invocationLast: 20231230, invocationDays: 2}
   action.unstage: {invocations: 30, invocationLast: 20231230, invocationDays: 2}
-  action.refresh: {invocations: 15, invocationLast: 20231230, invocationDays: 2}
+  action.refresh: {invocations: 19, invocationLast: 20231230, invocationDays: 2}
   toolbar.main.action.fetch: {invocations: 1, invocationLast: 20231208, invocationDays: 1}
   repo.opens.wt.files.1000-10000: {invocations: 5, invocationLast: 20231230, invocationDays: 2}
   repo.opens.wt.submodules.1-2: {invocations: 4, invocationLast: 20231208, invocationDays: 1}
-  action.submoduleInit: {invocations: 219, invocationLast: 20231208, invocationDays: 1}
+  action.submoduleInit: {invocations: 220, invocationLast: 20231230, invocationDays: 2}
   repo.opens.wt.files.0: {invocations: 9, invocationLast: 20231208, invocationDays: 1}
   action.discard: {invocations: 15, invocationLast: 20231208, invocationDays: 1}
-  action.submoduleRegister: {invocations: 91, invocationLast: 20231230, invocationDays: 2}
+  action.submoduleRegister: {invocations: 92, invocationLast: 20231230, invocationDays: 2}
   changesview.syntax.json: {invocations: 27, invocationLast: 20231230, invocationDays: 2}
   changesview.syntax.python: {invocations: 1, invocationLast: 20231208, invocationDays: 1}
-  window.compare: {invocations: 11, invocationLast: 20231230, invocationDays: 2}
+  window.compare: {invocations: 12, invocationLast: 20231230, invocationDays: 2}
   repo.opens.wt.submodules.5-10: {invocations: 1, invocationLast: 20231208, invocationDays: 1}
   window.conflictSolver: {invocations: 4, invocationLast: 20231208, invocationDays: 1}
   changesview.syntax.yaml: {invocations: 11, invocationLast: 20231230, invocationDays: 2}

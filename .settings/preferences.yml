@@ -111,7 +111,7 @@ globalTextComponentSettings:
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt, reopenLastUsedRepositories: 2}
 uiSettings: {theme: auto, themeChanged: false, fileSearchPatternType: 1}
-vcsRecords: {lastGitUsage: 1703955598564, lastDgUsage: 1697301682674}
+vcsRecords: {lastGitUsage: 1703956606645, lastDgUsage: 1697301682674}
 updateCheck: {prevCheckTime: 1703954665160, checkedBuild: 19285, mode: download, upgradeInstallation: true}
 updateCheckDg: {mode: download, prevCheckTime: 1697301682991, checkedBuild: 9004}
 proxy: {enabled: false, autoDetect: true}
