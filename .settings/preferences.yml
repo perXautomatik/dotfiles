@@ -6,13 +6,14 @@ actions:
     - filePattern: '*'
       compareType: 0
       externalFileCompare: {}
-    compareWithWorkingTree: false
-    showChooser: false
+    compareWithWorkingTree: true
+    showChooser: true
   conflictSolver:
     conflictSolvers:
     - filePattern: '*'
       useExternal: false
       externalTool: {}
+    swapOursTheirsOnRebase: true
   stash: {stashAutomatically: true, includeUntrackedFiles: true}
   allowModificationOfPushedHistory: true
   pushTags: true
@@ -23,7 +24,8 @@ actions:
   syncPushBeforePull: false
 logSettings:
   filterConfiguration: {}
-comparePreviewSettings: {selectCompareTypeAutomatically: false, compareType: working-tree-vs-index}
+  allowCommandsOnSpecialCommits: true
+comparePreviewSettings: {selectCompareTypeAutomatically: true, compareType: working-tree-vs-index}
 dateFormat: {datePattern: MM/dd/yyyy, timePattern: 'hh:mm a', showTimeForLastDays: true}
 defaultViewSettings:
   compareSettings:
@@ -34,17 +36,17 @@ git:
   executable: C:\Program Files\Git\bin\git.exe
   useSystemGitFlow: true
 ssh: {useOwnSshClient: true}
-deepGit2: {}
+deepGit2: {lineHistoryVisible: true}
 globalTextComponentSettings:
   font: {family: Lucida Console, size: 9}
-  actions: {focusNextChangeAfterTakingChange: false, tabToSpaces: false, homeEndToLineNotDocument: true,
+  actions: {focusNextChangeAfterTakingChange: true, tabToSpaces: true, homeEndToLineNotDocument: true,
     smartHome: true, cursorLeftRightLimitToLine: true, smartEnterAutoIndent: true,
     smartEnterIgnoreEmptyLinesForIndentation: true, smartEnterDeleteWhitespace: true}
   syntaxHighlightingSettings:
     entries:
     - {language: ANTLR4, pattern: '*.g4'}
     - {language: Basic, pattern: '*.basic, *.cbm, *.vb, *.vbs'}
-    - {language: C#, pattern: '*.cs'}
+    - {language: C#, pattern: '*.cs, *.ps*'}
     - {language: C(++), pattern: '*.c, *.cc, *.cpp, *.cxx, *.cyc, *.h, *.ino'}
     - {language: CMake, pattern: '*.cmake'}
     - {language: CSS, pattern: '*.css, *.css-kw, *.css-str'}
@@ -105,22 +107,23 @@ globalTextComponentSettings:
     backgroundConflict: 8400896, backgroundConflictLight: 4468512, backgroundCompactSeparator: 3947580,
     backgroundComment: 7299927, backgroundModifiedCS: 10047311, backgroundAddedCS: 5216610,
     backgroundRemovedCS: 5207193, highlightCurrentLine: false}
-  colors.useDark: false
+  colors.useDark: true
 listx: {uid: en4ssg7d23lk}
-project: {defaultWindowType: wt}
+project: {defaultWindowType: wt, reopenLastUsedRepositories: 2}
 uiSettings: {theme: auto, themeChanged: false, fileSearchPatternType: 1}
-vcsRecords: {lastGitUsage: 1703164437271}
-updateCheck: {prevCheckTime: 1703161486677, checkedBuild: 19285, mode: download, upgradeInstallation: false}
-updateCheckDg: {}
+vcsRecords: {lastGitUsage: 1702326250422, lastDgUsage: 1697301682674}
+updateCheck: {prevCheckTime: 1702378575044, checkedBuild: 19285, mode: download, upgradeInstallation: true}
+updateCheckDg: {mode: download, prevCheckTime: 1697301682991, checkedBuild: 9004}
 proxy: {enabled: false, autoDetect: true}
 spellCheck:
   dictionaries:
-  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\Users\chris\scoop\apps\smartgit\current\dictionaries\en_US.dic'}
+  - {name: en_GB, file: 'C:\ProgramData\scoop\apps\TortoiseGit\current\Languages\en_GB.dic'}
+  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\ProgramData\scoop\apps\SmartGit\current\dictionaries\en_US.dic'}
   deleted: false
-  activeDictionary: 0
+  activeDictionary: 1
 lastUsedVersion: '22.1'
 firstUsedTime: 1684316673740
-tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit14965473220786638917', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4j8179.tmp_dir1703161480']
+tempDirs: ['C:\Users\CrRoot\AppData\Local\Temp\smartgit9374116398961041882', 'C:\Users\CrRoot\AppData\Local\Temp\e4j16BD.tmp_dir1701946572']
 machineId: 41587a14
 warnForMissingMasterPassword: false
 sendStacktraces2: true

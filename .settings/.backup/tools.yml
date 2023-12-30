@@ -1,28 +1,23 @@
 tools:
-- name: Gitk
-  fileStarter: {command: gitk.exe, parameters: '-- ${filePath}'}
-  useForOpen: true
-  waitUntilFinished: false
-  filePattern: '*'
-- name: Add Remote From Clipboard
-  fileStarter: {command: powershell.exe, parameters: 'cd "${filePath}" ; git remote
-      add origin (get-clipboard) ; git fetch --all ;  git checkout --track remotes/origin/master'}
-  useForOpen: true
-  waitUntilFinished: false
-  filePattern: '*'
-- name: path to clipboard
-  fileStarter: {command: powershell.exe, parameters: '"''${filePath}''" | set-clipboard'}
-  useForOpen: true
-  waitUntilFinished: false
-  filePattern: '*'
-- name: ignore subfolder
-  fileStarter: {command: powershell.exe, parameters: '$p1 = "''${filePath}''" ; $p1
-      = convert-path $p1  ;  $p2 ="''${repositoryRootPath}''" ;  $p2 = convert-path
-      $p2; invoke-command -scriptblock {param($param1,$param2) ;   (coreutils realpath
-      --relative-to="$param2" ( $param1 | split-path -parent )).replace(''\'',''/'')
-      >> (Join-Path -Path $param2 -ChildPath ''.gitignore'')} -ArgumentList $p1, $p2'}
+- name: Open in Git-Gui
+  fileStarter: {command: '${gitDir}\mingw64\bin\wish.exe', parameters: '"${gitDir}\mingw64\libexec\git-core"\git-gui
+      -- "--working-dir" ${repositoryRootPath}'}
   useForOpen: false
-  waitUntilFinished: true
+  waitUntilFinished: false
+  filePattern: '*'
+- id: openFile
+  name: Open File
+  fileStarter: {command: '${smartGitDir}\bin\open.exe', parameters: '${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: true
+- id: editInNotepad
+  name: Edit with bcomp
+  fileStarter: {command: 'C:\ProgramData\scoop\apps\beyondcompare\current\BComp.exe',
+    parameters: '${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
   filePattern: '*'
   forFilesNotDirectories: true
 - id: openInExplorer
@@ -38,14 +33,67 @@ tools:
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'
-- id: editInNotepad
-  name: Edit
-  fileStarter: {command: 'C:\ProgramData\scoop\apps\beyondcompare\current\BComp.exe',
-    parameters: '${filePath}'}
+- name: Gitk
+  fileStarter: {command: gitk.exe, parameters: '-- ${filePath}'}
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'
+- name: DeleteIndex
+  keystroke: CTRL+DEL
+  fileStarter: {command: '${git}', parameters: 'rm --cached -r ${fileName}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  confirmationMessage: --cd=${repositoryRootPath} -c "git rm --cached -r ${fileName}"
+- name: Open GitDir
+  fileStarter: {command: powershell.exe, parameters: 'set-location "${repositoryRootPath}"
+      ; $pathx = invoke-expression ''git rev-parse --git-dir'' ; explorer ( resolve-path
+      "$pathx" )'}
+  useForOpen: false
+  waitUntilFinished: false
+  filePattern: '*'
+- name: Analyze with Git-FilterRepo
+  fileStarter: {command: powershell.exe, parameters: 'set-location "${repositoryRootPath}"
+      ; git filter-repo --analyze --force'}
+  useForOpen: false
+  waitUntilFinished: true
+  filePattern: '*'
+- name: Set Remote Origin From Clipboard
+  fileStarter: {command: powershell.exe, parameters: 'set-location "${repositoryRootPath}"
+      ; git remote add origin (get-clipboard) ; git fetch --all ;  git checkout --track
+      remotes/origin/master'}
+  useForOpen: false
+  waitUntilFinished: false
+  filePattern: '*'
+- name: path to clipboard
+  fileStarter: {command: powershell.exe, parameters: '"''${filePath}''" | set-clipboard'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+- name: ignore subfolder
+  fileStarter: {command: powershell.exe, parameters: '$p1 = "''${selectionFile}''"
+      ; $p1 = convert-path $p1  ;  $p2 ="''${repositoryRootPath}''" ;  $p2 = convert-path
+      $p2; invoke-command -scriptblock {param($param1,$param2) ;   (coreutils realpath
+      --relative-to="$param2" ( $param1 | split-path -parent )).replace(''\'',''/'')
+      >> (Join-Path -Path $param2 -ChildPath ''.gitignore'')} -ArgumentList $p1, $p2'}
+  useForOpen: false
+  waitUntilFinished: true
+  filePattern: '*'
   forFilesNotDirectories: true
+- id: openInCmd
+  name: Open in Cmd
+  fileStarter: {command: cmd.exe, parameters: '/c start pushd ${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: false
+- name: CompareWithBcompare
+  fileStarter: {command: powershell.exe, parameters: 'invoke-command -scriptblock
+      {param($param1) ; $parx = get-content $param1 ; BComp @parx} -ArgumentList ("''${selectionFile}''")'}
+  useForOpen: false
+  waitUntilFinished: false
+  filePattern: '*'
+  confirmationMessage: -Raw -Replace "`r`n",","
 - name: RefLog with TGit
   fileStarter: {command: 'C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe', parameters: '/command:reflog
       /path ${filePath}'}
@@ -56,6 +104,12 @@ tools:
   fileStarter: {command: 'C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe', parameters: '/command:revisiongraph
       /path ${filePath}'}
   useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+- name: Settingss TGit
+  fileStarter: {command: 'C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe', parameters: '/command:Settings
+      /path ${filePath}'}
+  useForOpen: false
   waitUntilFinished: false
   filePattern: '*'
 - name: sync with TGit
@@ -76,39 +130,13 @@ tools:
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'
-- id: openFile
-  name: Open File
-  fileStarter: {command: '${smartGitDir}\bin\open.exe', parameters: '${filePath}'}
-  useForOpen: true
-  waitUntilFinished: false
-  filePattern: '*'
-  forFilesNotDirectories: true
 - name: Git Add
-  keystroke: CTRL+DEL
+  keystroke: CTRL+CR
   fileStarter: {command: '${git}', parameters: 'add ${fileName}'}
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'
   confirmationMessage: --cd=${repositoryRootPath} -c "git rm --cached -r ${fileName}"
-- name: DeleteIndex
-  keystroke: CTRL+DEL
-  fileStarter: {command: '${git}', parameters: 'rm --cached -r ${filePath}'}
-  useForOpen: true
-  waitUntilFinished: false
-  filePattern: '*'
-  confirmationMessage: --cd=${repositoryRootPath} -c "git rm --cached -r ${fileName}"
-- name: GitPushOnDemand
-  fileStarter: {command: '${git}', parameters: push --recurse-submodules=on-demand}
-  useForOpen: false
-  waitUntilFinished: true
-  filePattern: '*'
-  confirmationMessage: --cd=${filePath} -c "git submodule absorbgitdir"
-- name: GitAbsorbe
-  fileStarter: {command: '${git}', parameters: submodule absorbgitdirs}
-  useForOpen: false
-  waitUntilFinished: true
-  filePattern: '*'
-  confirmationMessage: --cd=${filePath} -c "git submodule absorbgitdir"
 - name: AddAsSafeDir
   fileStarter: {command: '${git}', parameters: 'config --global --add safe.directory
       ${filePath}'}
@@ -125,15 +153,9 @@ tools:
   waitUntilFinished: false
   filePattern: '*'
   forFilesNotDirectories: false
-- name: Open in Git-Gui
-  fileStarter: {command: '${gitDir}\mingw64\bin\wish.exe', parameters: '"${gitDir}\mingw64\libexec\git-core"\git-gui
-      -- "--working-dir" ${repositoryRootPath}'}
-  useForOpen: false
-  waitUntilFinished: false
-  filePattern: '*'
 - id: openGitShell
   name: Open in Git-Shell
-  fileStarter: {command: '${gitDir}\git-bash.exe', parameters: '--cd="${filePath}"'}
+  fileStarter: {command: '${git}', parameters: '--cd=${filePath}'}
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'
@@ -152,6 +174,25 @@ tools:
   waitUntilFinished: true
   filePattern: '*'
   forFilesNotDirectories: true
+- id: gitConfigList
+  name: Git Config
+  keystroke: CTRL+C
+  fileStarter: {command: '${git}', parameters: config --list --show-origin}
+  useForOpen: false
+  waitUntilFinished: true
+  filePattern: '*'
+- name: GitPushOnDemand
+  fileStarter: {command: '${git}', parameters: push --recurse-submodules=on-demand}
+  useForOpen: false
+  waitUntilFinished: true
+  filePattern: '*'
+  confirmationMessage: --cd=${filePath} -c "git submodule absorbgitdir"
+- name: GitAbsorbe
+  fileStarter: {command: '${git}', parameters: submodule absorbgitdirs}
+  useForOpen: false
+  waitUntilFinished: true
+  filePattern: '*'
+  confirmationMessage: --cd=${filePath} -c "git submodule absorbgitdir"
 - id: applyPatch
   name: Apply Patch
   fileStarter: {command: '${git}', parameters: 'apply ${fileOpen}'}
@@ -164,11 +205,23 @@ tools:
   useForOpen: false
   waitUntilFinished: true
   filePattern: '*'
-- id: gitConfigList
-  name: Git Config
-  keystroke: CTRL+C
-  fileStarter: {command: '${git}', parameters: config --list --show-origin}
+- name: MoveCommit
+  fileStarter: {command: '${git}', parameters: 'move-and-rename ${selectionFile}'}
   useForOpen: false
   waitUntilFinished: true
   filePattern: '*'
-manuallyDeletedIds: [openInCmd]
+  forFilesNotDirectories: true
+  requiresConfirmation: true
+  confirmationMessage: ${selectionFile}
+- id: mergeDirectlyTo
+  name: Merge Directly To
+  fileStarter: {command: \usr\bin\python3, parameters: '"${smartGitDir}/lib/git-forward-merge.sh"
+      ${commit} ${commit2}'}
+  useForOpen: false
+  waitUntilFinished: true
+  filePattern: '*'
+  forRefsNotShas: true
+  requiresConfirmation: true
+  confirmationMessage: Do you want to merge changes to ${commit2} *without* checking
+    out?
+manuallyDeletedIds: [revealInNemo, openGnomeTerminal, openXfceTerminal, revealInNautilus]
