@@ -9,40 +9,7 @@ gitRootSettingsSet:
     push: {}
     commitNotes: {}
     journal: {}
-  roots: ['B:\PF', 'B:\PF\AhkProjectFolder\Fork\ChangeSkypeStatus', 'B:\PF\AhkProjectFolder\Fork\clipboardbuffer',
-    'B:\PF\Archive', 'B:\PF\CSharpVisualStudio\repos\LargeNexport\DataBindingDemo',
-    'B:\PF\CSharpVisualStudio\repos\LargeNexport\DataBindingDemoSparse', 'B:\PF\CSharpVisualStudio\repos\LargeNexport\WPF-EF6-Sqlite',
-    'B:\PF\CSharpVisualStudio\repos\LargeNexport\WPF-Samples', 'B:\PF\CSharpVisualStudio\repos\WIthoutStudio',
-    'B:\PF\CSharpVisualStudio\repos\Wpf-Upgift 1', 'B:\PF\CSharpVisualStudio\repos\boras',
-    'B:\PF\CSharpVisualStudio\repos\karlstad', 'B:\PF\IoT\Docker', 'B:\PF\scoopbucket-1\Todo\BAO-autoItToScoop',
-    'B:\PF\Archive\dotFiles', 'B:\PF\Archive\ps1', 'B:\PF\CSharpVisualStudio\repos\boras\213c939651e0bef7612b2f910909a21d',
-    'B:\PF\CSharpVisualStudio\repos\boras\3714794', 'B:\PF\CSharpVisualStudio\repos\boras\7327483',
-    'B:\PF\CSharpVisualStudio\repos\boras\DataBindingDemo', 'B:\PF\Archive\NewWindows\scoopbucket-presist',
-    'B:\GitFolders\scoopbucket-presist', 'B:\Users\target', 'B:\Users\target\Documents\WindowsPowerShell',
-    'B:\Users\target\Documents\PowerShell', 'C:\ProgramData\scoop\buckets\perXautomatik',
-    'C:\ProgramData\scoop\buckets', 'B:\PF\Archive\dotFiles\dotbot', 'B:\PF\Archive\dotFiles\dotbot\lib\pyyaml',
-    'B:\PF\Archive\ps1\Aggregation\TextProcessingProjectF', 'B:\PF\Archive\ps1\Processes\pipeline',
-    'B:\PF\Archive\ps1\Processes\regestry', 'B:\PF\Archive\ps1\TextTransformation\ini',
-    'B:\PF\Archive\ps1\git', ~\.config, ~\.config\git\watchman-autocommit, ~\.config\powershell,
-    'B:\PF\Archive\ps1\ps1', 'B:\PF\Archive\ps1\workflow\CsharpI', 'B:\PF\Archive\ps1\git\gist\GitPs1Module',
-    'B:\PF\CSharpVisualStudio\repos\karlstad\Calculator_CBrobäck', 'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik',
-    'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik\KarlstadButik', 'C:\ProgramData\scoop\buckets\anderlli0053_DEV-tools',
-    'C:\ProgramData\scoop\buckets\extras', 'C:\ProgramData\scoop\buckets\games', 'C:\ProgramData\scoop\buckets\main',
-    'B:\PF\Archive\dotFiles\Documents', 'B:\PF\Archive\dotFiles\.config\git', 'B:\PF\Archive\dotFiles\.config\powershell',
-    'B:\PF\Archive\dotFiles\AppData', 'B:\PF\Archive\dotFiles\AdvancedRenamer', 'B:\PF\Archive\dotFiles\AHK',
-    'B:\PF\Archive\dotFiles\AHK-EverydayScripts', 'B:\PF\Archive\dotFiles\AHK-EverydayScripts\Fork\autoklick',
-    'B:\PF\Archive\dotFiles\AHK-EverydayScripts\ahk_config', 'B:\PF\Archive\dotFiles\AHK-EverydayScripts\script\fork\CheckIfProgIsRunning',
-    'B:\PF\Archive\dotFiles\AHK-EverydayScripts\script\fork\ExplorerAtPath', 'B:\PF\Archive\dotFiles\AHK-EverydayScripts\script\fork\Launch
-      If not Currently running', 'B:\PF\Archive\dotFiles\AHK-EverydayScripts\script\fork\SelectedTextWithoutDisturbingClipboard',
-    'B:\PF\Archive\dotFiles\Everything', 'B:\PF\Archive\dotFiles\PortableProgramSuit',
-    'B:\PF\Archive\dotFiles\BeondCompare4', 'B:\PF\Archive\dotFiles\Cherrytree', 'B:\PF\Archive\dotFiles\Datagrip',
-    'B:\PF\Archive\dotFiles\JetBrains', 'B:\PF\Archive\dotFiles\JetBrains\DataGrip2021.1',
-    'B:\PF\Archive\dotFiles\JetBrains\datagrip2019.4', 'B:\PF\Archive\dotFiles\OtherVersionControlledText',
-    'B:\PF\Archive\dotFiles\portableAppsPlatform', 'B:\PF\Archive\dotFiles\Powershell',
-    'B:\PF\Archive\dotFiles\PowerShellCmdHist', 'B:\PF\Archive\dotFiles\steamapps',
-    'B:\PF\Archive\dotFiles\Vortex', 'B:\PF\Archive\dotFiles\Git', 'B:\PF\Archive\dotFiles\Ditto',
-    'B:\PF\Archive\dotFiles\xEditScripts', 'B:\PF\Archive\dotFiles\Microsoft\Windows\PowerShell',
-    'B:\PF\Archive\dotFiles\nilesoft-shell', 'B:\PF\Archive\dotFiles\.config', 'B:\PF\Archive\dotFiles\PsReadline']
+  roots: ['C:\ProgramData\scoop\persist\20231230161451126']
   rootB:\ToGit:
     databaseCleanup: {}
     log:
@@ -17625,5 +17592,16 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\20231230161451126:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703954678424}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [to read ass submodule]
     journal: {}
 pushMultiRoot: {}

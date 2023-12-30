@@ -50,6 +50,7 @@ structure:
     - {name: perXautomatik, path: 'C:\ProgramData\scoop\buckets\perXautomatik'}
     - {name: WindowsPowerShell, path: 'B:\Users\target\Documents\WindowsPowerShell'}
     - {name: PowerShell, path: 'B:\Users\target\Documents\PowerShell'}
+    - {name: '20231230161451126', path: 'C:\ProgramData\scoop\persist\20231230161451126'}
     expanded: false
   - name: BeyondCompare
     children:
@@ -78,18 +79,17 @@ structure:
   - {name: presist-dotFiles, path: 'B:\PF\Archive\dotFiles'}
   - {name: target, path: 'B:\Users\target'}
   expanded: true
-recentlyUsed: ['B:\PF', 'B:\PF\Archive\dotFiles', 'B:\Users\target', 'C:\ProgramData\scoop\buckets',
-  'C:\ProgramData\scoop\persist', 'C:\Users\CrRoot\AppData', 'B:\SteamLibrary\steamapps',
-  'C:\Users\Public\Documents', 'B:\PF\NoteTakingProjectFolder', 'B:\Users\target',
-  'B:\PF\scoopbucket-1', 'B:\PF\Archive\dotFiles', 'C:\ProgramData\scoop\persist',
-  'C:\ProgramData\scoop\buckets', 'B:\PF\CSharpVisualStudio\repos', 'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik\KarlstadButik',
-  'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik', 'B:\PF\CSharpVisualStudio\repos\karlstad',
-  'B:\PF\CSharpVisualStudio\repos\InvalidMarkup', 'B:\PF\CSharpVisualStudio\repos\boras',
-  'B:\Users', 'B:\GitFolders\scoopbucket-presist', 'B:\PF\Archive\NewWindows\scoopbucket-presist',
-  'B:\GitFolders', 'B:\PF\Archive\ps1\git', 'B:\PF\CSharpVisualStudio', 'B:\PF\Archive',
-  'C:\Users\CrRoot\.config\powershell', 'C:\Users\CrRoot\.config', 'B:\PF\Archive\ps1',
-  'C:\Users\CrRoot\AppData', 'C:\Users\CrRoot\AppData\Roaming\Scooter Software\Beyond
-    Compare 4', 'B:\Users\target\BeondCompare4', 'C:\ProgramData\scoop\persist\Documents\WindowsPowerShell',
+recentlyUsed: ['C:\ProgramData\scoop\persist\20231230161451126', 'B:\PF\Archive\dotFiles',
+  'B:\PF', 'B:\Users\target', 'C:\ProgramData\scoop\buckets', 'C:\ProgramData\scoop\persist',
+  'C:\Users\CrRoot\AppData', 'B:\SteamLibrary\steamapps', 'C:\Users\Public\Documents',
+  'B:\PF\NoteTakingProjectFolder', 'B:\PF\scoopbucket-1', 'B:\PF\CSharpVisualStudio\repos',
+  'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik\KarlstadButik', 'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik',
+  'B:\PF\CSharpVisualStudio\repos\karlstad', 'B:\PF\CSharpVisualStudio\repos\InvalidMarkup',
+  'B:\PF\CSharpVisualStudio\repos\boras', 'B:\Users', 'B:\GitFolders\scoopbucket-presist',
+  'B:\PF\Archive\NewWindows\scoopbucket-presist', 'B:\GitFolders', 'B:\PF\Archive\ps1\git',
+  'B:\PF\CSharpVisualStudio', 'B:\PF\Archive', 'C:\Users\CrRoot\.config\powershell',
+  'C:\Users\CrRoot\.config', 'B:\PF\Archive\ps1', 'C:\Users\CrRoot\AppData\Roaming\Scooter
+    Software\Beyond Compare 4', 'B:\Users\target\BeondCompare4', 'C:\ProgramData\scoop\persist\Documents\WindowsPowerShell',
   'B:\Users\target\Documents\WindowsPowerShell', 'B:\Users\target\Documents\PowerShell',
   'C:\ProgramData\scoop\buckets\perXautomatik', 'B:\PF\AhkProjectFolder', 'C:\ProgramData\scoop\persist\AHK-EverydayScripts',
   'B:\PF\Archive\NewWindows']

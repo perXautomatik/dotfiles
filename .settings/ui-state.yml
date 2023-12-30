@@ -1,8 +1,8 @@
 bounds:
-- {key: project, x: -8, y: -8, width: 1936, height: 1066, state: 1}
+- {key: project, x: 37, y: 53, width: 1440, height: 875, state: 1}
 - {key: welcome}
 - {key: preferences, x: 510, y: 14, width: 1519, height: 601}
-- {key: compare, x: 290, y: 184, width: 1440, height: 866, state: 1}
+- {key: compare, x: 193, y: 179, width: 1440, height: 866}
 - {key: output, x: 0, y: -86, width: 1008, height: 717}
 - {key: git.commit, width: 1245, height: 895, x: 107, y: -52}
 - {key: git.commit.selectFromLog, width: 640, height: 395}
@@ -167,9 +167,7 @@ confirmations: {exit.showConfirmation: true, git.push: true, git.switchBranch.co
   git.commit.stageAll: true, compare.contentEqual: true, conflictSolver.showConflictWarning: true,
   compare.binaryEqual: true, remove.repositoryOrGroup: true, modifyCommit: true, modifyContinue: true,
   docking.closed: true}
-repositoriesToReopen:
-- window: wt
-  repositories: ['B:\PF\Archive\dotFiles']
+repositoriesToReopen: []
 project.files.git.separateWtIndex: true
 gitProjectLayout.main: (([+456x536:directories ][+456x397:branches ])((([+1461x225:files
   ][+1461x161:changes ])[-3x1:message ])([+1461x544:outgoing ][-3x1:output ])))
@@ -177,7 +175,7 @@ log.wtIndex.onDemand: true
 gitProjectLayout.mainIsdefault: true
 gitProjectLayout.review: ([+2x1:directories ][+7x1:files ][+3x1:message ])[+10x3:changes
   ]([-1x1:branches ][-3x1:outgoing ][-3x1:output ])
-lastRepositoryPath: B:\Users\target\Documents\WindowsPowerShell
+lastRepositoryPath: C:\ProgramData\scoop\persist\20231230161451126
 commit.expandOptions: false
 log.files.git.separateWtIndex: true
 gitLogRootLayout.main: (([+866x321:repositories ][+866x329:branches ])([+1049x268:comments

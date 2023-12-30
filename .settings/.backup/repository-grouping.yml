@@ -3,7 +3,6 @@ structure:
   children:
   - name: chris
     children:
-    - {name: chris, path: 'B:\PF\chris'}
     - {name: AppData, path: 'C:\Users\CrRoot\AppData'}
     - {name: NoteTakingProjectFolder, path: 'B:\PF\NoteTakingProjectFolder', favorite: true}
     - name: SteamLibrary
@@ -36,24 +35,21 @@ structure:
     - {name: Archive, path: 'B:\PF\Archive'}
     - {name: .config_powershell, path: 'C:\Users\CrRoot\.config\powershell'}
     - {name: .config, path: 'C:\Users\CrRoot\.config'}
-    - {name: scoopbucket-presist, path: 'B:\PF\Archive\ToGit\scoopbucket-presist'}
     - {name: CSharpVisualStudio, path: 'B:\PF\CSharpVisualStudio'}
     - {name: git, path: 'B:\PF\Archive\ps1\git'}
     - {name: Users, path: 'B:\Users'}
-    - {name: projectFolderBare, path: 'B:\PF\.git\modules\projectFolderBare'}
     - {name: GitFolders, path: 'B:\GitFolders'}
+    - {name: scoopbucket-presist, path: 'B:\PF\Archive\NewWindows\scoopbucket-presist'}
+    - {name: scoopbucket-presist, path: 'B:\GitFolders\scoopbucket-presist'}
     expanded: false
   - name: AHK
     children:
-    - {name: AHK, path: 'B:\Users\target\AHK'}
     - {name: AHK-EverydayScripts, path: 'C:\ProgramData\scoop\persist\AHK-EverydayScripts'}
-    - {name: AutoHotkeyPortable, path: 'U:\WindowsShare\backs\PortableApps\4, windows
-        enhance\PortableApps\AutoHotkeyPortable'}
-    - {name: AHK, path: 'B:\PF\Archive\ToGit\scoopbucket-presist\AHK'}
     - {name: AhkProjectFolder, path: 'B:\PF\AhkProjectFolder'}
-    - {name: ahk_config, path: 'B:\PF\Archive\ToGit\scoopbucket-presist\AHK\ahk_config'}
     - {name: WindowsPowerShell, path: 'C:\ProgramData\scoop\persist\Documents\WindowsPowerShell'}
     - {name: perXautomatik, path: 'C:\ProgramData\scoop\buckets\perXautomatik'}
+    - {name: WindowsPowerShell, path: 'B:\Users\target\Documents\WindowsPowerShell'}
+    - {name: PowerShell, path: 'B:\Users\target\Documents\PowerShell'}
     expanded: false
   - name: BeyondCompare
     children:
@@ -82,17 +78,18 @@ structure:
   - {name: presist-dotFiles, path: 'B:\PF\Archive\dotFiles'}
   - {name: target, path: 'B:\Users\target'}
   expanded: true
-recentlyUsed: ['B:\GitFolders', 'C:\ProgramData\scoop\buckets\perXautomatik', 'B:\PF\Archive\NewWindows',
-  'B:\PF', 'B:\PF\.git\modules\projectFolderBare', 'B:\PF\Archive\ToGit\scoopbucket-presist',
-  'B:\Users', 'B:\PF\CSharpVisualStudio\repos\InvalidMarkup', 'B:\PF\CSharpVisualStudio\repos\karlstad',
-  'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik\KarlstadButik', 'B:\PF\CSharpVisualStudio\repos',
-  'C:\ProgramData\scoop\buckets', 'C:\ProgramData\scoop\persist', 'B:\PF\Archive\dotFiles',
-  'B:\PF\scoopbucket-1', 'B:\Users\target', 'B:\Users\target\BeondCompare4', 'C:\Users\CrRoot\AppData\Roaming\Scooter
-    Software\Beyond Compare 4', 'B:\PF\NoteTakingProjectFolder', 'C:\Users\Public\Documents',
-  'B:\SteamLibrary\steamapps', 'C:\Users\CrRoot\AppData', 'B:\PF\Archive\ps1\git',
-  'B:\PF\CSharpVisualStudio', 'B:\PF\Archive\ps1', 'C:\Users\CrRoot\.config', 'C:\Users\CrRoot\.config\powershell',
-  'B:\PF\Archive', 'B:\PF\AhkProjectFolder', 'C:\ProgramData\scoop\persist\AHK-EverydayScripts',
-  'C:\ProgramData\scoop\persist\Documents\WindowsPowerShell', 'B:\PF\CSharpVisualStudio\repos\boras',
-  'B:\PF\Archive\ToGit\scoopbucket-presist\AHK', 'B:\PF\Archive\ToGit\scoopbucket-presist\AHK\ahk_config',
-  'B:\Users\target\AHK', 'U:\WindowsShare\backs\PortableApps\4, windows enhance\PortableApps\AutoHotkeyPortable',
-  'B:\PF\chris']
+recentlyUsed: ['B:\PF', 'B:\PF\Archive\dotFiles', 'B:\Users\target', 'C:\ProgramData\scoop\buckets',
+  'C:\ProgramData\scoop\persist', 'C:\Users\CrRoot\AppData', 'B:\SteamLibrary\steamapps',
+  'C:\Users\Public\Documents', 'B:\PF\NoteTakingProjectFolder', 'B:\Users\target',
+  'B:\PF\scoopbucket-1', 'B:\PF\Archive\dotFiles', 'C:\ProgramData\scoop\persist',
+  'C:\ProgramData\scoop\buckets', 'B:\PF\CSharpVisualStudio\repos', 'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik\KarlstadButik',
+  'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik', 'B:\PF\CSharpVisualStudio\repos\karlstad',
+  'B:\PF\CSharpVisualStudio\repos\InvalidMarkup', 'B:\PF\CSharpVisualStudio\repos\boras',
+  'B:\Users', 'B:\GitFolders\scoopbucket-presist', 'B:\PF\Archive\NewWindows\scoopbucket-presist',
+  'B:\GitFolders', 'B:\PF\Archive\ps1\git', 'B:\PF\CSharpVisualStudio', 'B:\PF\Archive',
+  'C:\Users\CrRoot\.config\powershell', 'C:\Users\CrRoot\.config', 'B:\PF\Archive\ps1',
+  'C:\Users\CrRoot\AppData', 'C:\Users\CrRoot\AppData\Roaming\Scooter Software\Beyond
+    Compare 4', 'B:\Users\target\BeondCompare4', 'C:\ProgramData\scoop\persist\Documents\WindowsPowerShell',
+  'B:\Users\target\Documents\WindowsPowerShell', 'B:\Users\target\Documents\PowerShell',
+  'C:\ProgramData\scoop\buckets\perXautomatik', 'B:\PF\AhkProjectFolder', 'C:\ProgramData\scoop\persist\AHK-EverydayScripts',
+  'B:\PF\Archive\NewWindows']

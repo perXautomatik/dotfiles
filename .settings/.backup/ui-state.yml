@@ -1,9 +1,9 @@
 bounds:
-- {key: project, x: 148, y: 154, width: 1440, height: 875}
+- {key: project, x: -8, y: -8, width: 1936, height: 1066, state: 1}
 - {key: welcome}
 - {key: preferences, x: 510, y: 14, width: 1519, height: 601}
 - {key: compare, x: 290, y: 184, width: 1440, height: 866, state: 1}
-- {key: output, x: -36, y: -86, width: 1724, height: 717}
+- {key: output, x: 0, y: -86, width: 1008, height: 717}
 - {key: git.commit, width: 1245, height: 895, x: 107, y: -52}
 - {key: git.commit.selectFromLog, width: 640, height: 395}
 - {key: log, x: -7, y: 267, width: 1934, height: 783}
@@ -18,14 +18,14 @@ bounds:
 - {key: git.remove, width: 500, height: 309}
 - {key: git.stashSave, width: 500, height: 309}
 - {key: annotate, x: 285, y: 71, width: 1440, height: 866}
-- {key: conflictSolver, x: 240, y: 58, width: 1440, height: 866}
+- {key: conflictSolver, x: 240, y: 58, width: 1440, height: 866, state: 1}
 - {key: splitOff, width: 500, height: 309}
 - {key: git.tag, width: 400, height: 300}
 - {key: git.unstage, width: 500, height: 309}
 - {key: git.stage, width: 500, height: 309}
 - {key: editAuthor, width: 300, height: 100}
 - {key: deepgit, x: 240, y: 58, width: 1440, height: 875, state: 1}
-conflictSolverFrame: {}
+conflictSolverFrame: {sLayout: left-right-merge}
 indexEditorFrame: {sLayout: left-right-merge}
 columns:
   project.files.git:
@@ -53,11 +53,11 @@ columns:
     - {id: Last Changed On, width: 117, width2x: 0}
     - {id: Relative Path, width: 500, width2x: 0}
     sortOrders:
-    - {id: Name, reverse: false}
-    - {id: Relative Directory, reverse: false}
-    - {id: State, reverse: true}
+    - {id: Size, reverse: false}
     - {id: Ext., reverse: false}
-    - {id: Size, reverse: true}
+    - {id: Name, reverse: false}
+    - {id: State, reverse: true}
+    - {id: Relative Directory, reverse: false}
     - {id: Last Changed On, reverse: false}
   project.files.git.index:
     columnNames: "Name\tExt.\tState\tRelative Directory\tRelative Path\tRenamed From"
@@ -69,9 +69,9 @@ columns:
     - {id: Relative Directory, width: 784, width2x: 0}
     - {id: Relative Path, width: 500, width2x: 0}
     sortOrders:
+    - {id: Name, reverse: false}
     - {id: Relative Directory, reverse: false}
     - {id: State, reverse: false}
-    - {id: Name, reverse: false}
     - {id: Ext., reverse: true}
   log.comments:
     columnNames: "Author\tText\tPath\tDate\tAssignee\tCommit"
@@ -157,7 +157,7 @@ columns:
     - {id: Modifications, width: 150, width2x: 0}
     sortOrders:
     - {id: File, reverse: false}
-gitViewFileFilter: {viewRecursive: true, viewFromSubmodules: true, viewIgnoredFiles: false,
+gitViewFileFilter: {viewRecursive: false, viewFromSubmodules: true, viewIgnoredFiles: true,
   viewRenameSources: true, viewSkipped: false, viewUnversionedFiles: true, viewUnchangedFiles: true,
   viewUnchangedAssumed: false}
 deepGitUiConfiguration: {mainSplitPaneResizeWeight: '0.0', textSplitPaneResizeWeight: '0.5'}
@@ -169,16 +169,16 @@ confirmations: {exit.showConfirmation: true, git.push: true, git.switchBranch.co
   docking.closed: true}
 repositoriesToReopen:
 - window: wt
-  repositories: ['B:\GitFolders']
+  repositories: ['B:\PF\Archive\dotFiles']
 project.files.git.separateWtIndex: true
-gitProjectLayout.main: (([+198x426:directories ][+198x316:branches ])((([+1223x286:files
-  ][+1223x161:changes ])[-3x1:message ])([+1223x292:outgoing ][-3x1:output ])))
+gitProjectLayout.main: (([+456x536:directories ][+456x397:branches ])((([+1461x225:files
+  ][+1461x161:changes ])[-3x1:message ])([+1461x544:outgoing ][-3x1:output ])))
 log.wtIndex.onDemand: true
 gitProjectLayout.mainIsdefault: true
 gitProjectLayout.review: ([+2x1:directories ][+7x1:files ][+3x1:message ])[+10x3:changes
   ]([-1x1:branches ][-3x1:outgoing ][-3x1:output ])
-lastRepositoryPath: B:\GitFolders
-commit.expandOptions: true
+lastRepositoryPath: B:\Users\target\Documents\WindowsPowerShell
+commit.expandOptions: false
 log.files.git.separateWtIndex: true
 gitLogRootLayout.main: (([+866x321:repositories ][+866x329:branches ])([+1049x268:comments
   +1049x268:details -1693x385:files comments ][-1693x548:changes +1049x382:graph graph
