@@ -1,20 +1,20 @@
 header: {started: 1704537591850, uid: 3OVVOEten4s, licenseType: foundation, build: 19294,
   os: windows+10, osv: '10.0', transferred: 1704537591850}
 stats:
-  repo.opens.wt: {invocations: 26, invocationLast: 20240108, invocationDays: 2}
-  repo.opens.wt.files.0-1000: {invocations: 20, invocationLast: 20240108, invocationDays: 2}
-  repo.opens.wt.submodules.0: {invocations: 22, invocationLast: 20240108, invocationDays: 2}
-  repo.opens.wt.config: {invocations: 26, invocationLast: 20240108, invocationDays: 2}
-  repo.opens.wt.config.ignoreCase.true: {invocations: 26, invocationLast: 20240108,
+  repo.opens.wt: {invocations: 31, invocationLast: 20240108, invocationDays: 2}
+  repo.opens.wt.files.0-1000: {invocations: 24, invocationLast: 20240108, invocationDays: 2}
+  repo.opens.wt.submodules.0: {invocations: 27, invocationLast: 20240108, invocationDays: 2}
+  repo.opens.wt.config: {invocations: 31, invocationLast: 20240108, invocationDays: 2}
+  repo.opens.wt.config.ignoreCase.true: {invocations: 31, invocationLast: 20240108,
     invocationDays: 2}
-  repo.opens.wt.config.lfsEnabled.false: {invocations: 25, invocationLast: 20240108,
+  repo.opens.wt.config.lfsEnabled.false: {invocations: 30, invocationLast: 20240108,
     invocationDays: 2}
-  repo.opens.wt.config.evaluateLfsState.true: {invocations: 26, invocationLast: 20240108,
+  repo.opens.wt.config.evaluateLfsState.true: {invocations: 31, invocationLast: 20240108,
     invocationDays: 2}
-  repo.opens.wt.config.actuallyEvaluateLfsState.false: {invocations: 25, invocationLast: 20240108,
+  repo.opens.wt.config.actuallyEvaluateLfsState.false: {invocations: 30, invocationLast: 20240108,
     invocationDays: 2}
-  repo.opens.type.git: {invocations: 26, invocationLast: 20240108, invocationDays: 2}
-  repo.opens.wt.files.0: {invocations: 3, invocationLast: 20240108, invocationDays: 2}
+  repo.opens.type.git: {invocations: 31, invocationLast: 20240108, invocationDays: 2}
+  repo.opens.wt.files.0: {invocations: 4, invocationLast: 20240108, invocationDays: 2}
   repo.opens.wt.submodules.2-5: {invocations: 3, invocationLast: 20240108, invocationDays: 2}
   repo.opens.wt.config.lfsEnabled.true: {invocations: 1, invocationLast: 20240106,
     invocationDays: 1}
@@ -25,9 +25,9 @@ stats:
   action.push.jira: {invocations: 38, invocationLast: 20240108, invocationDays: 2}
   toolbar.main.action.sync: {invocations: 3, invocationLast: 20240108, invocationDays: 2}
   action.sync: {invocations: 3, invocationLast: 20240108, invocationDays: 2}
-  changesview.syntax.<unknown>: {invocations: 413, invocationLast: 20240108, invocationDays: 2}
+  changesview.syntax.<unknown>: {invocations: 429, invocationLast: 20240108, invocationDays: 2}
   action.resolveOurs: {invocations: 12, invocationLast: 20240106, invocationDays: 1}
-  action.stage: {invocations: 224, invocationLast: 20240108, invocationDays: 2}
+  action.stage: {invocations: 227, invocationLast: 20240108, invocationDays: 2}
   action.conflictSolver: {invocations: 4, invocationLast: 20240106, invocationDays: 1}
   window.conflictSolver: {invocations: 3, invocationLast: 20240106, invocationDays: 1}
   action.refresh: {invocations: 3, invocationLast: 20240108, invocationDays: 2}
@@ -51,9 +51,9 @@ stats:
   action.viewUnversioned: {invocations: 2, invocationLast: 20240106, invocationDays: 1}
   repo.opens.wt.files.1000-10000: {invocations: 3, invocationLast: 20240108, invocationDays: 2}
   action.repositoryClose: {invocations: 1, invocationLast: 20240106, invocationDays: 1}
-  action.submoduleRegister: {invocations: 6, invocationLast: 20240106, invocationDays: 1}
+  action.submoduleRegister: {invocations: 11, invocationLast: 20240108, invocationDays: 2}
   repo.opens.wt.submodules.1-2: {invocations: 1, invocationLast: 20240106, invocationDays: 1}
-  changesview.syntax.xml: {invocations: 6, invocationLast: 20240106, invocationDays: 1}
+  changesview.syntax.xml: {invocations: 7, invocationLast: 20240108, invocationDays: 2}
   changesview.syntax.properties: {invocations: 1, invocationLast: 20240106, invocationDays: 1}
   action.unstage: {invocations: 1, invocationLast: 20240106, invocationDays: 1}
   action.log: {invocations: 1, invocationLast: 20240108, invocationDays: 1}
@@ -73,4 +73,4 @@ stats:
   preferences.theme.auto: {invocations: 1, invocationLast: 20240108, invocationDays: 1}
   window.wt: {invocations: 1, invocationLast: 20240108, invocationDays: 1}
   action.branchResetTracking: {invocations: 1, invocationLast: 20240108, invocationDays: 1}
-  changesview.syntax.yaml: {invocations: 2, invocationLast: 20240108, invocationDays: 1}
+  changesview.syntax.yaml: {invocations: 7, invocationLast: 20240108, invocationDays: 1}

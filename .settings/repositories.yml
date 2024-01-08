@@ -10,7 +10,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   roots: [~\scoop\persist, ~\scoop\persist\AHK, ~\scoop\persist\Ditto, ~\scoop\persist\Microsoft\Windows\PowerShell,
-    ~\scoop\persist\Powershell, 'C:\Users\chris\scoop\persist']
+    ~\scoop\persist\Powershell, 'C:\Users\chris\scoop\persist', 'C:\Users\chris\scoop\persist\AdvancedRenamer',
+    'C:\Users\chris\scoop\persist\AHK', 'C:\Users\chris\scoop\persist\Everything',
+    'C:\Users\chris\scoop\persist\PowerShell', 'C:\Users\chris\scoop\persist\AppData\Roaming\Microsoft\Windows\PowerShell']
   rootB:\ToGit:
     databaseCleanup: {}
     log:
@@ -13437,6 +13439,16 @@ gitRootSettingsSet:
     journal: {}
   rootC:\Users\Användaren\scoop\persist\portableAppsPlatform:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704691585348}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\scoop\persist\AppData\Roaming\Microsoft\Windows\PowerShell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704712602071}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
