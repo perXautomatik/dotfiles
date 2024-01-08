@@ -12853,7 +12853,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [state, etc, merged state, loppy state]
+      commitNotesHistory: [etc, state, merged state, loppy state]
     journal: {}
   rootC:\Users\chris\scoop\persist\Everything:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704537601266}
