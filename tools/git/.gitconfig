@@ -1,0 +1,13 @@
+[credential]
+	helper = manager
+
+[user]
+	name = IrishBruse
+	email = Econn50@outlook.com
+[init]
+	defaultBranch = main
+
+[core]
+	excludefile = ~/.gitignore
+	longpaths = true
+	autocrlf = true

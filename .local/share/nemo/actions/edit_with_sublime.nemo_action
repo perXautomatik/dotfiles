@@ -1,0 +1,9 @@
+# https://github.com/linuxmint/nemo/blob/master/files/usr/share/nemo/actions/sample.nemo_action
+[Nemo Action]
+Active=true
+Name=Edit with Sublime Text
+Comment=Edit with Sublime Text
+Exec=SublimeTextMaximazed.sh "%F"
+Selection=any
+Extensions=any;
+Icon-Name=sublime-text

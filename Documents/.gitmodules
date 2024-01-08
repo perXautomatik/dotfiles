@@ -1,0 +1,22 @@
+[submodule "AppData"]
+	path = AppData
+	url = https://github.com/perXautomatik/AppData.git
+[submodule "DatagripProjects"]
+	path = DatagripProjects
+[submodule ".DataGrip2019.1/config"]
+	branch = --
+	path = .DataGrip2019.1/config
+[submodule "gitConfigAlt"]
+	path = gitConfigAlt
+	url = https://gist.github.com/perXautomatik/e01f68f13580acea470e1ae1ce680a15
+[submodule "GitConfig"]
+	path = GitConfig
+	url = https://gist.github.com/perXautomatik/e01f68f13580acea470e1ae1ce680a15
+[submodule "documents"]
+	path = documents
+[submodule "PowerShell"]
+	path = PowerShell
+	url = https://gist.github.com/a030dae32c0a6b86a8099ce04eb58586
+[submodule "WindowsPowerShell"]
+	path = WindowsPowerShell
+	url = https://github.com/perXautomatik/PowerShell

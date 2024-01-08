@@ -1,3 +1,7 @@
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+	ignore = dirty
 [submodule "Documents"]
 	path = Documents
 	url = C:\\Users\\chris\\Documents
@@ -22,9 +26,9 @@
 [submodule "source/repos/DataBindingDemo"]
 	path = source/repos/DataBindingDemo
 	url = https://github.com/microsoft/WPF-Samples.git
-[submodule "source/repos/BorÃ¥s2-DatabaserExempel"]
-	path = source/repos/BorÃ¥s2-DatabaserExempel
-	url = C:\\Users\\chris\\source\\repos\\BorÃ¥s2-DatabaserExempel
+[submodule "source/repos/Borås2-DatabaserExempel"]
+	path = source/repos/Borås2-DatabaserExempel
+	url = C:\\Users\\chris\\source\\repos\\Borås2-DatabaserExempel
 [submodule "source/repos/Boras2-DatabaserExempel"]
 	path = source/repos/Boras2-DatabaserExempel
 	url = C:\\Users\\chris\\source\\repos\\Boras2-DatabaserExempel

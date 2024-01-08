@@ -1,0 +1,21 @@
+{
+  "applied-layouts": [
+    {
+      "device": {
+        "monitor": "SAM0F9C",
+        "monitor-instance": "5\u0026370dd5e8\u00260\u0026UID41216",
+        "monitor-number": 1,
+        "serial-number": "H1AK500000",
+        "virtual-desktop": "{00000000-0000-0000-0000-000000000000}"
+      },
+      "applied-layout": {
+        "uuid": "{D51C5C38-0745-4A0A-ABB0-DFD4A18F92BD}",
+        "type": "custom",
+        "show-spacing": true,
+        "spacing": 16,
+        "zone-count": 3,
+        "sensitivity-radius": 20
+      }
+    }
+  ]
+}

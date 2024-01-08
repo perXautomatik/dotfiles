@@ -1,0 +1,6 @@
+global:
+  installs: false
+
+darwin:
+  links:
+    .zshrc: ~/.zshrc

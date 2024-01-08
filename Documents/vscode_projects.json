@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "name": "AHK",
+      "projects": [
+        {
+          "name": "GeneralAHk",
+          "description": "An awesome nested project",
+          "path": "C:/Users/chris/OneDrive/Dokument/ToGit/AhkWorkSpace"
+        }
+      ]
+    },
+    {
+      "name": "Json",
+      "projects": [
+        {
+          "name": "VscodeSettings",
+          "description": "JsonFiles",
+          "path": "C:/Users/chris/OneDrive/Dokument/ToGit/AhkWorkSpace/JsonWorkSpace"
+        }
+      ]
+    },
+    {
+      "name": "Notebook",
+      "projects": [
+        {
+          "name": "FoamNotebook",
+          "description": "Markdown",
+          "path": "C:/Users/chris/OneDrive/Dokument/ToGit/notebook-Foam"
+        }
+      ]
+    },
+    {
+      "name": "FalloutNV",
+      "projects": [
+        {
+          "name": "NVModding",
+          "description": "Markdown",
+          "path": "E:/SteamLibrary/steamapps/common/Fallout New Vegas/Data/NVSE/plugins"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "GAHK",
+      "description": "An awesome project",
+      "path": "OneDrive/Dokument/ToGit/AhkWorkSpace"
+    }
+  ],
+  "group": "Notebook"
+}

@@ -1,0 +1,23 @@
+den 22 mars 2023 - 14:43:06
+Fomm 0.13.21
+OS version: Microsoft Windows NT 6.2.9200.0
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Fomm.PackageManager.FomodBuilder.FomodFromSourceBuilder.BuildFomodFromSource(String p_strPath, NexusAPI p_nxaNexus)
+   at Fomm.PackageManager.PackageManager.AddNewFomod(String p_strPath)
+   at Fomm.PackageManager.PackageManager.addFOMODToolStripMenuItem_Click(Object sender, EventArgs e)
+   at System.Windows.Forms.ToolStripItem.RaiseEvent(Object key, EventArgs e)
+   at System.Windows.Forms.ToolStripMenuItem.OnClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.HandleClick(EventArgs e)
+   at System.Windows.Forms.ToolStripItem.FireEventInteractive(EventArgs e, ToolStripItemEventType met)
+   at System.Windows.Forms.ToolStripItem.FireEvent(EventArgs e, ToolStripItemEventType met)
+   at System.Windows.Forms.ToolStripItem.PerformClick()
+   at Fomm.Controls.SplitButton.OnClick(EventArgs e)
+   at Fomm.Controls.SplitButton.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

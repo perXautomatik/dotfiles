@@ -1,0 +1,150 @@
+{
+  "buckets": [
+    "main",
+    "sboot@https://github.com/xfournet/scoot-sboot",
+    "extras",
+    "java",
+    "jetbrains",
+    "nerd-fonts",
+    "retools@https://github.com/TheCjw/scoop-retools.git"
+  ],
+  "apps": [
+    "aria2",
+    "######## Core Scoop dependencies ########",
+    "7zip",
+    "git",
+    "innounp",
+    "lessmsi",
+    "dark",
+    "sboot/sboot",
+    "",
+    "######## General tools ########",
+    "extras/windows-terminal",
+    "extras/terminal-icons",
+    "oh-my-posh",
+    "extras/powertoys",
+    "gsudo",
+    "sboot/go-shell",
+    "brename",
+    "figlet",
+    "boxes",
+    "gow",
+    "dosbox",
+    "msys2",
+    "rdiff-backup",
+    "extras/depends",
+    "extras/cpu-z",
+    "extras/hwinfo",
+    "extras/hwmonitor",
+    "extras/sysinternals",
+    "extras/spacesniffer",
+    "extras/recuva",
+    "extras/rufus",
+    "extras/ventoy",
+    "vim",
+    "extras/hxd",
+    "extras/winmerge",
+    "extras/putty",
+    "extras/filezilla",
+    "gpg",
+    "openssl",
+    "telnet",
+    "extras/stunnel",
+    "extras/ipscan",
+    "extras/vcxsrv",
+    "extras/keepass",
+    "extras/keepass-plugin-keeagent",
+    "pdftk",
+    "ghostscript",
+    "extras/windows-iso-downloader",
+    "nerd-fonts/Cascadia-Code",
+    "nerd-fonts/CascadiaCode-NF",
+    "",
+    "######## Dev tools ########",
+    "sboot/docker-completion",
+    "cloc",
+    "graphviz",
+    "jq",
+    "extras/postman",
+    "go",
+    "java/openjdk17",
+    "groovy",
+    "maven",
+    "ant",
+    "nodejs",
+    "python",
+    "ruby",
+    "adb",
+    "redis",
+    "k6",
+    "nginx",
+    "ngrok",
+    "",
+    "######## Dev IDE & co ########",
+    "jetbrains/IntelliJ-IDEA-Ultimate-portable",
+    "jetbrains/WebStorm-portable",
+    "extras/insomnia",
+    "extras/arduino",
+    "extras/keystore-explorer",
+    "extras/wireshark",
+    "extras/googlechrome",
+    "extras/firefox",
+    "extras/firefox-esr",
+    "extras/ghidra",
+    "",
+    "######## Cloud tools ########",
+    "aws",
+    "terraform",
+    "",
+    "######## Desktop applications ########",
+    "extras/libreoffice",
+    "extras/openboard",
+    "extras/screentogif",
+    "extras/irfanview",
+    "extras/darktable",
+    "extras/paint.net",
+    "extras/inkscape",
+    "extras/vlc",
+    "extras/audacity",
+    "",
+    "######## IM apps ########",
+    "extras/slack",
+    "extras/discord",
+    "extras/signal",
+    "extras/telegram",
+    "extras/skype",
+    ""
+  ],
+  "exts": [
+    {
+      "app": "7zip",
+      "parameters": {
+        "excludedExtensions": [
+          "iso",
+          "vhd"
+        ]
+      }
+    },
+    {
+      "app": "hxd"
+    },
+    {
+      "app": "keepass"
+    },
+    {
+      "app": "keystore-explorer"
+    },
+    {
+      "app": "notepadplusplus"
+    },
+    {
+      "app": "vim"
+    },
+    {
+      "app": "windows-terminal"
+    },
+    {
+      "app": "winmerge"
+    }
+  ]
+}

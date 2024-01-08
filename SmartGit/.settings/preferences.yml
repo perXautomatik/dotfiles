@@ -1,0 +1,167 @@
+actions:
+  cleanup: {gcIntervalDays: 0}
+  commit: {missing: true, untracked: false, monospaceFont: true, messageLineLimits: true,
+    preferStaged: false, trimMessage: true}
+  compare:
+    fileComparators:
+    - filePattern: '*'
+      compareType: 0
+      externalFileCompare: {}
+    compareWithWorkingTree: false
+    showChooser: false
+  conflictSolver:
+    conflictSolvers:
+    - filePattern: '*'
+      useExternal: false
+      externalTool: {}
+    showExternalResolveDialog: true
+    swapOursTheirsOnRebase: true
+  stash: {stashAutomatically: true, includeUntrackedFiles: false}
+  initCommitMessage: initial commit
+  alwaysConfigureTracking: true
+  allowModificationOfPushedHistory: true
+  pushTags: false
+  syncPushBeforePull: true
+  refreshRenameDetection: true
+  refreshRenameDetectionUntrackedMissing: true
+  refreshRenameDetectionWarnings: true
+  refreshInspectEols: true
+  backgroundRefreshing: true
+  backgroundScan: false
+  backgroundPoll: true
+  backgroundFetchClosed: false
+  backgroundFetchOpen: true
+logSettings:
+  includeTrackedBranches: true
+  groupCommitsByBranch: true
+  loadGravatars: true
+  allowCommandsOnSpecialCommits: true
+  enableHostingProvider: true
+  allowMultipleWindowsForSameLocation: true
+  filterConfiguration:
+    patterns: []
+    regularExpressions: false
+    keys: [author, committer, id, message, ref]
+    key-author: true
+    key-committer: true
+    key-id: true
+    key-message: true
+    key-ref: true
+comparePreviewSettings: {compareType: working-tree-vs-index, selectCompareTypeAutomatically: true}
+dateFormat: {datePattern: yyyy/MM/dd, timePattern: 'HH:mm:ss', timeZone: '', showTimeForLastDays: true}
+defaultViewSettings:
+  compareSettings:
+    textSettings: {tabSize: 4, whitespaces: 2, showLineNumbers: true}
+    ignoreLineSeparators: true
+    whitespaceIgnoreType: none
+    ignoreCaseChanges: false
+    trimInnerLineChanges: true
+    unifiedScrollBarVisibleOption: true
+    innerLineComparisonType: alphanumeric
+    splitLeadingAndTrailingAdditionsAndRemovals: false
+    coalesceNearbyChangeBlocks: true
+git:
+  useSystemGitFlow: false
+  maxCount: 3
+  executable: /usr/bin/git
+  alternatives: [/bin/git, /usr/bin/git]
+hg:
+  maxCount: 3
+  alternatives: []
+ssh: {useOwnSshClient: false}
+deepGit2: {followRenames: true, extendLineToBlock: true, optimizeCreationOrigins: true,
+  ignoreWhitespaceOnlyChanges: true, showLineNumbers: true, highlightBlameChanges: false,
+  highlightOriginChanges: false, preferSimpleBlamePerspective: false, lineHistoryVisible: false}
+globalTextComponentSettings:
+  font: {family: Ubuntu Mono, size: 11}
+  colors.light: {foregroundText: 0, foregroundGutter: 9868950, foregroundWhitespace: 12632256,
+    foregroundTrailingWhitespace: 12624064, backgroundEditable: 16777215, backgroundReadOnly: 16185078,
+    backgroundGutter: 16316661, backgroundComment: 16182243, backgroundCurrentLine: 16185004,
+    backgroundCompactSeparator: 15132390, foregroundCompactSeparator: 10526880, highlightCurrentLine: true,
+    color-annotation: 8421376, color-attrib-name: 255, color-attrib-value: 32768,
+    color-comment: 8421504, color-declaration: 0, color-keyword: 128, color-literal: 255,
+    color-no-code: 0, color-plain-text: 0, color-punctuation: 0, color-source: 0,
+    color-string: 32768, color-tag: 128, color-type: 0, backgroundModified: 16763080,
+    backgroundAdded: 12513470, backgroundRemoved: 13158655, backgroundModifiedCS: 16763080,
+    backgroundAddedCS: 12513470, backgroundRemovedCS: 13158655, backgroundConflict: 16755370,
+    color-pragma: 8547840, color-invalid: 16727871, color-identifier: 0, backgroundModifiedLight: 16772589,
+    backgroundAddedLight: 15399658, backgroundRemovedLight: 15592959, backgroundConflictLight: 16770019}
+  colors.useDark: false
+  actions: {smartHome: true, homeEndToLineNotDocument: true, cursorLeftRightLimitToLine: true,
+    smartEnterAutoIndent: false, smartEnterDeleteWhitespace: true, smartEnterIgnoreEmptyLinesForIndentation: true,
+    focusNextChangeAfterTakingChange: true, tabToSpaces: false}
+  syntaxHighlightingSettings:
+    entries:
+    - {language: Basic, pattern: '*.basic, *.cbm, *.vb, *.vbs'}
+    - {language: C#, pattern: '*.cs'}
+    - {language: CSS, pattern: '*.css, *.css-kw, *.css-str'}
+    - {language: Clojure, pattern: '*.clj'}
+    - {language: Dart, pattern: '*.dart'}
+    - {language: Go, pattern: '*.go'}
+    - {language: HTML, pattern: '*.htm, *.html, *.xhtml'}
+    - {language: JSON, pattern: '*.json'}
+    - {language: Java, pattern: '*.java'}
+    - {language: Mumps, pattern: '*.mumps'}
+    - {language: PHP, pattern: '*.php, *.php3, *.php4, *.php5, *.phps, *.phtml'}
+    - {language: Pascal, pattern: '*.pas, *.pascal'}
+    - {language: Perl, pattern: '*.perl, *.pl, *.pm'}
+    - {language: Python, pattern: '*.cv, *.py, *.python, *.pyw'}
+    - {language: Ruby, pattern: '*.rb, *.ruby'}
+    - {language: Rust, pattern: '*.rc, *.rs, *.rust'}
+    - {language: SQL, pattern: '*.sql'}
+    - {language: Scala, pattern: '*.scala'}
+    - {language: Shell Script, pattern: '*.bash, *.bsh, *.csh, *.sh'}
+    - {language: VHDL '93, pattern: '*.vhd, *.vhdl'}
+    - {language: XML, pattern: '*.mxml, *.storyboard, *.xib, *.xml'}
+    - {language: ANTLR4, pattern: '*.g4'}
+    - {language: C(++), pattern: '*.c, *.cc, *.cpp, *.cxx, *.cyc, *.h, *.ino'}
+    - {language: CMake, pattern: '*.cmake'}
+    - {language: Cmd, pattern: '*.bat, *.cmd'}
+    - {language: Embedded Ruby Template, pattern: '*.erb'}
+    - {language: InnoSetup, pattern: '*.iss'}
+    - {language: JavaScript/TypeScript, pattern: '*.javascript, *.js, *.ts'}
+    - {language: Kotlin, pattern: '*.kt'}
+    - {language: Nim, pattern: '*.nim'}
+    - {language: Objective-C, pattern: '*.m'}
+    - {language: Properties, pattern: '*.properties'}
+    - {language: Swift, pattern: '*.swift'}
+    - {language: V, pattern: '*.v'}
+    - {language: Yaml, pattern: '*.yaml, *.yml'}
+  colors.dark: {color-annotation: 13092749, color-attrib-name: 9291719, color-attrib-value: 12558303,
+    color-comment: 8421504, color-declaration: 14002858, color-keyword: 10733475,
+    color-literal: 11184853, color-no-code: 0, color-plain-text: 12566463, color-punctuation: 12561045,
+    color-source: 0, color-string: 14002901, color-tag: 10274701, color-type: 11513807,
+    color-pragma: 13876905, color-invalid: 16744319, color-identifier: 12632256}
+listx: {ePP: 1610844260329, eUT: -9223372036854775808, nRT: -9223372036854775808,
+  eV: '20.2', uid: 1nhlo2qaortv, lLCT: 1633968654962}
+project: {reopenLastUsedRepositories: true, showWelcomeDialog: false, preferLogWindow: true,
+  preferLogWindow.auto: true}
+uiSettings: {useBackgroundColorInFileTable: true, fileSearchPatternType: 1, themeChanged: false,
+  theme: auto}
+vcsRecords: {lastGitUsage: 1630823079962, lastSvnUsage: 0, lastHgUsage: 0, lastReviewUsage: 0,
+  lastDgUsage: 1633961252946}
+updateCheck: {mode: download, prevCheckTime: 1634847662673, checkedBuild: 17152, upgradeInstallation: false,
+  previewAlwaysCheckForLatestBuild: false}
+proxy: {autoDetect: true, authenticate: false, port: 3128, enabled: false}
+proxyPassword: 114
+spellCheck:
+  dictionaries:
+  - {name: Portuguese (Brazilian), file: /myfiles/Programs/SpellCheckDicts/Portuguese
+      (Brazilian).dic}
+  - {name: en_US, file: '${smartgit.install}/dictionaries/en_US.dic', file.absolute: /usr/share/smartgit/dictionaries/en_US.dic}
+  personalFile: ${smartgit.settings}/my-words.dic
+  personalFile.absolute: /home/evandro/.config/smartgit/18.2/my-words.dic
+  useOnlyBestOfficial: false
+  deleted: false
+  activeDictionary: 1
+warnForMissingMasterPassword: false
+askForMasterPasswordOnStartup: false
+sendStacktraces2: false
+sendStacktracesBeta: false
+machineId: f3f90f38
+lastUsedVersion: '21.1'
+tempDirs: [/tmp/smartgit15612005444454379152]
+updateCheckDg: {prevCheckTime: 1633961254219, checkedBuild: 7006, mode: download}
+upgradedFromVersion: '20.2'
+firstUsedTime: 1569505697899
+sendUsageStats: false
