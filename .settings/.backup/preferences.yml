@@ -34,6 +34,8 @@ dateFormat: {datePattern: MM/dd/yyyy, timePattern: 'hh:mm a', showTimeForLastDay
 defaultViewSettings:
   compareSettings:
     textSettings: {whitespaces: 0}
+    whitespaceIgnoreType: ignore-all
+    ignoreCaseChanges: true
 git:
   maxCount: 3
   alternatives: ['${smartgit.install}\git\bin\git.exe', 'C:\Program Files\Git\cmd\git.exe']
@@ -115,8 +117,8 @@ globalTextComponentSettings:
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt}
 uiSettings: {theme: auto, themeChanged: false, fileSearchPatternType: 1}
-vcsRecords: {lastGitUsage: 1704697286296}
-updateCheck: {prevCheckTime: 1704623991986, checkedBuild: 19294, mode: download, upgradeInstallation: false}
+vcsRecords: {lastGitUsage: 1706714436967}
+updateCheck: {prevCheckTime: 1706714317194, checkedBuild: 19294, mode: download, upgradeInstallation: false}
 updateCheckDg: {}
 proxy: {enabled: false, autoDetect: true}
 spellCheck:
@@ -126,7 +128,7 @@ spellCheck:
   activeDictionary: 0
 lastUsedVersion: '22.1'
 firstUsedTime: 1684316673740
-tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit2558949474717975032', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4jF6B.tmp_dir1704537586']
+tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit16640701214472799061', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4jBC0F.tmp_dir1706714311']
 machineId: 41587a14
 warnForMissingMasterPassword: false
 sendStacktraces2: true

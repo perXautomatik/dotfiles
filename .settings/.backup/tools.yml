@@ -95,13 +95,13 @@ tools:
   filePattern: '*'
   confirmationMessage: -Raw -Replace "`r`n",","
 - name: RefLog with TGit
-  fileStarter: {command: 'C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe', parameters: '/command:reflog
+  fileStarter: {command: 'TortoiseGitProc.exe', parameters: '/command:reflog
       /path ${filePath}'}
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'
 - name: Graph with TGit
-  fileStarter: {command: 'C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe', parameters: '/command:revisiongraph
+  fileStarter: {command: 'TortoiseGitProc.exe', parameters: '/command:revisiongraph
       /path ${filePath}'}
   useForOpen: true
   waitUntilFinished: false
@@ -113,20 +113,19 @@ tools:
   waitUntilFinished: false
   filePattern: '*'
 - name: sync with TGit
-  fileStarter: {command: 'C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe', parameters: '/command:sync
+  fileStarter: {command: 'TortoiseGitProc.exe', parameters: '/command:sync
       /path ${filePath}'}
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'
 - name: Log with TGit
-  fileStarter: {command: 'C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe', parameters: '/command:log
+  fileStarter: {command: 'TortoiseGitProc.exe', parameters: '/command:log
       /path ${filePath}'}
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'
 - name: Commit with TGit
-  fileStarter: {command: 'C:\Program Files\TortoiseGit\bin\TortoiseGitProc.exe', parameters: '/command:commit
-      /path ${filePath}'}
+  fileStarter: {command: TortoiseGitProc.exe, parameters: '/command:commit /path ${filePath}'}
   useForOpen: true
   waitUntilFinished: false
   filePattern: '*'

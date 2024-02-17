@@ -9,12 +9,7 @@ gitRootSettingsSet:
     push: {}
     commitNotes: {}
     journal: {}
-  roots: ['C:\Users\chris\scoop\persist', 'C:\Users\chris\scoop\persist\AHK', 'C:\Users\chris\scoop\persist\AdvancedRenamer',
-    'C:\Users\chris\scoop\persist\Everything', 'C:\Users\chris\scoop\persist\PowerShell',
-    ~\scoop\persist\Microsoft\Windows\PowerShell, ~\scoop\persist\Microsoft\Windows\PowerShell\Processes\pipeline,
-    ~\Documents\PowerShell, ~\.config\powershell, ~\Documents, ~\AppData, ~\AppData\Roaming\Vortex,
-    ~\.config, ~\Documents\WindowsPowerShell, ~\scoop\persist, ~\scoop\persist\AHK,
-    ~\scoop\persist\Powershell, ~\scoop\persist\pwsh, ~\scoop\persist\Ditto, ~\scoop\persist\portableAppsPlatform]
+  roots: ['H:\Obsidian\Notebook-Foam', 'H:\Obsidian\Notebook-Foam\Notebooks']
   rootB:\ToGit:
     databaseCleanup: {}
     log:
@@ -12791,7 +12786,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\Documents\Obsidian Vault:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692969466321}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704981288748}
     log:
       rootSettings: {baseRoots: "!remote://gists\t!remote://origin\tref://HEAD\tref://refs/heads/master",
         extendedRoots: '!stashes://'}
@@ -12810,7 +12805,6 @@ gitRootSettingsSet:
         .obsidian/plugins/obsidian-git/data.json
         .obsidian/plugins/obsidian-review-notes-plugin/data.json
         .obsidian/workspace.json
-      commitNotes: etc
     journal: {}
   rootC:\Users\Användaren\Documents\Obsidian Vault\Notebooks:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692969533643}
@@ -12855,7 +12849,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [state, etc, merged state, loppy state]
+      commitNotesHistory: [etc, state, merged state, loppy state]
     journal: {}
   rootC:\Users\chris\scoop\persist\Everything:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704537601266}
@@ -12900,7 +12894,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\scoop\buckets\perXautomatik:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346671688}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706318307292}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12908,7 +12902,9 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [new to trye]
+      commitNotesHistory: ['[fixed]  tortoisegit reg files not loaded properly if
+          username contains utf8 chars', '[fixed] TortoiseGit, correctly locating
+          scritps directory', new to trye]
     journal: {}
   rootC:\Users\Användaren\scoop\buckets\okibcn_ScoopMaster:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346690963}
@@ -13410,14 +13406,15 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\scoop\persist\Powershell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704566733888}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1705395337735}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [single file commit]
     journal: {}
   rootC:\Users\Användaren\scoop\persist\pwsh:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704566774695}
@@ -13443,6 +13440,55 @@ gitRootSettingsSet:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704691585348}
     log:
       rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\scoop\persist\AppData\Roaming\Microsoft\Windows\PowerShell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704712602071}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootH:\Obsidian:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootH:\Obsidian\Notebook-Foam:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706629922262}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\t!local-tags://\t!remote://origin\t\
+          ref://HEAD", extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotes: "2023-08-25 13:49:41: ...\n\nAffected files:\n.obsidian/plugins/obsidian-review-notes-plugin/data.json\n\
+        .obsidian/workspace.json\n2023-08-25.md\nDay Planners/Day Planner-20230825.md\n\
+        project - Mirror repo towards other.md\nworkflow - script organizing.md\n\n\
+        # Conflicts:\n#\t.obsidian/plugins/obsidian-review-notes-plugin/data.json\n\
+        #\t.obsidian/workspace.json\n#\t2023-08-13.md\n\nAdded Note 2022-09-10-22-34-05.md\n\
+        \nAdded Note 2022-09-10-22-34-15.md\n\nAdded Note 2022-09-10-22-34-05.md\n\
+        \nUpdated Note 2022-08-15-11-58-25.md"
+    journal: {}
+  rootH:\Obsidian\Notebook-Foam\Notebooks:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706714382931}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
+        extendedRoots: ''}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}

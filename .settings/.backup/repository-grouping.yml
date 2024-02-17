@@ -67,12 +67,16 @@ structure:
 - {name: Documents, path: 'C:\Users\Användaren\Documents'}
 - {name: AppData, path: 'C:\Users\Användaren\AppData'}
 - {name: Vortex, path: 'C:\Users\Användaren\AppData\Roaming\Vortex'}
-recentlyUsed: ['C:\Users\Användaren\scoop\persist', 'C:\Users\Användaren\scoop\persist\Microsoft\Windows\PowerShell',
-  'C:\Users\Användaren\AppData', 'C:\Users\Användaren\Documents', 'C:\Users\Användaren\Documents\WindowsPowerShell',
+- {name: perXautomatik, path: 'C:\Users\Användaren\scoop\buckets\perXautomatik'}
+- {name: Obsidian, path: 'H:\Obsidian\Notebook-Foam'}
+recentlyUsed: ['H:\Obsidian\Notebook-Foam', 'C:\Users\Användaren\Documents\Obsidian
+    Vault', 'C:\Users\chris\scoop\persist', 'C:\Users\Användaren\scoop\buckets\perXautomatik',
+  'C:\Users\Användaren\Documents', 'C:\Users\Användaren\scoop\persist\Powershell',
+  'C:\Users\Användaren\.config\powershell', 'C:\Users\Användaren\scoop\persist', 'C:\Users\Användaren\scoop\persist\Microsoft\Windows\PowerShell',
+  'C:\Users\Användaren\AppData', 'C:\Users\Användaren\Documents\WindowsPowerShell',
   'C:\Users\Användaren\.config', 'C:\Users\Användaren\Documents\PowerShell', 'C:\Users\Användaren\AppData\Roaming\Vortex',
-  'C:\Users\Användaren\.config\powershell', 'C:\Users\chris\scoop\persist\PowerShell',
-  'C:\Users\chris\scoop\persist', 'C:\Users\Användaren', 'B:\PF\PowerShell', 'B:\Users\chris',
-  'B:\Users\chris\Documents', 'C:\Users\Användaren\Documents\Obsidian Vault', 'C:\Users\Användaren\Documents\Obsidian
+  'C:\Users\chris\scoop\persist\PowerShell', 'C:\Users\Användaren', 'B:\PF\PowerShell',
+  'B:\Users\chris', 'B:\Users\chris\Documents', 'C:\Users\Användaren\Documents\Obsidian
     Vault\Notebooks', 'B:\ToGit\Archive\ps1', 'B:\ToGit\scoopbucket-presist', 'C:\Users\CrRoot',
   'B:\PF\chris', 'B:\PF\chris\autohotkey', 'B:\PF', 'B:\PF\CSharpVisualStudio\repos',
   'B:\PF\Modding', 'B:\PF\Modding\Diablo II ressurected', 'B:\PF\RegionGotland', 'B:\PF\PowershellProjectFolder',

@@ -29,11 +29,13 @@ logSettings:
     key-id: false
     key-message: false
     key-ref: false
-comparePreviewSettings: {selectCompareTypeAutomatically: false, compareType: index-vs-head}
+comparePreviewSettings: {selectCompareTypeAutomatically: true, compareType: working-tree-vs-index}
 dateFormat: {datePattern: MM/dd/yyyy, timePattern: 'hh:mm a', showTimeForLastDays: true}
 defaultViewSettings:
   compareSettings:
     textSettings: {whitespaces: 0}
+    whitespaceIgnoreType: ignore-all
+    ignoreCaseChanges: true
 git:
   maxCount: 3
   alternatives: ['${smartgit.install}\git\bin\git.exe', 'C:\Program Files\Git\cmd\git.exe']
@@ -115,8 +117,8 @@ globalTextComponentSettings:
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt}
 uiSettings: {theme: auto, themeChanged: false, fileSearchPatternType: 1}
-vcsRecords: {lastGitUsage: 1704712898879}
-updateCheck: {prevCheckTime: 1704711235232, checkedBuild: 19294, mode: download, upgradeInstallation: false}
+vcsRecords: {lastGitUsage: 1707907194559}
+updateCheck: {prevCheckTime: 1707989765060, checkedBuild: 19294, mode: download, upgradeInstallation: false}
 updateCheckDg: {}
 proxy: {enabled: false, autoDetect: true}
 spellCheck:
@@ -126,7 +128,8 @@ spellCheck:
   activeDictionary: 0
 lastUsedVersion: '22.1'
 firstUsedTime: 1684316673740
-tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit12847985482088443881', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4jB982.tmp_dir1704711225']
+tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit6276250099555522604', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4jBDB0.tmp_dir1707565690',
+  'C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit7293414264831371847']
 machineId: 41587a14
 warnForMissingMasterPassword: false
 sendStacktraces2: true
