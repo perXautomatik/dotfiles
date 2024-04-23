@@ -6,6 +6,7 @@ structure:
     children:
     - {name: Documents, path: 'B:\Users\chris\Documents'}
     - {name: chris, path: 'B:\Users\chris'}
+    - {name: perXautomatik, path: 'B:\Users\chris\scoop\buckets\Ny mapp\perXautomatik'}
     expanded: true
   - name: SteamLibrary
     children:
@@ -69,17 +70,18 @@ structure:
 - {name: Vortex, path: 'C:\Users\Användaren\AppData\Roaming\Vortex'}
 - {name: perXautomatik, path: 'C:\Users\Användaren\scoop\buckets\perXautomatik'}
 - {name: Obsidian, path: 'H:\Obsidian\Notebook-Foam'}
-recentlyUsed: ['H:\Obsidian\Notebook-Foam', 'C:\Users\Användaren\Documents\Obsidian
-    Vault', 'C:\Users\chris\scoop\persist', 'C:\Users\Användaren\scoop\buckets\perXautomatik',
+- {name: Notes, path: 'C:\Users\Användaren\Documents\Obsidian Vault\Notes'}
+recentlyUsed: ['C:\Users\Användaren\Documents\Obsidian Vault', 'C:\Users\Användaren\Documents\WindowsPowerShell',
+  'C:\Users\Användaren', 'C:\Users\CrRoot', 'B:\Users\chris\scoop\buckets\Ny mapp\perXautomatik',
+  'H:\Obsidian\Notebook-Foam', 'C:\Users\chris\scoop\persist', 'C:\Users\Användaren\scoop\buckets\perXautomatik',
   'C:\Users\Användaren\Documents', 'C:\Users\Användaren\scoop\persist\Powershell',
   'C:\Users\Användaren\.config\powershell', 'C:\Users\Användaren\scoop\persist', 'C:\Users\Användaren\scoop\persist\Microsoft\Windows\PowerShell',
-  'C:\Users\Användaren\AppData', 'C:\Users\Användaren\Documents\WindowsPowerShell',
-  'C:\Users\Användaren\.config', 'C:\Users\Användaren\Documents\PowerShell', 'C:\Users\Användaren\AppData\Roaming\Vortex',
-  'C:\Users\chris\scoop\persist\PowerShell', 'C:\Users\Användaren', 'B:\PF\PowerShell',
-  'B:\Users\chris', 'B:\Users\chris\Documents', 'C:\Users\Användaren\Documents\Obsidian
-    Vault\Notebooks', 'B:\ToGit\Archive\ps1', 'B:\ToGit\scoopbucket-presist', 'C:\Users\CrRoot',
-  'B:\PF\chris', 'B:\PF\chris\autohotkey', 'B:\PF', 'B:\PF\CSharpVisualStudio\repos',
-  'B:\PF\Modding', 'B:\PF\Modding\Diablo II ressurected', 'B:\PF\RegionGotland', 'B:\PF\PowershellProjectFolder',
+  'C:\Users\Användaren\AppData', 'C:\Users\Användaren\.config', 'C:\Users\Användaren\Documents\PowerShell',
+  'C:\Users\Användaren\AppData\Roaming\Vortex', 'C:\Users\chris\scoop\persist\PowerShell',
+  'B:\PF\PowerShell', 'B:\Users\chris', 'B:\Users\chris\Documents', 'C:\Users\Användaren\Documents\Obsidian
+    Vault\Notebooks', 'B:\ToGit\Archive\ps1', 'B:\ToGit\scoopbucket-presist', 'B:\PF\chris',
+  'B:\PF\chris\autohotkey', 'B:\PF', 'B:\PF\CSharpVisualStudio\repos', 'B:\PF\Modding',
+  'B:\PF\Modding\Diablo II ressurected', 'B:\PF\RegionGotland', 'B:\PF\PowershellProjectFolder',
   'C:\ProgramData\scoop\buckets', 'B:\GitPs1Module', 'B:\ToGit\IoT\TIG-stack', 'B:\ToGit\IoT',
   'B:\PF\NewWindows3', 'B:\PF\NewWindows2', 'B:\PF\Archive', 'B:\Filtered', 'B:\New
     folder (2)\General-ProjectFolders', 'B:\ToGit', 'G:\ToGit\projectFolderBare\scoopbucket-presist',

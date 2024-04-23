@@ -1,12 +1,12 @@
 bounds:
-- {key: project, x: 134, y: 100, width: 1024, height: 621}
+- {key: project, x: 584, y: 406, width: 1214, height: 911}
 - {key: welcome}
 - {key: preferences, x: -67, y: 49, width: 1165, height: 498}
 - {key: compare, x: 38, y: 174, width: 1440, height: 866, state: 1}
 - {key: output, x: -166, y: 306, width: 1168, height: 788}
 - {key: git.commit, width: 1245, height: 514, x: -72, y: -3}
 - {key: git.commit.selectFromLog, width: 640, height: 395}
-- {key: log, x: -180, y: 66, width: 1378, height: 714}
+- {key: log, x: -276, y: 215, width: 1378, height: 714}
 - {key: editor, x: 0, y: 0, width: 1386, height: 788}
 - {key: git.indexEditor, x: 240, y: 58, width: 1440, height: 866, state: 1}
 - {key: git.discard, width: 500, height: 654, x: 0, y: 172}
@@ -53,9 +53,9 @@ columns:
     - {id: Relative Path, width: 500, width2x: 0}
     sortOrders:
     - {id: State, reverse: false}
-    - {id: Ext., reverse: true}
-    - {id: Relative Directory, reverse: false}
+    - {id: Relative Directory, reverse: true}
     - {id: Name, reverse: false}
+    - {id: Ext., reverse: true}
     - {id: Size, reverse: false}
     - {id: Last Changed On, reverse: true}
   project.files.git.index:
@@ -153,15 +153,15 @@ confirmations: {exit.showConfirmation: true, git.push: true, git.switchBranch.co
   compare.binaryEqual: true, conflictSolver.showConflictWarning: true}
 repositoriesToReopen:
 - window: wt
-  repositories: ['H:\Obsidian\Notebook-Foam']
+  repositories: ['C:\Users\Användaren\Documents\Obsidian Vault']
 project.files.git.separateWtIndex: true
-gitProjectLayout.main: (([+198x412:directories ][+198x76:branches ])((([+807x225:files
-  ][+807x161:changes ])[-3x1:message ])([+807x99:outgoing ][-3x1:output ])))
+gitProjectLayout.main: (([+494x657:directories ][+494x121:branches ])((([+701x445:files
+  ][+701x171:changes ])[-3x1:message ])([+701x159:outgoing ][-3x1:output ])))
 log.wtIndex.onDemand: true
 gitProjectLayout.mainIsdefault: true
 gitProjectLayout.review: ([+2x1:directories ][+7x1:files ][+3x1:message ])[+10x3:changes
   ]([-1x1:branches ][-3x1:outgoing ][-3x1:output ])
-lastRepositoryPath: H:\Obsidian\Notebook-Foam
+lastRepositoryPath: B:\ProgramData\scoop\persist\Documents\WindowsPowerShell
 commit.expandOptions: true
 log.files.git.separateWtIndex: true
 gitLogRootLayout.main: (([+261x290:repositories ][+261x291:branches ])(([+401x420:graph

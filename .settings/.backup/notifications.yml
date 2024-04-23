@@ -22,7 +22,8 @@ readNotifications: [hosting-provider-could-be-configured-github-null, needsResta
   'repository-model-problem-b:/pf/chris/autohotkey/script/fork/windowtoforeground-null',
   'repository-model-problem-b:/pf/chris/scoop/apps/scoop/current-null', 'repository-model-problem-c:/users/användaren/documents/powershell-null',
   'repository-model-problem-c:/users/användaren/.config-null', 'repository-model-problem-c:/users/användaren/scoop/persist-null',
-  update-fetch-23.1.1-success]
+  update-fetch-23.1.1-success, 'repository-model-problem-b:/users/chris/scoop/buckets/ny
+    mapp/perxautomatik-null', 'repository-model-problem-c:/users/användaren/documents/windowspowershell-null']
 dontPublishNotifications: ['repository-git-core-ignorecase-mismatch-b:/togit/project
     shelf/archive/sql_db/ffx-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
     shelf/archive/regiongotland/utskicksstruktur/brev-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project

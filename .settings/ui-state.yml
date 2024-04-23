@@ -1,5 +1,5 @@
 bounds:
-- {key: project, x: -7, y: 101, width: 782, height: 621}
+- {key: project, x: 113, y: 93, width: 1214, height: 911, state: 1}
 - {key: welcome}
 - {key: preferences, x: -67, y: 49, width: 1165, height: 498}
 - {key: compare, x: 38, y: 174, width: 1440, height: 866, state: 1}
@@ -53,9 +53,9 @@ columns:
     - {id: Relative Path, width: 500, width2x: 0}
     sortOrders:
     - {id: State, reverse: false}
-    - {id: Ext., reverse: true}
-    - {id: Relative Directory, reverse: false}
+    - {id: Relative Directory, reverse: true}
     - {id: Name, reverse: false}
+    - {id: Ext., reverse: true}
     - {id: Size, reverse: false}
     - {id: Last Changed On, reverse: true}
   project.files.git.index:
@@ -70,8 +70,8 @@ columns:
     - {id: Relative Directory, width: 723, width2x: 0}
     - {id: Renamed From, width: 481, width2x: 0}
     sortOrders:
+    - {id: Relative Path, reverse: true}
     - {id: Ext., reverse: true}
-    - {id: Relative Path, reverse: false}
     - {id: State, reverse: false}
     - {id: Name, reverse: true}
     - {id: Relative Directory, reverse: false}
@@ -144,7 +144,7 @@ columns:
     - {id: Name, reverse: false}
     - {id: Relative Directory, reverse: false}
 gitViewFileFilter: {viewRecursive: true, viewFromSubmodules: true, viewIgnoredFiles: true,
-  viewRenameSources: true, viewSkipped: true, viewUnversionedFiles: true, viewUnchangedFiles: false,
+  viewRenameSources: true, viewSkipped: true, viewUnversionedFiles: true, viewUnchangedFiles: true,
   viewUnchangedAssumed: false}
 deepGitUiConfiguration: {}
 confirmations: {exit.showConfirmation: true, git.push: true, git.switchBranch.confirmation: true,
@@ -153,15 +153,15 @@ confirmations: {exit.showConfirmation: true, git.push: true, git.switchBranch.co
   compare.binaryEqual: true, conflictSolver.showConflictWarning: true}
 repositoriesToReopen:
 - window: wt
-  repositories: ['C:\Users\Användaren\Documents\WindowsPowerShell']
+  repositories: ['C:\Users\chris\Documents\Obsidian Vault']
 project.files.git.separateWtIndex: true
-gitProjectLayout.main: (([+198x412:directories ][+198x76:branches ])((([+565x225:files
-  ][+565x161:changes ])[-3x1:message ])([+565x99:outgoing ][-3x1:output ])))
+gitProjectLayout.main: (([+754x673:directories ][+754x250:branches ])((([+1070x528:files
+  ][+1070x203:changes ])[-3x1:message ])([+1070x189:outgoing ][-3x1:output ])))
 log.wtIndex.onDemand: true
 gitProjectLayout.mainIsdefault: true
 gitProjectLayout.review: ([+2x1:directories ][+7x1:files ][+3x1:message ])[+10x3:changes
   ]([-1x1:branches ][-3x1:outgoing ][-3x1:output ])
-lastRepositoryPath: C:\Users\Användaren\Documents\WindowsPowerShell
+lastRepositoryPath: C:\Users\chris\Documents\Obsidian Vault
 commit.expandOptions: true
 log.files.git.separateWtIndex: true
 gitLogRootLayout.main: (([+261x290:repositories ][+261x291:branches ])(([+401x420:graph

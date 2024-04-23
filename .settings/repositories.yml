@@ -9,8 +9,10 @@ gitRootSettingsSet:
     push: {}
     commitNotes: {}
     journal: {}
-  roots: ['H:\Obsidian\Notebook-Foam', 'B:\Users\chris\scoop\buckets\Ny mapp\perXautomatik',
-    ~\Documents\WindowsPowerShell]
+  roots: ['C:\Users\chris\Documents\Obsidian Vault\01_inbox', 'C:\Users\chris\Documents\Obsidian
+      Vault\_attachments', 'C:\Users\chris\Documents\Obsidian Vault', 'C:\Users\chris\Documents\Obsidian
+      Vault\Day Planners', 'C:\Users\chris\Documents\Obsidian Vault\Notes', 'C:\Users\chris\Documents\Obsidian
+      Vault\Workspaces']
   rootB:\ToGit:
     databaseCleanup: {}
     log:
@@ -12787,7 +12789,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\Documents\Obsidian Vault:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704981288748}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711129142027}
     log:
       rootSettings: {baseRoots: "!remote://gists\t!remote://origin\tref://HEAD\tref://refs/heads/master",
         extendedRoots: '!stashes://'}
@@ -12797,7 +12799,9 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory:
+      - Day planners folder
       - etc
+      - Possible dupes
       - after restoring
       - |-
         2023-08-25 13:56:14: ...
@@ -12863,7 +12867,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346429163}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775097936}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12874,7 +12878,7 @@ gitRootSettingsSet:
       commitNotesHistory: [aou, toRead, from documents branch, tió read, n submodules]
     journal: {}
   rootC:\Users\Användaren\AppData:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704551223755}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775097992}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12885,7 +12889,7 @@ gitRootSettingsSet:
       commitNotesHistory: [etc, state]
     journal: {}
   rootC:\Users\Användaren\GitConfig:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346584808}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775792721}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12895,7 +12899,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\scoop\buckets\perXautomatik:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706318307292}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775561685}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12908,7 +12912,7 @@ gitRootSettingsSet:
           scritps directory', new to trye]
     journal: {}
   rootC:\Users\Användaren\scoop\buckets\okibcn_ScoopMaster:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346690963}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775561728}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12918,7 +12922,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\scoop\buckets\nonportable:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346709666}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775561603}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12928,7 +12932,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\scoop\buckets\kkzzhizhou_scoop-apps:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346725684}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775558062}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12938,7 +12942,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\scoop\buckets\games:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1701346740832}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775531444}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -12948,7 +12952,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\Documents:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704552670888}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775792880}
     log:
       rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
         extendedRoots: ''}
@@ -13320,7 +13324,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\.config:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704555286413}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775792777}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -13397,7 +13401,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Användaren\Documents\WindowsPowerShell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707895245318}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710774986409}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -13405,18 +13409,19 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: ['could a pester script be written to test bot compare-gitlog
-          and show-gitlog?', can the compare-gitlog function be modified to instead
-          use git own compare strategy, 'with help of this function "show-gitlog"
-          can another function be written that takes filename and commit sha as paramter,
-          the function then gets the content of the file by filename at commit time,
-          and compares it to all ressults in show-git log, and returns the "removed-add-modified"
-          statistics of each', 'can you modify the function to return a psobject containg
-          fields such as hash, and filecontent', 'can you rewrite this a function
-          with parameters / parameter validation / parameter description ;  with error
-          checking and start,process & end block', 'can you help me with a script
-          that list all commits that creates adds or modifes a specific file name,
-          and prints the actual file content at that commit to console']
+      commitNotesHistory: [etc, scripts Submodule, 'could a pester script be written
+          to test bot compare-gitlog and show-gitlog?', can the compare-gitlog function
+          be modified to instead use git own compare strategy, 'with help of this
+          function "show-gitlog" can another function be written that takes filename
+          and commit sha as paramter, the function then gets the content of the file
+          by filename at commit time, and compares it to all ressults in show-git
+          log, and returns the "removed-add-modified" statistics of each', 'can you
+          modify the function to return a psobject containg fields such as hash, and
+          filecontent', 'can you rewrite this a function with parameters / parameter
+          validation / parameter description ;  with error checking and start,process
+          & end block', 'can you help me with a script that list all commits that
+          creates adds or modifes a specific file name, and prints the actual file
+          content at that commit to console']
     journal: {}
   rootC:\Users\Användaren\scoop\persist\Powershell:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1705395337735}
@@ -13513,6 +13518,187 @@ gitRootSettingsSet:
     log:
       rootSettings: {baseRoots: "!local-branches://\t!local-tags://\t!remote://origin\t\
           ref://HEAD", extendedRoots: ''}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\Documents\WindowsPowerShell\Scripts:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775006692}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\.config\windowsPowerShell:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\scoop\buckets\main:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710775792823}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\Documents\Obsidian Vault\Notes:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711129142090}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\Documents\Obsidian Vault\.obsidian:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711294597739}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\Documents\Obsidian Vault\01_inbox:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711294603559}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\Documents\Obsidian Vault\_attachments:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711294608553}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\Användaren\Documents\Obsidian Vault\Workspaces:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711294613809}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\Documents\Obsidian Vault\01_inbox:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711368349852}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\Documents\Obsidian Vault\_attachments:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711368995078}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {commitNotes: Possible dupes}
+    journal: {}
+  rootC:\Users\chris\Documents\Obsidian Vault:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711374101676}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - renamed
+      - |-
+        ...: 2024-03-25 15:05:02
+
+        Affected files:
+        2022-07-14-16-00-47.md
+        The Role of Emotion and Debate in Democracy..md
+        aw-consume-git-journal.md
+        aw-watcher.md
+        bookmark-analysis.md
+        brev-till-medbom.md
+        brev-till-uu.md
+        centralized-repo-journal.md
+        contributing-to-fop-doc.md
+        conventions.md
+        etc.md
+        fallout-new-vegas-syringe.md
+        fnv-xedit.md
+        groups.md
+        journal/2021-07-24.md
+        journal/journal.md
+        jumplist.md
+        legal-information.md
+        mail-draft.md
+        mangdlara-notes.md
+        mod-planning.md
+        morrowind-mod.md
+        neurons-and-delision.md
+        note-properties.md
+        politics.md
+        power-shell-cache.md
+        power-shell-ise-expansion.md
+        records.md
+        tags-and-tag-explorer.md
+        to-find.md
+        tree-structures-for-information-storage.md
+        ttw-crafting-modding.md
+        ttw-total-conversion.md
+        vortex-profiles.md
+        wisdom.md
+    journal: {}
+  rootC:\Users\chris\Documents\Obsidian Vault\Day Planners:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711374666120}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\Documents\Obsidian Vault\Notes:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711375205111}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\chris\Documents\Obsidian Vault\Workspaces:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1711374825272}
+    log:
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}

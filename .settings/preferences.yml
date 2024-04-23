@@ -117,8 +117,8 @@ globalTextComponentSettings:
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt}
 uiSettings: {theme: auto, themeChanged: false, fileSearchPatternType: 1}
-vcsRecords: {lastGitUsage: 1707907194559}
-updateCheck: {prevCheckTime: 1707989765060, checkedBuild: 19294, mode: download, upgradeInstallation: false}
+vcsRecords: {lastGitUsage: 1711455903812}
+updateCheck: {prevCheckTime: 1711368336467, checkedBuild: 19294, mode: download, upgradeInstallation: false}
 updateCheckDg: {}
 proxy: {enabled: false, autoDetect: true}
 spellCheck:
@@ -128,8 +128,7 @@ spellCheck:
   activeDictionary: 0
 lastUsedVersion: '22.1'
 firstUsedTime: 1684316673740
-tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit6276250099555522604', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4jBDB0.tmp_dir1707565690',
-  'C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit7293414264831371847']
+tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit7945675602986532481', 'C:\Users\ANVNDA~1\AppData\Local\Temp\e4j75A5.tmp_dir1711368333']
 machineId: 41587a14
 warnForMissingMasterPassword: false
 sendStacktraces2: true
