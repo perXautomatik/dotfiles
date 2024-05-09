@@ -1,41 +1,50 @@
-header: {started: 1710774985095, uid: 3OVVOEten4s, licenseType: foundation, build: 19294,
-  os: windows+10, osv: '10.0', transferred: 1710774985095}
+header: {started: 1710174890599, uid: 3OVVOEten4s, licenseType: foundation, build: 19285,
+  os: windows+10, osv: '10.0', transferred: 1710174890599}
 stats:
-  repo.opens.wt: {invocations: 20, invocationLast: 20240324, invocationDays: 3}
-  repo.opens.wt.files.0-1000: {invocations: 10, invocationLast: 20240324, invocationDays: 3}
-  repo.opens.wt.submodules.0: {invocations: 18, invocationLast: 20240324, invocationDays: 3}
-  repo.opens.wt.config: {invocations: 20, invocationLast: 20240324, invocationDays: 3}
-  repo.opens.wt.config.ignoreCase.true: {invocations: 20, invocationLast: 20240324,
+  repo.opens.wt: {invocations: 5, invocationLast: 20240313, invocationDays: 3}
+  repo.opens.wt.files.0-1000: {invocations: 5, invocationLast: 20240313, invocationDays: 3}
+  repo.opens.wt.submodules.0: {invocations: 5, invocationLast: 20240313, invocationDays: 3}
+  repo.opens.wt.config: {invocations: 5, invocationLast: 20240313, invocationDays: 3}
+  repo.opens.wt.config.ignoreCase.true: {invocations: 5, invocationLast: 20240313,
     invocationDays: 3}
-  repo.opens.wt.config.lfsEnabled.false: {invocations: 20, invocationLast: 20240324,
+  repo.opens.wt.config.lfsEnabled.false: {invocations: 5, invocationLast: 20240313,
     invocationDays: 3}
-  repo.opens.wt.config.evaluateLfsState.true: {invocations: 20, invocationLast: 20240324,
+  repo.opens.wt.config.evaluateLfsState.true: {invocations: 5, invocationLast: 20240313,
     invocationDays: 3}
-  repo.opens.wt.config.actuallyEvaluateLfsState.false: {invocations: 20, invocationLast: 20240324,
+  repo.opens.wt.config.actuallyEvaluateLfsState.false: {invocations: 5, invocationLast: 20240313,
     invocationDays: 3}
-  repo.opens.type.git: {invocations: 20, invocationLast: 20240324, invocationDays: 3}
-  action.submoduleRegister: {invocations: 8, invocationLast: 20240324, invocationDays: 3}
-  repo.opens.wt.files.1000-10000: {invocations: 2, invocationLast: 20240318, invocationDays: 1}
-  changesview.syntax.<unknown>: {invocations: 28, invocationLast: 20240324, invocationDays: 4}
-  toolbar.main.action.commit: {invocations: 6, invocationLast: 20240324, invocationDays: 4}
-  action.commit: {invocations: 7, invocationLast: 20240324, invocationDays: 4}
-  repo.opens.wt.submodules.1-2: {invocations: 2, invocationLast: 20240322, invocationDays: 2}
-  changesview.syntax.json: {invocations: 2, invocationLast: 20240323, invocationDays: 2}
-  action.refresh: {invocations: 12, invocationLast: 20240324, invocationDays: 3}
-  action.viewFromSubmodules: {invocations: 2, invocationLast: 20240318, invocationDays: 1}
-  repo.opens.wt.files.0: {invocations: 7, invocationLast: 20240318, invocationDays: 1}
-  repo.opens.wt.files.10000-50000: {invocations: 1, invocationLast: 20240318, invocationDays: 1}
-  action.viewIgnored: {invocations: 1, invocationLast: 20240318, invocationDays: 1}
-  changesview.syntax.xml: {invocations: 4, invocationLast: 20240324, invocationDays: 2}
-  started: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  system.os: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  system.os.name.windows+10: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  system.os.version.windows+10/10.0: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  system.java.version.17.0.2: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  i18n.locale.<null>: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  preferences.mainWindow.wt: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  preferences.theme.auto: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  window.wt: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
-  action.branchContinue: {invocations: 2, invocationLast: 20240322, invocationDays: 1}
-  action.stage: {invocations: 8, invocationLast: 20240324, invocationDays: 3}
-  action.branchAbort: {invocations: 1, invocationLast: 20240322, invocationDays: 1}
+  repo.opens.type.git: {invocations: 5, invocationLast: 20240313, invocationDays: 3}
+  changesview.syntax.c#: {invocations: 167, invocationLast: 20240313, invocationDays: 3}
+  action.assume-unchanged-toggle: {invocations: 8, invocationLast: 20240313, invocationDays: 3}
+  toolbar.main.action.commit: {invocations: 9, invocationLast: 20240313, invocationDays: 3}
+  action.commit: {invocations: 9, invocationLast: 20240313, invocationDays: 3}
+  changesview.syntax.<unknown>: {invocations: 48, invocationLast: 20240312, invocationDays: 2}
+  action.refresh: {invocations: 1, invocationLast: 20240311, invocationDays: 1}
+  changesview.syntax.xml: {invocations: 4, invocationLast: 20240312, invocationDays: 1}
+  changesview.syntax.json: {invocations: 2, invocationLast: 20240312, invocationDays: 1}
+  action.stage: {invocations: 10, invocationLast: 20240312, invocationDays: 1}
+  action.logRepository: {invocations: 2, invocationLast: 20240312, invocationDays: 1}
+  log.perspective.review: {invocations: 3, invocationLast: 20240313, invocationDays: 2}
+  window.log: {invocations: 3, invocationLast: 20240313, invocationDays: 2}
+  github.refresh: {invocations: 143, invocationLast: 20240313, invocationDays: 2}
+  action.delete: {invocations: 2, invocationLast: 20240312, invocationDays: 1}
+  action.splitCommit: {invocations: 8, invocationLast: 20240312, invocationDays: 1}
+  action.splitCommit.log.split: {invocations: 8, invocationLast: 20240312, invocationDays: 1}
+  action.unstage: {invocations: 8, invocationLast: 20240312, invocationDays: 1}
+  action.commit.view.log: {invocations: 16, invocationLast: 20240312, invocationDays: 1}
+  action.branchContinue: {invocations: 7, invocationLast: 20240312, invocationDays: 1}
+  action.branchAbort: {invocations: 1, invocationLast: 20240312, invocationDays: 1}
+  action.modifyCommit: {invocations: 1, invocationLast: 20240312, invocationDays: 1}
+  action.annotate: {invocations: 1, invocationLast: 20240312, invocationDays: 1}
+  window.blame: {invocations: 1, invocationLast: 20240312, invocationDays: 1}
+  action.investigate: {invocations: 1, invocationLast: 20240312, invocationDays: 1}
+  window.investigate: {invocations: 1, invocationLast: 20240312, invocationDays: 1}
+  started: {invocations: 2, invocationLast: 20240315, invocationDays: 2}
+  system.os: {invocations: 2, invocationLast: 20240315, invocationDays: 2}
+  system.os.name.windows+10: {invocations: 2, invocationLast: 20240315, invocationDays: 2}
+  system.os.version.windows+10/10.0: {invocations: 2, invocationLast: 20240315, invocationDays: 2}
+  system.java.version.17.0.2: {invocations: 2, invocationLast: 20240315, invocationDays: 2}
+  i18n.locale.<null>: {invocations: 2, invocationLast: 20240315, invocationDays: 2}
+  preferences.mainWindow.wt: {invocations: 1, invocationLast: 20240313, invocationDays: 1}
+  preferences.theme.auto: {invocations: 1, invocationLast: 20240313, invocationDays: 1}
+  window.wt: {invocations: 1, invocationLast: 20240313, invocationDays: 1}
