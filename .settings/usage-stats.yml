@@ -1,0 +1,42 @@
+header: {started: 1714929276810, uid: 3OVVOEten4s, licenseType: foundation, build: 20195,
+  os: windows+10, osv: '10.0', transferred: 1714929276810}
+stats:
+  repo.opens.wt: {invocations: 2, invocationLast: 20240509, invocationDays: 2}
+  repo.opens.wt.files.0-1000: {invocations: 1, invocationLast: 20240505, invocationDays: 1}
+  repo.opens.wt.submodules.0: {invocations: 2, invocationLast: 20240509, invocationDays: 2}
+  repo.opens.wt.config: {invocations: 2, invocationLast: 20240509, invocationDays: 2}
+  repo.opens.wt.config.ignoreCase.true: {invocations: 2, invocationLast: 20240509,
+    invocationDays: 2}
+  repo.opens.wt.config.lfsEnabled.false: {invocations: 2, invocationLast: 20240509,
+    invocationDays: 2}
+  repo.opens.wt.config.evaluateLfsState.true: {invocations: 2, invocationLast: 20240509,
+    invocationDays: 2}
+  repo.opens.wt.config.actuallyEvaluateLfsState.false: {invocations: 2, invocationLast: 20240509,
+    invocationDays: 2}
+  repo.opens.type.git: {invocations: 2, invocationLast: 20240509, invocationDays: 2}
+  action.viewIgnored: {invocations: 1, invocationLast: 20240505, invocationDays: 1}
+  action.viewUnchanged: {invocations: 1, invocationLast: 20240505, invocationDays: 1}
+  changesview.syntax.<unknown>: {invocations: 18, invocationLast: 20240509, invocationDays: 2}
+  action.assume-unchanged-toggle: {invocations: 7, invocationLast: 20240509, invocationDays: 2}
+  toolbar.main.action.commit: {invocations: 2, invocationLast: 20240505, invocationDays: 1}
+  action.commit: {invocations: 2, invocationLast: 20240505, invocationDays: 1}
+  provider.configuration.github: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  started: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  system.os: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  system.os.name.windows+10: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  system.os.version.windows+10/10.0: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  system.java.version.17.0.5: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  system.vmType.kind.none.regular: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  system.vmType.board.Gigabyte Technology Co., Ltd.: {invocations: 1, invocationLast: 20240509,
+    invocationDays: 1}
+  i18n.locale.<null>: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  core.git.impl.builtin: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  system.settings.nonDefaultLocation: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  system.theme.light: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  preferences.mainWindow.wt: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  preferences.theme.auto: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  window.wt: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  repo.opens.wt.files.0: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  action.viewUnchangedAssumed: {invocations: 1, invocationLast: 20240509, invocationDays: 1}
+  changesview.syntax.yaml: {invocations: 7, invocationLast: 20240509, invocationDays: 1}
+  action.stage: {invocations: 4, invocationLast: 20240509, invocationDays: 1}
