@@ -1,0 +1,1092 @@
+{
+   ".header" : {
+      "creator" : "Keypirinha v2.26 (e037f62)",
+      "creator_url" : "http://keypirinha.com/",
+      "format" : 102,
+      "modified" : "2024-05-09T10:09:47+0200",
+      "type" : "history"
+   },
+   "history" : [
+      {
+         "action" : null,
+         "item" : 15350662443713887324,
+         "label" : "Opera GX",
+         "time" : "2024-04-03T10:36:31+0200"
+      },
+      {
+         "action" : null,
+         "item" : 728266441804329349,
+         "label" : "Everything",
+         "time" : "2024-04-07T18:47:05+0200"
+      },
+      {
+         "action" : null,
+         "item" : 8999127826094402544,
+         "label" : "bcomp.exe",
+         "time" : "2024-04-07T18:48:34+0200"
+      },
+      {
+         "action" : null,
+         "item" : 728266441804329349,
+         "label" : "Everything",
+         "time" : "2024-04-08T17:07:53+0200"
+      },
+      {
+         "action" : null,
+         "item" : 6366397779148956027,
+         "label" : "Obsidian",
+         "time" : "2024-04-09T14:29:54+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2722599003793383048,
+         "label" : "irfanview.exe",
+         "time" : "2024-04-10T07:35:26+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-10T10:50:08+0200"
+      },
+      {
+         "action" : null,
+         "item" : 6366397779148956027,
+         "label" : "Obsidian",
+         "time" : "2024-04-11T08:48:54+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-12T05:10:03+0200"
+      },
+      {
+         "action" : null,
+         "item" : 8999127826094402544,
+         "label" : "bcomp.exe",
+         "time" : "2024-04-12T11:46:07+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9291947448656209962,
+         "label" : "IrfanView",
+         "time" : "2024-04-12T16:11:32+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9291947448656209962,
+         "label" : "IrfanView",
+         "time" : "2024-04-12T16:15:45+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9291947448656209962,
+         "label" : "IrfanView",
+         "time" : "2024-04-12T16:36:41+0200"
+      },
+      {
+         "action" : null,
+         "item" : 7131144973373612026,
+         "label" : "gitkraken.exe",
+         "time" : "2024-04-12T20:11:37+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13377936132290424049,
+         "label" : "arenc.exe",
+         "time" : "2024-04-15T10:19:51+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9291947448656209962,
+         "label" : "IrfanView",
+         "time" : "2024-04-15T10:25:15+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-15T10:36:22+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13377936132290424049,
+         "label" : "arenc.exe",
+         "time" : "2024-04-15T12:01:43+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13377936132290424049,
+         "label" : "arenc.exe",
+         "time" : "2024-04-15T12:10:56+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13377936132290424049,
+         "label" : "arenc.exe",
+         "time" : "2024-04-15T12:15:56+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-15T13:42:29+0200"
+      },
+      {
+         "action" : null,
+         "item" : 12387420564152113494,
+         "label" : "dupeGuru",
+         "time" : "2024-04-15T14:10:50+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-15T15:10:50+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-15T18:11:40+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-15T19:25:40+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-15T20:53:02+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-16T10:48:08+0200"
+      },
+      {
+         "action" : null,
+         "item" : 12387420564152113494,
+         "label" : "dupeGuru",
+         "time" : "2024-04-16T12:46:36+0200"
+      },
+      {
+         "action" : null,
+         "item" : 12387420564152113494,
+         "label" : "dupeGuru",
+         "time" : "2024-04-16T13:14:44+0200"
+      },
+      {
+         "action" : null,
+         "item" : 12387420564152113494,
+         "label" : "dupeGuru",
+         "time" : "2024-04-16T13:22:19+0200"
+      },
+      {
+         "action" : null,
+         "item" : 12387420564152113494,
+         "label" : "dupeGuru",
+         "time" : "2024-04-16T15:15:21+0200"
+      },
+      {
+         "action" : null,
+         "item" : 728266441804329349,
+         "label" : "Everything",
+         "time" : "2024-04-17T13:36:33+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5763140808209153922,
+         "label" : "Everything",
+         "time" : "2024-04-17T13:37:30+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5763140808209153922,
+         "label" : "Everything",
+         "time" : "2024-04-17T15:02:29+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5763140808209153922,
+         "label" : "Everything",
+         "time" : "2024-04-17T15:41:53+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5763140808209153922,
+         "label" : "Everything",
+         "time" : "2024-04-17T17:16:21+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5763140808209153922,
+         "label" : "Everything",
+         "time" : "2024-04-17T17:32:17+0200"
+      },
+      {
+         "action" : null,
+         "item" : 12356408883507033385,
+         "label" : "Snappy Driver Installer Origin",
+         "time" : "2024-04-18T08:46:13+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13626359305618572294,
+         "label" : "SmartGit",
+         "time" : "2024-04-18T15:02:23+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13626359305618572294,
+         "label" : "SmartGit",
+         "time" : "2024-04-18T18:22:34+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-19T13:27:02+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13626359305618572294,
+         "label" : "SmartGit",
+         "time" : "2024-04-19T15:56:51+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9110715241122712269,
+         "label" : "Beyond Compare 4",
+         "time" : "2024-04-19T17:58:01+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-21T21:34:41+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-22T03:34:23+0200"
+      },
+      {
+         "action" : null,
+         "item" : 5556174594403292877,
+         "label" : "digikam.exe",
+         "time" : "2024-04-22T03:35:45+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2588231827233533498,
+         "label" : "Discord",
+         "time" : "2024-04-23T12:30:20+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16445804691437282960,
+         "label" : "VSCodium",
+         "time" : "2024-04-24T19:19:37+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16445804691437282960,
+         "label" : "VSCodium",
+         "time" : "2024-04-25T03:27:55+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13626359305618572294,
+         "label" : "SmartGit",
+         "time" : "2024-04-25T05:20:30+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-25T06:41:36+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2588231827233533498,
+         "label" : "Discord",
+         "time" : "2024-04-25T13:48:50+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2588231827233533498,
+         "label" : "Discord",
+         "time" : "2024-04-26T03:38:38+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T04:53:14+0200"
+      },
+      {
+         "action" : null,
+         "item" : 6336517065872787180,
+         "label" : "HandBrake",
+         "time" : "2024-04-26T05:45:18+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T05:59:01+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T07:43:52+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T07:55:11+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T07:56:39+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T07:58:39+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T08:00:16+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T08:03:33+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T08:49:18+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T10:08:01+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T10:14:29+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-26T10:54:05+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-27T12:21:58+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9110715241122712269,
+         "label" : "Beyond Compare 4",
+         "time" : "2024-04-28T19:27:48+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-28T20:29:11+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16445804691437282960,
+         "label" : "VSCodium",
+         "time" : "2024-04-29T06:12:52+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9110715241122712269,
+         "label" : "Beyond Compare 4",
+         "time" : "2024-04-29T10:36:19+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2960226050666644716,
+         "label" : "Steam Library Manager",
+         "time" : "2024-04-29T11:26:46+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16445804691437282960,
+         "label" : "VSCodium",
+         "time" : "2024-04-29T12:50:10+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2588231827233533498,
+         "label" : "Discord",
+         "time" : "2024-04-29T18:09:41+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9110715241122712269,
+         "label" : "Beyond Compare 4",
+         "time" : "2024-04-30T06:58:06+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9291947448656209962,
+         "label" : "IrfanView",
+         "time" : "2024-04-30T08:05:08+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2094247713444191141,
+         "label" : "Paint",
+         "time" : "2024-04-30T08:06:22+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9110715241122712269,
+         "label" : "Beyond Compare 4",
+         "time" : "2024-04-30T08:23:24+0200"
+      },
+      {
+         "action" : null,
+         "item" : 3167346699064877633,
+         "label" : "digiKam",
+         "time" : "2024-04-30T08:45:07+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2588231827233533498,
+         "label" : "Discord",
+         "time" : "2024-04-30T08:45:09+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9110715241122712269,
+         "label" : "Beyond Compare 4",
+         "time" : "2024-04-30T08:45:14+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9110715241122712269,
+         "label" : "Beyond Compare 4",
+         "time" : "2024-05-01T17:54:37+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9110715241122712269,
+         "label" : "Beyond Compare 4",
+         "time" : "2024-05-02T18:57:18+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2588231827233533498,
+         "label" : "Discord",
+         "time" : "2024-05-02T20:45:37+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16445804691437282960,
+         "label" : "VSCodium",
+         "time" : "2024-05-03T04:03:17+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13626359305618572294,
+         "label" : "SmartGit",
+         "time" : "2024-05-03T04:09:55+0200"
+      },
+      {
+         "action" : null,
+         "item" : 8099969308585612586,
+         "label" : "vscodium.cmd",
+         "time" : "2024-05-03T04:27:13+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13377936132290424049,
+         "label" : "arenc.exe",
+         "time" : "2024-05-03T07:29:11+0200"
+      },
+      {
+         "action" : null,
+         "item" : 6366397779148956027,
+         "label" : "Obsidian",
+         "time" : "2024-05-03T13:11:00+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13626359305618572294,
+         "label" : "SmartGit",
+         "time" : "2024-05-05T17:01:47+0200"
+      },
+      {
+         "action" : null,
+         "item" : 17071980502556439596,
+         "label" : "SmartGit",
+         "time" : "2024-05-05T17:03:47+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16812107475026613398,
+         "label" : "SmartGit",
+         "time" : "2024-05-05T17:03:55+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16812107475026613398,
+         "label" : "SmartGit",
+         "time" : "2024-05-05T17:13:44+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16445804691437282960,
+         "label" : "VSCodium",
+         "time" : "2024-05-05T17:16:24+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9169521296975217957,
+         "label" : "Advanced Renamer",
+         "time" : "2024-05-07T03:28:15+0200"
+      },
+      {
+         "action" : null,
+         "item" : 9169521296975217957,
+         "label" : "Advanced Renamer",
+         "time" : "2024-05-07T07:33:56+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16445804691437282960,
+         "label" : "VSCodium",
+         "time" : "2024-05-07T07:45:55+0200"
+      },
+      {
+         "action" : null,
+         "item" : 13507932001448010167,
+         "label" : "Process Lasso",
+         "time" : "2024-05-07T10:25:29+0200"
+      },
+      {
+         "action" : null,
+         "item" : 8309420411441892617,
+         "label" : "AntiDupl.NET",
+         "time" : "2024-05-07T11:53:21+0200"
+      },
+      {
+         "action" : null,
+         "item" : 8309420411441892617,
+         "label" : "AntiDupl.NET",
+         "time" : "2024-05-07T11:59:28+0200"
+      },
+      {
+         "action" : null,
+         "item" : 8309420411441892617,
+         "label" : "AntiDupl.NET",
+         "time" : "2024-05-07T12:02:13+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2588231827233533498,
+         "label" : "Discord",
+         "time" : "2024-05-07T14:39:38+0200"
+      },
+      {
+         "action" : null,
+         "item" : 16812107475026613398,
+         "label" : "SmartGit",
+         "time" : "2024-05-09T10:09:43+0200"
+      },
+      {
+         "action" : null,
+         "item" : 2921574178357462542,
+         "label" : "SmartGit",
+         "time" : "2024-05-09T10:09:47+0200"
+      }
+   ],
+   "sets" : {
+      "actions" : [],
+      "items" : [
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 9169521296975217957,
+            "label" : "Advanced Renamer",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Program\\Scoop Apps",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Program\\Scoop Apps\\Advanced Renamer.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8309420411441892617,
+            "label" : "AntiDupl.NET",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\AntiDupl.NET.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 13377936132290424049,
+            "label" : "arenc.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\ProgramData\\scoop\\shims\\arenc.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8999127826094402544,
+            "label" : "bcomp.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\ProgramData\\scoop\\shims\\bcomp.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 9110715241122712269,
+            "label" : "Beyond Compare 4",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Program\\Scoop Apps",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Program\\Scoop Apps\\Beyond Compare 4.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 3167346699064877633,
+            "label" : "digiKam",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\digiKam.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5556174594403292877,
+            "label" : "digikam.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\ProgramData\\scoop\\shims\\digikam.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 2588231827233533498,
+            "label" : "Discord",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Discord.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 12387420564152113494,
+            "label" : "dupeGuru",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\dupeGuru.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5763140808209153922,
+            "label" : "Everything",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Program\\Scoop Apps",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Program\\Scoop Apps\\Everything.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 728266441804329349,
+            "label" : "Everything",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Everything.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7131144973373612026,
+            "label" : "gitkraken.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\ProgramData\\scoop\\shims\\gitkraken.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6336517065872787180,
+            "label" : "HandBrake",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Program\\HandBrake",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Program\\HandBrake\\HandBrake.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 9291947448656209962,
+            "label" : "IrfanView",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Program\\Scoop Apps",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Program\\Scoop Apps\\IrfanView.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 2722599003793383048,
+            "label" : "irfanview.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\ProgramData\\scoop\\shims\\irfanview.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6366397779148956027,
+            "label" : "Obsidian",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Obsidian.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 15350662443713887324,
+            "label" : "Opera GX",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Opera GX.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 2094247713444191141,
+            "label" : "Paint",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Program\\Accessories",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Program\\Accessories\\Paint.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 13507932001448010167,
+            "label" : "Process Lasso",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Process Lasso.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 13626359305618572294,
+            "label" : "SmartGit",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Program\\Scoop Apps",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Program\\Scoop Apps\\SmartGit.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 17071980502556439596,
+            "label" : "SmartGit",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\SmartGit.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 2921574178357462542,
+            "label" : "SmartGit",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\SmartGit.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 16812107475026613398,
+            "label" : "SmartGit",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Start Menu",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\SmartGit.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 12356408883507033385,
+            "label" : "Snappy Driver Installer Origin",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Program\\Scoop Apps",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Program\\Scoop Apps\\Snappy Driver Installer Origin.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 2960226050666644716,
+            "label" : "Steam Library Manager",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Steam Library Manager.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 16445804691437282960,
+            "label" : "VSCodium",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\VSCodium.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8099969308585612586,
+            "label" : "vscodium.cmd",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\ProgramData\\scoop\\shims\\vscodium.cmd"
+         }
+      ],
+      "terms" : [
+         {
+            "items" : [ 9169521296975217957 ],
+            "search" : "adv"
+         },
+         {
+            "items" : [ 9169521296975217957 ],
+            "search" : "advanced"
+         },
+         {
+            "items" : [ 8309420411441892617 ],
+            "search" : "ant"
+         },
+         {
+            "items" : [ 8309420411441892617 ],
+            "search" : "antid"
+         },
+         {
+            "items" : [ 13377936132290424049 ],
+            "search" : "aren"
+         },
+         {
+            "items" : [ 9110715241122712269 ],
+            "search" : "bc"
+         },
+         {
+            "items" : [ 8999127826094402544 ],
+            "search" : "bcom"
+         },
+         {
+            "items" : [ 9110715241122712269 ],
+            "search" : "BEY"
+         },
+         {
+            "items" : [ 3167346699064877633, 5556174594403292877 ],
+            "search" : "dig"
+         },
+         {
+            "items" : [ 3167346699064877633, 5556174594403292877 ],
+            "search" : "digi"
+         },
+         {
+            "items" : [ 5556174594403292877 ],
+            "search" : "digik"
+         },
+         {
+            "items" : [ 5556174594403292877 ],
+            "search" : "digikam"
+         },
+         {
+            "items" : [ 2588231827233533498 ],
+            "search" : "dis"
+         },
+         {
+            "items" : [ 2588231827233533498 ],
+            "search" : "disc"
+         },
+         {
+            "items" : [ 12387420564152113494 ],
+            "search" : "dup"
+         },
+         {
+            "items" : [ 12387420564152113494 ],
+            "search" : "dupe"
+         },
+         {
+            "items" : [ 5763140808209153922, 728266441804329349 ],
+            "search" : "ever"
+         },
+         {
+            "items" : [ 7131144973373612026 ],
+            "search" : "gitkra"
+         },
+         {
+            "items" : [ 6336517065872787180 ],
+            "search" : "handbr"
+         },
+         {
+            "items" : [ 9291947448656209962 ],
+            "search" : "i"
+         },
+         {
+            "items" : [ 9291947448656209962 ],
+            "search" : "irf"
+         },
+         {
+            "items" : [ 9291947448656209962, 2722599003793383048 ],
+            "search" : "irfan"
+         },
+         {
+            "items" : [ 9291947448656209962 ],
+            "search" : "irfanview"
+         },
+         {
+            "items" : [ 6366397779148956027 ],
+            "search" : "o"
+         },
+         {
+            "items" : [ 6366397779148956027 ],
+            "search" : "Ob"
+         },
+         {
+            "items" : [ 6366397779148956027 ],
+            "search" : "obsid"
+         },
+         {
+            "items" : [ 15350662443713887324 ],
+            "search" : "opera"
+         },
+         {
+            "items" : [ 2094247713444191141 ],
+            "search" : "pain"
+         },
+         {
+            "items" : [ 13507932001448010167 ],
+            "search" : "proces"
+         },
+         {
+            "items" : [ 13626359305618572294 ],
+            "search" : "smar"
+         },
+         {
+            "items" : [
+               2921574178357462542,
+               16812107475026613398,
+               17071980502556439596,
+               13626359305618572294
+            ],
+            "search" : "smart"
+         },
+         {
+            "items" : [ 12356408883507033385 ],
+            "search" : "snappy"
+         },
+         {
+            "items" : [ 2960226050666644716 ],
+            "search" : "steam"
+         },
+         {
+            "items" : [ 16445804691437282960 ],
+            "search" : "vsc"
+         },
+         {
+            "items" : [ 16445804691437282960 ],
+            "search" : "vsco"
+         },
+         {
+            "items" : [ 16445804691437282960 ],
+            "search" : "vscod"
+         },
+         {
+            "items" : [ 8099969308585612586 ],
+            "search" : "vscodium"
+         }
+      ]
+   }
+}
