@@ -22,7 +22,7 @@ actions:
   backgroundFetchOpen: true
   syncPushBeforePull: false
 logSettings:
-  filterConfiguration: {}
+  filterConfiguration: {regularExpressions: false}
 comparePreviewSettings: {selectCompareTypeAutomatically: false, compareType: working-tree-vs-index}
 dateFormat: {datePattern: MM/dd/yyyy, timePattern: 'hh:mm a', showTimeForLastDays: true}
 defaultViewSettings:
@@ -81,6 +81,14 @@ globalTextComponentSettings:
         *.xml'}
     - {language: Yaml, pattern: '*.yaml, *.yml'}
     - {language: Zig, pattern: '*.zig'}
+    - {language: V, pattern: '*.vlang'}
+    - {language: ASM (x86), pattern: '*.asm'}
+    - {language: Forth, pattern: '*.forth, *.fs'}
+    - {language: Lua/Nelua, pattern: '*.lua'}
+    - {language: Markdown, pattern: '*.md'}
+    - {language: Odin, pattern: '*.odin'}
+    - {language: TOML, pattern: '*.toml'}
+    - {language: Verilog, pattern: '*.sv, *.v, *.vh'}
   colors.light: {color-annotation: 11564032, color-attrib-name: 255, color-attrib-value: 32768,
     color-comment: 8421504, color-pragma: 8547840, color-invalid: 16727871, color-keyword: 32768,
     color-literal: 255, color-plain-text: 0, color-punctuation: 16721920, color-identifier: 0,
@@ -92,7 +100,9 @@ globalTextComponentSettings:
     backgroundRemoved: 13158655, backgroundRemovedLight: 15592959, backgroundConflict: 16755370,
     backgroundConflictLight: 16770019, backgroundCompactSeparator: 15132390, backgroundComment: 16182243,
     backgroundModifiedCS: 16763080, backgroundAddedCS: 12513470, backgroundRemovedCS: 13158655,
-    highlightCurrentLine: false}
+    highlightCurrentLine: false, color-escape: 18048, color-interpolation: 128, color-parameter: 25728,
+    color-variable: 4718847, color-title: 33023, color-styled: 12583104, color-code: 32896,
+    color-list: 16711790, color-link: 32838, color-special: 14708736}
   colors.dark: {color-annotation: 13092749, color-attrib-name: 9291719, color-attrib-value: 12558303,
     color-comment: 8421504, color-pragma: 13876905, color-invalid: 16744319, color-keyword: 10733475,
     color-literal: 11184853, color-plain-text: 12566463, color-punctuation: 12561045,
@@ -104,24 +114,27 @@ globalTextComponentSettings:
     backgroundAddedLight: 3029550, backgroundRemoved: 2639718, backgroundRemovedLight: 3028023,
     backgroundConflict: 8400896, backgroundConflictLight: 4468512, backgroundCompactSeparator: 3947580,
     backgroundComment: 7299927, backgroundModifiedCS: 10047311, backgroundAddedCS: 5216610,
-    backgroundRemovedCS: 5207193, highlightCurrentLine: false}
-  colors.useDark: true
+    backgroundRemovedCS: 5207193, highlightCurrentLine: false, color-escape: 9291719,
+    color-interpolation: 9211135, color-parameter: 8441087, color-variable: 11184895,
+    color-title: 6996223, color-styled: 16777184, color-code: 10543328, color-list: 16744640,
+    color-link: 12644544, color-special: 11184895}
+  colors.useDark: false
 listx: {uid: en4ssg7d23lk}
 project: {defaultWindowType: wt}
 uiSettings: {theme: auto, themeChanged: false, fileSearchPatternType: 1}
-vcsRecords: {lastGitUsage: 1693231267121}
-updateCheck: {prevCheckTime: 1693140488716, checkedBuild: 19285, mode: download, upgradeInstallation: false}
+vcsRecords: {lastGitUsage: 1715249579933}
+updateCheck: {prevCheckTime: 1715249390383, checkedBuild: 20195, mode: download, upgradeInstallation: false}
 updateCheckDg: {}
 proxy: {enabled: false, autoDetect: true}
 spellCheck:
   dictionaries:
-  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\ProgramData\scoop\apps\SmartGit\current\dictionaries\en_US.dic'}
+  - {name: en_US, file: '${smartgit.install}\dictionaries\en_US.dic', file.absolute: 'C:\Users\chris\scoop\apps\smartgit\current\dictionaries\en_US.dic'}
   deleted: false
   activeDictionary: 0
-lastUsedVersion: '22.1'
+lastUsedVersion: '23.1'
 firstUsedTime: 1684316673740
-tempDirs: ['C:\Users\CrRoot\AppData\Local\Temp\smartgit18197914147273913295', 'C:\Users\CrRoot\AppData\Local\Temp\e4jA541.tmp_dir1693212688']
 machineId: 41587a14
 warnForMissingMasterPassword: false
 sendStacktraces2: true
 sendUsageStats: true
+upgradedFromVersion: '22.1'
