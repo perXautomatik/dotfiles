@@ -2,8 +2,8 @@ toolbars:
   wt:
     items:
     - {id: fetch}
-    - {id: sync}
     - {id: push}
+    - {id: remoteFetchAll}
     - {stretching: false}
     - {id: commit}
     - {stretching: true}
@@ -20,16 +20,20 @@ toolbars:
     - {id: annotate}
     - {id: investigate}
     - {stretching: true}
-    - {id: flowContext}
-    - {stretching: false}
+    - {id: ignore}
+    - {id: flowIntegrateDevelop}
+    - {id: log}
+    - {id: windowLayoutSetReview}
     - {id: merge}
     - {id: rebaseHeadTo}
+    textBelowIcon: true
   log.main:
     items:
     - {id: fetch}
-    - {id: sync}
+    - {id: remoteFetchAll}
     - {id: push}
     - {stretching: true}
+    - {id: commit}
     - {id: stage}
     - {id: indexEditor}
     - {id: unstage}
@@ -41,11 +45,12 @@ toolbars:
     - {stretching: true}
     - {id: annotate}
     - {id: investigate}
+    - {id: conflictSolver}
     - {stretching: true}
-    - {id: flowContext}
     - {stretching: false}
     - {id: merge}
     - {id: rebaseHeadTo}
+    textBelowIcon: true
   log.review:
     items:
     - {id: fetch}

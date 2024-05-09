@@ -1,61 +1,145 @@
 structure:
 - name: B:\
   children:
-  - {name: B-ToGit, path: 'B:\ToGit'}
   - name: chris
     children:
-    - {name: Documents, path: 'B:\Users\chris\Documents'}
-    expanded: false
-  - name: SteamLibrary
-    children:
-    - {name: steamapps, path: 'B:\SteamLibrary\steamapps'}
-    - {name: SubmoduleFromGitmodules, path: 'B:\ToGit\SubmoduleFromGitmodules'}
-    - {name: General-ProjectFolders, path: 'B:\New folder (2)\General-ProjectFolders'}
-    - {name: PF, path: 'B:\PF'}
-    - {name: IoT, path: 'B:\ToGit\IoT'}
-    - {name: scoopbucket-1, path: \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1}
-    - {name: Archive, path: 'B:\PF\Archive'}
-    - {name: Filtered, path: 'B:\Filtered'}
-    - {name: NewWindows2, path: 'B:\PF\NewWindows2'}
-    - {name: NewWindows3, path: 'B:\PF\NewWindows3'}
-    - {name: TIG-stack, path: 'B:\ToGit\IoT\TIG-stack'}
-    - {name: WindowsPowerShell, path: 'B:\PF\chris\Documents\WindowsPowerShell'}
-    - {name: chris, path: 'B:\PF\chris'}
+    - {name: AppData, path: 'C:\Users\CrRoot\AppData'}
     - {name: NoteTakingProjectFolder, path: 'B:\PF\NoteTakingProjectFolder', favorite: true}
+    - name: SteamLibrary
+      children:
+      - {name: steamapps, path: 'B:\SteamLibrary\steamapps'}
+      expanded: true
+    - name: Notebook
+      children:
+      - {name: NoteTakingProjectFolder, path: 'B:\PF\NoteTakingProjectFolder', favorite: true}
+      - {name: CompressedNotebook, path: 'B:\Users\CompressedNotebook'}
+      expanded: false
+    - name: userSettings
+      children:
+      - {name: Deployed, path: 'C:\ProgramData\scoop\buckets'}
+      - {name: Deployed-persist, path: 'C:\ProgramData\scoop\persist'}
+      - {name: presist-dotFiles, path: 'B:\PF\Archive\dotFiles'}
+      - {name: target, path: 'B:\Users\target'}
+      - {name: AppData, path: 'C:\Users\CrRoot\AppData'}
+      - {name: chris, path: 'P:\Users\chris'}
+      expanded: true
+    - name: Documents
+      children:
+      - {name: Documents, path: 'C:\Users\Public\Documents'}
+      expanded: true
     expanded: false
-  - {name: ToGit, path: 'G:\ToGit'}
-  - {name: scoopbucket-presist, path: 'G:\ToGit\projectFolderBare\scoopbucket-presist'}
   - name: psw
     children:
-    - {name: GitPs1Module, path: 'B:\GitPs1Module'}
     - {name: ps1, path: 'B:\PF\Archive\ps1', favorite: true}
-    - {name: PowerShell, path: 'B:\PF\PowerShell'}
-    - {name: PowershellProjectFolder, path: 'B:\PF\PowershellProjectFolder'}
-    - {name: ps1, path: 'B:\ps1'}
+    - {name: NewWindows, path: 'B:\PF\Archive\NewWindows'}
+    - {name: PF, path: 'B:\PF', expanded: false}
+    - {name: Archive, path: 'B:\PF\Archive'}
+    - {name: .config_powershell, path: 'C:\Users\CrRoot\.config\powershell'}
+    - {name: .config, path: 'C:\Users\CrRoot\.config'}
+    - {name: CSharpVisualStudio, path: 'B:\PF\CSharpVisualStudio'}
+    - {name: git, path: 'B:\PF\Archive\ps1\git'}
+    - {name: Users, path: 'B:\Users'}
+    - {name: GitFolders, path: 'B:\GitFolders'}
+    - {name: scoopbucket-presist, path: 'B:\PF\Archive\NewWindows\scoopbucket-presist'}
+    - {name: scoopbucket-presist, path: 'B:\GitFolders\scoopbucket-presist'}
+    - {name: Documents, path: 'B:\ProgramData\scoop\persist\Documents'}
+    - {name: autohotkey, path: 'B:\ProgramData\scoop\persist\autohotkey'}
+    - {name: PowerShellCmdHist, path: 'B:\ProgramData\scoop\persist\PowerShellCmdHist'}
+    - {name: .config, path: 'B:\ProgramData\scoop\persist\.config'}
+    - {name: CrRoot, path: 'C:\Users\CrRoot'}
+    - {name: persist, path: 'B:\ProgramData\scoop\persist'}
+    - {name: WindowsPowerShell, path: 'C:\Users\CrRoot\.config\WindowsPowerShell'}
+    - {name: WindowsPowerShell, path: 'B:\ProgramData\scoop\persist\Documents\WindowsPowerShell'}
+    - {name: buckets, path: 'B:\ProgramData\scoop\buckets'}
+    - {name: subfolderSearch, path: 'B:\PF\Archive\ps1\git\repair\subfolderSearch'}
+    - {name: repair, path: 'B:\PF\Archive\ps1\git\repair'}
+    - {name: Notes, path: 'B:\PF\NoteTakingProjectFolder\Notes'}
+    - {name: Beyond Compare 4, path: 'B:\ProgramData\scoop\persist\AppData\Roaming\Scooter
+        Software\Beyond Compare 4'}
+    - {name: Everything, path: 'B:\ProgramData\scoop\persist\AppData\Roaming\Everything'}
+    expanded: true
+  - name: AHK
+    children:
+    - {name: AHK-EverydayScripts, path: 'C:\ProgramData\scoop\persist\AHK-EverydayScripts'}
+    - {name: AhkProjectFolder, path: 'B:\PF\AhkProjectFolder'}
+    - {name: WindowsPowerShell, path: 'C:\ProgramData\scoop\persist\Documents\WindowsPowerShell'}
+    - {name: perXautomatik, path: 'C:\ProgramData\scoop\buckets\perXautomatik'}
+    - {name: WindowsPowerShell, path: 'B:\Users\target\Documents\WindowsPowerShell'}
+    - {name: PowerShell, path: 'B:\Users\target\Documents\PowerShell'}
+    - {name: '20231230161451126', path: 'C:\ProgramData\scoop\persist\20231230161451126'}
+    - {name: Diablo II Resurrected, path: 'B:\Users\CrRoot\Saved Games\Diablo II Resurrected'}
+    - {name: Documents, path: 'C:\ProgramData\scoop\persist\Documents'}
+    - {name: AppData, path: 'B:\ProgramData\scoop\persist\AppData'}
+    expanded: false
+  - name: BeyondCompare
+    children:
+    - {name: BeondCompare4, path: 'B:\Users\target\BeondCompare4'}
+    - {name: Beyond Compare 4, path: 'C:\Users\CrRoot\AppData\Roaming\Scooter Software\Beyond
+        Compare 4'}
+    - {name: Roaming, path: 'C:\Users\CrRoot\AppData\Roaming', expanded: false}
+    - {name: Local, path: 'C:\Users\CrRoot\AppData\Local'}
+    - {name: Vortex, path: 'C:\Users\CrRoot\AppData\Roaming\Vortex'}
+    - {name: persist, path: 'C:\Users\CrRoot\scoop\persist'}
+    - {name: WindowsPowerShell, path: 'C:\Users\Public\Documents\WindowsPowerShell'}
+    - {name: Scooter Software, path: 'C:\Users\CrRoot\AppData\Roaming\Scooter Software'}
+    - {name: AppData, path: 'B:\Users\CrRoot\AppData'}
+    - {name: Code, path: 'C:\Users\CrRoot\AppData\Roaming\Code'}
+    - {name: My Games, path: 'B:\ProgramData\scoop\persist\Documents\My Games'}
+    - {name: scoopbucket-presist, path: 'B:\PF\scoopbucket-presist'}
+    - {name: nilesoft-shell, path: 'C:\Users\CrRoot\.config\nilesoft-shell'}
+    - {name: Everything, path: 'C:\Users\CrRoot\AppData\Roaming\Everything'}
+    - {name: LocalLow, path: 'C:\Users\CrRoot\AppData\LocalLow'}
+    - {name: plugins, path: 'B:\Users\CrRoot\AppData\Roaming\Vortex\plugins'}
+    - {name: ps1, path: 'C:\Users\CrRoot\scoop\persist\ps1'}
+    - {name: PowerShell, path: 'B:\ProgramData\scoop\persist\Documents\PowerShell'}
+    expanded: true
   expanded: true
 - name: I:\Downloads\2022
-  children:
-  - {name: assorted, path: 'I:\Downloads\2022\assorted'}
-  expanded: true
-- name: I:\ToGit
   children: []
   expanded: true
-- {name: loppy-projectFolderBare, path: \\Sabrina\b\ToGit\Ny mapp\projectFolderBare}
+- name: c#
+  children:
+  - {name: karlstad, path: 'B:\PF\CSharpVisualStudio\repos\karlstad'}
+  - {name: repos, path: 'B:\PF\CSharpVisualStudio\repos'}
+  - {name: InvalidMarkup, path: 'B:\PF\CSharpVisualStudio\repos\InvalidMarkup'}
+  - {name: boras, path: 'B:\PF\CSharpVisualStudio\repos\boras'}
+  - {name: KarlstadButik, path: 'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik\KarlstadButik'}
+  - {name: KarlstadButik, path: 'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik'}
+  expanded: false
 - name: Scoop
   children:
   - {name: Deployed, path: 'C:\ProgramData\scoop\buckets'}
   - {name: scoopbucket-1, path: 'B:\PF\scoopbucket-1'}
-  - {name: scoopbucket-presist, path: 'B:\PF\scoopbucket-presist'}
   - {name: Deployed-persist, path: 'C:\ProgramData\scoop\persist'}
-  - {name: AppData, path: 'C:\Users\CrRoot\AppData'}
-  - {name: .config_powershell, path: 'C:\Users\CrRoot\.config\powershell'}
+  - {name: presist-dotFiles, path: 'B:\PF\Archive\dotFiles'}
+  - {name: target, path: 'B:\Users\target'}
+  - {name: Saves, path: 'D:\Saves'}
+  - {name: virtual3, path: 'E:\Users\virtual3'}
+  - {name: DataGrip2021.1, path: 'E:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1'}
+  - {name: DataGrip2023.3, path: 'E:\Users\virtual3\AppData\Roaming\JetBrains\DataGrip2023.3'}
   expanded: true
-recentlyUsed: ['B:\PF\Archive\ps1', 'B:\ToGit\IoT\TIG-stack', 'B:\PF\chris', 'B:\PF\NoteTakingProjectFolder',
-  'B:\PF', 'B:\PF\Archive', 'B:\PF\scoopbucket-1', \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1,
-  'B:\PF\scoopbucket-presist', 'B:\PF\chris\Documents\WindowsPowerShell', 'C:\Users\CrRoot\.config\powershell',
-  'C:\Users\CrRoot\AppData', 'B:\PF\PowershellProjectFolder', 'C:\ProgramData\scoop\persist',
-  'B:\PF\PowerShell', 'C:\ProgramData\scoop\buckets', 'B:\GitPs1Module', 'B:\ps1',
-  'B:\ToGit\IoT', 'B:\PF\NewWindows3', 'B:\PF\NewWindows2', 'B:\Filtered', 'B:\Users\chris\Documents',
-  'B:\New folder (2)\General-ProjectFolders', 'B:\ToGit', \\Sabrina\b\ToGit\Ny mapp\projectFolderBare,
-  'G:\ToGit\projectFolderBare\scoopbucket-presist', 'G:\ToGit', 'B:\ToGit\SubmoduleFromGitmodules',
-  'B:\SteamLibrary\steamapps', 'I:\Downloads\2022\assorted']
+recentlyUsed: ['B:\ProgramData\scoop\persist\Documents\WindowsPowerShell', 'C:\Users\Public\Documents\WindowsPowerShell',
+  'B:\ProgramData\scoop\persist\Documents\PowerShell', 'C:\Users\CrRoot\scoop\persist\ps1',
+  'C:\Users\CrRoot\.config\powershell', 'B:\ProgramData\scoop\persist', 'P:\Users\chris',
+  'B:\PF\NoteTakingProjectFolder', 'B:\PF\scoopbucket-1', 'B:\PF\Archive\dotFiles',
+  'B:\Users\CrRoot\AppData\Roaming\Vortex\plugins', 'C:\Users\CrRoot\AppData\Roaming\Vortex',
+  'C:\ProgramData\scoop\persist', 'B:\ProgramData\scoop\persist\AppData\Roaming\Everything',
+  'B:\ProgramData\scoop\persist\AppData\Roaming\Scooter Software\Beyond Compare 4',
+  'B:\ProgramData\scoop\persist\PowerShellCmdHist', 'B:\ProgramData\scoop\persist\Documents',
+  'B:\PF\Archive\ps1', 'B:\ProgramData\scoop\buckets', 'B:\ProgramData\scoop\persist\.config',
+  'C:\Users\CrRoot\AppData\Roaming', 'C:\Users\CrRoot\AppData\Roaming\Everything',
+  'C:\Users\CrRoot\AppData\Roaming\Scooter Software\Beyond Compare 4', 'C:\Users\CrRoot\AppData\Local',
+  'C:\Users\CrRoot\.config', 'C:\Users\Public\Documents', 'C:\Users\CrRoot\AppData',
+  'E:\Users\virtual3\AppData\Roaming\JetBrains\DataGrip2023.3', 'E:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1',
+  'E:\Users\virtual3', 'C:\Users\CrRoot\.config\WindowsPowerShell', 'C:\Users\CrRoot',
+  'B:\Users\target\Documents\PowerShell', 'C:\ProgramData\scoop\persist\Documents',
+  'B:\Users\target', 'B:\Users\CrRoot\Saved Games\Diablo II Resurrected', 'D:\Saves',
+  'C:\ProgramData\scoop\buckets', 'B:\SteamLibrary\steamapps', 'B:\Users\target\BeondCompare4',
+  'C:\ProgramData\scoop\persist\20231230161451126', 'B:\PF', 'B:\PF\CSharpVisualStudio\repos',
+  'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik\KarlstadButik', 'B:\PF\CSharpVisualStudio\repos\karlstad\KarlstadButik',
+  'B:\PF\CSharpVisualStudio\repos\karlstad', 'B:\PF\CSharpVisualStudio\repos\InvalidMarkup',
+  'B:\PF\CSharpVisualStudio\repos\boras', 'B:\Users', 'B:\GitFolders\scoopbucket-presist',
+  'B:\PF\Archive\NewWindows\scoopbucket-presist', 'B:\GitFolders', 'B:\PF\Archive\ps1\git',
+  'B:\PF\CSharpVisualStudio', 'B:\PF\Archive', 'C:\ProgramData\scoop\persist\Documents\WindowsPowerShell',
+  'B:\Users\target\Documents\WindowsPowerShell', 'C:\ProgramData\scoop\buckets\perXautomatik',
+  'B:\PF\AhkProjectFolder', 'C:\ProgramData\scoop\persist\AHK-EverydayScripts', 'B:\PF\Archive\NewWindows']
