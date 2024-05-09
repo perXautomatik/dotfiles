@@ -1,61 +1,11 @@
-toolbars:
-  wt:
-    items:
-    - {id: fetch}
-    - {id: push}
-    - {id: remoteFetchAll}
-    - {stretching: false}
-    - {id: commit}
-    - {stretching: true}
-    - {id: stage}
-    - {id: indexEditor}
-    - {id: unstage}
-    - {stretching: false}
-    - {id: discard}
-    - {stretching: false}
-    - {id: stashSave}
-    - {id: stashApply}
-    - {stretching: true}
-    - {id: logRepository}
-    - {id: annotate}
-    - {id: investigate}
-    - {stretching: true}
-    - {id: ignore}
-    - {id: flowIntegrateDevelop}
-    - {id: log}
-    - {id: windowLayoutSetReview}
-    - {id: merge}
-    - {id: rebaseHeadTo}
-    textBelowIcon: true
-  log.main:
-    items:
-    - {id: fetch}
-    - {id: remoteFetchAll}
-    - {id: push}
-    - {stretching: true}
-    - {id: commit}
-    - {id: stage}
-    - {id: indexEditor}
-    - {id: unstage}
-    - {stretching: false}
-    - {id: discard}
-    - {stretching: false}
-    - {id: stashSave}
-    - {id: stashApply}
-    - {stretching: true}
-    - {id: annotate}
-    - {id: investigate}
-    - {id: conflictSolver}
-    - {stretching: true}
-    - {stretching: false}
-    - {id: merge}
-    - {id: rebaseHeadTo}
-    textBelowIcon: true
-  log.review:
+git:
+  projectToolBar-17:
     items:
     - {id: fetch}
     - {id: sync}
     - {id: push}
+    - {stretching: false}
+    - {id: commit}
     - {stretching: true}
     - {id: stage}
     - {id: indexEditor}
@@ -65,7 +15,9 @@ toolbars:
     - {stretching: false}
     - {id: stashSave}
     - {id: stashApply}
+    - {id: delete}
     - {stretching: true}
+    - {id: logRepository}
     - {id: annotate}
     - {id: investigate}
     - {stretching: true}
@@ -73,15 +25,40 @@ toolbars:
     - {stretching: false}
     - {id: merge}
     - {id: rebaseHeadTo}
-  log.file:
+    textBelowIcon: true
+    visible: false
+  logToolBar-18.2:
     items:
-    - {stretching: true}
-    - {id: branchAdd}
-    - {id: branchAddTag}
+    - {id: fetch}
+    - {id: push}
     - {stretching: false}
-    - {id: cherryPick}
-    - {id: revert}
+    - {id: flowContext}
+    - {stretching: false}
+    - {id: merge}
+    - {id: rebaseHeadTo}
+    - {id: commit}
     - {stretching: true}
+    - {id: stage}
+    - {id: indexEditor}
+    - {id: unstage}
+    - {stretching: false}
+    - {id: discard}
+    - {stretching: false}
+    - {id: stashSave}
+    - {id: stashApply}
+    - {stretching: true}
+    - {id: cherryPick}
+    - {id: delete}
+    - {id: branchAddTag}
+    - {stretching: true}
+    - {id: log}
     - {id: annotate}
     - {id: investigate}
-filterConfiguration: {}
+    - {stretching: true}
+    - {id: windowLayoutSetMain}
+    - {id: windowLayoutSetReview}
+    textBelowIcon: true
+    visible: false
+filterConfiguration:
+  patterns: []
+  regularExpressions: false

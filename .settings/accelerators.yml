@@ -1,7 +1,3 @@
-global:
-- {action: ignore}
-- {action: ignoreWhitespaceOnlyChanges}
-- {action: stage, keyStroke: SPACE}
-- {action: submoduleInit, keyStroke: CTRL+I}
-- {action: viewSetAnchorCommit}
 completionKeyStroke: CTRL+SPACE
+global:
+- {action: windowMaximizeRestore, keyStroke: ESC}

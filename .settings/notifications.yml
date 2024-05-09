@@ -1,81 +1,26 @@
-readNotifications: [hosting-provider-could-be-configured-github-null, needsRestart-null,
-  'repository-git-core-ignorecase-mismatch-b:/togit/project shelf/projectfolderbare/newwindows/scoopbucket-1/windowsdebloat-null',
-  'repository-git-core-ignorecase-mismatch-b:/togit-null', 'repository-model-problem-b:/pf/chris/documents-null',
-  'repository-model-problem-b:/pf/chris/appdata/roaming/everything-null', 'repository-model-problem-b:/pf/chris/appdata/roaming/jetbrains-null',
-  'repository-model-problem-b:/pf/chris/appdata/roaming/scooter software/beyond compare
-    4-null', 'repository-model-problem-b:/pf/chris/appdata/roaming/vortex-null', repositories-no-favorites-null,
-  update-fetch-22.1.6-success, 'repository-git-core-ignorecase-mismatch-b:/pf/notetakingprojectfolder/1d5a90b4975101fa1666d66382799002-null',
-  'repository-model-problem-b:/pf/scoopbucket-presist/jetbrains-null', 'repository-git-cleanup-b:/pf/notetakingprojectfolder/notebooks-null',
-  'repository-git-cleanup-o:/d2rmm 1.4.5/mods-null', follow-us-on-twitter-null, 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/cherrytree-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/datagrip-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/datagrip/datagrip2021.1-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/datagrip/datagrip2019.4-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ditto-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/git-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/otherversioncontrolledtext-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/powershellcmdhist-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/powershell-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/userfolder-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/vortex-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/appendtoclipboard-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/checkifprogisrunning-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/exploreratpath-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/getrunningprocess-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/launchapplication-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/launch
-    if not currently running-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/launch
-    if not currently running continously-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/macro
-    recorder-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/noahhotell-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/selectedtextwithoutdisturbingclipboard-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/selected
-    item in explorer-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/autohotkey/script/fork/windowtoforeground-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/portableappsplatform-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/steamapps-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/workspace/portableprogramsuit-null',
-  'repository-model-problem-b:/pf/csharpvisualstudio/repos/karlstad2calc_lotto-null',
-  'repository-model-problem-b:/pf/csharpvisualstudio/repos/upg11-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/checkifprogisrunning-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/exploreratpath-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/launchapplication-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/launch
-    if not currently running-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/launch
-    if not currently running continously-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/macro
-    recorder-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/selectedtextwithoutdisturbingclipboard-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/selected
-    item in explorer-null', 'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/fork/windowtoforeground-null',
-  'repository-model-problem-b:/pf/archive/togit/scoopbucket-presist/ahk/ahk_config/script/fork/noahhotell-null',
-  'repository-model-problem-c:/programdata/scoop/persist/.config/git-null', 'repository-model-problem-c:/programdata/scoop/persist/.config/powershell-null',
-  update-check-infosmartgit-23.1-rc-null, 'repository-model-problem-b:/users/target/portableappsplatform-null',
-  'repository-model-problem-b:/users/target/steamapps-null', 'repository-git-cleanup-b:/users/new
-    folder 4-null', 'repository-refs-reading-many-loose-b:/gitfolders/new folder-null',
-  gc.autoDetach-null, 'repository-model-problem-c:/programdata/scoop/persist/documents/powershell-null',
-  'repository-model-problem-c:/programdata/scoop/persist/pwsh-null', update-fetch-22.1.8-success,
-  'repository-model-problem-b:/programdata/scoop/persist/.config-null', 'repository-model-problem-b:/programdata/scoop/persist/documents-null',
-  'repository-model-problem-b:/programdata/scoop/persist/documents/powershell-null',
-  'repository-model-problem-b:/programdata/scoop/persist/documents/windowspowershell-null',
-  'repository-model-problem-b:/programdata/scoop/persist/powershellcmdhist-null',
-  'repository-model-problem-b:/programdata/scoop/persist/autohotkey-null', too-old-null,
-  'repository-model-problem-b:/programdata/scoop/persist/documents/my games-null',
-  'repository-model-problem-b:/programdata/scoop/persist/documents/obsidian vault/notes-null',
-  'repository-model-problem-b:/programdata/scoop/persist/documents/gitconfigalt-null',
-  'repository-model-problem-b:/programdata/scoop/persist/documents/gitconfigalt/watchman-autocommit-null',
-  'repository-git-cleanup-p:/users/chris-null']
-dontPublishNotifications: ['repository-git-core-ignorecase-mismatch-b:/togit/project
-    shelf/archive/sql_db/ffx-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
-    shelf/archive/regiongotland/utskicksstruktur/brev-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
-    shelf/projectfolderbare/newwindows/scoopbucket-1/windowsdebloat-null', credential.helper-null,
-  'repository-git-core-ignorecase-mismatch-b:/togit-null', repositories-no-favorites-null,
-  'repository-git-core-ignorecase-mismatch-e:/users/virtual1/appdata/local/microsoft/edge/user
-    data/default/extensions/dfnblaebmpjlokbkadgeaghajajidojj/0.0.3_0-null', follow-us-on-twitter-null]
-dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit/project shelf/archive/sql_db/ffx-null: 1684575209016
-? dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit/project shelf/archive/regiongotland/utskicksstruktur/brev-null
-: 1684592755884
-? dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit/project shelf/projectfolderbare/newwindows/scoopbucket-1/windowsdebloat-null
-: 1684755209637
-dontPublishUntil-repositories-no-favorites-null: 1692119413405
+readNotifications: [credential.helper-null, needsRestart-null, update-fetch-18.2.6-success,
+  update-fetch-18.2.9-success, update-fetch-19.1.4-success, update-fetch-20.1.5-success,
+  update-fetch-problem-null, update-fetch-20.1.6-success, update-fetch-20.2.2-success,
+  update-fetch-20.2.3-success, update-fetch-20.2.4-success, update-fetch-20.2.5-success]
+dontPublishNotifications: [credential.helper-null, fileMonitor.directoriesExcluded-null,
+  gc.autoDetach-null, hosting-provider-could-be-configured-github-null, hosting-provider-could-be-configured-stash-null,
+  linux.theme-null, log-may-be-used-as-main-window-null, refresh-performance-repository-on-symlink-null,
+  repositories-no-favorites-null, update-check-infosmartgit-19.1-rc-null, update-check-infosmartgit-20.2-rc-null,
+  svn-integration-end-of-life-null, update-check-infotwitter-follow-us-2021-null,
+  update-check-infosmartgit-21.1-rc-null, support-will-expire-21-08-27-null, support-expired-21-08-27-null]
 dontPublishUntil-credential.helper-null: 0
-dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit-null: 1686047834063
-dontPublishUntil-follow-us-on-twitter-null: 1702659201667
-? dontPublishUntil-repository-git-core-ignorecase-mismatch-e:/users/virtual1/appdata/local/microsoft/edge/user
-  data/default/extensions/dfnblaebmpjlokbkadgeaghajajidojj/0.0.3_0-null
-: 1695656534467
+dontPublishUntil-fileMonitor.directoriesExcluded-null: 0
+dontPublishUntil-gc.autoDetach-null: 0
+dontPublishUntil-hosting-provider-could-be-configured-github-null: 0
+dontPublishUntil-hosting-provider-could-be-configured-stash-null: 0
+dontPublishUntil-linux.theme-null: 0
+dontPublishUntil-log-may-be-used-as-main-window-null: 0
+dontPublishUntil-refresh-performance-repository-on-symlink-null: 0
+dontPublishUntil-repositories-no-favorites-null: 0
+dontPublishUntil-update-check-infosmartgit-19.1-rc-null: 0
+dontPublishUntil-update-check-infosmartgit-20.2-rc-null: 0
+dontPublishUntil-svn-integration-end-of-life-null: 0
+dontPublishUntil-update-check-infotwitter-follow-us-2021-null: 0
+dontPublishUntil-update-check-infosmartgit-21.1-rc-null: 0
+dontPublishUntil-support-will-expire-21-08-27-null: 0
+dontPublishUntil-support-expired-21-08-27-null: 0
