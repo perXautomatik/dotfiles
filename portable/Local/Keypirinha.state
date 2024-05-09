@@ -1,0 +1,18 @@
+{
+   ".header" : {
+      "creator" : "Keypirinha v2.26 (e037f62)",
+      "creator_url" : "http://keypirinha.com/",
+      "format" : 101,
+      "modified" : "2024-03-15T10:12:43+0100",
+      "type" : "state"
+   },
+   "geometry" : {
+      "launchbox" : [
+         {
+            ".monitors" : "monitors(0,0,1920,1080,96dpi|1920,-698,1200,1920,96dpi)",
+            "pos" : "319x411",
+            "size" : 633
+         }
+      ]
+   }
+}
