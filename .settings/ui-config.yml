@@ -4,8 +4,6 @@ toolbars:
     - {id: fetch}
     - {id: sync}
     - {id: push}
-    - {stretching: false}
-    - {id: commit}
     - {stretching: true}
     - {id: stage}
     - {id: indexEditor}
@@ -79,9 +77,4 @@ toolbars:
     - {stretching: true}
     - {id: annotate}
     - {id: investigate}
-  std:
-    wt: []
-    history: []
-    refs: []
-    stashes: []
-filterConfiguration: {regularExpressions: false}
+filterConfiguration: {}

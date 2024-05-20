@@ -1,0 +1,687 @@
+ 38 (2024-04-10 06:31:10) [main] INFO      smartgit.system - SmartGit version 22.1.8-19294-b130df5d0fd1f7fa345fe25659616b3b52372ea2-jgit-f00d3006f8ca41dd3fa132ff967cc8d344ebc66d-trilead-?
+ 40 (2024-04-10 06:31:10) [main] INFO      smartgit.system - SmartGit running build 19294
+ 41 (2024-04-10 06:31:10) [main] INFO      smartgit.system - SmartGit installed build 19285
+ 42 (2024-04-10 06:31:10) [main] INFO      smartgit.system - SVNKit version SVN/1.8.1 SVNKit/1.10.0 (http://svnkit.com/) rSNAPSHOT
+ 42 (2024-04-10 06:31:10) [main] INFO sc.command.line.parameters - 0 command line parameters:
+ 42 (2024-04-10 06:31:10) [main] INFO      smartgit.system - application root: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7
+ 43 (2024-04-10 06:31:10) [main] INFO      smartgit.system - defaults root   : C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\default
+ 43 (2024-04-10 06:31:10) [main] INFO      smartgit.system - settings root   : C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings
+ 43 (2024-04-10 06:31:10) [main] INFO      smartgit.system - .app directory  : null
+357 (2024-04-10 06:31:10) [main] INFO              gui.swt - Using SWT 4954
+358 (2024-04-10 06:31:10) [main] INFO           q.ui.utils - Display reported DPI: 96x96
+358 (2024-04-10 06:31:10) [main] INFO           q.ui.utils - dpiFactor from DPI: 1
+358 (2024-04-10 06:31:10) [main] INFO           q.ui.utils - dpiFactor from device zoom: 1
+358 (2024-04-10 06:31:10) [main] INFO           q.ui.utils - Using dpiFactor: 1
+361 (2024-04-10 06:31:10) [main] INFO              gui.swt - Monitors:
+361 (2024-04-10 06:31:10) [main] INFO              gui.swt -   1920x1080(0,0 - 1919,1079)
+361 (2024-04-10 06:31:10) [main] INFO              gui.swt -   1200x1920(1920,-698 - 3119,1221)
+449 (2024-04-10 06:31:10) [main] INFO         splashscreen - splashscreen disabled
+509 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO        q.io.lockFile - Locked C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\_lock_
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - exe4j.consoleCodepage              : "cp850"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - exe4j.launchName                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin\\smartgitc.exe"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - exe4j.moduleName                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin\\smartgitc.exe"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - exe4j.semaphoreName                : "Local\\c:_users_cbrootz_scoop_apps_smartgit_22.1.7_bin_smartgitc.exe0"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - exe4j.tempDir                      : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp\\e4jA272.tmp_dir1712723468"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - exe4j.unextractedPosition          : "606861"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - file.encoding                      : "Cp1252"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - file.separator                     : "\\"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - install4j.exeDir                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin\\"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.class.path                    : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp\\e4jA272.tmp_dir1712723468\\exe4jlib.jar;C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin\\..\\lib\\bootloader.jar"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.class.version                 : "61.0"
+531 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.home                          : "c:\\users\\cbrootz\\scoop\\apps\\smartgit\\22.1.7\\jre"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.io.tmpdir                     : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp\\"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.library.path                  : "c:\\users\\cbrootz\\scoop\\apps\\smartgit\\22.1.7\\jre\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Advanced TIFF Editor;C:\\ProgramData\\scoop\\shims;C:\\Users\\Användaren\\scoop\\apps\\python\\current\\Scripts;C:\\Users\\Användaren\\scoop\\apps\\python\\current;C:\\Users\\chris\\scoop\\shims;C:\\Users\\Användaren\\scoop\\shims;C:\\Users\\Användaren\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Användaren\\AppData\\Local\\Microsoft\\WindowsApps"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.net.preferIPv4Stack           : "true"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.runtime.name                  : "OpenJDK Runtime Environment"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.runtime.version               : "17.0.2+8-LTS"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.specification.name            : "Java Platform API Specification"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.specification.vendor          : "Oracle Corporation"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.specification.version         : "17"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.util.logging.config.file      : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings\\logger.properties"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vendor                        : "Azul Systems, Inc."
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vendor.url                    : "http://www.azul.com/"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vendor.url.bug                : "http://www.azul.com/support/"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vendor.version                : "Zulu17.32+13-CA"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.version                       : "17.0.2"
+532 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.version.date                  : "2022-01-18"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vm.compressedOopsMode         : "32-bit"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vm.info                       : "mixed mode"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vm.name                       : "OpenJDK 64-Bit Server VM"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vm.specification.name         : "Java Virtual Machine Specification"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vm.specification.vendor       : "Oracle Corporation"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vm.specification.version      : "17"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vm.vendor                     : "Azul Systems, Inc."
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - java.vm.version                    : "17.0.2+8-LTS"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - jdk.debug                          : "release"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - jna.boot.library.path              : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings\\jna-tmp\\com\\sun\\jna\\win32-x86-64;"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - jna.loaded                         : "true"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - jna.nounpack                       : "true"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - jnidispatch.path                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings\\jna-tmp\\com\\sun\\jna\\win32-x86-64\\jnidispatch.dll"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - line.separator                     : "\r\n"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - native.encoding                    : "Cp1252"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - org.eclipse.swt.internal.deviceZoom: "100"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - os.arch                            : "amd64"
+533 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - os.name                            : "Windows 10"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - os.version                         : "10.0"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - path.separator                     : ";"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - smartboot.classSource              : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\lib\\bootloader.jar"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - smartboot.sourceDirectory          : ".updates"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - smartgit.installation              : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - smartgit.settings                  : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.arch.data.model                : "64"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.boot.library.path              : "c:\\users\\cbrootz\\scoop\\apps\\smartgit\\22.1.7\\jre\\bin"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.cpu.endian                     : "little"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.cpu.isalist                    : "amd64"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.io.unicode.encoding            : "UnicodeLittle"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.java.command                   : "SmartGit"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.jnu.encoding                   : "Cp1252"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.management.compiler            : "HotSpot 64-Bit Tiered Compilers"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.os.patch.level                 : ""
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.stderr.encoding                : "cp850"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - sun.stdout.encoding                : "cp850"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - swt.autoScale                      : "false"
+534 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - swt.library.path                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings\\swt.tmp"
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - user.country                       : "SE"
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - user.dir                           : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin"
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - user.home                          : "C:\\Users\\Användaren"
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - user.language                      : "sv"
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - user.name                          : "Användaren"
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - user.script                        : ""
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - user.timezone                      : "Europe/Stockholm"
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - user.variant                       : ""
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - Environment variables:
+535 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - =::                            : "::\\"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - __COMPAT_LAYER                 : "Installer"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - ALLUSERSPROFILE                : "C:\\ProgramData"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - APPDATA                        : "C:\\Users\\Användaren\\AppData\\Roaming"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - ChocolateyInstall              : "C:\\ProgramData\\chocolatey"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - ChocolateyLastPathUpdate       : "133420471738575435"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - CommonProgramFiles             : "C:\\Program Files\\Common Files"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - CommonProgramFiles(x86)        : "C:\\Program Files (x86)\\Common Files"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - CommonProgramW6432             : "C:\\Program Files\\Common Files"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - COMPUTERNAME                   : "DESKTOP-FIQ183H"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - ComSpec                        : "C:\\WINDOWS\\system32\\cmd.exe"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - DriverData                     : "C:\\Windows\\System32\\Drivers\\DriverData"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - FPS_BROWSER_APP_PROFILE_STRING : "Internet Explorer"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - FPS_BROWSER_USER_PROFILE_STRING: "Default"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - HOMEDRIVE                      : "C:"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - HOMEPATH                       : "\\Users\\Användaren"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - LOCALAPPDATA                   : "C:\\Users\\Användaren\\AppData\\Local"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - LOGONSERVER                    : "\\\\DESKTOP-FIQ183H"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - NUMBER_OF_PROCESSORS           : "12"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - OneDrive                       : "C:\\Users\\Användaren\\OneDrive"
+536 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - OS                             : "Windows_NT"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - Path                           : "c:\\users\\cbrootz\\scoop\\apps\\smartgit\\22.1.7\\jre\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Advanced TIFF Editor;C:\\ProgramData\\scoop\\shims;C:\\Users\\Användaren\\scoop\\apps\\python\\current\\Scripts;C:\\Users\\Användaren\\scoop\\apps\\python\\current;C:\\Users\\chris\\scoop\\shims;C:\\Users\\Användaren\\scoop\\shims;C:\\Users\\Användaren\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Användaren\\AppData\\Local\\Microsoft\\WindowsApps"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - PATHEXT                        : ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - PROCESSOR_ARCHITECTURE         : "AMD64"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - PROCESSOR_IDENTIFIER           : "AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - PROCESSOR_LEVEL                : "25"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - PROCESSOR_REVISION             : "2100"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - ProgramData                    : "C:\\ProgramData"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - ProgramFiles                   : "C:\\Program Files"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - ProgramFiles(x86)              : "C:\\Program Files (x86)"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - ProgramW6432                   : "C:\\Program Files"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - PSModulePath                   : "C:\\Users\\Användaren\\scoop\\modules;C:\\Users\\Användaren\\Documents\\WindowsPowerShell\\Modules"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - PUBLIC                         : "C:\\Users\\Public"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - SCOOP                          : "C:\\Users\\Användaren\\scoop"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - SystemDrive                    : "C:"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - SystemRoot                     : "C:\\WINDOWS"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - TEMP                           : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - TMP                            : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - USERDOMAIN                     : "DESKTOP-FIQ183H"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - USERDOMAIN_ROAMINGPROFILE      : "DESKTOP-FIQ183H"
+537 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - USERNAME                       : "Användaren"
+538 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - USERPROFILE                    : "C:\\Users\\Användaren"
+538 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - windir                         : "C:\\WINDOWS"
+538 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - class loader: java.net.URLClassLoader
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\lz4-1.3.0.jar.c708bb2590c0652a642236ef45d9f99ff842a2ce
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\sequence-library.jar.3bcf12fa805a735bb26369cd66c5933767c026de
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\sqljet.jar.ede7fbabd4c96d34e48fda0e8feced24c98cedca
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jna-5.10.0.jar.7cf4c87dd802db50721db66947aa237d7ad09418
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jna-platform-5.10.0.jar.fbed7d9669dba47714ad0d4f4454290a997aee69
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\trilead.jar.b24684bb47ebacac79974892e7362ab59603d8c5
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jsch.jar.bad95e97cd0043f20d379cd81d36fcc3925da676
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\slf4j-api-1.7.25.jar.da76ca59f6a57ee3102f8f9bd9cee742973efa8a
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\bcpkix-jdk15on-1.70.jar.f81e5af49571a9d5a109a88f239a73ce87055417
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\bcprov-jdk15on-1.70.jar.4636a0d01f74acaf28082fb62b317f1080118371
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\eddsa-0.3.0.jar.1901c8d4d8bffb7d79027686cfb91e704217c3e1
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jzlib-1.1.3.jar.c01428efa717624f7aabf4df319939dda9646b2d
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\sshj.jar.c13eda7adebf154867b8846a0644ca2403caee5a
+539 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\javaewah.jar.94ad16d728b374d65bd897625f3fbb3da223a2b6
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\slf4j-jdk14-1.7.25.jar.3ab6ba54b981be5a5fc42835ad6b28ef77c009bd
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\json_simple-1.1.jar.5e303a03d04e6788dddfa3655272580ae0fc13bb
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\snakeyaml.jar.96659ac7266a21b8c4e75124188d19270ff70e89
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jopt-simple-3.2.jar.d625f12ba08083c8c16dcedd5396ec730e9e77ab
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\antlr-runtime-4.7.2.jar.e27d8ab4f984f9d186f54da984a6ab1cccac755e
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jmyspell-core.jar.98bd2694a57813ea24ad6a8abdd81cdb6ee804d6
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\autolink-0.6.0.jar.3986d016a14e8c81afeec752f19af29b20e8367b
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark.jar.76054c61ed02be62c43c69bc639d80da5ef78ba4
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-ext-autolink.jar.51cbdaa8d9cbb320ff45c19c3503ed673e27e815
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-ext-gfm-issues.jar.e846df81062e9663ebdd8431bde74b8e703692fd
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-ext-gfm-strikethrough.jar.3cf1a9f7ef457446f39df47251a1eefc52dfc1d9
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-ext-gfm-users.jar.276f085aabb29e93222965823cf62c4c53be940a
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-util.jar.1e472cac44ad3a023c2447ea11ca8a873254ef2c
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\bootloader-config.jar.003643e2e4a61643531175d0c44f626946d6b044
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jgit.jar.847891203978a717a995391ccfa25c97374b6bed
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\svnkit.jar.0d855f0f2203093524b11146dfe2e5a17aae5e15
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\smartgit.jar.591072e8ab4593d3e71615c1c0c37716ccffa244
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\org.eclipse.swt.win32.win32.x86_64.jar.0ba45aa1d7f3d27b051bc6e7af7f8de8297264a8
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - parent class loader: java.net.URLClassLoader
+540 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - parent class loader: jdk.internal.loader.ClassLoaders$AppClassLoader
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - Max memory: 1024m
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - Max processors: 12
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - VM options:
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Dexe4j.semaphoreName=Local\c:_users_cbrootz_scoop_apps_smartgit_22.1.7_bin_smartgitc.exe0
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Dexe4j.moduleName=C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\bin\smartgitc.exe
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Dexe4j.tempDir=C:\Users\ANVNDA~1\AppData\Local\Temp\e4jA272.tmp_dir1712723468
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Dexe4j.unextractedPosition=606861
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Djava.library.path=c:\users\cbrootz\scoop\apps\smartgit\22.1.7\jre\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Advanced TIFF Editor;C:\ProgramData\scoop\shims;C:\Users\Användaren\scoop\apps\python\current\Scripts;C:\Users\Användaren\scoop\apps\python\current;C:\Users\chris\scoop\shims;C:\Users\Användaren\scoop\shims;C:\Users\Användaren\AppData\Local\Microsoft\WindowsApps;C:\Users\Användaren\AppData\Local\Microsoft\WindowsApps
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Dexe4j.consoleCodepage=cp850
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Xms48m
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Xmx1024m
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -XX:+UseG1GC
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -XX:MaxGCPauseMillis=100
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -XX:InitiatingHeapOccupancyPercent=25
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -XX:MaxJavaStackTraceDepth=1000000
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -XX:ErrorFile=C:\Users\Användaren\AppData\Roaming\syntevo\SmartGit\22.1\hs_err_pid%p.log
+541 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Dsmartboot.sourceDirectory=.updates
+542 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -Dsmartgit.settings=${smartgit.installation}\.settings
+542 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system -   -XX:ErrorFile=C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\bin\..\.settings\hs_err_pid%p.log
+562 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO smartgit.core.repository - Git implementation: built-in
+673 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\preferences.yml
+763 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\std.yml
+765 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\accelerators.yml
+768 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\repository-grouping.yml
+770 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\repositories.yml
+774 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\ui-config.yml
+780 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\ui-state.yml
+785 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\devops.yml
+807 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\hosting-providers.yml
+810 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\credentials.yml
+812 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\tools.yml
+815 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\notifications.yml
+815 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO    smartgit.settings - First used on 2024-04-10
+815 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO    smartgit.settings - Settings were not upgraded before
+834 (2024-04-10 06:31:10) [main] INFO                theme - Loading theme auto
+854 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.system - created temp directory C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit14563476933556608649
+858 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO sc.file.monitor.main - Using Win32 filemonitor
+879 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO        q.io.lockFile - Locked C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.prelock
+880 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO        q.io.lockFile - Locked C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.postlock
+880 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO      smartgit.server - Server is connected to 4332.
+880 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO        q.io.lockFile - Locked C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.lock
+883 (2024-04-10 06:31:10) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0)] INFO              startup - machine ids: [wmg,It5gGTVKxjvI2YMm, wpi,2z93gwgQ9nRQXoF1C, wvi,2WpxcNV7p9VJsfocR]
+914 (2024-04-10 06:31:11) [main] INFO             q.dialog - Showing dialog 0 (@66AC5762) '@3A12C404 - Setup SmartGit' (owner: null)
+929 (2024-04-10 06:31:11) [ThreadPool-1 (smartgit.bSM$$Lambda$143/0x0000000100294900)] INFO    repository.search - Starting repository search
+982 (2024-04-10 06:31:11) [main] INFO        q.radioButton - radio button 'Use SmartGit as SSH client' selected in org.eclipse.swt.widgets.Shell@66AC5762:Shell {Setup SmartGit} [layout=FillLayout {type=SWT.HORIZONTAL}]
+986 (2024-04-10 06:31:11) [main] INFO        q.radioButton - radio button 'Undecided' selected in org.eclipse.swt.widgets.Shell@66AC5762:Shell {Setup SmartGit} [layout=FillLayout {type=SWT.HORIZONTAL}]
+1s 40 (2024-04-10 06:31:11) [main] INFO             q.wizard - Showing page: License
+1s 42 (2024-04-10 06:31:11) [main] INFO             q.wizard - message (false@3A12C404 - Setup SmartGit): null
+1s 70 (2024-04-10 06:31:11) [main] INFO q.swt.shellActivation - Activation change from null to dlg"Setup SmartGit"smartgit.bSM@66AC5762
+1s 70 (2024-04-10 06:31:11) [main] INFO             q.wizard - message (false@3A12C404 - Setup SmartGit): null
+3s 49 (2024-04-10 06:31:13) [main] INFO             q.wizard - message (true@3A12C404 - Setup SmartGit): null
+5s286 (2024-04-10 06:31:15) [main] INFO             q.wizard - message (false@3A12C404 - Setup SmartGit): null
+5s815 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\accelerators.yml
+5s840 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\devops.yml
+5s841 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\credentials.yml
+5s843 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\hosting-providers.yml
+5s845 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\notifications.yml
+5s847 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\preferences.yml
+5s859 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\repositories.yml
+5s861 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\repository-grouping.yml
+5s862 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\tools.yml
+5s864 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\usage-stats.yml
+5s867 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\ui-config.yml
+5s871 (2024-04-10 06:31:15) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\ui-state.yml
+7s121 (2024-04-10 06:31:17) [main] INFO             q.action - Clicked button  in window @66AC5762
+7s121 (2024-04-10 06:31:17) [main] INFO             q.action - Performing ', Choose...'
+7s318 (2024-04-10 06:31:17) [main] INFO q.swt.shellActivation - Activation change from dlg"Setup SmartGit"smartgit.bSM@66AC5762 to null
+29s537 (2024-04-10 06:31:39) [deadlock-detector] SEVERE      smartgit.system - Thread-dump:
+Command-Server:
+	java.base@17.0.2/sun.nio.ch.Net.accept(Native Method)
+	java.base@17.0.2/sun.nio.ch.ServerSocketChannelImpl.implAccept(ServerSocketChannelImpl.java:425)
+	java.base@17.0.2/sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:391)
+	smartgit.anF.a(SourceFile:42)
+	smartgit.agE.run(SourceFile:28)
+Common-Cleaner:
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	java.base@17.0.2/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+	java.base@17.0.2/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+File monitor listener notifier:
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.lang.Object.wait(Object.java:338)
+	smartgit.agK.a(SourceFile:15)
+	smartgit.aoL.a(SourceFile:186)
+	smartgit.aou.c(SourceFile:315)
+	smartgit.aow.a(SourceFile:138)
+	smartgit.agE.run(SourceFile:28)
+Finalizer:
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	java.base@17.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	java.base@17.0.2/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)
+Reference Handler:
+	java.base@17.0.2/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	java.base@17.0.2/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+	java.base@17.0.2/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0):
+	java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:211)
+	java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:715)
+	java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireShared(AbstractQueuedSynchronizer.java:1027)
+	java.base@17.0.2/java.util.concurrent.Semaphore.acquireUninterruptibly(Semaphore.java:341)
+	smartgit.SN.b(SourceFile:92)
+	smartgit.SN.a(SourceFile:52)
+	smartgit.SN.a(SourceFile:19)
+	com.syntevo.smartgit.q.a(SourceFile:1441)
+	com.syntevo.smartgit.q.a(SourceFile:644)
+	com.syntevo.smartgit.q.b(SourceFile:437)
+	com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0.run(Unknown Source)
+	smartgit.agJ.run(SourceFile:73)
+ThreadPool-1 (smartgit.bSM$$Lambda$143/0x0000000100294900):
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.lang.Object.wait(Object.java:338)
+	org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:200)
+	org.eclipse.swt.widgets.Display.syncExec(Display.java:4799)
+	smartgit.OR.a(SourceFile:479)
+	smartgit.OR.a(SourceFile:155)
+	smartgit.WY.d(SourceFile:117)
+	smartgit.WY.b(SourceFile:95)
+	smartgit.Xa.a(SourceFile:54)
+	smartgit.bSC.a(SourceFile:107)
+	smartgit.ha.a(SourceFile:148)
+	smartgit.ha.a(SourceFile:185)
+	smartgit.ha.a(SourceFile:110)
+	smartgit.bSM.o(SourceFile:98)
+	smartgit.bSM$$Lambda$143/0x0000000100294900.run(Unknown Source)
+	smartgit.agJ.run(SourceFile:73)
+Timer-0:
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.util.TimerThread.mainLoop(Timer.java:563)
+	java.base@17.0.2/java.util.TimerThread.run(Timer.java:516)
+deadlock-detector:
+	java.base@17.0.2/java.lang.Thread.dumpThreads(Native Method)
+	java.base@17.0.2/java.lang.Thread.getAllStackTraces(Thread.java:1662)
+	smartgit.aiz.a(SourceFile:965)
+	smartgit.aiD.run(SourceFile:830)
+main:
+	org.eclipse.swt.internal.ole.win32.COM.VtblCall(Native Method)
+	org.eclipse.swt.internal.ole.win32.IFileDialog.Show(IFileDialog.java:25)
+	org.eclipse.swt.widgets.FileDialog.open(FileDialog.java:319)
+	smartgit.Up.a(SourceFile:102)
+	smartgit.Up.a(SourceFile:56)
+	smartgit.Us.a(SourceFile:54)
+	smartgit.UZ.a(SourceFile:46)
+	smartgit.TZ.a(SourceFile:34)
+	smartgit.Uh.a(SourceFile:30)
+	smartgit.Qo.run(SourceFile:111)
+	smartgit.Qt.a(SourceFile:51)
+	smartgit.Qt$$Lambda$151/0x00000001002a0d68.handleEvent(Unknown Source)
+	org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	org.eclipse.swt.widgets.Display.sendEvent(Display.java:4257)
+	org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4074)
+	org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3651)
+	smartgit.OR.d(SourceFile:245)
+	com.syntevo.smartgit.q.a(SourceFile:448)
+	com.syntevo.smartgit.q.a(SourceFile:290)
+	smartgit.aje.b(SourceFile:68)
+	com.syntevo.smartgit.SmartGit.main(SourceFile:11)
+	java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	java.base@17.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.base@17.0.2/java.lang.reflect.Method.invoke(Method.java:568)
+	app//com.syntevo.QBootLoader.main(SourceFile:115)
+	java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	java.base@17.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.base@17.0.2/java.lang.reflect.Method.invoke(Method.java:568)
+	app//com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:84)
+	app//com.exe4j.runtime.WinLauncher.main(WinLauncher.java:94)
+
+43s539 (2024-04-10 06:31:53) [deadlock-detector] SEVERE      smartgit.system - Thread-dump:
+Command-Server:
+	java.base@17.0.2/sun.nio.ch.Net.accept(Native Method)
+	java.base@17.0.2/sun.nio.ch.ServerSocketChannelImpl.implAccept(ServerSocketChannelImpl.java:425)
+	java.base@17.0.2/sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:391)
+	smartgit.anF.a(SourceFile:42)
+	smartgit.agE.run(SourceFile:28)
+Common-Cleaner:
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	java.base@17.0.2/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	java.base@17.0.2/java.lang.Thread.run(Thread.java:833)
+	java.base@17.0.2/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+File monitor listener notifier:
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.lang.Object.wait(Object.java:338)
+	smartgit.agK.a(SourceFile:15)
+	smartgit.aoL.a(SourceFile:186)
+	smartgit.aou.c(SourceFile:315)
+	smartgit.aow.a(SourceFile:138)
+	smartgit.agE.run(SourceFile:28)
+Finalizer:
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	java.base@17.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	java.base@17.0.2/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)
+Reference Handler:
+	java.base@17.0.2/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	java.base@17.0.2/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+	java.base@17.0.2/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0):
+	java.base@17.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	java.base@17.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:211)
+	java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:715)
+	java.base@17.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireShared(AbstractQueuedSynchronizer.java:1027)
+	java.base@17.0.2/java.util.concurrent.Semaphore.acquireUninterruptibly(Semaphore.java:341)
+	smartgit.SN.b(SourceFile:92)
+	smartgit.SN.a(SourceFile:52)
+	smartgit.SN.a(SourceFile:19)
+	com.syntevo.smartgit.q.a(SourceFile:1441)
+	com.syntevo.smartgit.q.a(SourceFile:644)
+	com.syntevo.smartgit.q.b(SourceFile:437)
+	com.syntevo.smartgit.q$$Lambda$84/0x00000001001bdbd0.run(Unknown Source)
+	smartgit.agJ.run(SourceFile:73)
+ThreadPool-1 (smartgit.bSM$$Lambda$143/0x0000000100294900):
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.lang.Object.wait(Object.java:338)
+	org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:200)
+	org.eclipse.swt.widgets.Display.syncExec(Display.java:4799)
+	smartgit.OR.a(SourceFile:479)
+	smartgit.OR.a(SourceFile:155)
+	smartgit.WY.d(SourceFile:117)
+	smartgit.WY.b(SourceFile:95)
+	smartgit.Xa.a(SourceFile:54)
+	smartgit.bSC.a(SourceFile:107)
+	smartgit.ha.a(SourceFile:148)
+	smartgit.ha.a(SourceFile:185)
+	smartgit.ha.a(SourceFile:110)
+	smartgit.bSM.o(SourceFile:98)
+	smartgit.bSM$$Lambda$143/0x0000000100294900.run(Unknown Source)
+	smartgit.agJ.run(SourceFile:73)
+Timer-0:
+	java.base@17.0.2/java.lang.Object.wait(Native Method)
+	java.base@17.0.2/java.util.TimerThread.mainLoop(Timer.java:563)
+	java.base@17.0.2/java.util.TimerThread.run(Timer.java:516)
+deadlock-detector:
+	java.base@17.0.2/java.lang.Thread.dumpThreads(Native Method)
+	java.base@17.0.2/java.lang.Thread.getAllStackTraces(Thread.java:1662)
+	smartgit.aiz.a(SourceFile:965)
+	smartgit.aiD.run(SourceFile:830)
+main:
+	org.eclipse.swt.internal.ole.win32.COM.VtblCall(Native Method)
+	org.eclipse.swt.internal.ole.win32.IFileDialog.Show(IFileDialog.java:25)
+	org.eclipse.swt.widgets.FileDialog.open(FileDialog.java:319)
+	smartgit.Up.a(SourceFile:102)
+	smartgit.Up.a(SourceFile:56)
+	smartgit.Us.a(SourceFile:54)
+	smartgit.UZ.a(SourceFile:46)
+	smartgit.TZ.a(SourceFile:34)
+	smartgit.Uh.a(SourceFile:30)
+	smartgit.Qo.run(SourceFile:111)
+	smartgit.Qt.a(SourceFile:51)
+	smartgit.Qt$$Lambda$151/0x00000001002a0d68.handleEvent(Unknown Source)
+	org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	org.eclipse.swt.widgets.Display.sendEvent(Display.java:4257)
+	org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4074)
+	org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3651)
+	smartgit.OR.d(SourceFile:245)
+	com.syntevo.smartgit.q.a(SourceFile:448)
+	com.syntevo.smartgit.q.a(SourceFile:290)
+	smartgit.aje.b(SourceFile:68)
+	com.syntevo.smartgit.SmartGit.main(SourceFile:11)
+	java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	java.base@17.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.base@17.0.2/java.lang.reflect.Method.invoke(Method.java:568)
+	app//com.syntevo.QBootLoader.main(SourceFile:115)
+	java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	java.base@17.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	java.base@17.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.base@17.0.2/java.lang.reflect.Method.invoke(Method.java:568)
+	app//com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:84)
+	app//com.exe4j.runtime.WinLauncher.main(WinLauncher.java:94)
+
+59s764 (2024-04-10 06:32:09) [main] INFO q.swt.shellActivation - Activation change from null to dlg"Setup SmartGit"smartgit.bSM@66AC5762
+1m 0s925 (2024-04-10 06:32:11) [main] INFO             q.action - Clicked button 'Exit' in window @66AC5762
+1m 0s925 (2024-04-10 06:32:11) [main] INFO             q.action - Performing ', Exit'
+1m 0s925 (2024-04-10 06:32:11) [main] INFO             q.dialog - Closing dialog with option Cancel - -1 - 0 (@66AC5762) '@3A12C404 - Setup SmartGit' (owner: null)
+1m 0s925 (2024-04-10 06:32:11) [main] INFO             q.dialog - Disposing dialog 0 (@66AC5762) '@3A12C404 - Setup SmartGit' (owner: null)
+1m 0s925 (2024-04-10 06:32:11) [main] INFO             q.dialog - Cleaned up dialog 0 (@66AC5762) '@3A12C404 - Setup SmartGit' (owner: null)
+1m 0s943 (2024-04-10 06:32:11) [main] INFO q.swt.shellActivation - Activation change from dlg"Setup SmartGit"smartgit.bSM@66AC5762 to null
+1m 0s943 (2024-04-10 06:32:11) [main] INFO             q.dialog - Close-handler for dialog 0 (@66AC5762) '@3A12C404 - Setup SmartGit' (owner: null)
+1m 0s944 (2024-04-10 06:32:11) [main] INFO             q.dialog - Showed dialog 0 (@66AC5762) '@3A12C404 - Setup SmartGit' (owner: null) (Cancel - -1)
+1m 0s944 (2024-04-10 06:32:11) [main] INFO                  swt - got display's dispose event
+1m 0s945 (2024-04-10 06:32:11) [main] INFO             shutdown - Starting 6 shutdown hooks
+1m 0s945 (2024-04-10 06:32:11) [main] INFO             shutdown - Running hook Lock file C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.lock
+1m 0s945 (2024-04-10 06:32:11) [shutdown-hook] INFO             shutdown - Starting 0 shutdown hooks
+1m 0s945 (2024-04-10 06:32:11) [main] INFO        q.io.lockFile - Releasing C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.lock
+ 44 (2024-05-05 19:07:59) [main] INFO      smartgit.system - SmartGit version 22.1.8-19294-b130df5d0fd1f7fa345fe25659616b3b52372ea2-jgit-f00d3006f8ca41dd3fa132ff967cc8d344ebc66d-trilead-?
+ 47 (2024-05-05 19:07:59) [main] INFO      smartgit.system - SmartGit running build 19294
+ 47 (2024-05-05 19:07:59) [main] INFO      smartgit.system - SmartGit installed build 19285
+ 49 (2024-05-05 19:07:59) [main] INFO      smartgit.system - SVNKit version SVN/1.8.1 SVNKit/1.10.0 (http://svnkit.com/) rSNAPSHOT
+ 49 (2024-05-05 19:07:59) [main] INFO sc.command.line.parameters - 0 command line parameters:
+ 49 (2024-05-05 19:07:59) [main] INFO      smartgit.system - application root: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7
+ 49 (2024-05-05 19:07:59) [main] INFO      smartgit.system - defaults root   : C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\default
+ 50 (2024-05-05 19:07:59) [main] INFO      smartgit.system - settings root   : C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings
+ 50 (2024-05-05 19:07:59) [main] INFO      smartgit.system - .app directory  : null
+383 (2024-05-05 19:07:59) [main] INFO              gui.swt - Using SWT 4954
+384 (2024-05-05 19:07:59) [main] INFO           q.ui.utils - Display reported DPI: 96x96
+384 (2024-05-05 19:07:59) [main] INFO           q.ui.utils - dpiFactor from DPI: 1
+384 (2024-05-05 19:07:59) [main] INFO           q.ui.utils - dpiFactor from device zoom: 1
+384 (2024-05-05 19:07:59) [main] INFO           q.ui.utils - Using dpiFactor: 1
+387 (2024-05-05 19:07:59) [main] INFO              gui.swt - Monitors:
+388 (2024-05-05 19:07:59) [main] INFO              gui.swt -   1920x1080(0,0 - 1919,1079)
+388 (2024-05-05 19:07:59) [main] INFO              gui.swt -   1200x1920(1920,-698 - 3119,1221)
+474 (2024-05-05 19:07:59) [main] INFO         splashscreen - splashscreen disabled
+537 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO        q.io.lockFile - Locked C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\_lock_
+560 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - exe4j.consoleCodepage              : "cp0"
+560 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - exe4j.launchName                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin\\smartgit.exe"
+560 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - exe4j.moduleName                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin\\smartgit.exe"
+560 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - exe4j.semaphoreName                : "Local\\c:_users_cbrootz_scoop_apps_smartgit_22.1.7_bin_smartgit.exe0"
+560 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - exe4j.tempDir                      : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp\\e4jE0C7.tmp_dir1714928877"
+560 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - exe4j.unextractedPosition          : "606861"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - file.encoding                      : "Cp1252"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - file.separator                     : "\\"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - install4j.exeDir                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin\\"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.class.path                    : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp\\e4jE0C7.tmp_dir1714928877\\exe4jlib.jar;C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin\\..\\lib\\bootloader.jar"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.class.version                 : "61.0"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.home                          : "c:\\users\\cbrootz\\scoop\\apps\\smartgit\\22.1.7\\jre"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.io.tmpdir                     : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp\\"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.library.path                  : "c:\\users\\cbrootz\\scoop\\apps\\smartgit\\22.1.7\\jre\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Python310\\Scripts\\;C:\\Python310\\;C:\\ProgramData\\scoop\\apps\\gsudo\\current\\.;C:\\ProgramData\\scoop\\shims;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Advanced TIFF Editor;C:\\Program Files\\OpenJDK\\jdk-21.0.2\\bin;;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Users\\Användaren\\scoop\\apps\\vscodium\\current\\bin;C:\\Users\\Användaren\\scoop\\apps\\ruby\\current\\bin;C:\\Users\\Användaren\\scoop\\apps\\ruby\\current\\gems\\bin;C:\\Users\\Användaren\\scoop\\apps\\gsudo\\current;C:\\Users\\Användaren\\scoop\\apps\\nodejs\\current\\bin;C:\\Users\\Användaren\\scoop\\apps\\nodejs\\current;C:\\ProgramData\\scoop\\shims;C:\\Users\\Användaren\\scoop\\apps\\python\\current;C:\\Users\\chris\\scoop\\shims;C:\\Users\\Användaren\\scoop\\shims;C:\\Users\\Användaren\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Användaren\\AppData\\Local\\Microsoft\\WindowsApps"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.net.preferIPv4Stack           : "true"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.runtime.name                  : "OpenJDK Runtime Environment"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.runtime.version               : "17.0.2+8-LTS"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.specification.name            : "Java Platform API Specification"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.specification.vendor          : "Oracle Corporation"
+561 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.specification.version         : "17"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.util.logging.config.file      : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings\\logger.properties"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vendor                        : "Azul Systems, Inc."
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vendor.url                    : "http://www.azul.com/"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vendor.url.bug                : "http://www.azul.com/support/"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vendor.version                : "Zulu17.32+13-CA"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.version                       : "17.0.2"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.version.date                  : "2022-01-18"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vm.compressedOopsMode         : "32-bit"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vm.info                       : "mixed mode"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vm.name                       : "OpenJDK 64-Bit Server VM"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vm.specification.name         : "Java Virtual Machine Specification"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vm.specification.vendor       : "Oracle Corporation"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vm.specification.version      : "17"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vm.vendor                     : "Azul Systems, Inc."
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - java.vm.version                    : "17.0.2+8-LTS"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - jdk.debug                          : "release"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - jna.boot.library.path              : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings\\jna-tmp\\com\\sun\\jna\\win32-x86-64;"
+562 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - jna.loaded                         : "true"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - jna.nounpack                       : "true"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - jnidispatch.path                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings\\jna-tmp\\com\\sun\\jna\\win32-x86-64\\jnidispatch.dll"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - line.separator                     : "\r\n"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - native.encoding                    : "Cp1252"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - org.eclipse.swt.internal.deviceZoom: "100"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - os.arch                            : "amd64"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - os.name                            : "Windows 10"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - os.version                         : "10.0"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - path.separator                     : ";"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - smartboot.classSource              : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\lib\\bootloader.jar"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - smartboot.sourceDirectory          : ".updates"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - smartgit.installation              : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - smartgit.settings                  : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.arch.data.model                : "64"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.boot.library.path              : "c:\\users\\cbrootz\\scoop\\apps\\smartgit\\22.1.7\\jre\\bin"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.cpu.endian                     : "little"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.cpu.isalist                    : "amd64"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.io.unicode.encoding            : "UnicodeLittle"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.java.command                   : "SmartGit"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.jnu.encoding                   : "Cp1252"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.management.compiler            : "HotSpot 64-Bit Tiered Compilers"
+563 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - sun.os.patch.level                 : ""
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - swt.autoScale                      : "false"
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - swt.library.path                   : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\.settings\\swt.tmp"
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - user.country                       : "SE"
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - user.dir                           : "C:\\Users\\CbRootz\\scoop\\apps\\smartgit\\22.1.7\\bin"
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - user.home                          : "C:\\Users\\Användaren"
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - user.language                      : "sv"
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - user.name                          : "Användaren"
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - user.script                        : ""
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - user.timezone                      : "Europe/Stockholm"
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - user.variant                       : ""
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - Environment variables:
+564 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - =::                      : "::\\"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - __COMPAT_LAYER           : "DetectorsAppHealth"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - ALLUSERSPROFILE          : "C:\\ProgramData"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - APPDATA                  : "C:\\Users\\Användaren\\AppData\\Roaming"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - ChocolateyInstall        : "C:\\ProgramData\\chocolatey"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - ChocolateyLastPathUpdate : "133575709263105633"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - CommonProgramFiles       : "C:\\Program Files\\Common Files"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - CommonProgramFiles(x86)  : "C:\\Program Files (x86)\\Common Files"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - CommonProgramW6432       : "C:\\Program Files\\Common Files"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - COMPUTERNAME             : "DESKTOP-FIQ183H"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - ComSpec                  : "C:\\WINDOWS\\system32\\cmd.exe"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - DriverData               : "C:\\Windows\\System32\\Drivers\\DriverData"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - GEM_HOME                 : "C:\\Users\\Användaren\\scoop\\apps\\ruby\\current\\gems"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - GEM_PATH                 : "C:\\Users\\Användaren\\scoop\\apps\\ruby\\current\\gems"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - HOMEDRIVE                : "C:"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - HOMEPATH                 : "\\Users\\Användaren"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - JAVA_HOME                : "C:\\Program Files\\OpenJDK\\jdk-21.0.2"
+565 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - LOCALAPPDATA             : "C:\\Users\\Användaren\\AppData\\Local"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - LOGONSERVER              : "\\\\DESKTOP-FIQ183H"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - NUMBER_OF_PROCESSORS     : "12"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - OneDrive                 : "C:\\Users\\Användaren\\OneDrive"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - OS                       : "Windows_NT"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - Path                     : "c:\\users\\cbrootz\\scoop\\apps\\smartgit\\22.1.7\\jre\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Python310\\Scripts\\;C:\\Python310\\;C:\\ProgramData\\scoop\\apps\\gsudo\\current\\.;C:\\ProgramData\\scoop\\shims;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Advanced TIFF Editor;C:\\Program Files\\OpenJDK\\jdk-21.0.2\\bin;;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Users\\Användaren\\scoop\\apps\\vscodium\\current\\bin;C:\\Users\\Användaren\\scoop\\apps\\ruby\\current\\bin;C:\\Users\\Användaren\\scoop\\apps\\ruby\\current\\gems\\bin;C:\\Users\\Användaren\\scoop\\apps\\gsudo\\current;C:\\Users\\Användaren\\scoop\\apps\\nodejs\\current\\bin;C:\\Users\\Användaren\\scoop\\apps\\nodejs\\current;C:\\ProgramData\\scoop\\shims;C:\\Users\\Användaren\\scoop\\apps\\python\\current;C:\\Users\\chris\\scoop\\shims;C:\\Users\\Användaren\\scoop\\shims;C:\\Users\\Användaren\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Användaren\\AppData\\Local\\Microsoft\\WindowsApps"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - PATHEXT                  : ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - PROCESSOR_ARCHITECTURE   : "AMD64"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - PROCESSOR_IDENTIFIER     : "AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - PROCESSOR_LEVEL          : "25"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - PROCESSOR_REVISION       : "2100"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - ProgramData              : "C:\\ProgramData"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - ProgramFiles             : "C:\\Program Files"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - ProgramFiles(x86)        : "C:\\Program Files (x86)"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - ProgramW6432             : "C:\\Program Files"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - PSModulePath             : "C:\\Users\\Användaren\\scoop\\modules;C:\\Users\\Användaren\\Documents\\WindowsPowerShell\\Modules"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - PUBLIC                   : "C:\\Users\\Public"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - SCOOP                    : "C:\\Users\\Användaren\\scoop"
+566 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - SESSIONNAME              : "Console"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - SystemDrive              : "C:"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - SystemRoot               : "C:\\WINDOWS"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - TEMP                     : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - TMP                      : "C:\\Users\\ANVNDA~1\\AppData\\Local\\Temp"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - USERDOMAIN               : "DESKTOP-FIQ183H"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - USERDOMAIN_ROAMINGPROFILE: "DESKTOP-FIQ183H"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - USERNAME                 : "Användaren"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - USERPROFILE              : "C:\\Users\\Användaren"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - windir                   : "C:\\WINDOWS"
+567 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - class loader: java.net.URLClassLoader
+568 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\lz4-1.3.0.jar.c708bb2590c0652a642236ef45d9f99ff842a2ce
+568 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\sequence-library.jar.3bcf12fa805a735bb26369cd66c5933767c026de
+568 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\sqljet.jar.ede7fbabd4c96d34e48fda0e8feced24c98cedca
+568 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jna-5.10.0.jar.7cf4c87dd802db50721db66947aa237d7ad09418
+568 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jna-platform-5.10.0.jar.fbed7d9669dba47714ad0d4f4454290a997aee69
+568 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\trilead.jar.b24684bb47ebacac79974892e7362ab59603d8c5
+568 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jsch.jar.bad95e97cd0043f20d379cd81d36fcc3925da676
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\slf4j-api-1.7.25.jar.da76ca59f6a57ee3102f8f9bd9cee742973efa8a
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\bcpkix-jdk15on-1.70.jar.f81e5af49571a9d5a109a88f239a73ce87055417
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\bcprov-jdk15on-1.70.jar.4636a0d01f74acaf28082fb62b317f1080118371
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\eddsa-0.3.0.jar.1901c8d4d8bffb7d79027686cfb91e704217c3e1
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jzlib-1.1.3.jar.c01428efa717624f7aabf4df319939dda9646b2d
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\sshj.jar.c13eda7adebf154867b8846a0644ca2403caee5a
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\javaewah.jar.94ad16d728b374d65bd897625f3fbb3da223a2b6
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\slf4j-jdk14-1.7.25.jar.3ab6ba54b981be5a5fc42835ad6b28ef77c009bd
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\json_simple-1.1.jar.5e303a03d04e6788dddfa3655272580ae0fc13bb
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\snakeyaml.jar.96659ac7266a21b8c4e75124188d19270ff70e89
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jopt-simple-3.2.jar.d625f12ba08083c8c16dcedd5396ec730e9e77ab
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\antlr-runtime-4.7.2.jar.e27d8ab4f984f9d186f54da984a6ab1cccac755e
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jmyspell-core.jar.98bd2694a57813ea24ad6a8abdd81cdb6ee804d6
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\autolink-0.6.0.jar.3986d016a14e8c81afeec752f19af29b20e8367b
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark.jar.76054c61ed02be62c43c69bc639d80da5ef78ba4
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-ext-autolink.jar.51cbdaa8d9cbb320ff45c19c3503ed673e27e815
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-ext-gfm-issues.jar.e846df81062e9663ebdd8431bde74b8e703692fd
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-ext-gfm-strikethrough.jar.3cf1a9f7ef457446f39df47251a1eefc52dfc1d9
+569 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-ext-gfm-users.jar.276f085aabb29e93222965823cf62c4c53be940a
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\flexmark-util.jar.1e472cac44ad3a023c2447ea11ca8a873254ef2c
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\bootloader-config.jar.003643e2e4a61643531175d0c44f626946d6b044
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\jgit.jar.847891203978a717a995391ccfa25c97374b6bed
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\svnkit.jar.0d855f0f2203093524b11146dfe2e5a17aae5e15
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\smartgit.jar.591072e8ab4593d3e71615c1c0c37716ccffa244
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.updates\repo\org.eclipse.swt.win32.win32.x86_64.jar.0ba45aa1d7f3d27b051bc6e7af7f8de8297264a8
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - parent class loader: java.net.URLClassLoader
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - parent class loader: jdk.internal.loader.ClassLoaders$AppClassLoader
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - Max memory: 1024m
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - Max processors: 12
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - VM options:
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dexe4j.semaphoreName=Local\c:_users_cbrootz_scoop_apps_smartgit_22.1.7_bin_smartgit.exe0
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dexe4j.moduleName=C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\bin\smartgit.exe
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dexe4j.tempDir=C:\Users\ANVNDA~1\AppData\Local\Temp\e4jE0C7.tmp_dir1714928877
+570 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dexe4j.unextractedPosition=606861
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Djava.library.path=c:\users\cbrootz\scoop\apps\smartgit\22.1.7\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python310\Scripts\;C:\Python310\;C:\ProgramData\scoop\apps\gsudo\current\.;C:\ProgramData\scoop\shims;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\Advanced TIFF Editor;C:\Program Files\OpenJDK\jdk-21.0.2\bin;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Användaren\scoop\apps\vscodium\current\bin;C:\Users\Användaren\scoop\apps\ruby\current\bin;C:\Users\Användaren\scoop\apps\ruby\current\gems\bin;C:\Users\Användaren\scoop\apps\gsudo\current;C:\Users\Användaren\scoop\apps\nodejs\current\bin;C:\Users\Användaren\scoop\apps\nodejs\current;C:\ProgramData\scoop\shims;C:\Users\Användaren\scoop\apps\python\current;C:\Users\chris\scoop\shims;C:\Users\Användaren\scoop\shims;C:\Users\Användaren\AppData\Local\Microsoft\WindowsApps;C:\Users\Användaren\AppData\Local\Microsoft\WindowsApps
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dexe4j.consoleCodepage=cp0
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Xms48m
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Xmx1024m
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -XX:+UseG1GC
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -XX:MaxGCPauseMillis=100
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -XX:InitiatingHeapOccupancyPercent=25
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -XX:MaxJavaStackTraceDepth=1000000
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -XX:ErrorFile=C:\Users\Användaren\AppData\Roaming\syntevo\SmartGit\22.1\hs_err_pid%p.log
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dsmartboot.sourceDirectory=.updates
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dsmartgit.settings=${smartgit.installation}\.settings
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -XX:ErrorFile=C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\bin\..\.settings\hs_err_pid%p.log
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dsmartboot.sourceDirectory=.updates
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -Dsmartgit.settings=${smartgit.installation}\.settings
+571 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system -   -XX:ErrorFile=C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\bin\..\.settings\hs_err_pid%p.log
+590 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO smartgit.core.repository - Git implementation: built-in
+840 (2024-05-05 19:07:59) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] WARNING        settings.yaml - file does not exist C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\std.yml
+948 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO    smartgit.settings - First used on 2024-04-10
+948 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO    smartgit.settings - Settings were not upgraded before
+962 (2024-05-05 19:08:00) [main] INFO                theme - Loading theme auto
+979 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.system - created temp directory C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit5561953811471499466
+983 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO sc.file.monitor.main - Using Win32 filemonitor
+1s  5 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO        q.io.lockFile - Locked C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.prelock
+1s  6 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO        q.io.lockFile - Locked C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.postlock
+1s  6 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO      smartgit.server - Server is connected to 4332.
+1s  6 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO        q.io.lockFile - Locked C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.lock
+1s  9 (2024-05-05 19:08:00) [ThreadPool-0 (com.syntevo.smartgit.q$$Lambda$84/0x00000001001be218)] INFO              startup - machine ids: [wmg,It5gGTVKxjvI2YMm, wpi,2z93gwgQ9nRQXoF1C, wvi,2WpxcNV7p9VJsfocR]
+1s 56 (2024-05-05 19:08:00) [main] INFO             q.dialog - Showing dialog 0 (@4FAD9BB2) '@38831718 - Setup SmartGit' (owner: null)
+1s 71 (2024-05-05 19:08:00) [ThreadPool-1 (smartgit.bSM$$Lambda$164/0x00000001002a7a48)] INFO    repository.search - Starting repository search
+1s140 (2024-05-05 19:08:00) [main] INFO        q.radioButton - radio button 'Use SmartGit as SSH client' selected in org.eclipse.swt.widgets.Shell@4FAD9BB2:Shell {Setup SmartGit} [layout=FillLayout {type=SWT.HORIZONTAL}]
+1s145 (2024-05-05 19:08:00) [main] INFO        q.radioButton - radio button 'Undecided' selected in org.eclipse.swt.widgets.Shell@4FAD9BB2:Shell {Setup SmartGit} [layout=FillLayout {type=SWT.HORIZONTAL}]
+1s212 (2024-05-05 19:08:00) [main] INFO             q.wizard - Showing page: License
+1s214 (2024-05-05 19:08:00) [main] INFO             q.wizard - message (false@38831718 - Setup SmartGit): null
+1s247 (2024-05-05 19:08:00) [main] INFO q.swt.shellActivation - Activation change from null to dlg"Setup SmartGit"smartgit.bSM@4FAD9BB2
+1s248 (2024-05-05 19:08:00) [main] INFO             q.wizard - message (false@38831718 - Setup SmartGit): null
+5s949 (2024-05-05 19:08:05) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\preferences.yml
+5s967 (2024-05-05 19:08:05) [Timer-0] INFO        settings.yaml - Writing yml file: C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\usage-stats.yml
+14s935 (2024-05-05 19:08:14) [main] INFO             q.action - Clicked button 'Exit' in window @4FAD9BB2
+14s936 (2024-05-05 19:08:14) [main] INFO             q.action - Performing ', Exit'
+14s936 (2024-05-05 19:08:14) [main] INFO             q.dialog - Closing dialog with option Cancel - -1 - 0 (@4FAD9BB2) '@38831718 - Setup SmartGit' (owner: null)
+14s936 (2024-05-05 19:08:14) [main] INFO             q.dialog - Disposing dialog 0 (@4FAD9BB2) '@38831718 - Setup SmartGit' (owner: null)
+14s936 (2024-05-05 19:08:14) [main] INFO             q.dialog - Cleaned up dialog 0 (@4FAD9BB2) '@38831718 - Setup SmartGit' (owner: null)
+14s948 (2024-05-05 19:08:14) [main] INFO q.swt.shellActivation - Activation change from dlg"Setup SmartGit"smartgit.bSM@4FAD9BB2 to null
+14s948 (2024-05-05 19:08:14) [main] INFO             q.dialog - Close-handler for dialog 0 (@4FAD9BB2) '@38831718 - Setup SmartGit' (owner: null)
+14s948 (2024-05-05 19:08:14) [main] INFO             q.dialog - Showed dialog 0 (@4FAD9BB2) '@38831718 - Setup SmartGit' (owner: null) (Cancel - -1)
+14s949 (2024-05-05 19:08:14) [main] INFO                  swt - got display's dispose event
+14s949 (2024-05-05 19:08:14) [main] INFO             shutdown - Starting 6 shutdown hooks
+14s949 (2024-05-05 19:08:14) [main] INFO             shutdown - Running hook Lock file C:\Users\CbRootz\scoop\apps\smartgit\22.1.7\.settings\DESKTOP-FIQ183H.port.lock
+14s949 (2024-05-05 19:08:14) [shutdown-hook] INFO             shutdown - Starting 0 shutdown hooks

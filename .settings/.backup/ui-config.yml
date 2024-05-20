@@ -4,8 +4,6 @@ toolbars:
     - {id: fetch}
     - {id: sync}
     - {id: push}
-    - {stretching: false}
-    - {id: commit}
     - {stretching: true}
     - {id: stage}
     - {id: indexEditor}

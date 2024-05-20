@@ -1,3 +1,2 @@
+global: []
 completionKeyStroke: CTRL+SPACE
-global:
-- {action: windowMaximizeRestore, keyStroke: ESC}
