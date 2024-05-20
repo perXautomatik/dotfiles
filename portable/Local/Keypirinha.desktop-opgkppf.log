@@ -1,0 +1,1479 @@
+2024-01-12 07:22:44.987 [i] Init done in 0.2989s, including 0.2148s (72%) for the Python interpreter.
+2024-01-12 07:22:44.987 [i] Plugin loaded: Internal.About
+2024-01-12 07:22:45.017 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-01-12 07:22:45.017 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-01-12 07:22:45.017 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-01-12 07:22:45.017 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-01-12 07:22:45.017 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-01-12 07:22:45.029 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-01-12 07:22:45.036 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-01-12 07:22:45.037 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-01-12 07:22:45.038 [i] Plugin loaded: Env.Env (instance #1)
+2024-01-12 07:22:45.041 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-01-12 07:22:45.043 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-01-12 07:22:45.052 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-01-12 07:22:45.062 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-01-12 07:22:45.065 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-01-12 07:22:45.066 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-01-12 07:22:45.068 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-01-12 07:22:45.072 [i] Plugin loaded: String.String (instance #1)
+2024-01-12 07:22:45.073 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-01-12 07:22:45.075 [i] Plugin loaded: URL.URL (instance #1)
+2024-01-12 07:22:45.077 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-01-12 07:22:45.080 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-01-12 07:22:45.082 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-01-12 07:22:45.084 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-01-12 07:22:45.127 [i] Apps.Desktop: Cataloged 9 items in 0.0 seconds
+2024-01-12 07:22:45.141 [i] Apps.StartMenu: Cataloged 341 items in 0.0 seconds
+2024-01-12 07:22:45.157 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-01-12 07:22:45.186 [i] Apps.EnvPath: Cataloged 1255 items in 0.1 seconds
+2024-01-12 07:52:42.698 [i] Application configuration has changed
+2024-01-12 08:17:36.333 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-01-12 08:17:36.677 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (75 packages)
+2024-01-12 08:18:14.169 [i] PackageControl.PackageControl: Installed package 'keypirinha-audioswitcher'
+2024-01-12 08:18:15.764 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-01-12 08:29:28.806 [i] PackageControl.PackageControl: Installed package 'Keypirinha-Plugin-Kill'
+2024-01-12 08:29:30.352 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-01-12 08:30:51.340 [i] PackageControl.PackageControl: Installed package 'Keypirinha-WindowsApps'
+2024-01-12 08:30:52.864 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-01-12 08:30:52.864 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-01-12 08:30:55.761 [i] WindowsApps.WindowsApps: Cataloged 15 items in 2.7 seconds
+2024-01-12 08:30:55.767 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 2.7 seconds
+2024-01-12 08:31:28.788 [i] PackageControl.PackageControl: Installed package 'keypirinha-shell'
+2024-01-12 08:31:30.296 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-01-12 08:31:55.490 [i] PackageControl.PackageControl: Installed package 'keypirinha-recent_items'
+2024-01-12 08:31:57.009 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-01-12 08:32:08.024 [i] PackageControl.PackageControl: Installed package 'Keypirinha-Git'
+2024-01-12 08:32:09.538 [i] Plugin loaded: Git.Git (instance #1)
+2024-01-12 08:32:09.659 [i] Git.Git: Rescanning 0 scan paths for repositories...
+2024-01-12 08:32:09.660 [i] Git.Git: Found 0 git repositories in 0.0 seconds (0 added, 0 removed)
+2024-01-12 08:33:32.071 [i] PackageControl.PackageControl: Installed package 'Steam'
+2024-01-12 08:33:33.586 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-01-12 08:33:34.605 [E] Error from Steam.Steam.on_catalog: <class 'FileNotFoundError'>: [WinError 3] The system cannot find the path specified: 'S:\\\\SteamLibrary\\steamapps'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 64, in on_catalog
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 125, in get_applist
+
+2024-01-12 08:55:25.354 [i] Environment changed.
+2024-01-12 08:55:25.365 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-01-12 08:55:25.414 [i] Apps.EnvPath: Cataloged 1236 items in 0.0 seconds
+2024-01-12 09:03:19.554 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-12 11:33:58.335 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-12 11:58:56.030 [i] Apps.Desktop: Cataloged 8 items in 0.0 seconds
+2024-01-13 18:45:56.873 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-14 21:10:07.019 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-14 23:37:25.223 [i] Apps.StartMenu: Cataloged 341 items in 0.0 seconds
+2024-01-14 23:46:03.918 [i] Apps.StartMenu: Cataloged 340 items in 0.0 seconds
+2024-01-14 23:46:15.776 [i] Apps.StartMenu: Cataloged 339 items in 0.0 seconds
+2024-01-14 23:51:08.292 [i] Apps.StartMenu: Cataloged 338 items in 0.0 seconds
+2024-01-14 23:51:17.201 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-14 23:54:49.828 [i] Apps.StartMenu: Cataloged 336 items in 0.0 seconds
+2024-01-14 23:55:53.422 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-16 10:15:51.135 [i] Apps.StartMenu: Cataloged 336 items in 0.0 seconds
+2024-01-16 18:28:55.525 [E] Error from AudioSwitcher.AudioSwitcher.on_suggest: <class 're.error'>: bad escape \P at position 2
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\AudioSwitcher.keypirinha-package\audioswitcher.py", line 48, in on_suggest
+  File "lib\re.py", line 183, in search
+  File "lib\re.py", line 286, in _compile
+  File "lib\sre_compile.py", line 764, in compile
+  File "lib\sre_parse.py", line 930, in parse
+  File "lib\sre_parse.py", line 426, in _parse_sub
+  File "lib\sre_parse.py", line 507, in _parse
+  File "lib\sre_parse.py", line 402, in _escape
+
+2024-01-16 18:55:57.296 [E] Error from AudioSwitcher.AudioSwitcher.on_suggest: <class 're.error'>: bad escape \P at position 2
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\AudioSwitcher.keypirinha-package\audioswitcher.py", line 48, in on_suggest
+  File "lib\re.py", line 183, in search
+  File "lib\re.py", line 286, in _compile
+  File "lib\sre_compile.py", line 764, in compile
+  File "lib\sre_parse.py", line 930, in parse
+  File "lib\sre_parse.py", line 426, in _parse_sub
+  File "lib\sre_parse.py", line 507, in _parse
+  File "lib\sre_parse.py", line 402, in _escape
+
+2024-01-16 21:21:00.007 [i] Python: Failed to execute C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Recent\AutoHotkey.ahk.lnk (action None). Error: file not found: "C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Recent\AutoHotkey.ahk.lnk" (initial path: "C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Recent\AutoHotkey.ahk.lnk")
+2024-01-16 21:21:00.010 [E] Error from RecentItems.RecentItems.on_execute: <class 'FileNotFoundError'>: [WinError 2] The system cannot find the file specified: 'C:\\Users\\CrRoot\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutoHotkey.ahk.lnk'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\RecentItems.keypirinha-package\recent_items.py", line 74, in on_execute
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\RecentItems.keypirinha-package\recent_items.py", line 145, in update_file_access_time
+  File "lib\genericpath.py", line 55, in getmtime
+
+2024-01-16 21:21:41.130 [i] Item properties:
+  label:           AutoHotkey.ahk
+  args:            
+  short_desc:      B:\PF\AhkProjectFolder\AutoHotkey.ahk
+  target:          C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Recent\AutoHotkey.ahk.lnk
+  category:        file (20)
+  args_hint:       forbidden
+  hit_hint:        ignore
+  plugin:          RecentItems.RecentItems (13462650264743836324)
+  item_id:         5614151577890811394
+  loop_on_suggest: false
+  data_bag:        
+
+2024-01-16 21:22:08.469 [i] Python: Failed to execute C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Recent\AutoHotkey.ahk.lnk (action None). Error: file not found: "C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Recent\AutoHotkey.ahk.lnk" (initial path: "C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Recent\AutoHotkey.ahk.lnk")
+2024-01-16 21:22:08.470 [E] Error from RecentItems.RecentItems.on_execute: <class 'FileNotFoundError'>: [WinError 2] The system cannot find the file specified: 'C:\\Users\\CrRoot\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutoHotkey.ahk.lnk'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\RecentItems.keypirinha-package\recent_items.py", line 74, in on_execute
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\RecentItems.keypirinha-package\recent_items.py", line 145, in update_file_access_time
+  File "lib\genericpath.py", line 55, in getmtime
+
+2024-01-17 11:16:49.778 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+
+
+2024-01-17 14:26:18.766 [i] Loaded 23 items from history file.
+2024-01-17 14:26:18.776 [i] Loaded 2162 items from catalog file.
+2024-01-17 14:26:18.806 [i] Init done in 0.2985s, including 0.2095s (70%) for the Python interpreter.
+2024-01-17 14:26:18.807 [i] Plugin loaded: Internal.About
+2024-01-17 14:26:18.849 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-01-17 14:26:18.849 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-01-17 14:26:18.849 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-01-17 14:26:18.849 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-01-17 14:26:18.849 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-01-17 14:26:18.932 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-01-17 14:26:18.944 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-01-17 14:26:18.952 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-01-17 14:26:18.953 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-01-17 14:26:18.954 [i] Plugin loaded: Env.Env (instance #1)
+2024-01-17 14:26:18.957 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-01-17 14:26:18.959 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-01-17 14:26:18.968 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-01-17 14:26:18.976 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-01-17 14:26:18.980 [i] Plugin loaded: Git.Git (instance #1)
+2024-01-17 14:26:18.983 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-01-17 14:26:19.005 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-01-17 14:26:19.012 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-01-17 14:26:19.014 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-01-17 14:26:19.015 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-01-17 14:26:19.018 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-01-17 14:26:19.020 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-01-17 14:26:19.028 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-01-17 14:26:19.032 [i] Plugin loaded: String.String (instance #1)
+2024-01-17 14:26:19.034 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-01-17 14:26:19.035 [i] Plugin loaded: URL.URL (instance #1)
+2024-01-17 14:26:19.037 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-01-17 14:26:19.040 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-01-17 14:26:19.042 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-01-17 14:26:19.045 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-01-17 14:26:19.045 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-01-17 14:26:19.047 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-01-17 14:26:19.109 [i] Apps.Desktop: Cataloged 8 items in 0.0 seconds
+2024-01-17 14:26:19.140 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-01-17 14:26:19.149 [i] Apps.StartMenu: Cataloged 336 items in 0.0 seconds
+2024-01-17 14:26:19.163 [E] Error from Steam.Steam.on_catalog: <class 'FileNotFoundError'>: [WinError 3] The system cannot find the path specified: 'F:\\\\SteamLibrary\\steamapps'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 64, in on_catalog
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 125, in get_applist
+
+2024-01-17 14:26:19.189 [i] Apps.EnvPath: Cataloged 1238 items in 0.1 seconds
+2024-01-17 14:26:19.602 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (75 packages)
+2024-01-17 14:26:20.380 [i] WindowsApps.WindowsApps: Cataloged 15 items in 1.2 seconds
+2024-01-17 14:26:21.822 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 2.6 seconds
+2024-01-17 14:48:06.481 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-17 14:48:06.484 [i] Apps.Desktop: Cataloged 9 items in 0.0 seconds
+2024-01-17 15:21:21.541 [E] Error from AudioSwitcher.AudioSwitcher.on_suggest: <class 're.error'>: bad escape \P at position 2
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\AudioSwitcher.keypirinha-package\audioswitcher.py", line 48, in on_suggest
+  File "lib\re.py", line 183, in search
+  File "lib\re.py", line 286, in _compile
+  File "lib\sre_compile.py", line 764, in compile
+  File "lib\sre_parse.py", line 930, in parse
+  File "lib\sre_parse.py", line 426, in _parse_sub
+  File "lib\sre_parse.py", line 507, in _parse
+  File "lib\sre_parse.py", line 402, in _escape
+
+2024-01-17 15:22:30.220 [E] Error from AudioSwitcher.AudioSwitcher.on_suggest: <class 're.error'>: bad escape \P at position 2
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\AudioSwitcher.keypirinha-package\audioswitcher.py", line 48, in on_suggest
+  File "lib\re.py", line 183, in search
+  File "lib\re.py", line 286, in _compile
+  File "lib\sre_compile.py", line 764, in compile
+  File "lib\sre_parse.py", line 930, in parse
+  File "lib\sre_parse.py", line 426, in _parse_sub
+  File "lib\sre_parse.py", line 507, in _parse
+  File "lib\sre_parse.py", line 402, in _escape
+
+2024-01-17 17:54:11.483 [i] Apps.StartMenu: Cataloged 338 items in 0.0 seconds
+2024-01-17 17:54:18.750 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-17 18:18:58.627 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-17 18:55:36.130 [E] Error from AudioSwitcher.AudioSwitcher.on_suggest: <class 're.error'>: bad escape \P at position 2
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\AudioSwitcher.keypirinha-package\audioswitcher.py", line 48, in on_suggest
+  File "lib\re.py", line 183, in search
+  File "lib\re.py", line 286, in _compile
+  File "lib\sre_compile.py", line 764, in compile
+  File "lib\sre_parse.py", line 930, in parse
+  File "lib\sre_parse.py", line 426, in _parse_sub
+  File "lib\sre_parse.py", line 507, in _parse
+  File "lib\sre_parse.py", line 402, in _escape
+
+2024-01-17 21:06:31.992 [i] Apps.StartMenu: Cataloged 338 items in 0.0 seconds
+2024-01-17 21:06:44.084 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-18 14:39:07.762 [i] Apps.StartMenu: Cataloged 338 items in 0.0 seconds
+2024-01-18 14:39:15.701 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-19 10:22:40.990 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-19 10:24:19.327 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-19 10:24:52.150 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-19 10:34:54.199 [i] Apps.StartMenu: Cataloged 338 items in 0.0 seconds
+2024-01-19 10:35:01.962 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-19 10:46:14.553 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-19 14:28:36.959 [E] Error from AudioSwitcher.AudioSwitcher.on_suggest: <class 're.error'>: bad escape \P at position 2
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\AudioSwitcher.keypirinha-package\audioswitcher.py", line 48, in on_suggest
+  File "lib\re.py", line 183, in search
+  File "lib\re.py", line 286, in _compile
+  File "lib\sre_compile.py", line 764, in compile
+  File "lib\sre_parse.py", line 930, in parse
+  File "lib\sre_parse.py", line 426, in _parse_sub
+  File "lib\sre_parse.py", line 507, in _parse
+  File "lib\sre_parse.py", line 402, in _escape
+
+2024-01-20 10:38:52.815 [E] Error from AudioSwitcher.AudioSwitcher.on_suggest: <class 're.error'>: bad escape \P at position 2
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\AudioSwitcher.keypirinha-package\audioswitcher.py", line 48, in on_suggest
+  File "lib\re.py", line 183, in search
+  File "lib\re.py", line 286, in _compile
+  File "lib\sre_compile.py", line 764, in compile
+  File "lib\sre_parse.py", line 930, in parse
+  File "lib\sre_parse.py", line 426, in _parse_sub
+  File "lib\sre_parse.py", line 507, in _parse
+  File "lib\sre_parse.py", line 402, in _escape
+
+2024-01-22 19:34:23.450 [i] Apps.StartMenu: Cataloged 338 items in 0.0 seconds
+2024-01-22 19:35:05.555 [i] Apps.StartMenu: Cataloged 337 items in 0.0 seconds
+2024-01-22 19:39:24.407 [i] Apps.Desktop: Cataloged 10 items in 0.0 seconds
+2024-01-22 19:39:24.933 [i] Apps.StartMenu: Cataloged 338 items in 0.0 seconds
+2024-01-22 19:41:53.466 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-22 19:41:53.786 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-22 19:42:38.118 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-22 19:47:29.561 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-22 19:47:32.005 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-22 19:57:41.590 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-22 19:57:41.793 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-22 20:18:33.784 [i] Apps.StartMenu: Cataloged 338 items in 0.0 seconds
+2024-01-22 20:18:38.965 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-22 20:18:39.089 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-22 20:20:50.175 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-22 20:20:50.345 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-23 11:02:10.915 [i] Apps.StartMenu: Cataloged 343 items in 0.0 seconds
+2024-01-23 11:02:18.361 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-23 19:58:57.293 [i] Received TaskbarCreated system message
+2024-01-23 22:38:04.316 [i] Received end-of-session message
+
+
+2024-01-24 12:19:45.189 [i] Loaded 33 items from history file.
+2024-01-24 12:19:45.200 [i] Loaded 2132 items from catalog file.
+2024-01-24 12:19:45.243 [i] Init done in 0.3280s, including 0.2223s (68%) for the Python interpreter.
+2024-01-24 12:19:45.243 [i] Plugin loaded: Internal.About
+2024-01-24 12:19:45.285 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-01-24 12:19:45.285 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-01-24 12:19:45.285 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-01-24 12:19:45.286 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-01-24 12:19:45.286 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-01-24 12:19:45.369 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-01-24 12:19:45.381 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-01-24 12:19:45.388 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-01-24 12:19:45.389 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-01-24 12:19:45.390 [i] Plugin loaded: Env.Env (instance #1)
+2024-01-24 12:19:45.393 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-01-24 12:19:45.395 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-01-24 12:19:45.404 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-01-24 12:19:45.413 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-01-24 12:19:45.415 [i] Plugin loaded: Git.Git (instance #1)
+2024-01-24 12:19:45.418 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-01-24 12:19:45.438 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-01-24 12:19:45.443 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-01-24 12:19:45.445 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-01-24 12:19:45.446 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-01-24 12:19:45.448 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-01-24 12:19:45.449 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-01-24 12:19:45.456 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-01-24 12:19:45.460 [i] Plugin loaded: String.String (instance #1)
+2024-01-24 12:19:45.461 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-01-24 12:19:45.463 [i] Plugin loaded: URL.URL (instance #1)
+2024-01-24 12:19:45.465 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-01-24 12:19:45.467 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-01-24 12:19:45.470 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-01-24 12:19:45.473 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-01-24 12:19:45.473 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-01-24 12:19:45.475 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-01-24 12:19:45.532 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-24 12:19:45.564 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-24 12:19:45.582 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-01-24 12:19:45.607 [i] Apps.EnvPath: Cataloged 1239 items in 0.1 seconds
+2024-01-24 12:19:45.935 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-01-24 12:19:47.471 [i] WindowsApps.WindowsApps: Cataloged 14 items in 1.7 seconds
+2024-01-24 12:19:47.961 [E] Error from Steam.Steam.on_catalog: <class 'FileNotFoundError'>: [WinError 3] The system cannot find the path specified: 'S:\\\\SteamLibrary\\steamapps'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 64, in on_catalog
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 125, in get_applist
+
+2024-01-24 12:19:48.413 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 2.6 seconds
+2024-01-24 12:24:00.069 [i] Apps.StartMenu: Cataloged 343 items in 0.0 seconds
+2024-01-24 12:24:08.255 [i] Apps.StartMenu: Cataloged 342 items in 0.0 seconds
+2024-01-25 00:24:26.786 [i] Received end-of-session message
+
+
+2024-01-27 03:50:30.960 [i] Loaded 34 items from history file.
+2024-01-27 03:50:30.973 [i] Loaded 2140 items from catalog file.
+2024-01-27 03:50:31.017 [i] Init done in 0.4115s, including 0.3018s (73%) for the Python interpreter.
+2024-01-27 03:50:31.017 [i] Plugin loaded: Internal.About
+2024-01-27 03:50:31.080 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-01-27 03:50:31.080 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-01-27 03:50:31.080 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-01-27 03:50:31.080 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-01-27 03:50:31.080 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-01-27 03:50:31.176 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-01-27 03:50:31.190 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-01-27 03:50:31.198 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-01-27 03:50:31.199 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-01-27 03:50:31.200 [i] Plugin loaded: Env.Env (instance #1)
+2024-01-27 03:50:31.203 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-01-27 03:50:31.206 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-01-27 03:50:31.216 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-01-27 03:50:31.228 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-01-27 03:50:31.231 [i] Plugin loaded: Git.Git (instance #1)
+2024-01-27 03:50:31.234 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-01-27 03:50:31.259 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-01-27 03:50:31.264 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-01-27 03:50:31.266 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-01-27 03:50:31.267 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-01-27 03:50:31.269 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-01-27 03:50:31.270 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-01-27 03:50:31.278 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-01-27 03:50:31.281 [i] Plugin loaded: String.String (instance #1)
+2024-01-27 03:50:31.283 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-01-27 03:50:31.285 [i] Plugin loaded: URL.URL (instance #1)
+2024-01-27 03:50:31.287 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-01-27 03:50:31.290 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-01-27 03:50:31.292 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-01-27 03:50:31.296 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-01-27 03:50:31.296 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-01-27 03:50:31.297 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-01-27 03:50:31.366 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-27 03:50:31.377 [i] Apps.StartMenu: Cataloged 332 items in 0.0 seconds
+2024-01-27 03:50:31.411 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-01-27 03:50:31.511 [i] Apps.EnvPath: Cataloged 2055 items in 0.2 seconds
+2024-01-27 03:50:31.797 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-01-27 03:50:31.813 [i] PackageControl.PackageControl: 1 package(s) are out of date: ['Keypirinha-WindowsApps']
+2024-01-27 03:50:32.701 [i] PackageControl.PackageControl: Updated package: Keypirinha-WindowsApps
+2024-01-27 03:50:34.051 [E] Error from Steam.Steam.on_catalog: <class 'FileNotFoundError'>: [WinError 3] The system cannot find the path specified: 'S:\\\\SteamLibrary\\steamapps'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 64, in on_catalog
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 125, in get_applist
+
+2024-01-27 03:50:34.221 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #2)
+2024-01-27 03:50:34.221 [i] Plugin loaded: WindowsApps.WindowsApps (instance #2)
+2024-01-27 03:50:34.859 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/windows.immersivecontrolpanel/logo.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-100.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-100_altform-lightunplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-100_altform-unplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-125.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-125_altform-lightunplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-125_altform-unplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-150.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-150_altform-lightunplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-150_altform-unplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-200.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-200_altform-lightunplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-200_altform-unplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-400.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-400_altform-lightunplated.png, cache://WindowsApps/windows.immersivecontrolpanel/logo.scale-400_altform-unplated.png
+2024-01-27 03:50:34.859 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'windows.immersivecontrolpanel'
+2024-01-27 03:50:34.873 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.scale-100.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.scale-125.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.scale-150.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.scale-200.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.scale-400.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-16.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-16_altform-unplated.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-24.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-24_altform-unplated.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-256.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-256_altform-unplated.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-32.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-32_altform-unplated.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-48.png, cache://WindowsApps/NVIDIACorp.NVIDIAControlPanel/Square44x44Logo.targetsize-48_altform-unplated.png
+2024-01-27 03:50:34.873 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'NVIDIACorp.NVIDIAControlPanel'
+2024-01-27 03:50:34.891 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-16.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-16_altform-lightunplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-16_altform-unplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-24.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-24_altform-lightunplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-24_altform-unplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-256.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-256_altform-lightunplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-256_altform-unplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-32.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-32_altform-lightunplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-32_altform-unplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-48.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-48_altform-lightunplated.png, cache://WindowsApps/www.bing.com-68141C78/Square44x44Logo.targetsize-48_altform-unplated.png
+2024-01-27 03:50:34.891 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'www.bing.com-68141C78'
+2024-01-27 03:50:34.914 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-16.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-16_altform-lightunplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-16_altform-unplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-24.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-24_altform-lightunplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-24_altform-unplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-256.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-256_altform-lightunplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-256_altform-unplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-32.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-32_altform-lightunplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-32_altform-unplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-48.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-48_altform-lightunplated.png, cache://WindowsApps/www.bing.com-AFEFD244/Square44x44Logo.targetsize-48_altform-unplated.png
+2024-01-27 03:50:34.914 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'www.bing.com-AFEFD244'
+2024-01-27 03:50:34.929 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-16.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-16_altform-lightunplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-16_altform-unplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-24.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-24_altform-lightunplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-24_altform-unplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-256.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-256_altform-lightunplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-256_altform-unplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-32.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-32_altform-lightunplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-32_altform-unplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-48.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-48_altform-lightunplated.png, cache://WindowsApps/bard.google.com-BDBB5BF1/Square44x44Logo.targetsize-48_altform-unplated.png
+2024-01-27 03:50:34.929 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'bard.google.com-BDBB5BF1'
+2024-01-27 03:50:34.951 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.scale-100.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.scale-125.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.scale-150.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.scale-200.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.scale-400.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-16.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-16_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-20_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-24.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-24_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-256.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-256_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-30_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-32.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-32_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-36_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-40_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-48.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-48_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-54_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-60_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-64_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-72_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-80_altform-unplated.png, cache://WindowsApps/Microsoft.Office.OneNote/OneNoteAppList.targetsize-96_altform-unplated.png
+2024-01-27 03:50:34.951 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'Microsoft.Office.OneNote'
+2024-01-27 03:50:34.971 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-16.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-16_altform-lightunplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-16_altform-unplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-24.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-24_altform-lightunplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-24_altform-unplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-256.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-256_altform-lightunplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-256_altform-unplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-32.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-32_altform-lightunplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-32_altform-unplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-48.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-48_altform-lightunplated.png, cache://WindowsApps/arbetsformedlingen.se-E096DD09/Square44x44Logo.targetsize-48_altform-unplated.png
+2024-01-27 03:50:34.971 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'arbetsformedlingen.se-E096DD09'
+2024-01-27 03:50:34.986 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-16.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-16_altform-lightunplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-16_altform-unplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-24.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-24_altform-lightunplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-24_altform-unplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-256.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-256_altform-lightunplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-256_altform-unplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-32.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-32_altform-lightunplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-32_altform-unplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-48.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-48_altform-lightunplated.png, cache://WindowsApps/www.forsakringskassan.se-FA733521/Square44x44Logo.targetsize-48_altform-unplated.png
+2024-01-27 03:50:34.986 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'www.forsakringskassan.se-FA733521'
+2024-01-27 03:50:35.018 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.4 seconds
+2024-01-27 03:50:35.025 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.scale-200.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-16.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-16_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-20.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-20_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-24.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-24_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-256.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-256_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-30.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-30_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-32.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-32_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-36.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-36_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-40.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-40_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-48.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-48_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-60.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-60_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-64.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-64_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-72.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-72_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-80.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-80_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-96.png, cache://WindowsApps/Microsoft.WindowsCamera/CameraAppList.targetsize-96_altform-unplated.png
+2024-01-27 03:50:35.025 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'Microsoft.WindowsCamera'
+2024-01-27 03:50:35.053 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.scale-200.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-16.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-16_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-16_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-20.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-20_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-20_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-24.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-24_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-24_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-256.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-256_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-256_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-30.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-30_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-30_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-32.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-32_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-32_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-36.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-36_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-36_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-40.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-40_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-40_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-48.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-48_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-48_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-60.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-60_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-60_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-64.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-64_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-64_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-72.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-72_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-72_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-80.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-80_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-80_altform-unplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-96.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-96_altform-lightunplated.png, cache://WindowsApps/Microsoft.WindowsCalculator/CalculatorAppList.targetsize-96_altform-unplated.png
+2024-01-27 03:50:35.053 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'Microsoft.WindowsCalculator'
+2024-01-27 03:50:35.095 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.scale-100.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.scale-125.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.scale-150.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.scale-200.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.scale-400.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-16.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-16_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-16_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-20.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-20_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-20_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-24.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-24_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-24_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-256.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-256_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-256_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-30.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-30_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-30_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-32.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-32_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-32_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-36.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-36_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-36_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-40.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-40_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-40_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-48.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-48_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-48_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-56.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-56_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-56_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-60.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-60_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-60_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-64.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-64_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-64_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-72.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-72_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-72_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-80.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-80_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-80_altform-unplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-96.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-96_altform-lightunplated.png, cache://WindowsApps/MicrosoftWindows.Client.CBS/AppList.targetsize-96_altform-unplated.png
+2024-01-27 03:50:35.095 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'MicrosoftWindows.Client.CBS'
+2024-01-27 03:50:35.143 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/Microsoft.YourPhone/AppIcon.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.scale-200.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-16.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-16_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-16_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-20.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-20_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-20_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-24.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-24_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-24_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-256.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-256_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-256_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-30.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-30_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-30_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-32.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-32_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-32_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-36.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-36_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-36_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-40.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-40_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-40_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-48.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-48_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-48_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-60.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-60_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-60_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-64.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-64_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-64_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-72.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-72_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-72_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-80.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-80_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-80_altform-unplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-96.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-96_altform-lightunplated.png, cache://WindowsApps/Microsoft.YourPhone/AppIcon.targetsize-96_altform-unplated.png
+2024-01-27 03:50:35.143 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'Microsoft.YourPhone'
+2024-01-27 03:50:35.177 [W] Cannot create/load icon because calling thread has been marked as 'should terminate'. Icon sources: cache://WindowsApps/Microsoft.Windows.SecHealthUI/Square44x44Logo.targetsize-44.png, cache://WindowsApps/Microsoft.Windows.SecHealthUI/Square44x44Logo.targetsize-44_altform-unplated.png, cache://WindowsApps/Microsoft.Windows.SecHealthUI/Square44x44Logo.targetsize-44_altform-unplated_theme-dark.png, cache://WindowsApps/Microsoft.Windows.SecHealthUI/Square44x44Logo.targetsize-44_altform-unplated_theme-light.png, cache://WindowsApps/Microsoft.Windows.SecHealthUI/Square44x44Logo.targetsize-44_theme-dark.png, cache://WindowsApps/Microsoft.Windows.SecHealthUI/Square44x44Logo.targetsize-44_theme-light.png
+2024-01-27 03:50:35.177 [W] WindowsApps.WindowsApps: Error while creating catalog item for 'Microsoft.Windows.SecHealthUI'
+2024-01-27 03:50:35.223 [i] WindowsApps.WindowsApps: Cataloged 0 items in 3.6 seconds
+
+
+2024-01-27 03:50:53.083 [i] Loaded 34 items from history file.
+2024-01-27 03:50:53.094 [i] Loaded 2140 items from catalog file.
+2024-01-27 03:50:53.147 [i] Init done in 0.2901s, including 0.1874s (65%) for the Python interpreter.
+2024-01-27 03:50:53.147 [i] Plugin loaded: Internal.About
+2024-01-27 03:50:53.191 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-01-27 03:50:53.191 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-01-27 03:50:53.191 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-01-27 03:50:53.191 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-01-27 03:50:53.191 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-01-27 03:50:53.274 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-01-27 03:50:53.283 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-01-27 03:50:53.291 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-01-27 03:50:53.293 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-01-27 03:50:53.294 [i] Plugin loaded: Env.Env (instance #1)
+2024-01-27 03:50:53.297 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-01-27 03:50:53.299 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-01-27 03:50:53.307 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-01-27 03:50:53.313 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-01-27 03:50:53.316 [i] Plugin loaded: Git.Git (instance #1)
+2024-01-27 03:50:53.318 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-01-27 03:50:53.336 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-01-27 03:50:53.342 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-01-27 03:50:53.344 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-01-27 03:50:53.345 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-01-27 03:50:53.347 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-01-27 03:50:53.349 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-01-27 03:50:53.356 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-01-27 03:50:53.360 [i] Plugin loaded: String.String (instance #1)
+2024-01-27 03:50:53.362 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-01-27 03:50:53.363 [i] Plugin loaded: URL.URL (instance #1)
+2024-01-27 03:50:53.365 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-01-27 03:50:53.368 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-01-27 03:50:53.370 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-01-27 03:50:53.374 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-01-27 03:50:53.374 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-01-27 03:50:53.376 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-01-27 03:50:53.437 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-27 03:50:53.459 [i] Apps.StartMenu: Cataloged 332 items in 0.0 seconds
+2024-01-27 03:50:53.461 [i] PackageControl.PackageControl: Package list loaded from file cache 'ueffel's Package Repository' (76 packages)
+2024-01-27 03:50:53.477 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-01-27 03:50:53.539 [i] Apps.EnvPath: Cataloged 2055 items in 0.1 seconds
+2024-01-27 03:50:54.402 [E] Error from Steam.Steam.on_catalog: <class 'FileNotFoundError'>: [WinError 3] The system cannot find the path specified: 'S:\\\\SteamLibrary\\steamapps'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 64, in on_catalog
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 125, in get_applist
+
+2024-01-27 03:50:56.588 [i] WindowsApps.WindowsApps: Cataloged 13 items in 3.0 seconds
+2024-01-27 03:50:56.596 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.0 seconds
+2024-01-28 21:03:01.451 [i] Received end-of-session message
+
+
+2024-01-28 22:47:54.408 [i] Loaded 35 items from history file.
+2024-01-28 22:47:54.419 [i] Loaded 2130 items from catalog file.
+2024-01-28 22:47:54.470 [i] Init done in 0.3246s, including 0.2170s (67%) for the Python interpreter.
+2024-01-28 22:47:54.470 [i] Plugin loaded: Internal.About
+2024-01-28 22:47:54.514 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-01-28 22:47:54.514 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-01-28 22:47:54.514 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-01-28 22:47:54.514 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-01-28 22:47:54.514 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-01-28 22:47:54.602 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-01-28 22:47:54.614 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-01-28 22:47:54.621 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-01-28 22:47:54.622 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-01-28 22:47:54.623 [i] Plugin loaded: Env.Env (instance #1)
+2024-01-28 22:47:54.626 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-01-28 22:47:54.628 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-01-28 22:47:54.637 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-01-28 22:47:54.646 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-01-28 22:47:54.649 [i] Plugin loaded: Git.Git (instance #1)
+2024-01-28 22:47:54.651 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-01-28 22:47:54.672 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-01-28 22:47:54.677 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-01-28 22:47:54.679 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-01-28 22:47:54.680 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-01-28 22:47:54.682 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-01-28 22:47:54.683 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-01-28 22:47:54.690 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-01-28 22:47:54.693 [i] Plugin loaded: String.String (instance #1)
+2024-01-28 22:47:54.695 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-01-28 22:47:54.697 [i] Plugin loaded: URL.URL (instance #1)
+2024-01-28 22:47:54.698 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-01-28 22:47:54.701 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-01-28 22:47:54.703 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-01-28 22:47:54.707 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-01-28 22:47:54.707 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-01-28 22:47:54.709 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-01-28 22:47:54.764 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-28 22:47:54.821 [i] Apps.StartMenu: Cataloged 332 items in 0.1 seconds
+2024-01-28 22:47:54.851 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-01-28 22:47:54.939 [i] Apps.EnvPath: Cataloged 2055 items in 0.2 seconds
+2024-01-28 22:47:55.246 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-01-28 22:47:57.394 [E] Error from Steam.Steam.on_catalog: <class 'FileNotFoundError'>: [WinError 3] The system cannot find the path specified: 'S:\\\\SteamLibrary\\steamapps'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 64, in on_catalog
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 125, in get_applist
+
+2024-01-28 22:47:58.382 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.4 seconds
+2024-01-28 22:48:00.037 [i] WindowsApps.WindowsApps: Cataloged 13 items in 5.0 seconds
+2024-01-29 08:08:23.244 [i] Apps.StartMenu: Cataloged 332 items in 0.0 seconds
+2024-01-29 09:57:49.451 [i] Apps.StartMenu: Cataloged 333 items in 0.0 seconds
+2024-01-29 09:57:53.088 [i] Apps.StartMenu: Cataloged 334 items in 0.0 seconds
+2024-01-29 09:58:13.561 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-29 09:58:37.452 [i] Apps.StartMenu: Cataloged 334 items in 0.0 seconds
+2024-01-29 09:58:43.312 [i] Apps.StartMenu: Cataloged 333 items in 0.0 seconds
+2024-01-29 10:00:21.552 [i] Apps.StartMenu: Cataloged 334 items in 0.0 seconds
+2024-01-29 13:18:12.249 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-29 15:02:03.261 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-29 16:37:28.089 [i] Received TaskbarCreated system message
+2024-01-30 01:48:59.265 [i] Environment changed.
+2024-01-30 01:48:59.338 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-01-30 01:48:59.625 [i] Apps.EnvPath: Cataloged 2056 items in 0.3 seconds
+2024-01-30 01:49:01.108 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-30 14:52:11.241 [i] Apps.StartMenu: Cataloged 334 items in 0.0 seconds
+2024-01-30 14:52:15.768 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-30 14:53:13.379 [i] Environment changed.
+2024-01-30 14:53:14.204 [i] Received TaskbarCreated system message
+2024-01-30 14:53:18.371 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-30 14:53:18.980 [i] Environment changed.
+2024-01-30 14:53:20.130 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-30 14:53:36.447 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-30 14:53:44.204 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-30 14:53:58.348 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+
+
+2024-01-30 18:56:45.834 [i] Loaded 38 items from history file.
+2024-01-30 18:56:45.845 [i] Loaded 2145 items from catalog file.
+2024-01-30 18:56:45.893 [i] Init done in 0.3208s, including 0.2128s (66%) for the Python interpreter.
+2024-01-30 18:56:45.893 [i] Plugin loaded: Internal.About
+2024-01-30 18:56:45.935 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-01-30 18:56:45.935 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-01-30 18:56:45.935 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-01-30 18:56:45.935 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-01-30 18:56:45.935 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-01-30 18:56:46.021 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-01-30 18:56:46.033 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-01-30 18:56:46.040 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-01-30 18:56:46.041 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-01-30 18:56:46.042 [i] Plugin loaded: Env.Env (instance #1)
+2024-01-30 18:56:46.045 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-01-30 18:56:46.047 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-01-30 18:56:46.055 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-01-30 18:56:46.064 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-01-30 18:56:46.067 [i] Plugin loaded: Git.Git (instance #1)
+2024-01-30 18:56:46.070 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-01-30 18:56:46.090 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-01-30 18:56:46.095 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-01-30 18:56:46.097 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-01-30 18:56:46.098 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-01-30 18:56:46.100 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-01-30 18:56:46.101 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-01-30 18:56:46.108 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-01-30 18:56:46.111 [i] Plugin loaded: String.String (instance #1)
+2024-01-30 18:56:46.113 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-01-30 18:56:46.115 [i] Plugin loaded: URL.URL (instance #1)
+2024-01-30 18:56:46.116 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-01-30 18:56:46.119 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-01-30 18:56:46.121 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-01-30 18:56:46.125 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-01-30 18:56:46.125 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-01-30 18:56:46.126 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-01-30 18:56:46.182 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-01-30 18:56:46.216 [i] Apps.StartMenu: Cataloged 335 items in 0.0 seconds
+2024-01-30 18:56:46.238 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-01-30 18:56:46.294 [i] Apps.EnvPath: Cataloged 2056 items in 0.1 seconds
+2024-01-30 18:56:46.613 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-01-30 18:56:47.938 [E] Error from Steam.Steam.on_catalog: <class 'FileNotFoundError'>: [WinError 3] The system cannot find the path specified: 'F:\\\\SteamLibrary\\steamapps'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 64, in on_catalog
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 125, in get_applist
+
+2024-01-30 18:56:49.389 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.0 seconds
+2024-01-30 18:56:49.561 [i] WindowsApps.WindowsApps: Cataloged 13 items in 3.2 seconds
+2024-01-30 23:30:41.526 [i] Apps.StartMenu: Cataloged 381 items in 0.0 seconds
+2024-02-01 09:33:24.008 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 09:38:42.864 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 09:39:08.286 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 09:40:41.836 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 09:43:36.944 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 10:03:41.245 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 10:04:26.404 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 10:06:43.246 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 10:18:28.800 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-01 11:14:24.236 [i] Received end-of-session message
+
+
+2024-02-02 13:36:10.399 [i] Loaded 42 items from history file.
+2024-02-02 13:36:10.411 [i] Loaded 2195 items from catalog file.
+2024-02-02 13:36:10.524 [i] Init done in 0.5211s, including 0.2431s (47%) for the Python interpreter.
+2024-02-02 13:36:10.524 [i] Plugin loaded: Internal.About
+2024-02-02 13:36:10.571 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-02 13:36:10.572 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-02 13:36:10.572 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-02 13:36:10.572 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-02 13:36:10.572 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-02 13:36:10.673 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-02 13:36:10.687 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-02 13:36:10.697 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-02 13:36:10.699 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-02 13:36:10.700 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-02 13:36:10.704 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-02 13:36:10.707 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-02 13:36:10.720 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-02 13:36:10.731 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-02 13:36:10.734 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-02 13:36:10.737 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-02 13:36:10.765 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-02 13:36:10.771 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-02 13:36:10.773 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-02 13:36:10.774 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-02 13:36:10.776 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-02 13:36:10.778 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-02 13:36:10.785 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-02 13:36:10.789 [i] Plugin loaded: String.String (instance #1)
+2024-02-02 13:36:10.791 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-02 13:36:10.793 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-02 13:36:10.795 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-02 13:36:10.797 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-02 13:36:10.799 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-02 13:36:10.803 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-02 13:36:10.803 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-02 13:36:10.805 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-02 13:36:10.898 [i] Apps.Desktop: Cataloged 11 items in 0.0 seconds
+2024-02-02 13:36:10.900 [i] Apps.StartMenu: Cataloged 382 items in 0.0 seconds
+2024-02-02 13:36:11.036 [i] Apps.EnvPath: Cataloged 2056 items in 0.2 seconds
+2024-02-02 13:36:11.056 [i] Bookmarks.Bookmarks: Referenced 1709 bookmarks
+2024-02-02 13:36:11.327 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-02 13:36:13.499 [i] Steam.Steam: Cataloged 844 games in 2.6 seconds
+2024-02-02 13:36:14.912 [i] WindowsApps.WindowsApps: Cataloged 16 items in 3.8 seconds
+2024-02-02 13:36:15.047 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.9 seconds
+2024-02-02 13:43:48.958 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-02 13:46:27.081 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+
+
+2024-02-03 17:07:26.615 [i] Loaded 44 items from history file.
+2024-02-03 17:07:26.641 [i] Loaded 2286 items from catalog file.
+2024-02-03 17:07:26.774 [i] Init done in 0.8190s, including 0.5239s (64%) for the Python interpreter.
+2024-02-03 17:07:26.774 [i] Plugin loaded: Internal.About
+2024-02-03 17:07:26.890 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-03 17:07:26.890 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-03 17:07:26.890 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-03 17:07:26.890 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-03 17:07:26.890 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-03 17:07:27.083 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-03 17:07:27.108 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-03 17:07:27.125 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-03 17:07:27.128 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-03 17:07:27.130 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-03 17:07:27.138 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-03 17:07:27.142 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-03 17:07:27.159 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-03 17:07:27.179 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-03 17:07:27.186 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-03 17:07:27.191 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-03 17:07:27.237 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-03 17:07:27.248 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-03 17:07:27.252 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-03 17:07:27.256 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-03 17:07:27.261 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-03 17:07:27.264 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-03 17:07:27.280 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-03 17:07:27.287 [i] Plugin loaded: String.String (instance #1)
+2024-02-03 17:07:27.292 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-03 17:07:27.296 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-03 17:07:27.303 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-03 17:07:27.313 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-03 17:07:27.318 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-03 17:07:27.328 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-03 17:07:27.328 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-03 17:07:27.333 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-03 17:07:27.549 [i] Apps.StartMenu: Cataloged 383 items in 0.1 seconds
+2024-02-03 17:07:27.551 [i] Apps.Desktop: Cataloged 1 item in 0.1 seconds
+2024-02-03 17:07:27.628 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-03 17:07:27.752 [i] Apps.EnvPath: Cataloged 2056 items in 0.3 seconds
+2024-02-03 17:07:27.953 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-03 17:07:36.308 [i] WindowsApps.WindowsApps: Cataloged 16 items in 8.4 seconds
+2024-02-03 17:07:36.939 [i] Steam.Steam: Cataloged 844 games in 9.4 seconds
+2024-02-03 17:07:37.349 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 9.4 seconds
+2024-02-03 18:34:50.322 [i] Environment changed.
+2024-02-03 18:34:50.468 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-03 18:34:50.727 [i] Apps.EnvPath: Cataloged 2056 items in 0.3 seconds
+2024-02-03 18:34:51.710 [i] Apps.StartMenu: Cataloged 383 items in 0.1 seconds
+2024-02-03 19:40:16.333 [i] Apps.Desktop: Cataloged 2 items in 0.0 seconds
+2024-02-04 13:15:49.524 [i] Received end-of-session message
+
+
+2024-02-04 14:12:16.028 [i] Loaded 45 items from history file.
+2024-02-04 14:12:16.054 [i] Loaded 2285 items from catalog file.
+2024-02-04 14:12:16.316 [i] Init done in 0.9541s, including 0.5247s (55%) for the Python interpreter.
+2024-02-04 14:12:16.316 [i] Plugin loaded: Internal.About
+2024-02-04 14:12:16.411 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-04 14:12:16.411 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-04 14:12:16.411 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-04 14:12:16.411 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-04 14:12:16.411 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-04 14:12:16.593 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-04 14:12:16.617 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-04 14:12:16.633 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-04 14:12:16.636 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-04 14:12:16.639 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-04 14:12:16.646 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-04 14:12:16.650 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-04 14:12:16.669 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-04 14:12:16.691 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-04 14:12:16.698 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-04 14:12:16.704 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-04 14:12:16.765 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-04 14:12:16.778 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-04 14:12:16.782 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-04 14:12:16.787 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-04 14:12:16.793 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-04 14:12:16.797 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-04 14:12:16.815 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-04 14:12:16.824 [i] Plugin loaded: String.String (instance #1)
+2024-02-04 14:12:16.829 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-04 14:12:16.833 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-04 14:12:16.838 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-04 14:12:16.846 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-04 14:12:16.851 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-04 14:12:16.860 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-04 14:12:16.860 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-04 14:12:16.864 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-04 14:12:17.077 [i] Apps.Desktop: Cataloged 3 items in 0.0 seconds
+2024-02-04 14:12:17.155 [i] Apps.StartMenu: Cataloged 383 items in 0.1 seconds
+2024-02-04 14:12:17.193 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-04 14:12:17.375 [i] Apps.EnvPath: Cataloged 2056 items in 0.3 seconds
+2024-02-04 14:12:22.005 [i] Steam.Steam: Cataloged 846 games in 4.9 seconds
+2024-02-04 14:12:22.298 [E] PackageControl.PackageControl: Error while obtaining the package list @ https://ue.spdns.de/packagecontrol/packages.json <urlopen error _ssl.c:1059: The handshake operation timed out> 
+trying again...
+2024-02-04 14:12:22.720 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-04 14:12:27.228 [i] WindowsApps.WindowsApps: Cataloged 16 items in 9.7 seconds
+2024-02-04 14:12:28.293 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 10.8 seconds
+2024-02-04 14:12:32.545 [i] Received TaskbarCreated system message
+2024-02-05 09:34:20.809 [i] Python: Failed to execute C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Itch Corp\itch.lnk (action None). Error: [WinError 15] The system cannot find the drive specified.
+2024-02-05 10:27:12.503 [i] Apps.Desktop: Cataloged 3 items in 0.0 seconds
+2024-02-05 12:28:27.304 [i] Environment changed.
+2024-02-05 12:28:27.357 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-05 12:28:27.633 [i] Apps.EnvPath: Cataloged 2057 items in 0.3 seconds
+2024-02-05 12:28:28.545 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-05 14:31:27.390 [i] Environment changed.
+2024-02-05 14:31:27.423 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-05 14:31:27.663 [i] Apps.EnvPath: Cataloged 2059 items in 0.2 seconds
+2024-02-05 14:31:28.877 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-05 18:10:37.499 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-05 18:21:34.149 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-05 19:24:19.541 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-05 19:26:56.933 [i] Apps.StartMenu: Cataloged 382 items in 0.0 seconds
+2024-02-05 19:45:03.525 [i] Apps.Desktop: Cataloged 3 items in 0.0 seconds
+2024-02-05 19:45:22.217 [i] Apps.Desktop: Cataloged 3 items in 0.0 seconds
+2024-02-05 19:45:33.246 [i] Apps.Desktop: Cataloged 3 items in 0.0 seconds
+2024-02-05 19:45:40.030 [i] Apps.Desktop: Cataloged 3 items in 0.0 seconds
+2024-02-05 22:25:29.009 [i] Apps.StartMenu: Cataloged 380 items in 0.1 seconds
+2024-02-05 22:25:44.017 [i] Apps.StartMenu: Cataloged 382 items in 0.0 seconds
+2024-02-06 19:22:14.272 [i] Environment changed.
+2024-02-06 19:22:14.948 [i] Environment changed.
+2024-02-06 19:22:21.709 [i] Apps.StartMenu: Cataloged 382 items in 0.0 seconds
+2024-02-06 19:22:21.867 [i] Environment changed.
+2024-02-06 19:22:24.383 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-06 19:28:05.667 [i] Received end-of-session message
+
+
+2024-02-06 19:32:13.148 [i] Loaded 56 items from history file.
+2024-02-06 19:32:13.160 [i] Loaded 2292 items from catalog file.
+2024-02-06 19:32:13.204 [i] Init done in 0.3475s, including 0.2245s (65%) for the Python interpreter.
+2024-02-06 19:32:13.204 [i] Plugin loaded: Internal.About
+2024-02-06 19:32:13.250 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-06 19:32:13.250 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-06 19:32:13.250 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-06 19:32:13.250 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-06 19:32:13.250 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-06 19:32:13.336 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-06 19:32:13.348 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-06 19:32:13.356 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-06 19:32:13.357 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-06 19:32:13.358 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-06 19:32:13.361 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-06 19:32:13.363 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-06 19:32:13.372 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-06 19:32:13.381 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-06 19:32:13.384 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-06 19:32:13.386 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-06 19:32:13.408 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-06 19:32:13.413 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-06 19:32:13.415 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-06 19:32:13.416 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-06 19:32:13.418 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-06 19:32:13.420 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-06 19:32:13.427 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-06 19:32:13.430 [i] Plugin loaded: String.String (instance #1)
+2024-02-06 19:32:13.432 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-06 19:32:13.433 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-06 19:32:13.435 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-06 19:32:13.438 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-06 19:32:13.441 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-06 19:32:13.445 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-06 19:32:13.445 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-06 19:32:13.447 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-06 19:32:13.540 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-06 19:32:13.551 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-06 19:32:13.558 [i] Apps.StartMenu: Cataloged 382 items in 0.0 seconds
+2024-02-06 19:32:13.615 [i] Apps.EnvPath: Cataloged 2059 items in 0.1 seconds
+2024-02-06 19:32:13.908 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-06 19:32:16.884 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.2 seconds
+2024-02-06 19:32:17.020 [i] WindowsApps.WindowsApps: Cataloged 16 items in 3.3 seconds
+2024-02-06 19:32:24.907 [i] Steam.Steam: Cataloged 1582 games in 11.4 seconds
+2024-02-06 22:40:05.427 [i] Received end-of-session message
+
+
+2024-02-07 12:25:07.688 [i] Loaded 56 items from history file.
+2024-02-07 12:25:07.700 [i] Loaded 2222 items from catalog file.
+2024-02-07 12:25:07.743 [i] Init done in 0.3148s, including 0.2104s (67%) for the Python interpreter.
+2024-02-07 12:25:07.743 [i] Plugin loaded: Internal.About
+2024-02-07 12:25:07.785 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-07 12:25:07.785 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-07 12:25:07.785 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-07 12:25:07.785 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-07 12:25:07.785 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-07 12:25:07.868 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-07 12:25:07.880 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-07 12:25:07.887 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-07 12:25:07.888 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-07 12:25:07.889 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-07 12:25:07.892 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-07 12:25:07.894 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-07 12:25:07.902 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-07 12:25:07.911 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-07 12:25:07.913 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-07 12:25:07.916 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-07 12:25:07.935 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-07 12:25:07.940 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-07 12:25:07.942 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-07 12:25:07.943 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-07 12:25:07.945 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-07 12:25:07.946 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-07 12:25:07.953 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-07 12:25:07.956 [i] Plugin loaded: String.String (instance #1)
+2024-02-07 12:25:07.958 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-07 12:25:07.960 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-07 12:25:07.961 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-07 12:25:07.964 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-07 12:25:07.966 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-07 12:25:07.970 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-07 12:25:07.970 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-07 12:25:07.971 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-07 12:25:08.031 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-07 12:25:08.069 [i] Apps.StartMenu: Cataloged 382 items in 0.0 seconds
+2024-02-07 12:25:08.070 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-07 12:25:08.133 [i] Apps.EnvPath: Cataloged 2059 items in 0.1 seconds
+2024-02-07 12:25:08.585 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-07 12:25:11.733 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.5 seconds
+2024-02-07 12:25:11.805 [i] WindowsApps.WindowsApps: Cataloged 16 items in 3.6 seconds
+2024-02-07 12:25:11.998 [i] Steam.Steam: Cataloged 1590 games in 4.0 seconds
+2024-02-07 12:53:46.734 [i] Apps.StartMenu: Cataloged 381 items in 0.0 seconds
+2024-02-07 12:55:59.263 [i] Apps.StartMenu: Cataloged 382 items in 0.0 seconds
+2024-02-07 13:20:00.630 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-07 13:26:02.490 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-07 13:35:36.557 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-07 13:45:37.668 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-07 13:49:56.033 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-07 13:53:53.883 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-07 14:55:12.317 [i] Received end-of-session message
+
+
+2024-02-07 18:50:31.964 [i] Loaded 57 items from history file.
+2024-02-07 18:50:31.975 [i] Loaded 2227 items from catalog file.
+2024-02-07 18:50:32.033 [i] Init done in 0.4366s, including 0.2113s (48%) for the Python interpreter.
+2024-02-07 18:50:32.033 [i] Plugin loaded: Internal.About
+2024-02-07 18:50:32.078 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-07 18:50:32.078 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-07 18:50:32.078 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-07 18:50:32.078 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-07 18:50:32.078 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-07 18:50:32.163 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-07 18:50:32.175 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-07 18:50:32.182 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-07 18:50:32.183 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-07 18:50:32.184 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-07 18:50:32.187 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-07 18:50:32.189 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-07 18:50:32.198 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-07 18:50:32.207 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-07 18:50:32.209 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-07 18:50:32.212 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-07 18:50:32.233 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-07 18:50:32.239 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-07 18:50:32.240 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-07 18:50:32.242 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-07 18:50:32.243 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-07 18:50:32.245 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-07 18:50:32.252 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-07 18:50:32.255 [i] Plugin loaded: String.String (instance #1)
+2024-02-07 18:50:32.257 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-07 18:50:32.259 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-07 18:50:32.260 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-07 18:50:32.263 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-07 18:50:32.265 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-07 18:50:32.269 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-07 18:50:32.269 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-07 18:50:32.271 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-07 18:50:32.395 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-07 18:50:32.407 [i] Apps.StartMenu: Cataloged 382 items in 0.1 seconds
+2024-02-07 18:50:32.411 [i] PackageControl.PackageControl: Package list loaded from file cache 'ueffel's Package Repository' (76 packages)
+2024-02-07 18:50:32.433 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-07 18:50:32.495 [i] Apps.EnvPath: Cataloged 2059 items in 0.2 seconds
+2024-02-07 18:50:34.955 [i] Steam.Steam: Cataloged 1594 games in 2.6 seconds
+2024-02-07 18:50:36.097 [i] WindowsApps.WindowsApps: Cataloged 16 items in 3.5 seconds
+2024-02-07 18:50:36.249 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.7 seconds
+2024-02-07 21:47:16.010 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-07 22:15:38.027 [i] Received end-of-session message
+
+
+2024-02-08 05:34:32.079 [i] Loaded 61 items from history file.
+2024-02-08 05:34:32.092 [i] Loaded 2242 items from catalog file.
+2024-02-08 05:34:33.424 [i] Init done in 1.6346s, including 0.2263s (14%) for the Python interpreter.
+2024-02-08 05:34:33.425 [i] Plugin loaded: Internal.About
+2024-02-08 05:34:33.473 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-08 05:34:33.473 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-08 05:34:33.473 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-08 05:34:33.473 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-08 05:34:33.473 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-08 05:34:33.562 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-08 05:34:33.574 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-08 05:34:33.581 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-08 05:34:33.582 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-08 05:34:33.583 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-08 05:34:33.586 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-08 05:34:33.588 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-08 05:34:33.597 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-08 05:34:33.606 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-08 05:34:33.609 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-08 05:34:33.611 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-08 05:34:33.632 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-08 05:34:33.637 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-08 05:34:33.639 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-08 05:34:33.640 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-08 05:34:33.642 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-08 05:34:33.643 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-08 05:34:33.651 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-08 05:34:33.654 [i] Plugin loaded: String.String (instance #1)
+2024-02-08 05:34:33.656 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-08 05:34:33.658 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-08 05:34:33.660 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-08 05:34:33.663 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-08 05:34:33.665 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-08 05:34:33.668 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-08 05:34:33.668 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-08 05:34:33.670 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-08 05:34:33.754 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 05:34:33.761 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 05:34:33.790 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-08 05:34:33.860 [i] Apps.EnvPath: Cataloged 2060 items in 0.1 seconds
+2024-02-08 05:34:34.128 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-08 05:34:36.503 [i] Steam.Steam: Cataloged 1594 games in 2.8 seconds
+2024-02-08 05:34:37.478 [i] WindowsApps.WindowsApps: Cataloged 16 items in 3.5 seconds
+2024-02-08 05:34:37.751 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.8 seconds
+2024-02-08 06:43:55.383 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-08 06:43:58.241 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 08:36:01.465 [i] Item properties:
+  label:           VSCodium
+  args:            
+  short_desc:      Start Menu: Programs\Scoop Apps
+  target:          C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Scoop Apps\VSCodium.lnk
+  category:        file (20)
+  args_hint:       accepted
+  hit_hint:        keepall
+  plugin:          Apps.StartMenu (7069959197848932683)
+  item_id:         4827042824022725607
+  loop_on_suggest: false
+  data_bag:        
+
+2024-02-08 09:22:14.721 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 09:23:08.911 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 09:23:47.091 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 09:23:54.678 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 09:28:23.537 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 09:29:44.100 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 09:43:23.318 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 09:46:44.493 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-08 10:04:38.365 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-08 10:04:41.088 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 10:44:53.480 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 10:47:17.694 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 10:49:33.617 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 10:51:05.749 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-08 10:51:08.685 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 10:52:56.645 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-08 10:53:00.976 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 10:54:54.055 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-08 10:54:56.571 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 10:57:54.249 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-08 10:57:56.774 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-08 11:01:13.425 [i] Apps.StartMenu: Cataloged 384 items in 0.0 seconds
+2024-02-08 11:01:17.262 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-09 12:06:38.824 [i] Environment changed.
+2024-02-09 12:06:38.995 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-09 12:06:39.160 [i] Apps.EnvPath: Cataloged 2060 items in 0.2 seconds
+2024-02-09 12:06:54.723 [i] Received end-of-session message
+
+
+2024-02-09 12:14:25.657 [i] Loaded 66 items from history file.
+2024-02-09 12:14:25.669 [i] Loaded 2245 items from catalog file.
+2024-02-09 12:14:25.713 [i] Init done in 0.3406s, including 0.2220s (65%) for the Python interpreter.
+2024-02-09 12:14:25.713 [i] Plugin loaded: Internal.About
+2024-02-09 12:14:25.756 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-09 12:14:25.756 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-09 12:14:25.756 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-09 12:14:25.756 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-09 12:14:25.756 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-09 12:14:25.844 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-09 12:14:25.856 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-09 12:14:25.864 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-09 12:14:25.865 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-09 12:14:25.866 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-09 12:14:25.870 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-09 12:14:25.872 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-09 12:14:25.880 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-09 12:14:25.890 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-09 12:14:25.894 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-09 12:14:25.896 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-09 12:14:25.918 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-09 12:14:25.923 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-09 12:14:25.925 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-09 12:14:25.926 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-09 12:14:25.928 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-09 12:14:25.930 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-09 12:14:25.937 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-09 12:14:25.941 [i] Plugin loaded: String.String (instance #1)
+2024-02-09 12:14:25.944 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-09 12:14:25.946 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-09 12:14:25.947 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-09 12:14:25.950 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-09 12:14:25.952 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-09 12:14:25.957 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-09 12:14:25.957 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-09 12:14:25.959 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-09 12:14:26.019 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-09 12:14:26.075 [i] Apps.StartMenu: Cataloged 383 items in 0.0 seconds
+2024-02-09 12:14:26.075 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-09 12:14:26.141 [i] Apps.EnvPath: Cataloged 2060 items in 0.1 seconds
+2024-02-09 12:14:26.422 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-09 12:14:28.350 [i] Steam.Steam: Cataloged 1594 games in 2.3 seconds
+2024-02-09 12:14:29.480 [i] WindowsApps.WindowsApps: Cataloged 16 items in 3.3 seconds
+2024-02-09 12:14:29.806 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.6 seconds
+2024-02-09 12:16:16.293 [W] Everything.Everything: Everything instance not found
+2024-02-09 12:16:18.085 [W] Everything.Everything: Everything instance not found
+2024-02-09 12:16:18.370 [W] Everything.Everything: Everything instance not found
+2024-02-09 12:16:18.984 [W] Everything.Everything: Everything instance not found
+2024-02-09 12:16:19.197 [W] Everything.Everything: Everything instance not found
+2024-02-09 12:16:20.160 [W] Everything.Everything: Everything instance not found
+2024-02-09 12:59:37.633 [i] Apps.StartMenu: Cataloged 385 items in 0.0 seconds
+2024-02-09 17:57:09.604 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-09 17:58:23.409 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-09 18:00:08.897 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-09 18:07:14.907 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-09 21:04:35.276 [i] Environment changed.
+2024-02-09 21:04:35.329 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-09 21:04:35.530 [i] Apps.EnvPath: Cataloged 2060 items in 0.2 seconds
+2024-02-09 21:04:36.942 [i] Apps.StartMenu: Cataloged 385 items in 0.0 seconds
+2024-02-10 18:17:05.077 [i] Apps.StartMenu: Cataloged 385 items in 0.0 seconds
+2024-02-12 07:57:26.347 [E] Error from AudioSwitcher.AudioSwitcher.on_suggest: <class 're.error'>: bad escape \C at position 25
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\AudioSwitcher.keypirinha-package\audioswitcher.py", line 48, in on_suggest
+  File "lib\re.py", line 183, in search
+  File "lib\re.py", line 286, in _compile
+  File "lib\sre_compile.py", line 764, in compile
+  File "lib\sre_parse.py", line 930, in parse
+  File "lib\sre_parse.py", line 426, in _parse_sub
+  File "lib\sre_parse.py", line 507, in _parse
+  File "lib\sre_parse.py", line 402, in _escape
+
+2024-02-12 11:59:10.914 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-12 12:02:17.435 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-12 12:05:42.495 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-13 12:19:56.894 [i] Received end-of-session message
+
+
+2024-02-14 16:23:42.796 [i] Loaded 76 items from history file.
+2024-02-14 16:23:42.808 [i] Loaded 2251 items from catalog file.
+2024-02-14 16:23:42.897 [i] Init done in 0.3798s, including 0.2217s (58%) for the Python interpreter.
+2024-02-14 16:23:42.897 [i] Plugin loaded: Internal.About
+2024-02-14 16:23:42.940 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-14 16:23:42.940 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-14 16:23:42.940 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-14 16:23:42.940 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-14 16:23:42.940 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-14 16:23:43.025 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-14 16:23:43.037 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-14 16:23:43.044 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-14 16:23:43.045 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-14 16:23:43.046 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-14 16:23:43.049 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-14 16:23:43.051 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-14 16:23:43.060 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-14 16:23:43.069 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-14 16:23:43.071 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-14 16:23:43.074 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-14 16:23:43.094 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-14 16:23:43.099 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-14 16:23:43.101 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-14 16:23:43.102 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-14 16:23:43.104 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-14 16:23:43.105 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-14 16:23:43.113 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-14 16:23:43.116 [i] Plugin loaded: String.String (instance #1)
+2024-02-14 16:23:43.118 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-14 16:23:43.119 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-14 16:23:43.121 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-14 16:23:43.124 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-14 16:23:43.126 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-14 16:23:43.129 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-14 16:23:43.129 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-14 16:23:43.131 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-14 16:23:43.195 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-14 16:23:43.233 [i] Apps.StartMenu: Cataloged 385 items in 0.0 seconds
+2024-02-14 16:23:43.236 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-14 16:23:43.302 [i] Apps.EnvPath: Cataloged 2060 items in 0.1 seconds
+2024-02-14 16:23:43.560 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-14 16:23:45.718 [i] Steam.Steam: Cataloged 1596 games in 2.5 seconds
+2024-02-14 16:23:46.930 [i] WindowsApps.WindowsApps: Cataloged 17 items in 3.5 seconds
+2024-02-14 16:23:47.218 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.8 seconds
+2024-02-16 11:58:52.680 [i] Environment changed.
+2024-02-16 11:58:52.745 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-16 11:58:52.876 [i] Apps.EnvPath: Cataloged 2061 items in 0.1 seconds
+2024-02-16 12:49:25.154 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 13:00:50.338 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 13:03:09.510 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 13:05:37.869 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 13:07:15.524 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 13:45:27.934 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 15:45:24.851 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 15:47:29.302 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 18:59:00.065 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-16 22:42:37.197 [i] Received end-of-session message
+
+
+2024-02-17 12:54:59.239 [i] Loaded 77 items from history file.
+2024-02-17 12:54:59.251 [i] Loaded 2244 items from catalog file.
+2024-02-17 12:54:59.281 [i] Init done in 0.3132s, including 0.2182s (70%) for the Python interpreter.
+2024-02-17 12:54:59.281 [i] Plugin loaded: Internal.About
+2024-02-17 12:54:59.324 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-17 12:54:59.324 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-17 12:54:59.324 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-17 12:54:59.324 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-17 12:54:59.324 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-17 12:54:59.406 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-17 12:54:59.417 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-17 12:54:59.424 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-17 12:54:59.425 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-17 12:54:59.426 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-17 12:54:59.429 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-17 12:54:59.432 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-17 12:54:59.440 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-17 12:54:59.449 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-17 12:54:59.452 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-17 12:54:59.455 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-17 12:54:59.475 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-17 12:54:59.480 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-17 12:54:59.481 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-17 12:54:59.483 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-17 12:54:59.485 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-17 12:54:59.486 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-17 12:54:59.493 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-17 12:54:59.499 [i] Plugin loaded: String.String (instance #1)
+2024-02-17 12:54:59.501 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-17 12:54:59.502 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-17 12:54:59.504 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-17 12:54:59.508 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-17 12:54:59.510 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-17 12:54:59.514 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-17 12:54:59.514 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-17 12:54:59.516 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-17 12:54:59.575 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-17 12:54:59.628 [i] Apps.StartMenu: Cataloged 385 items in 0.1 seconds
+2024-02-17 12:54:59.635 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-17 12:54:59.643 [E] Error from Steam.Steam.on_catalog: <class 'FileNotFoundError'>: [WinError 3] The system cannot find the path specified: 'G:\\\\SteamLibrary\\steamapps'
+Traceback (most recent call last):
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 64, in on_catalog
+  File "C:\ProgramData\scoop\apps\keypirinha\current\portable\Profile\InstalledPackages\Steam.keypirinha-package\steam.py", line 125, in get_applist
+
+2024-02-17 12:54:59.701 [i] Apps.EnvPath: Cataloged 2063 items in 0.1 seconds
+2024-02-17 12:54:59.980 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-17 12:55:02.957 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.2 seconds
+2024-02-17 12:55:03.688 [i] WindowsApps.WindowsApps: Cataloged 17 items in 3.9 seconds
+2024-02-17 13:03:31.694 [i] Item properties:
+  label:           PSPad
+  args:            
+  short_desc:      Start Menu: Programs\Scoop Apps
+  target:          C:\Users\CrRoot\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Scoop Apps\PSPad.lnk
+  category:        file (20)
+  args_hint:       accepted
+  hit_hint:        keepall
+  plugin:          Apps.StartMenu (7069959197848932683)
+  item_id:         15760492947698654024
+  loop_on_suggest: false
+  data_bag:        
+
+2024-02-17 13:16:33.846 [i] Apps.StartMenu: Cataloged 385 items in 0.0 seconds
+2024-02-17 20:07:37.078 [i] Apps.Desktop: Cataloged 4 items in 0.1 seconds
+2024-02-17 20:29:26.389 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-17 20:30:25.839 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-17 20:30:54.066 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-17 20:31:52.670 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-17 20:32:14.709 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-17 20:32:26.672 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-17 20:34:11.272 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-19 07:09:09.962 [i] Environment changed.
+2024-02-19 07:09:09.993 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-19 07:09:10.089 [i] Apps.EnvPath: Cataloged 2063 items in 0.1 seconds
+2024-02-19 10:05:20.806 [i] Apps.StartMenu: Cataloged 386 items in 0.0 seconds
+2024-02-19 10:39:08.606 [i] Kill.Kill: Found 285 running processes in 0.2 seconds
+2024-02-19 12:35:28.640 [i] Received end-of-session message
+
+
+2024-02-19 12:48:32.902 [i] Loaded 86 items from history file.
+2024-02-19 12:48:32.916 [i] Loaded 2252 items from catalog file.
+2024-02-19 12:48:32.977 [i] Init done in 0.3948s, including 0.2587s (66%) for the Python interpreter.
+2024-02-19 12:48:32.977 [i] Plugin loaded: Internal.About
+2024-02-19 12:48:33.022 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-02-19 12:48:33.022 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-02-19 12:48:33.022 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-02-19 12:48:33.022 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-02-19 12:48:33.022 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-02-19 12:48:33.115 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-02-19 12:48:33.128 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-02-19 12:48:33.136 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-02-19 12:48:33.138 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-02-19 12:48:33.139 [i] Plugin loaded: Env.Env (instance #1)
+2024-02-19 12:48:33.142 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-02-19 12:48:33.144 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-02-19 12:48:33.154 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-02-19 12:48:33.164 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-02-19 12:48:33.167 [i] Plugin loaded: Git.Git (instance #1)
+2024-02-19 12:48:33.170 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-02-19 12:48:33.192 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-02-19 12:48:33.197 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-02-19 12:48:33.199 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-02-19 12:48:33.201 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-02-19 12:48:33.203 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-02-19 12:48:33.205 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-02-19 12:48:33.212 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-02-19 12:48:33.215 [i] Plugin loaded: String.String (instance #1)
+2024-02-19 12:48:33.217 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-02-19 12:48:33.219 [i] Plugin loaded: URL.URL (instance #1)
+2024-02-19 12:48:33.221 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-02-19 12:48:33.224 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-02-19 12:48:33.226 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-02-19 12:48:33.230 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-02-19 12:48:33.230 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-02-19 12:48:33.231 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-02-19 12:48:33.320 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-19 12:48:33.325 [i] Apps.StartMenu: Cataloged 386 items in 0.0 seconds
+2024-02-19 12:48:33.353 [i] Bookmarks.Bookmarks: Referenced 1 bookmark
+2024-02-19 12:48:33.427 [i] Apps.EnvPath: Cataloged 2064 items in 0.1 seconds
+2024-02-19 12:48:33.703 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-02-19 12:48:37.124 [i] Steam.Steam: Cataloged 828 games in 3.8 seconds
+2024-02-19 12:48:37.758 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 4.2 seconds
+2024-02-19 12:48:38.462 [i] WindowsApps.WindowsApps: Cataloged 17 items in 4.9 seconds
+2024-02-20 12:40:02.148 [i] Apps.StartMenu: Cataloged 386 items in 0.1 seconds
+2024-02-21 02:52:21.584 [i] Environment changed.
+2024-02-21 02:52:21.651 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-21 02:52:21.932 [i] Apps.EnvPath: Cataloged 2062 items in 0.3 seconds
+2024-02-21 02:52:38.264 [i] Environment changed.
+2024-02-21 02:52:38.290 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-02-21 02:52:38.466 [i] Apps.EnvPath: Cataloged 2064 items in 0.2 seconds
+2024-02-21 02:52:39.168 [i] Apps.StartMenu: Cataloged 386 items in 0.0 seconds
+2024-02-21 12:45:20.638 [i] Apps.StartMenu: Cataloged 387 items in 0.0 seconds
+2024-02-21 18:23:43.733 [i] Received TaskbarCreated system message
+2024-02-21 23:31:02.109 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-21 23:32:21.496 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-22 07:51:18.008 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-22 07:53:29.582 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-22 08:21:58.423 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-22 08:22:31.970 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 14:38:35.155 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-02-23 14:38:47.022 [i] Apps.StartMenu: Cataloged 387 items in 0.0 seconds
+2024-02-23 22:01:12.788 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:13:13.150 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:17:00.748 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:19:32.226 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:21:12.226 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:23:17.396 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:32:37.170 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:33:50.992 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:39:02.076 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-23 22:51:01.197 [i] Apps.Desktop: Cataloged 4 items in 0.0 seconds
+2024-02-24 12:25:20.187 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-02-24 12:25:34.925 [i] Apps.StartMenu: Cataloged 387 items in 0.0 seconds
+2024-02-24 13:01:00.221 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-02-24 13:01:14.245 [i] Apps.StartMenu: Cataloged 387 items in 0.0 seconds
+2024-02-24 15:41:49.662 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-02-24 15:41:50.076 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-02-24 15:50:31.399 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-02-25 10:47:47.291 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-02-25 12:23:20.273 [i] Apps.StartMenu: Cataloged 389 items in 0.1 seconds
+2024-02-26 11:17:31.320 [i] Apps.StartMenu: Cataloged 390 items in 0.0 seconds
+2024-02-26 11:17:43.774 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-02-27 13:15:16.525 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-02-29 16:22:54.459 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-02-29 21:17:52.529 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-02-29 21:21:42.575 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-02-29 21:23:11.565 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-02-29 21:26:32.320 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-02-29 21:26:52.972 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-02-29 21:44:16.693 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-02-29 22:00:04.896 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-02-29 22:08:04.619 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-03-01 09:05:37.674 [i] Received TaskbarCreated system message
+2024-03-01 12:07:58.563 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-03-01 14:20:06.553 [i] Apps.StartMenu: Cataloged 390 items in 0.0 seconds
+2024-03-01 14:20:17.473 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-03-01 14:22:28.691 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-03-01 14:22:40.031 [i] Apps.StartMenu: Cataloged 390 items in 0.0 seconds
+2024-03-01 14:22:51.043 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-03-01 14:28:43.596 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-03-01 16:23:17.683 [i] Received TaskbarCreated system message
+2024-03-01 16:26:33.695 [i] Received TaskbarCreated system message
+2024-03-02 20:25:18.658 [i] Apps.Desktop: Cataloged 6 items in 0.0 seconds
+2024-03-02 20:25:19.086 [i] Apps.StartMenu: Cataloged 391 items in 0.0 seconds
+2024-03-02 20:26:16.092 [i] Apps.StartMenu: Cataloged 391 items in 0.0 seconds
+2024-03-02 20:29:23.244 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-03-02 20:29:23.351 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-03-02 21:16:29.872 [i] Apps.StartMenu: Cataloged 390 items in 0.0 seconds
+2024-03-03 15:22:04.599 [i] Apps.StartMenu: Cataloged 390 items in 0.0 seconds
+2024-03-07 13:15:52.451 [i] Apps.StartMenu: Cataloged 390 items in 0.1 seconds
+2024-03-07 14:51:05.254 [i] Received end-of-session message
+
+
+2024-03-07 20:52:33.821 [i] Loaded 114 items from history file.
+2024-03-07 20:52:33.833 [i] Loaded 2158 items from catalog file.
+2024-03-07 20:52:33.883 [i] Init done in 0.3875s, including 0.2520s (65%) for the Python interpreter.
+2024-03-07 20:52:33.883 [i] Plugin loaded: Internal.About
+2024-03-07 20:52:33.929 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-03-07 20:52:33.929 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-03-07 20:52:33.929 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-03-07 20:52:33.929 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-03-07 20:52:33.929 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-03-07 20:52:34.017 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-03-07 20:52:34.029 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-03-07 20:52:34.037 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-03-07 20:52:34.038 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-03-07 20:52:34.039 [i] Plugin loaded: Env.Env (instance #1)
+2024-03-07 20:52:34.042 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-03-07 20:52:34.045 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-03-07 20:52:34.053 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-03-07 20:52:34.062 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-03-07 20:52:34.065 [i] Plugin loaded: Git.Git (instance #1)
+2024-03-07 20:52:34.068 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-03-07 20:52:34.090 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-03-07 20:52:34.095 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-03-07 20:52:34.097 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-03-07 20:52:34.099 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-03-07 20:52:34.101 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-03-07 20:52:34.102 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-03-07 20:52:34.109 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-03-07 20:52:34.113 [i] Plugin loaded: String.String (instance #1)
+2024-03-07 20:52:34.114 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-03-07 20:52:34.116 [i] Plugin loaded: URL.URL (instance #1)
+2024-03-07 20:52:34.118 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-03-07 20:52:34.121 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-03-07 20:52:34.123 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-03-07 20:52:34.126 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-03-07 20:52:34.126 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-03-07 20:52:34.128 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-03-07 20:52:34.191 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-03-07 20:52:34.210 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-03-07 20:52:34.211 [W] Bookmarks.Bookmarks: places.sqlite file not found in C:\Users\CrRoot\AppData\Roaming\Mozilla\Firefox\Profiles/9idhmdb1.default
+2024-03-07 20:52:34.255 [i] Bookmarks.Bookmarks: Referenced 13 bookmarks
+2024-03-07 20:52:34.306 [i] Apps.EnvPath: Cataloged 2067 items in 0.1 seconds
+2024-03-07 20:52:34.845 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-03-07 20:52:37.221 [i] Steam.Steam: Cataloged 821 games in 3.0 seconds
+2024-03-07 20:52:38.532 [i] WindowsApps.WindowsApps: Cataloged 18 items in 4.1 seconds
+2024-03-07 20:52:38.612 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 4.2 seconds
+2024-03-08 15:09:27.680 [i] Environment changed.
+2024-03-08 15:09:29.419 [i] Apps.StartMenu: Cataloged 388 items in 0.1 seconds
+2024-03-09 11:07:02.314 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-03-09 12:04:21.901 [i] Received TaskbarCreated system message
+2024-03-11 17:38:47.979 [i] Apps.Desktop: Cataloged 5 items in 0.0 seconds
+2024-03-12 07:26:18.389 [i] Apps.Desktop: Cataloged 6 items in 0.0 seconds
+2024-03-12 15:42:08.867 [i] Apps.StartMenu: Cataloged 389 items in 0.0 seconds
+2024-03-12 15:42:20.836 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-03-13 03:08:03.363 [i] Received end-of-session message
+
+
+2024-03-13 15:49:32.383 [i] Loaded 124 items from history file.
+2024-03-13 15:49:32.395 [i] Loaded 2198 items from catalog file.
+2024-03-13 15:49:32.459 [i] Init done in 0.3608s, including 0.2227s (62%) for the Python interpreter.
+2024-03-13 15:49:32.459 [i] Plugin loaded: Internal.About
+2024-03-13 15:49:32.502 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-03-13 15:49:32.502 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-03-13 15:49:32.502 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-03-13 15:49:32.502 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-03-13 15:49:32.502 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-03-13 15:49:32.587 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-03-13 15:49:32.599 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-03-13 15:49:32.606 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-03-13 15:49:32.608 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-03-13 15:49:32.609 [i] Plugin loaded: Env.Env (instance #1)
+2024-03-13 15:49:32.612 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-03-13 15:49:32.614 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-03-13 15:49:32.622 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-03-13 15:49:32.632 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-03-13 15:49:32.635 [i] Plugin loaded: Git.Git (instance #1)
+2024-03-13 15:49:32.637 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-03-13 15:49:32.658 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-03-13 15:49:32.663 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-03-13 15:49:32.665 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-03-13 15:49:32.666 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-03-13 15:49:32.669 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-03-13 15:49:32.670 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-03-13 15:49:32.677 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-03-13 15:49:32.680 [i] Plugin loaded: String.String (instance #1)
+2024-03-13 15:49:32.683 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-03-13 15:49:32.684 [i] Plugin loaded: URL.URL (instance #1)
+2024-03-13 15:49:32.686 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-03-13 15:49:32.689 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-03-13 15:49:32.691 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-03-13 15:49:32.694 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-03-13 15:49:32.694 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-03-13 15:49:32.696 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-03-13 15:49:32.755 [i] Apps.Desktop: Cataloged 6 items in 0.0 seconds
+2024-03-13 15:49:32.791 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-03-13 15:49:32.793 [W] Bookmarks.Bookmarks: places.sqlite file not found in C:\Users\CrRoot\AppData\Roaming\Mozilla\Firefox\Profiles/9idhmdb1.default
+2024-03-13 15:49:32.827 [i] Bookmarks.Bookmarks: Referenced 13 bookmarks
+2024-03-13 15:49:32.872 [i] Apps.EnvPath: Cataloged 2069 items in 0.1 seconds
+2024-03-13 15:49:33.169 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-03-13 15:49:35.036 [i] Steam.Steam: Cataloged 822 games in 2.2 seconds
+2024-03-13 15:49:36.988 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 4.0 seconds
+2024-03-13 15:49:37.300 [i] WindowsApps.WindowsApps: Cataloged 18 items in 4.3 seconds
+2024-03-14 13:16:10.833 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-03-14 17:54:55.104 [i] Received TaskbarCreated system message
+2024-03-14 17:55:37.339 [i] Received end-of-session message
+
+
+2024-03-15 11:12:42.436 [i] Loaded 130 items from history file.
+2024-03-15 11:12:42.448 [i] Loaded 2207 items from catalog file.
+2024-03-15 11:12:42.509 [i] Init done in 0.3398s, including 0.2145s (63%) for the Python interpreter.
+2024-03-15 11:12:42.509 [i] Plugin loaded: Internal.About
+2024-03-15 11:12:42.556 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2024-03-15 11:12:42.556 [i] Plugin loaded: Apps.Desktop (instance #1)
+2024-03-15 11:12:42.556 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2024-03-15 11:12:42.556 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2024-03-15 11:12:42.556 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2024-03-15 11:12:42.642 [i] Plugin loaded: AudioSwitcher.AudioSwitcher (instance #1)
+2024-03-15 11:12:42.654 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2024-03-15 11:12:42.661 [i] Plugin loaded: Calc.Calc (instance #1)
+2024-03-15 11:12:42.662 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2024-03-15 11:12:42.663 [i] Plugin loaded: Env.Env (instance #1)
+2024-03-15 11:12:42.666 [i] Plugin loaded: Everything.Everything (instance #1)
+2024-03-15 11:12:42.668 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2024-03-15 11:12:42.676 [i] Plugin loaded: FilesCatalog.FilesCatalog (instance #1)
+2024-03-15 11:12:42.686 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2024-03-15 11:12:42.689 [i] Plugin loaded: Git.Git (instance #1)
+2024-03-15 11:12:42.691 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2024-03-15 11:12:42.711 [i] Plugin loaded: Kill.Kill (instance #1)
+2024-03-15 11:12:42.716 [i] Plugin loaded: PackageControl.PackageControl (instance #1)
+2024-03-15 11:12:42.718 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2024-03-15 11:12:42.719 [i] Plugin loaded: RecentItems.RecentItems (instance #1)
+2024-03-15 11:12:42.721 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2024-03-15 11:12:42.722 [i] Plugin loaded: Shell.Shell (instance #1)
+2024-03-15 11:12:42.729 [i] Plugin loaded: Steam.Steam (instance #1)
+2024-03-15 11:12:42.732 [i] Plugin loaded: String.String (instance #1)
+2024-03-15 11:12:42.734 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2024-03-15 11:12:42.736 [i] Plugin loaded: URL.URL (instance #1)
+2024-03-15 11:12:42.738 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2024-03-15 11:12:42.740 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2024-03-15 11:12:42.742 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2024-03-15 11:12:42.746 [i] Plugin loaded: WindowsApps.ModernControlPanel (instance #1)
+2024-03-15 11:12:42.746 [i] Plugin loaded: WindowsApps.WindowsApps (instance #1)
+2024-03-15 11:12:42.748 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2024-03-15 11:12:42.804 [i] Apps.Desktop: Cataloged 6 items in 0.0 seconds
+2024-03-15 11:12:42.853 [i] Apps.StartMenu: Cataloged 388 items in 0.1 seconds
+2024-03-15 11:12:42.857 [W] Bookmarks.Bookmarks: places.sqlite file not found in C:\Users\CrRoot\AppData\Roaming\Mozilla\Firefox\Profiles/9idhmdb1.default
+2024-03-15 11:12:42.927 [i] Apps.EnvPath: Cataloged 2069 items in 0.1 seconds
+2024-03-15 11:12:43.005 [i] Bookmarks.Bookmarks: Referenced 13 bookmarks
+2024-03-15 11:12:43.213 [i] PackageControl.PackageControl: Package list loaded from 'ueffel's Package Repository' (76 packages)
+2024-03-15 11:12:45.615 [i] Steam.Steam: Cataloged 824 games in 2.8 seconds
+2024-03-15 11:12:46.624 [i] WindowsApps.WindowsApps: Cataloged 18 items in 3.6 seconds
+2024-03-15 11:12:46.927 [i] WindowsApps.ModernControlPanel: Cataloged 91 items in 3.9 seconds
+2024-03-16 13:02:15.202 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-03-16 16:09:15.927 [i] Environment changed.
+2024-03-16 16:09:17.388 [i] Apps.StartMenu: Cataloged 388 items in 0.0 seconds
+2024-03-16 18:40:34.554 [i] Received end-of-session message

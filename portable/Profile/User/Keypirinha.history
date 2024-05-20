@@ -3,7 +3,7 @@
       "creator" : "Keypirinha v2.26 (e037f62)",
       "creator_url" : "http://keypirinha.com/",
       "format" : 102,
-      "modified" : "2024-05-17T14:57:15+0200",
+      "modified" : "2024-05-09T10:09:47+0200",
       "type" : "history"
    },
    "history" : [
@@ -630,84 +630,6 @@
          "item" : 2921574178357462542,
          "label" : "SmartGit",
          "time" : "2024-05-09T10:09:47+0200"
-      },
-      {
-         "action" : null,
-         "item" : 4388875503577734629,
-         "label" : "diskmgmt.msc",
-         "time" : "2024-05-11T08:39:48+0200"
-      },
-      {
-         "action" : null,
-         "item" : 9110715241122712269,
-         "label" : "Beyond Compare 4",
-         "time" : "2024-05-15T11:55:38+0200"
-      },
-      {
-         "action" : null,
-         "item" : 9110715241122712269,
-         "label" : "Beyond Compare 4",
-         "time" : "2024-05-15T11:56:40+0200"
-      },
-      {
-         "action" : null,
-         "item" : 6366397779148956027,
-         "label" : "Obsidian",
-         "time" : "2024-05-16T06:25:43+0200"
-      },
-      {
-         "action" : null,
-         "item" : 6366397779148956027,
-         "label" : "Obsidian",
-         "time" : "2024-05-17T07:45:41+0200"
-      },
-      {
-         "action" : null,
-         "item" : 6366397779148956027,
-         "label" : "Obsidian",
-         "time" : "2024-05-17T08:24:24+0200"
-      },
-      {
-         "action" : null,
-         "item" : 6366397779148956027,
-         "label" : "Obsidian",
-         "time" : "2024-05-17T08:35:03+0200"
-      },
-      {
-         "action" : null,
-         "item" : 9110715241122712269,
-         "label" : "Beyond Compare 4",
-         "time" : "2024-05-17T10:19:02+0200"
-      },
-      {
-         "action" : null,
-         "item" : 10628874429223025653,
-         "label" : "Beyond Compare 4",
-         "time" : "2024-05-17T10:20:12+0200"
-      },
-      {
-         "action" : null,
-         "item" : 13626359305618572294,
-         "label" : "SmartGit",
-         "time" : "2024-05-17T10:34:52+0200"
-      },
-      {
-         "action" : null,
-         "item" : 2921574178357462542,
-         "label" : "SmartGit",
-         "time" : "2024-05-17T10:35:00+0200"
-      },
-      {
-         "action" : null,
-         "item" : 2921574178357462542,
-         "label" : "SmartGit",
-         "time" : "2024-05-17T11:01:42+0200"
-      },
-      {
-         "action" : null,
-         "item" : 6366397779148956027,
-         "label" : "Obsidian",
-         "time" : "2024-05-17T14:57:15+0200"
       }
    ],
    "sets" : {
@@ -772,17 +694,6 @@
             "args_hint" : "accepted",
             "category" : "file",
             "hit_hint" : "keepall",
-            "id" : 10628874429223025653,
-            "label" : "Beyond Compare 4",
-            "loop_on_suggest" : false,
-            "plugin" : "Apps.StartMenu",
-            "short_desc" : "Start Menu: Programs\\Scoop Apps",
-            "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Beyond Compare 4.lnk"
-         },
-         {
-            "args_hint" : "accepted",
-            "category" : "file",
-            "hit_hint" : "keepall",
             "id" : 3167346699064877633,
             "label" : "digiKam",
             "loop_on_suggest" : false,
@@ -811,17 +722,6 @@
             "plugin" : "Apps.StartMenu",
             "short_desc" : "Start Menu: Programs\\Scoop Apps",
             "target" : "C:\\Users\\Användaren\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Discord.lnk"
-         },
-         {
-            "args_hint" : "accepted",
-            "category" : "file",
-            "hit_hint" : "keepall",
-            "id" : 4388875503577734629,
-            "label" : "diskmgmt.msc",
-            "loop_on_suggest" : false,
-            "plugin" : "Apps.EnvPath",
-            "short_desc" : "",
-            "target" : "C:\\WINDOWS\\system32\\diskmgmt.msc"
          },
          {
             "args_hint" : "accepted",
@@ -1059,11 +959,11 @@
             "search" : "bc"
          },
          {
-            "items" : [ 9110715241122712269, 8999127826094402544 ],
+            "items" : [ 8999127826094402544 ],
             "search" : "bcom"
          },
          {
-            "items" : [ 10628874429223025653, 9110715241122712269 ],
+            "items" : [ 9110715241122712269 ],
             "search" : "BEY"
          },
          {
@@ -1089,10 +989,6 @@
          {
             "items" : [ 2588231827233533498 ],
             "search" : "disc"
-         },
-         {
-            "items" : [ 4388875503577734629 ],
-            "search" : "diskmgm"
          },
          {
             "items" : [ 12387420564152113494 ],
@@ -1137,10 +1033,6 @@
          {
             "items" : [ 6366397779148956027 ],
             "search" : "Ob"
-         },
-         {
-            "items" : [ 6366397779148956027 ],
-            "search" : "OBS"
          },
          {
             "items" : [ 6366397779148956027 ],
