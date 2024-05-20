@@ -9,43 +9,54 @@ gitRootSettingsSet:
     push: {}
     commitNotes: {}
     journal: {}
-  roots: ['B:\PF\CSharpVisualStudio\repos\karlstad2Calc_Lotto', 'C:\ProgramData\scoop\persist',
-    'C:\ProgramData\scoop\persist\Everything-Paf', 'B:\PF\PowershellProjectFolder',
-    'B:\PF\PowershellProjectFolder\Modules\Personal', 'B:\PF\PowershellProjectFolder\TodoProjects\Ast-IdentifyCodeBlocks',
-    'B:\PF\PowershellProjectFolder\TodoProjects\GitHooks\cf3e17d36706bea6afbdc6d2c46811a4',
-    'B:\PF\PowershellProjectFolder\doneAndDeserted\Betesta\Esp-Header-Export', 'B:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin',
-    'B:\PF\PowershellProjectFolder\scripts', 'B:\PF\PowershellProjectFolder\Modules\Personal\Regestry\Get-progid',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\TextTransformation\MessureObfuscated',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\TextTransformation\hashtable\CompareHashTable',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\TextTransformation\hashtable\CompareHashTableAlt',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\aPdf', 'B:\PF\PowershellProjectFolder\Modules\Personal\browser\ExportChromeBook',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\browser\ExportChromeExtensions',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\filesystem\Compare', 'B:\PF\PowershellProjectFolder\Modules\Personal\filesystem\Count',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\filesystem\Toutched', 'B:\PF\PowershellProjectFolder\Modules\Personal\filesystem\group',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\git\BreakRepoIntoTwo\fork\6387904f5666f83f401afed94a869379',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\git\Clone-NonEmpty', 'B:\PF\PowershellProjectFolder\Modules\Personal\git\get-gitConfig',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\ini\5960b271752d030383f0e5a591751e0d',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\migration\Export-Inst-Choco',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\migration\GetInstalled', 'B:\PF\PowershellProjectFolder\Modules\Personal\ps\ExecJavaScript',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\ps\Processes\Get-ProcessTree',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\ps\Show-BinaryFile', 'B:\PF\PowershellProjectFolder\Modules\Personal\ps\pipeline\Pipe-Rawdata',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\ps\pipeline\breakPipelineAtCondition',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\ps\ui\DiagramPswriteHtml', 'B:\PF\PowershellProjectFolder\Modules\Personal\sql\Sqlite',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\xadmin', 'B:\PF\PowershellProjectFolder\Modules\Personal\xml\Xml-Transform-Xdt',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\xml\xml2Csv', 'B:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin\TakeOwnerShip',
-    'B:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin\forked-sysadmin', 'B:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin\my-windows',
-    'B:\PF\PowershellProjectFolder\scripts\AllowAccessWindowsDefender', 'B:\PF\PowershellProjectFolder\scripts\Export-Inst-Choco',
-    'B:\PF\PowershellProjectFolder\scripts\Fork\DiagramPswriteHtml', 'B:\PF\PowershellProjectFolder\scripts\Fork\ExportChromeBook',
-    'B:\PF\PowershellProjectFolder\scripts\GetInstalled', 'B:\PF\PowershellProjectFolder\scripts\TodoProjects\Ast-IdentifyCodeBlocks',
-    'B:\PF\PowershellProjectFolder\scripts\doneNDeserted\WindowsAdmin\forked-sysadmin\snipps',
-    'B:\PF\PowershellProjectFolder\scripts\forked-sysadmin', 'B:\PF\PowershellProjectFolder\scripts\my-windows',
-    'B:\PF\PowershellProjectFolder\scripts\pshell', 'B:\PF\PowershellProjectFolder\Modules\Personal\aPdf\TextFromPdf',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\aPdf\iTextSharp Functions\ReadText',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\filesystem\Compare\RecFolderDiff',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\xadmin\AllowAccessWindowsDefender',
-    'B:\PF\PowershellProjectFolder\Modules\Personal\xadmin\TakeOwnerShip', 'B:\PF\PowershellProjectFolder\Modules\Personal\xml\xml2Csv\kindljiri',
-    'B:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin\my-windows\AliasesUserProfile',
-    'B:\PF\PowershellProjectFolder\ps1', 'B:\PF\PowershellProjectFolder\Modules\Personal\filesystem\group\ps1']
+  roots: ['B:\PF', 'B:\PF\AhkProjectFolder', 'B:\PF\Archive', 'B:\PF\CSharpVisualStudio',
+    'B:\PF\Cv -Project', 'B:\PF\ForksDownloadedCode\boxsocial', 'B:\PF\ForksDownloadedCode\gmaster_tour',
+    'B:\PF\ForksDownloadedCode\google-photos-delete-tool', 'B:\PF\NoteTakingProjectFolder',
+    'B:\PF\NoteTakingProjectFolder\GistNotebook', 'B:\PF\NoteTakingProjectFolder\Notebook-Foam',
+    'B:\PF\NoteTakingProjectFolder\Notebooks', 'B:\PF\NoteTakingProjectFolder\gists',
+    'B:\PF\NoteTakingProjectFolder\GistNotebook\browserBookmarkss', 'B:\PF\NoteTakingProjectFolder\GistNotebook\useFullRegEdits',
+    'B:\PF\NoteTakingProjectFolder\GistNotebook\xMarks', 'B:\PF\NoteTakingProjectFolder\Notebook-Foam\NoteTakingProjectFolder',
+    'B:\PF\NoteTakingProjectFolder\gists\065327f4f5c7607dd2cb9d11d85e2bc2', 'B:\PF\NoteTakingProjectFolder\gists\097a4f79a366b2d6d2b66ae43eef28ab',
+    'B:\PF\NoteTakingProjectFolder\gists\15d352bfb2bc6be567177a71adcf1b1e', 'B:\PF\NoteTakingProjectFolder\gists\17abca7baec04b17d1704f3318b995d6',
+    'B:\PF\NoteTakingProjectFolder\gists\1d5a90b4975101fa1666d66382799002', 'B:\PF\NoteTakingProjectFolder\gists\1d666b03e2df181e230ee39dcb4b9a99',
+    'B:\PF\NoteTakingProjectFolder\gists\202dc1e0a71c31d2cc49ffced1b516f9', 'B:\PF\NoteTakingProjectFolder\gists\212e18fff05e5c7cfe7bb4c4dee3eaac',
+    'B:\PF\NoteTakingProjectFolder\gists\2475881905263ca13559884754ae3cb5', 'B:\PF\NoteTakingProjectFolder\gists\316c3c97e84e6c8c3a84b1015be8a8c7',
+    'B:\PF\NoteTakingProjectFolder\gists\34a7ecf3253508fdd13ca5fdec0718b6', 'B:\PF\NoteTakingProjectFolder\gists\38cef86fbe5324681ee9d0463ebee5c7',
+    'B:\PF\NoteTakingProjectFolder\gists\3a61a62908be6a76230ef608e9da535c', 'B:\PF\NoteTakingProjectFolder\gists\3a8414791f93cd6aead77eb786cdb4cb',
+    'B:\PF\NoteTakingProjectFolder\gists\45280886942fca246ca9c21c571b5686', 'B:\PF\NoteTakingProjectFolder\gists\475d6628a67e9e362ab4bcd1e7ed7f93',
+    'B:\PF\NoteTakingProjectFolder\gists\496929351ed6c3d6c01c29cb0604236e', 'B:\PF\NoteTakingProjectFolder\gists\49b768e0deaa4bbf0fcd849432de2f51',
+    'B:\PF\NoteTakingProjectFolder\gists\4ad34351159b079a106aeac960149e4c', 'B:\PF\NoteTakingProjectFolder\gists\4caa8a01ac0f3eccdf50992b25561024',
+    'B:\PF\NoteTakingProjectFolder\gists\4d9c4ed6ecb2c159a48a0479104056ec', 'B:\PF\NoteTakingProjectFolder\gists\4e448e326cc894becca9dd27b5b3f357',
+    'B:\PF\NoteTakingProjectFolder\gists\518bd463f068d6e3047415e521b4878e', 'B:\PF\NoteTakingProjectFolder\gists\5601f8961903f7f23c498ef1c3d92b3d',
+    'B:\PF\NoteTakingProjectFolder\gists\5965aecb14831e784591edd71674b016', 'B:\PF\NoteTakingProjectFolder\gists\5aefd714df92ddd27d6feb8343d2ea59',
+    'B:\PF\NoteTakingProjectFolder\gists\66d9a432f9929ece9fe8e6c574f723e5', 'B:\PF\NoteTakingProjectFolder\gists\6ec7af4dc7dfdc054b8eb8b93ca227fa',
+    'B:\PF\NoteTakingProjectFolder\gists\715c8ce5568f048c0810ae0569883e1e', 'B:\PF\NoteTakingProjectFolder\gists\8632683de649a5d585b4583d6446246c',
+    'B:\PF\NoteTakingProjectFolder\gists\873e54bb115fd28f79f867e69bdc105c', 'B:\PF\NoteTakingProjectFolder\gists\882f2865406937c0cc2fa2303a4a1f7f',
+    'B:\PF\NoteTakingProjectFolder\gists\8add4fa4e7ea4426ad96e6d6ddf196c6', 'B:\PF\NoteTakingProjectFolder\gists\98f04579b779e6accabc676d8d5a1c71',
+    'B:\PF\NoteTakingProjectFolder\gists\99a6acb566c1174b26d701ab44fc12cb', 'B:\PF\NoteTakingProjectFolder\gists\9d19eaabc3e6d11d7f98dedb3e2f5a05',
+    'B:\PF\NoteTakingProjectFolder\gists\9ffa46cf42547285a812da910e5f1591', 'B:\PF\NoteTakingProjectFolder\gists\a16f0d876b9af6e71dd4227453166f87',
+    'B:\PF\NoteTakingProjectFolder\gists\aeae329148b25b95aeba9550a8fedd72', 'B:\PF\NoteTakingProjectFolder\gists\af54de9368c24f336e40b9e28e05af58',
+    'B:\PF\NoteTakingProjectFolder\gists\b3e173044d28f4dc9ba8b96fec4e2bcb', 'B:\PF\NoteTakingProjectFolder\gists\b686f12691d0ed9649fa25141c6934d0',
+    'B:\PF\NoteTakingProjectFolder\gists\b8e10ab0177788e717913ae267e7794a', 'B:\PF\NoteTakingProjectFolder\gists\b9a9a02ca7fbbc1ecbba1ef04cafc1d1',
+    'B:\PF\NoteTakingProjectFolder\gists\bd3232c472f78470ed75f3560677df3a', 'B:\PF\NoteTakingProjectFolder\gists\be31650ecdc875d50d2f8d538840add4',
+    'B:\PF\NoteTakingProjectFolder\gists\browserBookmarkss', 'B:\PF\NoteTakingProjectFolder\gists\c2854443345ea46fe30f9e6eb9ffbbc3',
+    'B:\PF\NoteTakingProjectFolder\gists\c35030fae06786c4cf77be48df76f26d', 'B:\PF\NoteTakingProjectFolder\gists\c82ffe4de99921c1b7cb93eb99e58e9a',
+    'B:\PF\NoteTakingProjectFolder\gists\cbb2caafec9fda2934ce782e53f0a5ef', 'B:\PF\NoteTakingProjectFolder\gists\dd1b53fe276ef1ec891b37f7d2530f7b',
+    'B:\PF\NoteTakingProjectFolder\gists\e28c649362d05d8a124da798d2a9c452', 'B:\PF\NoteTakingProjectFolder\gists\e3f35ab2cfd031d08baaa63057372060',
+    'B:\PF\NoteTakingProjectFolder\gists\e7a7bcbbc9bae7c972a1abc434bb8226', 'B:\PF\NoteTakingProjectFolder\gists\edbb8f03d7b400aee02d08634a1ca655',
+    'B:\PF\NoteTakingProjectFolder\gists\f0380aca6a64cd169b637087b49556cf', 'B:\PF\NoteTakingProjectFolder\gists\f5cc64744ea2f0467fac1c8ca2af9bf6',
+    \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1, \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1\Scripts\AllowAccessWindowsDefender,
+    \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1\Scripts\Export-Inst-Choco, \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1\Scripts\GetInstalled,
+    \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1\Scripts\Pwsh, \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1\Scripts\TakeOwnerShip,
+    \\DESKTOP-FIQ183H\BLoppy\ToGit\scoopbucket-1\Scripts\powershellAliasesUserProfile,
+    'B:\PF\scoopbucket-1', 'B:\PF\Archive\TextProcessingProjectF\Tokenization', 'B:\PF\Archive\GitPs1Module',
+    'B:\PF\Archive\NewWindows', 'B:\PF\Archive\NewWindows2', 'B:\PF\Archive\NewWindows3',
+    'B:\PF\Archive\ps1', 'B:\PF\Archive\ps1\Aggregation\TextProcessingProjectF', 'B:\PF\Archive\ps1\git',
+    'B:\PF\Archive\ps1\workflow\CsharpI', 'B:\PF\Archive\ps1\Aggregation\TextProcessingProjectF\Tokenization',
+    'B:\PF\Archive\ps1\git\submodule\SubmoduleFromGitmodules', 'B:\PF\Archive\repair',
+    'B:\PF\chris', 'B:\PF\chris\AppData\Roaming\JetBrains\DataGrip2021.1', 'B:\PF\chris\AppData\Roaming\JetBrains\DataGrip2022.1',
+    'B:\PF\chris\AppData\Roaming\JetBrains\datagrip2019.4', 'B:\PF\chris\AppData\Roaming\Microsoft\Windows\PowerShell',
+    'B:\PF\chris\Documents\PowerShell\Scripts\EnableLinkedConnections.reg', 'B:\PF\chris\Documents\WindowsPowerShell']
   rootB:\ToGit:
     databaseCleanup: {}
     log:
@@ -6368,7 +6379,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\chris:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236471399}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1687611969487}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6376,9 +6387,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [asdzx, aczxc, state, etc, 'massive stage, to verify', ToRead,
-        yp, removed dupes]
-      commitNotes: ccasd
+      commitNotesHistory: ['massive stage, to verify', ToRead, yp, etc, removed dupes]
     journal: {}
   rootB:\PF\PowerShell\Processes\pipeline:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1688413805152}
@@ -6472,7 +6481,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\chris\AppData\Roaming\JetBrains\DataGrip2021.1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236471507}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1687328611431}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6483,7 +6492,7 @@ gitRootSettingsSet:
       commitNotesHistory: [Merge remote-tracking branch 'origin/master']
     journal: {}
   rootB:\PF\chris\AppData\Roaming\Everything:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236471307}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1686061121569}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6491,10 +6500,10 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [sda, appdataState]
+      commitNotesHistory: [appdataState]
     journal: {}
   rootB:\PF\chris\AppData\Roaming\JetBrains:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236471448}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1687328595593}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6502,21 +6511,20 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [state, etc, Gonna readd as submodule]
+      commitNotesHistory: [etc, Gonna readd as submodule]
     journal: {}
   rootB:\PF\chris\AppData\Roaming\JetBrains\datagrip2019.4:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236471353}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1686062600369}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes:
-      commitNotesHistory: [adczxc]
+    commitNotes: {}
     journal: {}
   rootB:\PF\chris\AppData\Roaming\JetBrains\DataGrip2022.1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236471246}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1687328595528}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6533,7 +6541,7 @@ gitRootSettingsSet:
         #\toptions/usage.statistics.xml\n#\toptions/vcs.xml\n#\toptions/window.state.xml"
     journal: {}
   rootB:\PF\chris\AppData\Roaming\Vortex:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236753944}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1686066077479}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6541,7 +6549,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [stae, staet, appDataState]
+      commitNotesHistory: [appDataState]
     journal: {}
   rootB:\PF\scoopbucket-presist\AppData\Roaming\Scooter Software\Beyond Compare 4:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1686065577220}
@@ -6665,7 +6673,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\chris\AppData\Roaming\Vortex\fallout3\masterlist:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236753857}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1686067735615}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6675,7 +6683,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\chris\AppData\Roaming\Vortex\fallout4\masterlist:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236753992}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1686067751457}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6685,7 +6693,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\chris\AppData\Roaming\Vortex\falloutnv\masterlist:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236754041}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1686067776292}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -6715,7 +6723,6 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory:
-      - set
       - etc etc
       - "Merge remote-tracking branch 'remotes/Ps-Scripts/Toblerone' into profileFolder\n\
         \n# Conflicts:\n#\tMicrosoft.PowerShellISE_profile.ps1"
@@ -9248,7 +9255,7 @@ gitRootSettingsSet:
         webpage, stackable, toVeryfiy]
     journal: {}
   rootB:\PF\PowershellProjectFolder:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391110693}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530510}
     log:
       rootSettings: {baseRoots: "!local-branches://\tref://HEAD", extendedRoots: ''}
       fileFilterConfiguration: {}
@@ -9256,7 +9263,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [state, auto commit on move, corrected functionallity, Reorganized,
+      commitNotesHistory: [auto commit on move, corrected functionallity, Reorganized,
         stage]
     journal: {}
   rootB:\ps1:
@@ -9271,18 +9278,15 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693390060374}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1688457245988}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!local-tags://\t!others://\t\
-          !remote://windot\tref://HEAD", extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
     commitNotes:
       commitNotesHistory:
-      - smartgit state
-      - new ahk remote
       - Actual persist state
       - |-
         Vscodium instead of code
@@ -9301,29 +9305,27 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111832}
-    log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [submodules, state]
-    journal: {}
-  rootB:\PF\PowershellProjectFolder\TodoProjects\Ast-IdentifyCodeBlocks:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113238}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529306}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {commitNotes: asd}
+    commitNotes: {}
+    journal: {}
+  rootB:\PF\PowershellProjectFolder\TodoProjects\Ast-IdentifyCodeBlocks:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528889}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\TodoProjects\GitHooks\cf3e17d36706bea6afbdc6d2c46811a4:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113309}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528985}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9333,7 +9335,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\doneAndDeserted\Betesta\Esp-Header-Export:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111494}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529149}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9343,7 +9345,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113663}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530352}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9353,21 +9355,19 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113015}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528736}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes:
-      commitNotesHistory: [state]
+    commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\Regestry\Get-progid:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111986}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011531085}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9375,10 +9375,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\TextTransformation\MessureObfuscated:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112907}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530067}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9386,10 +9385,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\TextTransformation\hashtable\CompareHashTable:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113477}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529644}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9397,10 +9395,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\TextTransformation\hashtable\CompareHashTableAlt:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111015}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528609}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9408,10 +9405,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\aPdf:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112350}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529789}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!local-tags://\t!remote://origin\t\
-          ref://HEAD", extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9419,10 +9415,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\browser\ExportChromeBook:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111185}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528530}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9430,10 +9425,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\browser\ExportChromeExtensions:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112043}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530650}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9441,7 +9435,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\filesystem\Compare:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111884}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528371}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9451,10 +9445,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\filesystem\Count:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112459}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530117}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9462,10 +9455,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\filesystem\Toutched:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391110748}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529929}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9473,10 +9465,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\filesystem\group:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113536}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011531197}
     log:
-      rootSettings: {baseRoots: "!remote://Gist\t!local-branches://\t!remote://origin\t\
-          ref://HEAD", extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9484,10 +9475,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\git\BreakRepoIntoTwo\fork\6387904f5666f83f401afed94a869379:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111548}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530021}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9495,10 +9485,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\git\Clone-NonEmpty:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111701}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011531041}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9506,10 +9495,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\git\get-gitConfig:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391110962}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528937}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9517,10 +9505,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\ini\5960b271752d030383f0e5a591751e0d:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112797}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529035}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9528,10 +9515,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\migration\Export-Inst-Choco:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112410}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530603}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9539,10 +9525,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\migration\GetInstalled:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113122}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529738}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9550,7 +9535,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\ps\ExecJavaScript:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112122}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530996}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9560,10 +9545,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\ps\Processes\Get-ProcessTree:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111374}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529090}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9571,10 +9555,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\ps\Show-BinaryFile:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112291}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529976}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9582,10 +9565,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\ps\pipeline\Pipe-Rawdata:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391110499}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529452}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9593,10 +9575,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\ps\pipeline\breakPipelineAtCondition:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111594}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529596}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9604,10 +9585,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\ps\ui\DiagramPswriteHtml:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391110856}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528423}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9615,10 +9595,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\sql\Sqlite:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112181}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530694}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9626,10 +9605,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\xadmin:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111270}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528688}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9637,10 +9615,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\xml\Xml-Transform-Xdt:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112856}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529835}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9648,10 +9625,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\xml\xml2Csv:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111939}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528477}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9659,7 +9635,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin\TakeOwnerShip:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391110440}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529195}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9669,7 +9645,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin\forked-sysadmin:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112737}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530901}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9679,7 +9655,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin\my-windows:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113602}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528843}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9689,7 +9665,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\AllowAccessWindowsDefender:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112564}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530258}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9699,7 +9675,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\Export-Inst-Choco:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391110805}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529500}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9709,7 +9685,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\Fork\DiagramPswriteHtml:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112512}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529405}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9719,7 +9695,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\Fork\ExportChromeBook:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113073}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530736}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9729,7 +9705,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\GetInstalled:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111653}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530781}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9739,7 +9715,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\TodoProjects\Ast-IdentifyCodeBlocks:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111072}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529359}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9749,29 +9725,27 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\doneNDeserted\WindowsAdmin\forked-sysadmin\snipps:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113189}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530824}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes:
-      commitNotesHistory: [sta]
+    commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\forked-sysadmin:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113371}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530305}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes:
-      commitNotesHistory: [staet]
+    commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\my-windows:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111444}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530949}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9781,7 +9755,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\scripts\pshell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111323}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530214}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9791,10 +9765,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\aPdf\TextFromPdf:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111132}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529549}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9802,10 +9775,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\aPdf\iTextSharp Functions\ReadText:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391113423}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530169}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9813,10 +9785,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\filesystem\Compare\RecFolderDiff:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112233}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011530556}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9824,10 +9795,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\xadmin\AllowAccessWindowsDefender:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112633}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011528786}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9835,10 +9805,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\xadmin\TakeOwnerShip:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391112962}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529882}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9846,10 +9815,9 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\Modules\Personal\xml\xml2Csv\kindljiri:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391110907}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529692}
     log:
-      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
-        extendedRoots: ''}
+      rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9857,7 +9825,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\PowershellProjectFolder\doneNDeserted\WindowsAdmin\my-windows\AliasesUserProfile:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391111759}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011529243}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -10036,7 +10004,7 @@ gitRootSettingsSet:
         removed dupes and restored some order
     journal: {}
   rootB:\PF\chris\Documents\WindowsPowerShell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236704454}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692038067156}
     log:
       rootSettings: {baseRoots: "!local-branches://\t!remote://origin\t!remote://upstream\t\
           ref://HEAD", extendedRoots: '!stashes://'}
@@ -10044,8 +10012,7 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes:
-      commitNotesHistory: [czxcf]
+    commitNotes: {}
     journal: {}
   rootB:\PF\Archive\ps1\Aggregation\TextProcessingProjectF:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692654464027}
@@ -10136,7 +10103,7 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [sads, asdcz, toVerify]
+      commitNotesHistory: [toVerify]
     journal: {}
   rootB:\PF\chris\autohotkey\script\fork\AppendToClipboard:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692787928597}
@@ -10480,69 +10447,6 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\chris\AppData\Roaming\Microsoft\Windows\PowerShell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236471616}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [czxca]
-    journal: {}
-  rootB:\PF\Archive\NewWindows\scoopbucket-1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693235022681}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\Archive\NewWindows\scoopbucket-presist:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693235022733}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\chris\.config\git:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236531051}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [asd]
-    journal: {}
-  rootB:\PF\chris\.config\powershell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236548098}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [state]
-    journal: {}
-  rootB:\PF\chris\Documents\WindowsPowerShell\snipps\EnvPath:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236704502}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\chris\scoop\persist\.config\git:
     databaseCleanup: {}
     log:
       rootSettings: {}
@@ -10551,164 +10455,5 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes: {}
-    journal: {}
-  rootB:\PF\chris\scoop\persist\.config\powershell:
-    databaseCleanup: {}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\chris\autohotkey\script\fork\NoahHotell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693248300958}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad\karlstad1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693321263087}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [etc]
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad\karlstad1\Lotto_CBrobäck:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693321310738}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [etc]
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad\karlstad1\Calculator_CBrobäck:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693321316326}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [etc]
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693322917403}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad\Calculator_CBrobäck:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693322917351}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad\Lotto_CBrobäck:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693322917460}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad\Wpf-Upgift 1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693322927678}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad2Calc_Lotto:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693325138932}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [etc, acx, state]
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad2Calc_Lotto\Wpf-Upgift 1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693325153649}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\CSharpVisualStudio\repos\karlstad2Calc_Lotto\Calculator_CBrobäck:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693325166810}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory: [ccs, state]
-    journal: {}
-  rootC:\ProgramData\scoop\persist\Everything-Paf:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693390060260}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\PowershellProjectFolder\ps1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693391138994}
-    log:
-      rootSettings: {}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes: {}
-    journal: {}
-  rootB:\PF\PowershellProjectFolder\Modules\Personal\filesystem\group\ps1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693402343801}
-    log:
-      rootSettings: {baseRoots: "!local-branches://\t!local-tags://\t!remote://origin\t\
-          ref://HEAD", extendedRoots: ''}
-      fileFilterConfiguration: {}
-    merge:
-      logRootSettings: {}
-    push: {}
-    commitNotes:
-      commitNotesHistory:
-      - "Merge commit '4d72b93f4de1ea7d50dfeb30ab68fde69c0a4052' into HEAD\n\n# Conflicts:\n\
-        #\tWindows10Debloater-master/Windows10DebloaterGUI.ps1"
     journal: {}
 pushMultiRoot: {}

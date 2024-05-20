@@ -1,5 +1,5 @@
-git:
-  projectToolBar-17:
+toolbars:
+  wt:
     items:
     - {id: fetch}
     - {id: sync}
@@ -15,7 +15,6 @@ git:
     - {stretching: false}
     - {id: stashSave}
     - {id: stashApply}
-    - {id: delete}
     - {stretching: true}
     - {id: logRepository}
     - {id: annotate}
@@ -25,18 +24,11 @@ git:
     - {stretching: false}
     - {id: merge}
     - {id: rebaseHeadTo}
-    textBelowIcon: true
-    visible: false
-  logToolBar-18.2:
+  log.main:
     items:
     - {id: fetch}
+    - {id: sync}
     - {id: push}
-    - {stretching: false}
-    - {id: flowContext}
-    - {stretching: false}
-    - {id: merge}
-    - {id: rebaseHeadTo}
-    - {id: commit}
     - {stretching: true}
     - {id: stage}
     - {id: indexEditor}
@@ -47,18 +39,49 @@ git:
     - {id: stashSave}
     - {id: stashApply}
     - {stretching: true}
-    - {id: cherryPick}
-    - {id: delete}
-    - {id: branchAddTag}
-    - {stretching: true}
-    - {id: log}
     - {id: annotate}
     - {id: investigate}
     - {stretching: true}
-    - {id: windowLayoutSetMain}
-    - {id: windowLayoutSetReview}
-    textBelowIcon: true
-    visible: false
-filterConfiguration:
-  patterns: []
-  regularExpressions: false
+    - {id: flowContext}
+    - {stretching: false}
+    - {id: merge}
+    - {id: rebaseHeadTo}
+  log.review:
+    items:
+    - {id: fetch}
+    - {id: sync}
+    - {id: push}
+    - {stretching: true}
+    - {id: stage}
+    - {id: indexEditor}
+    - {id: unstage}
+    - {stretching: false}
+    - {id: discard}
+    - {stretching: false}
+    - {id: stashSave}
+    - {id: stashApply}
+    - {stretching: true}
+    - {id: annotate}
+    - {id: investigate}
+    - {stretching: true}
+    - {id: flowContext}
+    - {stretching: false}
+    - {id: merge}
+    - {id: rebaseHeadTo}
+  log.file:
+    items:
+    - {stretching: true}
+    - {id: branchAdd}
+    - {id: branchAddTag}
+    - {stretching: false}
+    - {id: cherryPick}
+    - {id: revert}
+    - {stretching: true}
+    - {id: annotate}
+    - {id: investigate}
+  std:
+    wt: []
+    history: []
+    refs: []
+    stashes: []
+filterConfiguration: {regularExpressions: false}

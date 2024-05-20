@@ -1,26 +1,42 @@
-readNotifications: [credential.helper-null, needsRestart-null, update-fetch-18.2.6-success,
-  update-fetch-18.2.9-success, update-fetch-19.1.4-success, update-fetch-20.1.5-success,
-  update-fetch-problem-null, update-fetch-20.1.6-success, update-fetch-20.2.2-success,
-  update-fetch-20.2.3-success, update-fetch-20.2.4-success, update-fetch-20.2.5-success]
-dontPublishNotifications: [credential.helper-null, fileMonitor.directoriesExcluded-null,
-  gc.autoDetach-null, hosting-provider-could-be-configured-github-null, hosting-provider-could-be-configured-stash-null,
-  linux.theme-null, log-may-be-used-as-main-window-null, refresh-performance-repository-on-symlink-null,
-  repositories-no-favorites-null, update-check-infosmartgit-19.1-rc-null, update-check-infosmartgit-20.2-rc-null,
-  svn-integration-end-of-life-null, update-check-infotwitter-follow-us-2021-null,
-  update-check-infosmartgit-21.1-rc-null, support-will-expire-21-08-27-null, support-expired-21-08-27-null]
-dontPublishUntil-credential.helper-null: 0
-dontPublishUntil-fileMonitor.directoriesExcluded-null: 0
-dontPublishUntil-gc.autoDetach-null: 0
-dontPublishUntil-hosting-provider-could-be-configured-github-null: 0
-dontPublishUntil-hosting-provider-could-be-configured-stash-null: 0
-dontPublishUntil-linux.theme-null: 0
-dontPublishUntil-log-may-be-used-as-main-window-null: 0
-dontPublishUntil-refresh-performance-repository-on-symlink-null: 0
+readNotifications: [hosting-provider-could-be-configured-github-null, needsRestart-null,
+  'repository-git-core-ignorecase-mismatch-b:/togit/project shelf/projectfolderbare/newwindows/scoopbucket-1/windowsdebloat-null',
+  'repository-git-core-ignorecase-mismatch-b:/togit-null', 'repository-model-problem-b:/pf/chris/documents-null',
+  'repository-model-problem-b:/pf/chris/appdata/roaming/everything-null', 'repository-model-problem-b:/pf/chris/appdata/roaming/jetbrains-null',
+  'repository-model-problem-b:/pf/chris/appdata/roaming/scooter software/beyond compare
+    4-null', 'repository-model-problem-b:/pf/chris/appdata/roaming/vortex-null', repositories-no-favorites-null,
+  update-fetch-22.1.6-success, 'repository-git-core-ignorecase-mismatch-b:/pf/notetakingprojectfolder/1d5a90b4975101fa1666d66382799002-null',
+  'repository-model-problem-b:/pf/scoopbucket-presist/jetbrains-null', 'repository-git-cleanup-b:/pf/notetakingprojectfolder/notebooks-null',
+  'repository-git-cleanup-o:/d2rmm 1.4.5/mods-null', follow-us-on-twitter-null, 'repository-model-problem-c:/programdata/scoop/persist/everything-null',
+  update-fetch-22.1.7-success, 'repository-model-problem-b:/pf/powershell/donendeserted/git/generalsourcecompare-null',
+  'repository-model-problem-b:/pf/chris/.config/powershell-null', 'repository-model-problem-b:/pf/chris/documents/powershell-null',
+  'repository-model-problem-c:/programdata/scoop/persist/everything-paf-null', 'repository-model-problem-b:/pf/chris/autohotkey/script/fork/appendtoclipboard-null',
+  'repository-model-problem-b:/pf/chris/autohotkey/script/fork/checkifprogisrunning-null',
+  'repository-model-problem-b:/pf/chris/autohotkey/script/fork/exploreratpath-null',
+  'repository-model-problem-b:/pf/chris/autohotkey/script/fork/getrunningprocess-null',
+  'repository-model-problem-b:/pf/chris/autohotkey/script/fork/launchapplication-null',
+  'repository-model-problem-b:/pf/chris/autohotkey/script/fork/launch if not currently
+    running-null', 'repository-model-problem-b:/pf/chris/autohotkey/script/fork/launch
+    if not currently running continously-null', 'repository-model-problem-b:/pf/chris/autohotkey/script/fork/macro
+    recorder-null', 'repository-model-problem-b:/pf/chris/autohotkey/script/fork/selectedtextwithoutdisturbingclipboard-null',
+  'repository-model-problem-b:/pf/chris/autohotkey/script/fork/selected item in explorer-null',
+  'repository-model-problem-b:/pf/chris/autohotkey/script/fork/windowtoforeground-null',
+  'repository-model-problem-b:/pf/chris/scoop/apps/scoop/current-null']
+dontPublishNotifications: ['repository-git-core-ignorecase-mismatch-b:/togit/project
+    shelf/archive/sql_db/ffx-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
+    shelf/archive/regiongotland/utskicksstruktur/brev-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
+    shelf/projectfolderbare/newwindows/scoopbucket-1/windowsdebloat-null', credential.helper-null,
+  'repository-git-core-ignorecase-mismatch-b:/togit-null', 'repository-refs-reading-many-loose-b:/pf/powershellprojectfolder/scripts-null',
+  'repository-refs-reading-many-loose-b:/pf/powershellprojectfolder-null', repositories-no-favorites-null,
+  follow-us-on-twitter-null]
+dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit/project shelf/archive/sql_db/ffx-null: 1684575209016
+? dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit/project shelf/archive/regiongotland/utskicksstruktur/brev-null
+: 1684592755884
+? dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit/project shelf/projectfolderbare/newwindows/scoopbucket-1/windowsdebloat-null
+: 1684755209637
 dontPublishUntil-repositories-no-favorites-null: 0
-dontPublishUntil-update-check-infosmartgit-19.1-rc-null: 0
-dontPublishUntil-update-check-infosmartgit-20.2-rc-null: 0
-dontPublishUntil-svn-integration-end-of-life-null: 0
-dontPublishUntil-update-check-infotwitter-follow-us-2021-null: 0
-dontPublishUntil-update-check-infosmartgit-21.1-rc-null: 0
-dontPublishUntil-support-will-expire-21-08-27-null: 0
-dontPublishUntil-support-expired-21-08-27-null: 0
+dontPublishUntil-credential.helper-null: 0
+dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/togit-null: 1686047834063
+dontPublishUntil-repository-refs-reading-many-loose-b:/pf/powershellprojectfolder/scripts-null: 1690310089540
+dontPublishUntil-repository-refs-reading-many-loose-b:/pf/powershellprojectfolder-null: 1690310092296
+dontPublishUntil-repository-git-core-ignorecase-mismatch-b:/pf/forksdownloadedcode/google-photos-delete-tool-null: 1690313775242
+dontPublishUntil-follow-us-on-twitter-null: 1715535040085
