@@ -1,2 +1,7 @@
-global: []
+global:
+- {action: assume-unchanged-toggle, keyStroke: CTRL+V}
+- {action: edit-paste}
+- {action: ignore}
+- {action: submoduleInit, keyStroke: CTRL+I}
+- {action: viewSetAnchorCommit}
 completionKeyStroke: CTRL+SPACE

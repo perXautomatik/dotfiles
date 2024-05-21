@@ -1,12 +1,12 @@
 bounds:
-- {key: project, x: 136, y: 22, width: 1214, height: 809}
+- {key: project, x: 421, y: 75, width: 1214, height: 809}
 - {key: welcome}
 - {key: preferences, x: -1544, y: -38, width: 1561, height: 648}
 - {key: compare, x: 38, y: 174, width: 1440, height: 866, state: 1}
 - {key: output, x: -184, y: -23, width: 1552, height: 779}
 - {key: git.commit, width: 1245, height: 514, x: -1726, y: 18}
 - {key: git.commit.selectFromLog, width: 640, height: 395}
-- {key: log, x: 459, y: 100, width: 1214, height: 723, state: 1}
+- {key: log, x: -8, y: 0, width: 1214, height: 723, state: 1}
 - {key: editor, x: 240, y: 58, width: 1440, height: 866}
 - {key: git.indexEditor, x: 240, y: 58, width: 1440, height: 866, state: 1}
 - {key: git.discard, width: 500, height: 654, x: 0, y: 172}
@@ -158,8 +158,8 @@ repositoriesToReopen:
 - window: wt
   repositories: ['C:\ProgramData\Scoop\persist']
 project.files.git.separateWtIndex: true
-gitProjectLayout.main: (([+372x320:directories ][+372x356:branches ])((([+823x361:files
-  +823x361:output files ][+823x161:changes ])[-3x1:message ])[+823x151:outgoing ]))
+gitProjectLayout.main: (([+372x320:directories ][+372x356:branches ])((([+823x360:files
+  +823x360:output files ][+823x161:changes ])[-3x1:message ])[+823x152:outgoing ]))
 log.wtIndex.onDemand: true
 gitProjectLayout.mainIsdefault: true
 gitProjectLayout.review: ([+2x1:directories ][+7x1:files ][+3x1:message ])[+10x3:changes

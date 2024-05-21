@@ -1,2 +1,88 @@
-structure: []
-recentlyUsed: []
+structure:
+- name: B:\
+  children:
+  - name: chris
+    children: []
+    expanded: true
+  - name: SteamLibrary
+    children:
+    - {name: steamapps, path: 'B:\SteamLibrary\steamapps'}
+    - {name: SubmoduleFromGitmodules, path: 'B:\ToGit\SubmoduleFromGitmodules'}
+    - {name: General-ProjectFolders, path: 'B:\New folder (2)\General-ProjectFolders'}
+    - {name: PF, path: 'B:\PF'}
+    - {name: IoT, path: 'B:\ToGit\IoT'}
+    - {name: Archive, path: 'B:\PF\Archive'}
+    - {name: Filtered, path: 'B:\Filtered'}
+    - {name: NewWindows2, path: 'B:\PF\NewWindows2'}
+    - {name: NewWindows3, path: 'B:\PF\NewWindows3'}
+    - {name: TIG-stack, path: 'B:\ToGit\IoT\TIG-stack'}
+    - {name: RegionGotland, path: 'B:\PF\RegionGotland'}
+    - {name: Modding, path: 'B:\PF\Modding'}
+    - {name: diablo-ii-resurrectedb, path: 'B:\PF\Modding\Diablo II ressurected\modding.worktrees\diablo-ii-resurrectedb'}
+    - {name: Diablo II ressurected, path: 'B:\PF\Modding\Diablo II ressurected'}
+    - {name: repos, path: 'B:\PF\CSharpVisualStudio\repos'}
+    - {name: InvalidMarkup, path: 'B:\PF\CSharpVisualStudio\repos\InvalidMarkup'}
+    - {name: PetStore, path: 'B:\PF\CSharpVisualStudio\repos\Boras2\PetStore'}
+    - {name: chris, path: 'B:\PF\chris'}
+    - {name: autohotkey, path: 'B:\PF\chris\autohotkey'}
+    - {name: scoopbucket-presist, path: 'B:\ToGit\scoopbucket-presist'}
+    - {name: ps1, path: 'B:\ToGit\Archive\ps1', favorite: true}
+    expanded: false
+  - {name: ToGit, path: 'G:\ToGit'}
+  - name: psw
+    children: []
+    expanded: true
+  expanded: true
+- name: I:\Downloads\2022
+  children: []
+  expanded: true
+- name: I:\ToGit
+  children: []
+  expanded: true
+- name: Scoop
+  children:
+  - {name: Outer, path: 'C:\ProgramData\scoop\buckets'}
+  - name: everything
+    children:
+    - {name: 1.4.1.1024, path: 'C:\Users\CbRootz\scoop\apps\everything\1.4.1.1024'}
+    - {name: Everything, path: 'P:\ProgramData\scoop\apps\Everything-Paf\1.4.1.1024\App\Everything'}
+    - {name: Everything, path: 'C:\Users\Användaren\AppData\Roaming\Everything'}
+  - name: users
+    children: []
+  - name: persist
+    children:
+    - {name: persist, path: 'C:\ProgramData\Scoop\persist'}
+    - {name: persist, path: 'C:\Users\Användaren\scoop\persist'}
+    - {name: persist, path: 'P:\Users\chris\scoop\persist'}
+  expanded: true
+- {name: Beyond Compare 4, path: 'C:\Users\Användaren\AppData\Roaming\Scooter Software\Beyond
+    Compare 4'}
+- {name: OperaLauncher, path: 'E:\OperaLauncher'}
+- name: Obsidian
+  children:
+  - {name: 01_inbox, path: 'C:\Users\CbRootz\Documents\Obsidian Vault\01_inbox'}
+  - {name: Obsidian Vault, path: 'C:\Users\CbRootz\Documents\Obsidian Vault'}
+  - {name: Documents, path: 'C:\Users\CbRootz\Documents'}
+  - {name: FOMM, path: 'C:\Users\CbRootz\Documents\FOMM'}
+  - {name: Diablo II Resurrected, path: 'C:\Users\CbRootz\Documents\Diablo II Resurrected'}
+  - {name: Arrogant Bastard Typhoon Gaming mouse, path: 'C:\Users\CbRootz\Documents\Arrogant
+      Bastard Typhoon Gaming mouse'}
+  - {name: My Games, path: 'C:\Users\CbRootz\Documents\My Games'}
+  - {name: Diablo II, path: 'C:\Users\CbRootz\Documents\Diablo II'}
+  - {name: Klei, path: 'C:\Users\CbRootz\Documents\Klei'}
+  - {name: Visual Studio 2019, path: 'C:\Users\CbRootz\Documents\Visual Studio 2019'}
+- name: Powershell
+  children:
+  - {name: WindowsPowerShell, path: 'C:\Users\CbRootz\Documents\WindowsPowerShell'}
+- {name: Notes, path: 'C:\Users\CbRootz\Documents\Obsidian Vault\Notes'}
+recentlyUsed: ['C:\Users\Användaren\scoop\persist', 'C:\Users\CbRootz\Documents\Obsidian
+    Vault\Notes', 'C:\Users\CbRootz\Documents', 'C:\Users\CbRootz\Documents\Obsidian
+    Vault', 'C:\Users\CbRootz\Documents\WindowsPowerShell', 'E:\OperaLauncher', 'C:\Users\Användaren\AppData\Roaming\Everything',
+  'C:\ProgramData\Scoop\persist', 'C:\ProgramData\scoop\buckets', 'C:\Users\CbRootz\scoop\apps\everything\1.4.1.1024',
+  'C:\Users\CbRootz\Documents\Obsidian Vault\01_inbox', 'P:\ProgramData\scoop\apps\Everything-Paf\1.4.1.1024\App\Everything',
+  'C:\Users\Användaren\AppData\Roaming\Scooter Software\Beyond Compare 4', 'B:\ToGit\Archive\ps1',
+  'B:\ToGit\scoopbucket-presist', 'B:\PF\chris', 'B:\PF\chris\autohotkey', 'B:\PF',
+  'B:\PF\CSharpVisualStudio\repos', 'B:\PF\Modding', 'B:\PF\Modding\Diablo II ressurected',
+  'B:\PF\RegionGotland', 'B:\ToGit\IoT\TIG-stack', 'B:\ToGit\IoT', 'B:\PF\NewWindows3',
+  'B:\PF\NewWindows2', 'B:\PF\Archive', 'B:\Filtered', 'B:\New folder (2)\General-ProjectFolders',
+  'G:\ToGit', 'B:\ToGit\SubmoduleFromGitmodules', 'B:\SteamLibrary\steamapps']

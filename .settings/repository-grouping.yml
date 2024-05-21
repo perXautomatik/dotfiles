@@ -47,12 +47,14 @@ structure:
     - {name: 1.4.1.1024, path: 'C:\Users\CbRootz\scoop\apps\everything\1.4.1.1024'}
     - {name: Everything, path: 'P:\ProgramData\scoop\apps\Everything-Paf\1.4.1.1024\App\Everything'}
     - {name: Everything, path: 'C:\Users\Användaren\AppData\Roaming\Everything'}
-    - {name: persist, path: 'C:\Users\CbRootz\scoop\persist'}
+    expanded: true
   - name: users
     children: []
   - name: persist
     children:
     - {name: persist, path: 'C:\Users\Användaren\scoop\persist'}
+    - {name: persist, path: 'C:\Users\CbRootz\scoop\persist', expanded: false}
+    - {name: persist, path: 'C:\ProgramData\Scoop\persist'}
     expanded: true
   expanded: true
 - {name: Beyond Compare 4, path: 'C:\Users\Användaren\AppData\Roaming\Scooter Software\Beyond
@@ -81,12 +83,12 @@ structure:
   children:
   - {name: WindowsPowerShell, path: 'C:\Users\CbRootz\Documents\WindowsPowerShell'}
 - {name: Notes, path: 'C:\Users\CbRootz\Documents\Obsidian Vault\Notes'}
-recentlyUsed: ['C:\Users\Användaren\scoop\persist', 'C:\Users\CbRootz\Documents\Obsidian
+recentlyUsed: ['C:\Users\Användaren\scoop\persist', 'C:\Users\CbRootz\scoop\persist',
+  'C:\ProgramData\Scoop\persist', 'C:\ProgramData\scoop\buckets', 'C:\Users\CbRootz\Documents\Obsidian
     Vault\Workspaces', 'C:\Users\CbRootz\Documents\Obsidian Vault', 'C:\Users\CbRootz',
-  'C:\Users\CbRootz\Documents', 'C:\Users\CbRootz\Documents\WindowsPowerShell', 'C:\Users\CbRootz\scoop\persist',
-  'P:\ProgramData\scoop\apps\Everything-Paf\1.4.1.1024\App\Everything', 'C:\Users\CbRootz\Documents\Diablo
-    II Resurrected', 'C:\Users\CbRootz\Documents\Obsidian Vault\Notes', 'C:\Users\Användaren',
-  'E:\OperaLauncher', 'C:\Users\Användaren\AppData\Roaming\Everything', 'C:\ProgramData\scoop\buckets',
+  'C:\Users\CbRootz\Documents', 'C:\Users\CbRootz\Documents\WindowsPowerShell', 'P:\ProgramData\scoop\apps\Everything-Paf\1.4.1.1024\App\Everything',
+  'C:\Users\CbRootz\Documents\Diablo II Resurrected', 'C:\Users\CbRootz\Documents\Obsidian
+    Vault\Notes', 'C:\Users\Användaren', 'E:\OperaLauncher', 'C:\Users\Användaren\AppData\Roaming\Everything',
   'C:\Users\CbRootz\scoop\apps\everything\1.4.1.1024', 'C:\Users\CbRootz\Documents\Obsidian
     Vault\01_inbox', 'C:\Users\Användaren\AppData\Roaming\Scooter Software\Beyond
     Compare 4', 'B:\ToGit\Archive\ps1', 'B:\ToGit\scoopbucket-presist', 'B:\PF\chris',
