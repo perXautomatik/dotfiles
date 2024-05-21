@@ -1258,3 +1258,32 @@ Traceback (most recent call last):
 2024-05-07 13:43:22.951 [i] Apps.StartMenu: Cataloged 600 items in 0.0 seconds
 2024-05-07 16:39:41.767 [i] Apps.StartMenu: Cataloged 600 items in 0.0 seconds
 2024-05-09 12:09:43.686 [i] Python: Failed to execute C:\Users\Användaren\AppData\Roaming\Microsoft\Windows\Start Menu\SmartGit.lnk (action None). Error: file not found: "C:\ProgramData\scoop\apps\smartgit\current\bin\smartgit.exe" (initial path: "C:\Users\Användaren\AppData\Roaming\Microsoft\Windows\Start Menu\SmartGit.lnk")
+2024-05-11 13:44:26.088 [i] Environment changed.
+2024-05-11 13:44:26.109 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-05-11 13:44:26.167 [i] Apps.EnvPath: Cataloged 1176 items in 0.1 seconds
+2024-05-11 13:44:30.076 [i] Environment changed.
+2024-05-11 13:44:30.085 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2024-05-11 13:44:30.133 [i] Apps.EnvPath: Cataloged 1176 items in 0.0 seconds
+2024-05-11 15:06:02.443 [i] Apps.StartMenu: Cataloged 600 items in 0.3 seconds
+2024-05-12 00:54:37.568 [i] Apps.StartMenu: Cataloged 600 items in 0.0 seconds
+2024-05-12 21:24:24.801 [i] Apps.StartMenu: Cataloged 602 items in 0.1 seconds
+2024-05-13 11:06:08.284 [i] Apps.Desktop: Cataloged 14 items in 0.0 seconds
+2024-05-13 11:09:50.749 [i] Apps.Desktop: Cataloged 14 items in 0.0 seconds
+2024-05-13 11:13:02.680 [i] Apps.Desktop: Cataloged 14 items in 0.0 seconds
+2024-05-13 11:14:44.609 [i] Apps.Desktop: Cataloged 14 items in 0.0 seconds
+2024-05-13 12:00:19.918 [i] Apps.Desktop: Cataloged 15 items in 0.0 seconds
+2024-05-13 12:01:53.363 [i] Apps.Desktop: Cataloged 14 items in 0.0 seconds
+2024-05-13 12:03:41.581 [i] Apps.Desktop: Cataloged 14 items in 0.0 seconds
+2024-05-15 21:07:37.038 [i] Apps.StartMenu: Cataloged 600 items in 0.0 seconds
+2024-05-15 21:12:15.313 [i] Apps.StartMenu: Cataloged 602 items in 0.0 seconds
+2024-05-15 21:12:56.358 [i] Apps.StartMenu: Cataloged 600 items in 0.0 seconds
+2024-05-15 21:15:24.839 [i] Apps.StartMenu: Cataloged 602 items in 0.0 seconds
+2024-05-16 04:54:35.780 [i] Apps.StartMenu: Cataloged 602 items in 0.0 seconds
+2024-05-16 20:13:01.550 [i] Apps.Desktop: Cataloged 14 items in 0.0 seconds
+2024-05-17 12:16:39.434 [i] Received TaskbarCreated system message
+2024-05-17 12:19:02.866 [i] Python: Failed to execute C:\ProgramData\Microsoft\Windows\Start Menu\Program\Scoop Apps\Beyond Compare 4.lnk (action None). Error: file not found: "C:\ProgramData\Scoop\apps\beyondcompare\current\BCompare.exe" (initial path: "C:\ProgramData\Microsoft\Windows\Start Menu\Program\Scoop Apps\Beyond Compare 4.lnk")
+2024-05-17 12:34:52.575 [i] Python: Failed to execute C:\ProgramData\Microsoft\Windows\Start Menu\Program\Scoop Apps\SmartGit.lnk (action None). Error: file not found: "C:\ProgramData\Scoop\apps\smartgit\current\bin\smartgit.exe" (initial path: "C:\ProgramData\Microsoft\Windows\Start Menu\Program\Scoop Apps\SmartGit.lnk")
+2024-05-18 15:49:19.988 [i] Apps.StartMenu: Cataloged 602 items in 0.2 seconds
+2024-05-19 02:54:43.360 [i] Apps.StartMenu: Cataloged 602 items in 1.1 seconds
+2024-05-20 15:27:25.592 [i] Received TaskbarCreated system message
+2024-05-21 09:30:55.934 [i] Apps.Desktop: Cataloged 14 items in 0.1 seconds
