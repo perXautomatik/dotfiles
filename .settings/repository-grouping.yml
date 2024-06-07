@@ -1,2 +1,97 @@
-structure: []
-recentlyUsed: []
+structure:
+- name: B:\
+  children:
+  - {name: B-ToGit, path: 'B:\ToGit'}
+  - name: chris
+    children:
+    - {name: Documents, path: 'B:\Users\chris\Documents'}
+    - {name: chris, path: 'B:\Users\chris'}
+    - {name: perXautomatik, path: 'B:\Users\chris\scoop\buckets\Ny mapp\perXautomatik'}
+    expanded: true
+  - name: SteamLibrary
+    children:
+    - {name: steamapps, path: 'B:\SteamLibrary\steamapps'}
+    - {name: SubmoduleFromGitmodules, path: 'B:\ToGit\SubmoduleFromGitmodules'}
+    - {name: General-ProjectFolders, path: 'B:\New folder (2)\General-ProjectFolders'}
+    - {name: PF, path: 'B:\PF'}
+    - {name: IoT, path: 'B:\ToGit\IoT'}
+    - {name: Archive, path: 'B:\PF\Archive'}
+    - {name: Filtered, path: 'B:\Filtered'}
+    - {name: NewWindows2, path: 'B:\PF\NewWindows2'}
+    - {name: NewWindows3, path: 'B:\PF\NewWindows3'}
+    - {name: TIG-stack, path: 'B:\ToGit\IoT\TIG-stack'}
+    - {name: RegionGotland, path: 'B:\PF\RegionGotland'}
+    - {name: Modding, path: 'B:\PF\Modding'}
+    - {name: diablo-ii-resurrectedb, path: 'B:\PF\Modding\Diablo II ressurected\modding.worktrees\diablo-ii-resurrectedb'}
+    - {name: Diablo II ressurected, path: 'B:\PF\Modding\Diablo II ressurected'}
+    - {name: repos, path: 'B:\PF\CSharpVisualStudio\repos'}
+    - {name: InvalidMarkup, path: 'B:\PF\CSharpVisualStudio\repos\InvalidMarkup'}
+    - {name: PetStore, path: 'B:\PF\CSharpVisualStudio\repos\Boras2\PetStore'}
+    - {name: chris, path: 'B:\PF\chris'}
+    - {name: autohotkey, path: 'B:\PF\chris\autohotkey'}
+    - {name: scoopbucket-presist, path: 'B:\ToGit\scoopbucket-presist'}
+    - {name: ps1, path: 'B:\ToGit\Archive\ps1', favorite: true}
+    expanded: false
+  - {name: ToGit, path: 'G:\ToGit'}
+  - {name: scoopbucket-presist, path: 'G:\ToGit\projectFolderBare\scoopbucket-presist'}
+  - name: psw
+    children:
+    - {name: GitPs1Module, path: 'B:\GitPs1Module'}
+    - {name: PowerShell, path: 'B:\PF\PowerShell'}
+    - {name: PowershellProjectFolder, path: 'B:\PF\PowershellProjectFolder'}
+    expanded: true
+  expanded: true
+- name: I:\Downloads\2022
+  children:
+  - {name: assorted, path: 'I:\Downloads\2022\assorted'}
+  expanded: true
+- name: I:\ToGit
+  children: []
+  expanded: true
+- name: Scoop
+  children:
+  - {name: Deployed, path: 'C:\ProgramData\scoop\buckets'}
+  - {name: CrRoot, path: 'C:\Users\CrRoot'}
+  - {name: Obsidian Vault, path: 'C:\Users\Användaren\Documents\Obsidian Vault'}
+  - {name: Användaren, path: 'C:\Users\Användaren'}
+  - {name: Deployed-persist, path: 'C:\Users\chris\scoop\persist'}
+  - {name: PowerShell, path: 'C:\Users\chris\scoop\persist\PowerShell'}
+  - {name: Powershell, path: 'C:\Users\Användaren\scoop\persist\Powershell'}
+  - {name: WindowsPowerShell, path: 'C:\Users\Användaren\Documents\WindowsPowerShell'}
+  - {name: 01_inbox, path: 'C:\Users\chris\Documents\Obsidian Vault\01_inbox'}
+  - {name: _attachments, path: 'C:\Users\chris\Documents\Obsidian Vault\_attachments'}
+  - {name: Obsidian Vault, path: 'C:\Users\chris\Documents\Obsidian Vault'}
+  - {name: Notes, path: 'C:\Users\chris\Documents\Obsidian Vault\Notes'}
+  - {name: .obsidian, path: 'C:\Users\chris\Documents\Obsidian Vault\.obsidian'}
+  - {name: Day Planners, path: 'C:\Users\chris\Documents\Obsidian Vault\Day Planners'}
+  - {name: Workspaces, path: 'C:\Users\chris\Documents\Obsidian Vault\Workspaces'}
+  expanded: true
+- {name: Notebooks, path: 'C:\Users\Användaren\Documents\Obsidian Vault\Notebooks'}
+- {name: persist, path: 'C:\Users\Användaren\scoop\persist'}
+- {name: PowerShell, path: 'C:\Users\Användaren\Documents\PowerShell'}
+- {name: .config, path: 'C:\Users\Användaren\.config'}
+- {name: PowerShell, path: 'C:\Users\Användaren\scoop\persist\Microsoft\Windows\PowerShell'}
+- {name: powershell, path: 'C:\Users\Användaren\.config\powershell'}
+- {name: Documents, path: 'C:\Users\Användaren\Documents'}
+- {name: AppData, path: 'C:\Users\Användaren\AppData'}
+- {name: Vortex, path: 'C:\Users\Användaren\AppData\Roaming\Vortex'}
+- {name: perXautomatik, path: 'C:\Users\Användaren\scoop\buckets\perXautomatik'}
+- {name: Obsidian, path: 'H:\Obsidian\Notebook-Foam'}
+- {name: Notes, path: 'C:\Users\Användaren\Documents\Obsidian Vault\Notes'}
+recentlyUsed: ['C:\Users\chris\Documents\Obsidian Vault', 'C:\Users\chris\Documents\Obsidian
+    Vault\_attachments', 'C:\Users\chris\Documents\Obsidian Vault\01_inbox', 'C:\Users\Användaren\Documents\Obsidian
+    Vault', 'C:\Users\Användaren\Documents\WindowsPowerShell', 'C:\Users\Användaren',
+  'C:\Users\CrRoot', 'B:\Users\chris\scoop\buckets\Ny mapp\perXautomatik', 'H:\Obsidian\Notebook-Foam',
+  'C:\Users\chris\scoop\persist', 'C:\Users\Användaren\scoop\buckets\perXautomatik',
+  'C:\Users\Användaren\Documents', 'C:\Users\Användaren\scoop\persist\Powershell',
+  'C:\Users\Användaren\.config\powershell', 'C:\Users\Användaren\scoop\persist', 'C:\Users\Användaren\scoop\persist\Microsoft\Windows\PowerShell',
+  'C:\Users\Användaren\AppData', 'C:\Users\Användaren\.config', 'C:\Users\Användaren\Documents\PowerShell',
+  'C:\Users\Användaren\AppData\Roaming\Vortex', 'C:\Users\chris\scoop\persist\PowerShell',
+  'B:\PF\PowerShell', 'B:\Users\chris', 'B:\Users\chris\Documents', 'C:\Users\Användaren\Documents\Obsidian
+    Vault\Notebooks', 'B:\ToGit\Archive\ps1', 'B:\ToGit\scoopbucket-presist', 'B:\PF\chris',
+  'B:\PF\chris\autohotkey', 'B:\PF', 'B:\PF\CSharpVisualStudio\repos', 'B:\PF\Modding',
+  'B:\PF\Modding\Diablo II ressurected', 'B:\PF\RegionGotland', 'B:\PF\PowershellProjectFolder',
+  'C:\ProgramData\scoop\buckets', 'B:\GitPs1Module', 'B:\ToGit\IoT\TIG-stack', 'B:\ToGit\IoT',
+  'B:\PF\NewWindows3', 'B:\PF\NewWindows2', 'B:\PF\Archive', 'B:\Filtered', 'B:\New
+    folder (2)\General-ProjectFolders', 'B:\ToGit', 'G:\ToGit\projectFolderBare\scoopbucket-presist',
+  'G:\ToGit', 'B:\ToGit\SubmoduleFromGitmodules', 'B:\SteamLibrary\steamapps', 'I:\Downloads\2022\assorted']
