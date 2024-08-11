@@ -45,6 +45,7 @@ columns:
     - {id: Relative Directory, reverse: false}
     - {id: Ext., reverse: false}
     - {id: Name, reverse: false}
+    - {id: Index State, reverse: false}
   project.files.git.wt:
     columnNames: "Name\tSize\tExt.\tState\tRelative Directory\tLast Changed On\tLFS\t\
       Relative Path\tRenamed From"
@@ -73,11 +74,13 @@ columns:
     - {id: State, width: 122, width2x: 0}
     - {id: Relative Directory, width: 784, width2x: 0}
     - {id: Relative Path, width: 500, width2x: 0}
+    - {id: Renamed From, width: 481, width2x: 0}
     sortOrders:
     - {id: Name, reverse: false}
     - {id: State, reverse: true}
     - {id: Relative Directory, reverse: true}
     - {id: Ext., reverse: true}
+    - {id: Relative Path, reverse: false}
   log.comments:
     columnNames: "Author\tText\tPath\tDate\tAssignee\tCommit"
     visibleColumnNames: "Assignee\tAuthor\tDate\tPath\tText"
