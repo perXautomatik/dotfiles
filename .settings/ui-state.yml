@@ -68,11 +68,13 @@ columns:
     - {id: State, width: 122, width2x: 0}
     - {id: Relative Directory, width: 784, width2x: 0}
     - {id: Relative Path, width: 500, width2x: 0}
+    - {id: Renamed From, width: 481, width2x: 0}
     sortOrders:
+    - {id: State, reverse: true}
     - {id: Name, reverse: false}
+    - {id: Ext., reverse: false}
+    - {id: Relative Path, reverse: false}
     - {id: Relative Directory, reverse: false}
-    - {id: State, reverse: false}
-    - {id: Ext., reverse: true}
   log.comments:
     columnNames: "Author\tText\tPath\tDate\tAssignee\tCommit"
     visibleColumnNames: "Assignee\tAuthor\tDate\tPath\tText"
@@ -193,7 +195,7 @@ ignore.location: 1
 git.remove.deleteLocalFile: false
 stashApply.restoreIndex: true
 gitAnnotateLayout: '[+1424x678:document ][+1424x126:line-history ]'
-git.pull.defaultFetch: false
+git.pull.defaultFetch: true
 lastClonedUrls: ['https://github.com/perXautomatik/BAO', 'https://github.com/perXautomatik/initApps.git']
 cloneSkipSize: 5242880
 git.reset: 0
@@ -201,4 +203,5 @@ git.cherryPick.commit: true
 git.cherryPick.appendSha: false
 stashApply.drop: false
 git.pull.fetchAll: true
+tempDirs: ['C:\Users\ANVNDA~1\AppData\Local\Temp\smartgit10746571802890471410']
 changesView.unified: false
