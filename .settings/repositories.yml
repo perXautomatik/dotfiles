@@ -9,7 +9,8 @@ gitRootSettingsSet:
     push: {}
     commitNotes: {}
     journal: {}
-  roots: ['C:\ProgramData\scoop\persist\20231230161451126']
+  roots: ['B:\ProgramData\scoop\persist\Documents\PowerShell', 'B:\ProgramData\scoop\persist\Documents\WindowsPowerShell',
+    'B:\PF\NoteTakingProjectFolder\Notes']
   rootB:\ToGit:
     databaseCleanup: {}
     log:
@@ -4988,7 +4989,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\buckets:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699383086165}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704468958989}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -4999,7 +5000,7 @@ gitRootSettingsSet:
       commitNotesHistory: [etc]
     journal: {}
   rootC:\ProgramData\scoop\buckets\extras:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699383086327}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704468958931}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -5009,7 +5010,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\buckets\games:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699383086079}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704468959071}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -5019,7 +5020,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\buckets\main:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699383086121}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704468959119}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -5029,7 +5030,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\buckets\nonportable:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699383085738}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704468959210}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -5039,7 +5040,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\buckets\perXautomatik:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1702052113785}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704468959165}
     log:
       rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
         extendedRoots: ''}
@@ -5679,7 +5680,7 @@ gitRootSettingsSet:
       - toRead
     journal: {}
   rootB:\PF\Archive\ps1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699381111306}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227732}
     log:
       rootSettings: {baseRoots: "!remote://archive\t!remote://GroupIntoFolder\t!local-tags://\t\
           !others://\tref://HEAD\tref://refs/heads/master", extendedRoots: ''}
@@ -5689,6 +5690,14 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory:
+      - Time to test
+      - stricter filtering
+      - what would be the definition of a powershell function called "ensure-path"
+        that checks if file can be saved to path, that is if the parrent folders exsists
+        and if it doesn't, then creates folders required,
+      - i have a list of extension postfixes ('m4v, mp4, mov, wmv, avi, mpg, mpeg,
+        rmvb, rm, flv, asf, mkv, webm, ts, m4s'), how do i check if a file has any
+        of the extensions
       - etc
       - to delete
       - "Merge branch 'stable'\n\n# Conflicts:\n#\t.gitmodules\n#\t23-08-21_13_01_02.ps1\n\
@@ -5732,10 +5741,6 @@ gitRootSettingsSet:
         #\tpsModulePaths.ps1\n#\tsqlite.ps1\n#\tworkflow/Beyond compare interaction/BcompareOnetabToMM\
         \ (2).ps1\n#\tworkflow/OperaLauncher/SelectItemFromListBox (2).ps1\n#\tworkflow/OperaLauncher/SelectItemFromListBoxExample\
         \ (2).ps1\n#\tworkflow/OperaLauncher/launchWithParams (2).ps1"
-      - ryv
-      - toRead
-      - dedupedAndMerged
-      - dedupe and merge
     journal: {}
   rootB:\PF\CSharpVisualStudio\repos:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1695808469812}
@@ -5816,7 +5821,7 @@ gitRootSettingsSet:
       commitNotesHistory: [etc]
     journal: {}
   rootB:\PF\scoopbucket-1:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692970921649}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708787129249}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -5825,6 +5830,122 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory:
+      - "movedArround\n\n# Conflicts:\n#\t.github/ISSUE_TEMPLATE/bug-report.yml\n\
+        #\t.gitignore\n#\t.gitmodules\n#\tREADME.md\n#\tbin/.gitkeep\n#\tbin/.keep\n\
+        #\tbin/DoradoUtils.psm1\n#\tbin/Install-Font.ps1\n#\tbin/InstallAllInstallApps.ps1\n\
+        #\tbin/Processes/MemmoryWorkinsetPerProgram.ps1\n#\tbin/Processes/PieChartOftop10Memusage.ps1\n\
+        #\tbin/Processes/RunScriptBelowAsAdmin.ps1\n#\tbin/PsReadline/ConsoleHost_history.txt\n\
+        #\tbin/PwsISE/Microsoft.PowerShellISE_profile.ps1\n#\tbin/S4Utils.psm1\n#\t\
+        bin/Scoop-Core/install.ps1\n#\tbin/Scoop-Core/installAsAdmin.ps1\n#\tbin/Scoop-Core/postinstall.ps1\n\
+        #\tbin/Scoop/install.ps1\n#\tbin/Scoop/installAsAdmin.ps1\n#\tbin/Scoop/postinstall.ps1\n\
+        #\tbin/_deprecated/010editor/install-context-menu.reg\n#\tbin/_deprecated/010editor/install-file-associations.reg\n\
+        #\tbin/_deprecated/010editor/uninstall-context-menu.reg\n#\tbin/_deprecated/010editor/uninstall-file-associations.reg\n\
+        #\tbin/_deprecated/AdobeIllustrator/Install.bat\n#\tbin/_deprecated/AdobeIllustrator/Uninstall.bat\n\
+        #\tbin/_deprecated/ClashforWindows/update-firewall-rules.ps1\n#\tbin/_deprecated/DisplayCal-SchTasks.ps1\n\
+        #\tbin/_deprecated/InstallAllPortableApps.ps1\n#\tbin/_deprecated/adobereader/install-context.reg.templ\n\
+        #\tbin/_deprecated/adobereader/uninstall-context.reg\n#\tbin/_deprecated/aegisub/install-associations.reg\n\
+        #\tbin/_deprecated/aegisub/install-context.reg\n#\tbin/_deprecated/aegisub/uninstall-associations.reg\n\
+        #\tbin/_deprecated/aegisub/uninstall-context.reg\n#\tbin/_deprecated/android-sdk-link.ps1\n\
+        #\tbin/_deprecated/android-sdk-setup.ps1\n#\tbin/_deprecated/bee/beesvc.cmd\n\
+        #\tbin/_deprecated/blockthespot.ps1\n#\tbin/_deprecated/bypass/start-bypass.ps1\n\
+        #\tbin/_deprecated/ccstudio/install-context.reg.templ\n#\tbin/_deprecated/ccstudio/uninstall-context.reg\n\
+        #\tbin/_deprecated/ccstudio31/CCSMonitor.ini.templ\n#\tbin/_deprecated/ccstudio31/DosRun.bat.templ\n\
+        #\tbin/_deprecated/ccstudio31/cc_app.ini.templ\n#\tbin/_deprecated/ccstudio31/cc_setup.INI.templ\n\
+        #\tbin/_deprecated/ccstudio31/ccs31-inst01.reg\n#\tbin/_deprecated/ccstudio31/ccs31-inst02.reg\n\
+        #\tbin/_deprecated/ccstudio31/install-context.reg.templ\n#\tbin/_deprecated/ccstudio31/uninstall-context.reg\n\
+        #\tbin/_deprecated/ccstudio33/ccs_Compdb.ini.templ\n#\tbin/_deprecated/ccstudio33/install-context.reg.templ\n\
+        #\tbin/_deprecated/ccstudio33/uninstall-context.reg\n#\tbin/_deprecated/clashn/create-scheduled-task.ps1\n\
+        #\tbin/_deprecated/clashn/delete-scheduled-task.ps1\n#\tbin/_deprecated/clashn/start-clashn.ps1\n\
+        #\tbin/_deprecated/cloudmusic/uninstall.bat\n#\tbin/_deprecated/du/du.ps1\n\
+        #\tbin/_deprecated/eyeleo/langpack.zhcn.xml\n#\tbin/_deprecated/firefox-policies.json\n\
+        #\tbin/_deprecated/fix-activemq-classic.ps1\n#\tbin/_deprecated/fixes-wsl-mac-dynaddr/.fixes-wsl-mac-dynaddr.bashrc\n\
+        #\tbin/_deprecated/fixes-wsl-mac-dynaddr/patch-bashrc.cmd\n#\tbin/_deprecated/fixes-wsl-mac-dynaddr/patch-bashrc.sh\n\
+        #\tbin/_deprecated/flutter-dev-setup.~ps1\n#\tbin/_deprecated/gen-readme.ps1\n\
+        #\tbin/_deprecated/gen-visualvm-vbs.ps1\n#\tbin/_deprecated/get-spotify-path.ps1\n\
+        #\tbin/_deprecated/haoziprename/install.bat\n#\tbin/_deprecated/haoziprename/uninstall.bat\n\
+        #\tbin/_deprecated/harmonoid/install-harmonoid-associations.ps1\n#\tbin/_deprecated/harmonoid/install-harmonoid-context.ps1\n\
+        #\tbin/_deprecated/harmonoid/uninstall-harmonoid-associations.ps1\n#\tbin/_deprecated/harmonoid/uninstall-harmonoid-context.ps1\n\
+        #\tbin/_deprecated/hotkeyp/hotkeyp.htk\n#\tbin/_deprecated/hotkeyp/start-hotkeyp.ps1\n\
+        #\tbin/_deprecated/iar-ewarm/1.reg\n#\tbin/_deprecated/iar-ewarm/install-context.reg.templ\n\
+        #\tbin/_deprecated/iar-ewarm/uninstall-context.reg\n#\tbin/_deprecated/idm/idm-custom-settings.reg\n\
+        #\tbin/_deprecated/idm/install.bat\n#\tbin/_deprecated/idm/uninstall.bat\n\
+        #\tbin/_deprecated/image2text/main.bat\n#\tbin/_deprecated/init-spicetify-config-and-apply.ps1\n\
+        #\tbin/_deprecated/install-office-365-apps-minimal.xml\n#\tbin/_deprecated/install-office-365-apps.xml\n\
+        #\tbin/_deprecated/install_cudnn.ps1\n#\tbin/_deprecated/install_keypirinha_plugin.ps1\n\
+        #\tbin/_deprecated/install_youtube-dl-animelover1984.ps1\n#\tbin/_deprecated/jetbrain-portabler.ps1\n\
+        #\tbin/_deprecated/kuwo/install.bat\n#\tbin/_deprecated/kuwo/uninstall.bat\n\
+        #\tbin/_deprecated/lattice-diamond311/install-context.reg.templ\n#\tbin/_deprecated/lattice-diamond311/scripts_lattice_diamond.cmd.templ\n\
+        #\tbin/_deprecated/lattice-diamond311/uninstall-context.reg\n#\tbin/_deprecated/ldmnq9/install.bat\n\
+        #\tbin/_deprecated/ldmnq9/uninstall.bat\n#\tbin/_deprecated/ldplayer9/install.bat\n\
+        #\tbin/_deprecated/ldplayer9/uninstall.bat\n#\tbin/_deprecated/logitech-options-install.ahk\n\
+        #\tbin/_deprecated/logitech-options-uninstall.ahk\n#\tbin/_deprecated/ludashi/uninstall.bat\n\
+        #\tbin/_deprecated/mdk533/TOOLS.INI.templ\n#\tbin/_deprecated/mdk533/install-context.reg.templ\n\
+        #\tbin/_deprecated/mdk533/uninstall-context.reg\n#\tbin/_deprecated/microchip-filterlab/install-filterlab.reg.templ\n\
+        #\tbin/_deprecated/microchip-filterlab/uninstall-filterlab.reg\n#\tbin/_deprecated/mouseinc/MouseInc.json\n\
+        #\tbin/_deprecated/musescore-install-file-associations.reg\n#\tbin/_deprecated/musescore-uninstall-file-associations.reg\n\
+        #\tbin/_deprecated/netsarang/add-hosts.ps1\n#\tbin/_deprecated/notepad-install-replace.reg\n\
+        #\tbin/_deprecated/notepad-uninstall.reg\n#\tbin/_deprecated/notepadplusplus/install-context.reg\n\
+        #\tbin/_deprecated/notepadplusplus/uninstall-context.reg\n#\tbin/_deprecated/npp/install-context.reg.templ\n\
+        #\tbin/_deprecated/npp/uninstall-context.reg\n#\tbin/_deprecated/nvda/add-startup.reg\n\
+        #\tbin/_deprecated/nvda/remove-startup.reg\n#\tbin/_deprecated/oraclejre8/install-jre.reg\n\
+        #\tbin/_deprecated/oraclejre8/uninstall-jre.reg\n#\tbin/_deprecated/packet-tracer/install-associations.ps1\n\
+        #\tbin/_deprecated/packet-tracer/remove-associations.ps1\n#\tbin/_deprecated/phoenix-protector/register-ilmerge-path.reg\n\
+        #\tbin/_deprecated/phoenix-protector/unregister-ilmerge-path.reg\n#\tbin/_deprecated/picotorrent/install-associations.reg\n\
+        #\tbin/_deprecated/picotorrent/uninstall-associations.reg\n#\tbin/_deprecated/portable.ps1\n\
+        #\tbin/_deprecated/potplayer/potplayer64-settings.reg\n#\tbin/_deprecated/poweriso/instdrv.cmd\n\
+        #\tbin/_deprecated/poweriso/uninstdrv.cmd\n#\tbin/_deprecated/qqlite/install-qqlite.reg.templ\n\
+        #\tbin/_deprecated/qqlite/uninstall-qqlite.reg\n#\tbin/_deprecated/qqmusic/install.bat\n\
+        #\tbin/_deprecated/qqmusic/uninstall.bat\n#\tbin/_deprecated/recaps/add-startup.reg\n\
+        #\tbin/_deprecated/recaps/remove-startup.reg\n#\tbin/_deprecated/rime-weasel/default.custom.yaml\n\
+        #\tbin/_deprecated/rime-weasel/install-weasel.reg\n#\tbin/_deprecated/rime-weasel/start_WeaselServer.cmd\n\
+        #\tbin/_deprecated/rime-weasel/uninstall-weasel.reg\n#\tbin/_deprecated/rime-weasel/weasel.custom.yaml\n\
+        #\tbin/_deprecated/saturn-pcbtoolkit/install-pcbtoolkit.reg\n#\tbin/_deprecated/saturn-pcbtoolkit/uninstall-pcbtoolkit.reg\n\
+        #\tbin/_deprecated/sentinel-dashboard.ps1\n#\tbin/_deprecated/simple-dnscrypt/simple-dnscrypt.ps1\n\
+        #\tbin/_deprecated/softether-vpnclient/softether-vpnclient-install.en-US.ahk\n\
+        #\tbin/_deprecated/softether-vpnclient/softether-vpnclient-install.zh-CN.ahk\n\
+        #\tbin/_deprecated/softether-vpnserver/softether-vpnserver-install.en-US.ahk\n\
+        #\tbin/_deprecated/softether-vpnserver/softether-vpnserver-install.zh-CN.ahk\n\
+        #\tbin/_deprecated/spicetify-apply.ps1\n#\tbin/_deprecated/spicetify-disable-devtool.ps1\n\
+        #\tbin/_deprecated/spicetify-enable-devtool.ps1\n#\tbin/_deprecated/stremio/install-context.reg\n\
+        #\tbin/_deprecated/stremio/uninstall-context.reg\n#\tbin/_deprecated/sublime-text/install-context.reg\n\
+        #\tbin/_deprecated/sublime-text/sublime-text-install-context.reg\n#\tbin/_deprecated/sublime-text/sublime-text-uninstall-context.reg\n\
+        #\tbin/_deprecated/sublime-text/uninstall-context.reg\n#\tbin/_deprecated/sunloginclient/install-eval.reg.templ\n\
+        #\tbin/_deprecated/sunloginclient/uninstall-eval.reg\n#\tbin/_deprecated/sunshine/install-service.bat\n\
+        #\tbin/_deprecated/sunshine/uninstall-service.bat\n#\tbin/_deprecated/svut/svutrun.cmd\n\
+        #\tbin/_deprecated/tailscale/add-startup.reg\n#\tbin/_deprecated/tailscale/remove-startup.reg\n\
+        #\tbin/_deprecated/telegram/protocol-handler.ps1\n#\tbin/_deprecated/tete009/tmemutil.ini\n\
+        #\tbin/_deprecated/thunder/add-hosts.ps1\n#\tbin/_deprecated/thunder11/install.bat\n\
+        #\tbin/_deprecated/thunder11/uninstall.bat\n#\tbin/_deprecated/thunderx/install.bat\n\
+        #\tbin/_deprecated/thunderx/uninstall.bat\n#\tbin/_deprecated/ti-analogengineerscalculator/inst.spec.templ\n\
+        #\tbin/_deprecated/tim/install.bat\n#\tbin/_deprecated/tim/uninstall.bat\n\
+        #\tbin/_deprecated/ultraedit/hosts.cvp\n#\tbin/_deprecated/uniextract2/disable-warning.ps1\n\
+        #\tbin/_deprecated/uniextract2_fixed/disable-warning.ps1\n#\tbin/_deprecated/uninstall-office-365-apps.xml\n\
+        #\tbin/_deprecated/uninstall_cudnn.ps1\n#\tbin/_deprecated/uninstall_keypirinha_plugin.ps1\n\
+        #\tbin/_deprecated/uninstall_youtube-dl-animelover1984.ps1\n#\tbin/_deprecated/vscode-install-context-it.reg\n\
+        #\tbin/_deprecated/vscode-uninstall-context-it.reg\n#\tbin/_deprecated/vt-uploader/install-context.reg\n\
+        #\tbin/_deprecated/vulkan/install-vk-layers.ps1\n#\tbin/_deprecated/weasel/install.ahk\n\
+        #\tbin/_deprecated/wechat/uninstall.bat\n#\tbin/_deprecated/windows-terminal-preview/install-context.reg\n\
+        #\tbin/_deprecated/windows-terminal-preview/uninstall-context.reg\n#\tbin/_deprecated/windows-terminal/install-context.reg\n\
+        #\tbin/_deprecated/windows-terminal/uninstall-context.reg\n#\tbin/auto-pr.ps1\n\
+        #\tbin/check-update.ps1\n#\tbin/checkver.ps1\n#\tbin/chrome/Chrome.exe\n#\t\
+        bin/chrome/UnChrome.bat\n#\tbin/create-manifest.ps1\n#\tbin/hash.sh\n#\tbin/init-spicetify-config.ps1\n\
+        #\tbin/install-python-package.ps1\n#\tbin/menutools/menutools-task.ps1\n#\t\
+        bin/migrate-python-packages.ps1\n#\tbin/missing-checkver.ps1\n#\tbin/msedge/清\
+        理.bat\n#\tbin/notepad2/replace-notepad.bat\n#\tbin/notepad2/restore-notepad.bat\n\
+        #\tbin/opera-gx/install-context.reg\n#\tbin/opera-gx/uninstall-context.reg\n\
+        #\tbin/python/pypi-mirror.ps1\n#\tbin/qq/install.bat\n#\tbin/qq/uninstall.bat\n\
+        #\tbin/tortoisegit/tortoisegit-install-tools.reg.templ\n#\tbin/tortoisegit/tortoisegit-install.reg.templ\n\
+        #\tbin/tortoisegit/tortoisegit-uninstall.reg\n#\tbin/uninstall-python-package.ps1\n\
+        #\tbin/visual-studio-code/vscode-install-context.reg\n#\tbin/visual-studio-code/vscode-uninstall-context.reg\n\
+        #\tbin/winrar/rarreg.key\n#\tbin/winrar/rarreg1.key\n#\tbin/winrar/winrar-custom-settings.reg\n\
+        #\tbin/wmiexplorer/wmiexplorer.ps1\n#\tbucket/7zip.json\n#\tbucket/MicrosoftOffice365.json\n\
+        #\tbucket/OSBasePackages.json\n#\tbucket/OSBasePackages.ps1\n#\tbucket/PowerShell.ps1\n\
+        #\tbucket/PowerShellWindows.json\n#\tbucket/SetPowerConfiguration.json\n#\t\
+        bucket/WindowsPowerShell.json\n#\tbucket/dolt.json\n#\tbucket/fancontrol.json\n\
+        #\tbucket/kate.json\n#\tbucket/masscode.json\n#\tbucket/npiperelay.json\n\
+        #\tbucket/rclone-browser.json\n#\tbucket/soundswitch.json\n#\tbucket/static-web-server.json\n\
+        #\tbucket/umbrello.json\n#\tbucket/virtualhere-client.json\n#\tbucket/vscodium.json\n\
+        #\tbucket/wingetui.json\n#\tinstall.ps1"
       - state
       - Reorganized
       - more todo
@@ -6885,7 +7006,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\buckets\anderlli0053_DEV-tools:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699383085960}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704468959268}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -7929,7 +8050,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\NoteTakingProjectFolder:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1697118565989}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1709018486407}
     log:
       rootSettings: {baseRoots: "!remote://gists\t!local-branches://\t!local-tags://\t\
           !remote://Notebook-Foam\t!others://\tref://HEAD", extendedRoots: ''}
@@ -7939,6 +8060,30 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory:
+      - |-
+        2024-02-27 08:20:28 : A 01_inbox/Resize_VHD.md 01_inbox/Shallow_bookmarks.md 01_inbox/git-root-outside-of-ref.md 01_inbox/map-head-to-repo.md 01_inbox/my-latest-commits-as-a-grid-with-1.md 01_inbox/my-latest-commits-as-a-grid.md 01_inbox/neoconservatives.md 01_inbox/restore-git-submodules-from-gitmodules-https-stackoverflow-com-questions-11258737-restore-git-submodules-from-gitmodules.md 01_inbox/still-amarican-troups-in-syria.md 01_inbox/stodvod-vid-funktion-nedsattning.md 01_inbox/the-arabian-spring.md 01_inbox/the-nordstream-pipeline.md 01_inbox/the-size-of-ukrainian-army.md 01_inbox/to-edsbagge.md Day Planners/Sabrinas list.md Day Planners/discussion regarding hardcore techno.md git-mega-tree-rebuild.md todo.md
+
+        Affected files:
+        01_inbox/Resize_VHD.md
+        01_inbox/Shallow_bookmarks.md
+        01_inbox/git-root-outside-of-ref.md
+        01_inbox/map-head-to-repo.md
+        01_inbox/my-latest-commits-as-a-grid-with-1.md
+        01_inbox/my-latest-commits-as-a-grid.md
+        01_inbox/neoconservatives.md
+        01_inbox/restore-git-submodules-from-gitmodules-https-stackoverflow-com-questions-11258737-restore-git-submodules-from-gitmodules.md
+        01_inbox/still-amarican-troups-in-syria.md
+        01_inbox/stodvod-vid-funktion-nedsattning.md
+        01_inbox/the-arabian-spring.md
+        01_inbox/the-nordstream-pipeline.md
+        01_inbox/the-size-of-ukrainian-army.md
+        01_inbox/to-edsbagge.md
+        Day Planners/Sabrinas list.md
+        Day Planners/discussion regarding hardcore techno.md
+        git-mega-tree-rebuild.md
+        todo.md
+      - Notes as worktree
+      - etc
       - Reorganized
       - |-
         Revert "Auxiliary commit to revert individual files from d3ca5a3d87e763a74bbbc6e97621174fa04ab04c"
@@ -7953,9 +8098,6 @@ gitRootSettingsSet:
       - state
       - to dedupe
       - Obsidian files
-      - evernote Files
-      - papyrus files
-      - sabrina google Drive
     journal: {}
   rootB:\PF\NoteTakingProjectFolder\1d5a90b4975101fa1666d66382799002:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1687895751185}
@@ -9289,7 +9431,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699369365420}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708086962976}
     log:
       rootSettings: {baseRoots: "!local-branches://\t!others://\t!remote://windot\t\
           ref://HEAD", extendedRoots: ''}
@@ -9298,9 +9440,8 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [state, currentState, '[nilesoft] stable', '[nilesoft] git',
-        personal preferences, tools looking good, smartgit state, new ahk remote,
-        Actual persist state]
+      commitNotesHistory: ['updated state, Smartgit usage', as submodule, to submodule,
+        state, etc, after update, currentState, '[nilesoft] stable', '[nilesoft] git']
     journal: {}
   rootC:\ProgramData\scoop\persist\everything:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1688456048559}
@@ -9879,7 +10020,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\CrRoot\AppData:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011542731}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706647853189}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9887,12 +10028,14 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [state]
+      commitNotesHistory: [submodules, as submodule, state, updated gitignore]
     journal: {}
   rootC:\Users\CrRoot\AppData\Roaming\Everything:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011542791}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706821932961}
     log:
-      rootSettings: {}
+      rootSettings: {baseRoots: "!remote://appdata2\t!remote://github\t!local-branches://\t\
+          !local-tags://\t!others://\t!remote://Powershell\t!remote://PowerShellCmdHist\t\
+          !remote://Ps-Proj\t!remote://win-dot\tref://HEAD", extendedRoots: '!stashes://'}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9900,9 +10043,11 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\CrRoot\AppData\Roaming\Scooter Software\Beyond Compare 4:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1697318030382}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706820900242}
     log:
-      rootSettings: {}
+      rootSettings: {baseRoots: "!remote://appdata2\t!remote://github\t!local-branches://\t\
+          !local-tags://\t!others://\t!remote://Powershell\t!remote://PowerShellCmdHist\t\
+          !remote://Ps-Proj\t!remote://win-dot\tref://HEAD", extendedRoots: '!stashes://'}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
@@ -9910,7 +10055,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\CrRoot\AppData\Roaming\d2rmm:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1692011542836}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706647853249}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -9920,7 +10065,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\CrRoot\.config\powershell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1702052137799}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1709291400663}
     log:
       rootSettings: {baseRoots: "!remote://CmdHist\t!local-branches://\t!local-tags://\t\
           !others://\t!remote://Ps-Scripts\tref://HEAD", extendedRoots: ''}
@@ -9930,6 +10075,7 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory:
+      - fixed syntax, moved out functions
       - state
       - deduped reorged
       - Merge remote-tracking branch 'Ps-Scripts/vscode__yamajyn_commandlist' into
@@ -10020,25 +10166,6 @@ gitRootSettingsSet:
         #\tModules/PackageManagement/1.4.7/fullclr/Microsoft.PowerShell.PackageManagement.dll\n\
         #\tScripts/Modules - genväg.lnk\n\n[Chore] Reorganized, need to re add submodules\n\
         \n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1"
-      - "dunno\n\nDeduped\n\n+\\TodoProjects\\todo\\powerShellProjectFolder.code-workspace\
-        \ -> \\powerShellProjectFolder.code-workspace+\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        #\tTodoProjects_profile.ps1\n\nETC\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        \ndunno\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        \nMerge branch 'CmdHist' of https://github.com/perXautomatik/PowerShellCmdHist\
-        \ into CmdHist\n\n# Conflicts:\n#\tPSReadline/ConsoleHost_history.txt\n\n\
-        ETC\n\ndunno\n\nDeduped\n\n+\\TodoProjects\\todo\\powerShellProjectFolder.code-workspace\
-        \ -> \\powerShellProjectFolder.code-workspace+\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        #\tTodoProjects_profile.ps1\n\nETC\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        \ndunno\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        \n+\\TodoProjects\\todo\\powerShellProjectFolder.code-workspace -> \\powerShellProjectFolder.code-workspace+\n\
-        \n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n#\tTodoProjects_profile.ps1\n\
-        \ndunno\n\nDeduped\n\n+\\TodoProjects\\todo\\powerShellProjectFolder.code-workspace\
-        \ -> \\powerShellProjectFolder.code-workspace+\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        #\tTodoProjects_profile.ps1\n\nETC\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        \ndunno\n\n# Conflicts:\n#\tTodoProjects_Microsoft.PowerShellISE_profile.ps1\n\
-        \nMerge branch 'Branch_f3fc9634' into CmdHist\n\n# Conflicts:\n#\tModules/PackageManagement/1.4.7/fullclr/Microsoft.PackageManagement.dll\n\
-        #\tModules/PackageManagement/1.4.7/fullclr/Microsoft.PowerShell.PackageManagement.dll\n\
-        #\tScripts/Modules - genväg.lnk"
     journal: {}
   rootB:\PF\chris\Documents\WindowsPowerShell:
     databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693236704454}
@@ -10053,7 +10180,7 @@ gitRootSettingsSet:
       commitNotesHistory: [czxcf]
     journal: {}
   rootB:\PF\Archive\ps1\Aggregation\TextProcessingProjectF:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699381110979}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227776}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -10064,7 +10191,7 @@ gitRootSettingsSet:
       commitNotesHistory: [TpRead]
     journal: {}
   rootB:\PF\Archive\ps1\git:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1702052166016}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227685}
     log:
       rootSettings: {baseRoots: "!remote://git-extras\t!remote://git-toolbelt\t!local-branches://\t\
           !local-tags://\t!remote://origin\tref://HEAD", extendedRoots: ''}
@@ -10088,7 +10215,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\Archive\ps1\workflow\CsharpI:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699381111027}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227575}
     log:
       rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
         extendedRoots: ''}
@@ -10731,7 +10858,7 @@ gitRootSettingsSet:
         #\tWindows10Debloater-master/Windows10DebloaterGUI.ps1"
     journal: {}
   rootC:\ProgramData\scoop\persist\AHK:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1696594635048}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980511969}
     log:
       rootSettings: {baseRoots: "!remote://Ahk-EveryDayScripts\t!local-branches://\t\
           ref://HEAD", extendedRoots: ''}
@@ -10755,7 +10882,7 @@ gitRootSettingsSet:
       commitNotesHistory: [state]
     journal: {}
   rootC:\ProgramData\scoop\persist\BeondCompare4:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1695997900398}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980509889}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -10775,7 +10902,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist\Everything:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1696594635285}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980512779}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -10826,7 +10953,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist\Powershell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699369365351}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980511792}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -10878,7 +11005,7 @@ gitRootSettingsSet:
         etcsta, etc]
     journal: {}
   rootB:\PF\scoopbucket-1\Todo\BAO-autoItToScoop:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1693478539386}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708795439114}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -11342,7 +11469,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\Archive\ps1\git\gist\GitPs1Module:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1702052166077}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227629}
     log:
       rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
         extendedRoots: ''}
@@ -11353,7 +11480,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\CrRoot\.config:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1702052137155}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706827640752}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -11361,10 +11488,11 @@ gitRootSettingsSet:
       logRootSettings: {}
     push: {}
     commitNotes:
-      commitNotesHistory: [state, Unix KDE, '[feature] vscode tools for git config']
+      commitNotesHistory: [submodule, etc, state, Unix KDE, '[feature] vscode tools
+          for git config']
     journal: {}
   rootC:\Users\CrRoot\.config\git:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699381087846}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706827652034}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -14407,7 +14535,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist\.config\git:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1698842262516}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980514274}
     log:
       rootSettings: {baseRoots: "!remote://bpesquet\t!remote://bradwilson\t!remote://codexico\t\
           !remote://inikitin\t!remote://jsonDiff\t!remote://jsonLintWithGron\t!local-branches://\t\
@@ -14420,7 +14548,7 @@ gitRootSettingsSet:
       commitNotesHistory: [state]
     journal: {}
   rootC:\ProgramData\scoop\persist\.config\powershell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1698842262567}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980513667}
     log:
       rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
         extendedRoots: ''}
@@ -14428,20 +14556,22 @@ gitRootSettingsSet:
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [wrx]
     journal: {}
   rootC:\ProgramData\scoop\persist\AppData:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1696594634602}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980512976}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [etc]
     journal: {}
   rootC:\ProgramData\scoop\persist\Documents:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1696594876650}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980513867}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -14451,7 +14581,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist\Documents\PowerShell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1696594895401}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980510825}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -14462,7 +14592,7 @@ gitRootSettingsSet:
       commitNotesHistory: [toread]
     journal: {}
   rootC:\ProgramData\scoop\persist\Documents\WindowsPowerShell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1696595848274}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980511392}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -14643,7 +14773,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\Public\Documents\WindowsPowerShell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1697713492399}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710368387752}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -14653,7 +14783,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\Users\target\Documents\PowerShell:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1702052100929}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704987281007}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -15343,7 +15473,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist\.config\git\watchman-autocommit:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1698842262316}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980513368}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -15353,17 +15483,18 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist\.config:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699369365550}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980511597}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
     merge:
       logRootSettings: {}
     push: {}
-    commitNotes: {}
+    commitNotes:
+      commitNotesHistory: [toRead]
     journal: {}
   rootC:\ProgramData\scoop\persist\autohotkey\Fork\ChangeSkypeStatus:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699369365285}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703971294573}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -15373,7 +15504,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist\autohotkey\Fork\clipboardbuffer:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699369365229}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1703971294691}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -15383,7 +15514,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\ProgramData\scoop\persist\pwsh:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699369365487}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980513985}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -16042,7 +16173,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootC:\Users\CrRoot\.config\git\watchman-autocommit:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1702052137192}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706827651900}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -16123,7 +16254,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\Archive\ps1\Processes\pipeline:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699382912196}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227435}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -16143,7 +16274,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\Archive\ps1\Processes\regestry:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699382927178}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227531}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -16153,7 +16284,7 @@ gitRootSettingsSet:
     commitNotes: {}
     journal: {}
   rootB:\PF\Archive\ps1\TextTransformation\ini:
-    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1699382934549}
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227378}
     log:
       rootSettings: {}
       fileFilterConfiguration: {}
@@ -17603,5 +17734,1034 @@ gitRootSettingsSet:
     push: {}
     commitNotes:
       commitNotesHistory: [to read ass submodule]
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Documents:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708004564366}
+    log:
+      rootSettings: {baseRoots: "!remote://appdata2\t!remote://github\t!local-branches://\t\
+          !local-tags://\t!others://\t!remote://Powershell\t!remote://PowerShellCmdHist\t\
+          !remote://Ps-Proj\t!remote://win-dot\tref://HEAD", extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - etc
+      - "state\n\n# Conflicts:\n#\tKlei/OxygenNotIncluded/cloud_save_files/76561198070792349/steam_autocloud.~vdf"
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Documents\PowerShell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710231170808}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\t!local-tags://\t!remote://Powershell-Profile\t\
+          ref://HEAD", extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - |-
+        # Conflicts:
+        # Conflicts:
+      - 'Conflicts:'
+      - "state\n\nstate\n\n# Conflicts:\n#\t.gitmodules\n#\t.vscode/extensions.json\n\
+        #\tGitHelpers.psm1\n#\tProfile.ps1\n#\tfunctions.psm1\n#\timportModules.psm1\n\
+        #\tprofileAliases.ps1\n#\tprofileImport.ps1\n#\tsetPaths.psm1\n#\tsqlite.psm1"
+      - "# Conflicts:\n#\tfunctions.psm1"
+      - "state\n# Conflicts:\n#\t.gitmodules\n#\t.vscode/extensions.json\n#\tGitHelpers.psm1\n\
+        #\tProfile.ps1\n#\tfunctions.psm1\n#\timportModules.psm1\n#\tprofileAliases.ps1\n\
+        #\tprofileImport.ps1\n#\tsetPaths.psm1\n#\tsqlite.psm1"
+      - "# Conflicts:\n#\tfunctions.psm1\n# Conflicts:\n#\tfunctions.psm1\n# Conflicts:\n\
+        #\tmodulesToImport.txt\n# Conflicts:\n#\t.gitmodules\n#\t.vscode/extensions.json\n\
+        #\tGitHelpers.psm1\n#\tProfile.ps1\n#\tfunctions.psm1\n#\timportModules.psm1\n\
+        #\tprofileAliases.ps1\n#\tprofileImport.ps1\n#\tsetPaths.psm1\n#\tsqlite.psm1"
+      - "fixed syntax, moved out functions\n\n# Conflicts:\n#\tfunctions.psm1\n\n\
+        git mv Profile.ps1 functions.psm1\n\n# Conflicts:\n#\tfunctions.psm1\n\nstate\n\
+        \n# Conflicts:\n#\tmodulesToImport.txt\n\nadd state\n\n# Conflicts:\n#\t.gitmodules\n\
+        #\t.vscode/extensions.json\n#\tGitHelpers.psm1\n#\tProfile.ps1\n#\tfunctions.psm1\n\
+        #\timportModules.psm1\n#\tprofileAliases.ps1\n#\tprofileImport.ps1\n#\tsetPaths.psm1\n\
+        #\tsqlite.psm1"
+      - |-
+        fixed syntax, moved out functions
+        git mv Profile.ps1 functions.psm1
+      - Merge branch 'config-powershell' into SteveLeeBase
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Documents\WindowsPowerShell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710174892179}
+    log:
+      rootSettings: {baseRoots: "!remote://git-extras\t!remote://git-toolbelt\t!local-branches://\t\
+          !others://\t!remote://SteveLee\t!remote://Vortex-plugins\t!remote://WindowsPowerShell\t\
+          ref://refs/tags/hasVscode\tref://HEAD", extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - Moved arround and deduped
+      - '[test] count number of lines of history'
+      - '[test] count nr of snipps in snipps folder'
+      - seems to correctly assign snipp path, time to implement a test
+      - "Snipps folder not properly assigned\n\n# Conflicts:\n#\tMicrosoft.PowerShell_profile.ps1"
+      - "Merge commit 'e026cead00d06f1a697127326a1fd6dff3931e70' into UserFolder-Documents/WindowsPowershellr\n\
+        \n# Conflicts:\n#\tMicrosoft.PowerShell_profile.ps1"
+      - Snipps folder not properly assigned
+      - Git-worktrees improved, compressed now codependent on git-root,
+      - 'thought: shouldn''t we skip the grouping step entirely, work from folders
+        instead of from the files'
+    journal: {}
+  rootC:\ProgramData\scoop\persist\.config\WindowsPowerShell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980512693}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\Users\CrRoot\Saved Games\Diablo II Resurrected:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704480595215}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [DrmVanilla experiment]
+    journal: {}
+  rootD:\Saves:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704496025695}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - "tidied\n\n# Conflicts:\n#\tSettings.json"
+    journal: {}
+  rootD:\Saves\Diablo II Resurrected:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704506266544}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootD:\Saves\Diablo II:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704506271496}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\CrRoot\.config\WindowsPowerShell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706827651988}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\Users\target\Documents\PowerShell\Snipps\EnvPath:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1704989081098}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\CrRoot:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1705056915645}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [etc]
+    journal: {}
+  rootC:\Users\CrRoot\.config\powershell\Snipps\EnvPath:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706827674583}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706972240392}
+    log:
+      rootSettings: {baseRoots: "!remote://appdata2\t!remote://github\t!local-branches://\t\
+          !local-tags://\t!others://\t!remote://Powershell\t!remote://PowerShellCmdHist\t\
+          !remote://Ps-Proj\t!remote://win-dot\tref://HEAD", extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [Vscodium state, etc]
+    journal: {}
+  rootB:\ProgramData\scoop\persist\AHK:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707131835832}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\autohotkey:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707132518881}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\PowerShellCmdHist:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708011272817}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\.config:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706984775767}
+    log:
+      rootSettings: {baseRoots: "!remote://appdata2\t!remote://github\t!local-branches://\t\
+          !local-tags://\t!others://\t!remote://Powershell\t!remote://PowerShellCmdHist\t\
+          !remote://Ps-Proj\t!remote://win-dot\tref://HEAD", extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\AdvancedRenamer:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1705277873892}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Everything:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1705277873835}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706532113242}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\tref://HEAD", extendedRoots: ''}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [before readding, changes]
+      commitNotes: before readding
+    journal: {}
+  rootE:\Users\virtual3\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\dfnblaebmpjlokbkadgeaghajajidojj\0.0.3_0:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\ojccgbnddompclhanijminmemionfofg\1.0_0:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\RiderProjects\CSharp-Bor-s-Inl-mning1:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\AppData\Roaming\JetBrains\DataGrip2023.3\consoles:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\AppData\Roaming\JetBrains\DataGrip2023.3\options\dataSources:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\DataGripProjects\SubProjects\UnknownUnsure:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\DataGripProjects\SuperProject-AHS-Utsokning:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\DataGripProjects\SuperProject-AdressUpgifter:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\DataGripProjects\default:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\apps\scoop\current:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706531404030}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\buckets\extras:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706531477454}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\buckets\ImMakSpy_scoop-bucket-iammakspy:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706531482642}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\buckets\main:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706531504546}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706535090230}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\scratches:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706535243023}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\scratches\Tsql\DirectoryNfiles\list:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706535243073}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\scratches\Tsql\Exec\At:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706535245949}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\scratches\Tsql\Exec\sp_execute\tempTable:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706535249124}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\scratches\Tsql\dependencies\List:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706535254143}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\scratches\Tsql\string\CountOccurence:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706535256291}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\consoles:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\options\dataSources:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\scoop\persist\datagrip\DataGrip2021.1\projects:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootE:\Users\virtual3\AppData\Roaming\JetBrains\DataGrip2023.3:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706538391519}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\PF\NoteTakingProjectFolder\Notes:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1710523174239}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [from master, etc]
+    journal: {}
+  rootC:\Users\CrRoot\AppData\Roaming:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706649698152}
+    log:
+      rootSettings: {baseRoots: "!remote://appdata2\t!remote://github\t!local-branches://\t\
+          !local-tags://\t!others://\t!remote://Powershell\t!remote://PowerShellCmdHist\t\
+          !remote://Ps-Proj\t!remote://win-dot\tref://HEAD\tref://refs/heads/shellshl",
+        extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [State, as submodule, state, usage update]
+    journal: {}
+  rootC:\Users\CrRoot\AppData\Local:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706654812501}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - State after revised Ignores
+      - Updated gitIgnore to be more relevant for local
+      - "Reconsider how we monitor \"local\"\r\ncontains mainly chache folders, and\
+        \ loggs, we are only interested in a few autlining programs"
+      - new git ignores
+    journal: {}
+  rootC:\Users\CrRoot\AppData\LocalLow:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706779333634}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Documents\Obsidian Vault:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708005147038}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [state]
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Documents\Obsidian Vault\Notes:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706799590164}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Documents\gitConfigAlt:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708005147151}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Documents\My Games:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708005147099}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [state]
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Documents\gitConfigAlt\watchman-autocommit:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706802830903}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\CrRoot\AppData\Roaming\Vortex:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708553538638}
+    log:
+      rootSettings: {baseRoots: "!remote://appdata2\t!remote://github\t!local-branches://\t\
+          !local-tags://\t!others://\t!remote://Powershell\t!remote://PowerShellCmdHist\t\
+          !remote://Ps-Proj\t!remote://win-dot\tref://HEAD\tref://refs/heads/ProjectFolder/master",
+        extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - fails to start, thinks another instance is running
+      - Quickstack configured to have 3times the range
+      - no collections
+      - "etc\n\netc\n\n(cherry picked from commit f321398890e7be89b588823eb022c78395fc7aae)\n\
+        \n# Conflicts:\n#\tLocal/Copy Handler/ch.log\n\netc\n\n(cherry picked from\
+        \ commit 1e593010ad872194c0cea351c45872683f5113d3)\n(cherry picked from commit\
+        \ d45d8217b0e4ab49b76d4ce51965bec853aa2bb0)"
+      - "etc\n\n# Conflicts:\n#\t.gitignore\n\ntoVerify"
+    journal: {}
+  rootC:\Users\CrRoot\AppData\Roaming\Code:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706818989482}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [removal etc]
+    journal: {}
+  rootC:\Users\CrRoot\AppData\Roaming\Scooter Software:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706819004008}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\CrRoot\.config\nilesoft-shell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706827693981}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\autohotkey:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980514703}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\nilesoft-shell\shell.shl:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980512155}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\.config\nilesoft-shell:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980513556}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\Local:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980514481}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [state]
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\LocalLow:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980511123}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\Roaming:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980510478}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\Documents\My Games:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980514176}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\Documents\Obsidian Vault:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980513285}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\Documents\gitConfigAlt:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980512561}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\.config\powershell\Snipps\EnvPath:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980511208}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\Roaming\Code:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980510678}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\Roaming\Everything:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980511877}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\Roaming\Scooter Software:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980510274}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\Roaming\Vortex:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980512351}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\Roaming\d2rmm:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980509673}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\Documents\Obsidian Vault\Notes:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980512460}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\Documents\gitConfigAlt\watchman-autocommit:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980510911}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\ProgramData\scoop\persist\AppData\Roaming\Scooter Software\Beyond Compare 4:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706980513174}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\AppData:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1706984170959}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\Beyond Compare 4:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707132612147}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314751610}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [etc]
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\anderlli0053_DEV-tools:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314751877}
+    log:
+      rootSettings: {baseRoots: "!local-branches://\t!remote://origin\tref://HEAD",
+        extendedRoots: '!stashes://'}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\extras:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314751707}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\games:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314751959}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\main:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314751793}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\nonportable:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314752132}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\perXautomatik:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314752042}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\Base:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314760313}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\MarkMichaelis:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314760208}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\buckets\lzwme_scoop-proxy-cn:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707314760392}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\PF\Archive\ps1\workflow\wsl:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1707401227483}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootB:\ProgramData\scoop\persist\AppData\Roaming\Scooter Software\Beyond Compare 4:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708085586377}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [some general use, Reorganized Fileformats]
+    journal: {}
+  rootB:\ProgramData\scoop\persist\AppData\Roaming\Everything:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708086201060}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: [general use, updated filters]
+    journal: {}
+  rootB:\Users\CrRoot\AppData\Roaming\Vortex\plugins:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708553980362}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootP:\Users\chris:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory: ['improved ignore, bout to switch branch']
+    journal: {}
+  rootP:\Users\chris\AppData\Roaming\Scooter Software\Beyond Compare 4:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1708605474988}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
+    journal: {}
+  rootC:\Users\CrRoot\scoop\persist\ps1:
+    databaseCleanup: {lastKnownTimeWhereRepositoryWasOK: 1709297156913}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes: {}
     journal: {}
 pushMultiRoot: {}

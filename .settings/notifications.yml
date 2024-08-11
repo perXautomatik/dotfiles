@@ -48,7 +48,18 @@ readNotifications: [hosting-provider-could-be-configured-github-null, needsResta
   update-check-infosmartgit-23.1-rc-null, 'repository-model-problem-b:/users/target/portableappsplatform-null',
   'repository-model-problem-b:/users/target/steamapps-null', 'repository-git-cleanup-b:/users/new
     folder 4-null', 'repository-refs-reading-many-loose-b:/gitfolders/new folder-null',
-  gc.autoDetach-null]
+  gc.autoDetach-null, 'repository-model-problem-c:/programdata/scoop/persist/documents/powershell-null',
+  'repository-model-problem-c:/programdata/scoop/persist/pwsh-null', update-fetch-22.1.8-success,
+  'repository-model-problem-b:/programdata/scoop/persist/.config-null', 'repository-model-problem-b:/programdata/scoop/persist/documents-null',
+  'repository-model-problem-b:/programdata/scoop/persist/documents/powershell-null',
+  'repository-model-problem-b:/programdata/scoop/persist/documents/windowspowershell-null',
+  'repository-model-problem-b:/programdata/scoop/persist/powershellcmdhist-null',
+  'repository-model-problem-b:/programdata/scoop/persist/autohotkey-null', too-old-null,
+  'repository-model-problem-b:/programdata/scoop/persist/documents/my games-null',
+  'repository-model-problem-b:/programdata/scoop/persist/documents/obsidian vault/notes-null',
+  'repository-model-problem-b:/programdata/scoop/persist/documents/gitconfigalt-null',
+  'repository-model-problem-b:/programdata/scoop/persist/documents/gitconfigalt/watchman-autocommit-null',
+  'repository-git-cleanup-p:/users/chris-null']
 dontPublishNotifications: ['repository-git-core-ignorecase-mismatch-b:/togit/project
     shelf/archive/sql_db/ffx-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
     shelf/archive/regiongotland/utskicksstruktur/brev-null', 'repository-git-core-ignorecase-mismatch-b:/togit/project
