@@ -1,4 +1,5 @@
 global:
+- {action: edit-paste}
 - {action: ignore}
 - {action: ignoreWhitespaceOnlyChanges}
 - {action: windowMaximizeRestore, keyStroke: ESC}

@@ -7,7 +7,7 @@ actions:
       compareType: 0
       externalFileCompare: {}
     compareWithWorkingTree: true
-    showChooser: true
+    showChooser: false
   conflictSolver:
     conflictSolvers:
     - filePattern: '*'
