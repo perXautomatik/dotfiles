@@ -6,6 +6,7 @@ coffee,=#,###,###
 m3,i3,mg,ig,dpr,dpk,pas,dfm,pp=,(*,*)
 t2t,erl,hrl,mp,mpx,mms,ps,asm,octave=%,,
 avs,avsi=#,/*,*/
+Ps1,psm1=#,/<#,#>/
 ins,iss,isl,orc,sco,csd,au3,kix,nsi,nsh,=;,,
 tacl===,,
 cob=*>,,
